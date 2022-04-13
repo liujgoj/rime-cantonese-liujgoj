@@ -1,6 +1,6 @@
 # Rime粵語拼音輸入法（溜歌版本）
 
--本方案使用溜歌粵語拼音方案（https://www.bilibili.com/read/cv12074724），
+-本輸入法使用溜歌粵語拼音方案（https://www.bilibili.com/read/cv12074724），
 用於粵語漢字嘅輸入
 
 -使用方法：
