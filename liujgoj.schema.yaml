@@ -23,7 +23,7 @@ schema:
     採用溜歌粵語拼音方案
     https://www.bilibili.com/read/cv12074724
     支援聲調顯示同輸入
-    Telegram 用户交流組 https://t.me/rime_cantonese
+  
 
   dependencies:
     - luna_pinyin
