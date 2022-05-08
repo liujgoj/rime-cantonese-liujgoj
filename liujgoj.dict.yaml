@@ -50,7 +50,6 @@ import_tables:
 ...
 
 # 單字音
-啊	a
 阿	aa
 錒	aa
 啊	aa
@@ -7842,7 +7841,6 @@ import_tables:
 虖	fux
 乥	fux
 乯	fux
-㗎	ga
 加	gaa
 假	gaa
 賈	gaa
@@ -17261,7 +17259,6 @@ Q	kiuj
 䟹	lvth
 捋	lvth
 鋝	lvth
-嗎	ma
 嗎	maa
 嘛	maa
 嚜	maa
@@ -178193,4 +178190,5 @@ win	winj
 讕有寶	laanr yauq bour
 讕惡爺	laanr ngok yej
 春光乍洩	ceonj gwongj zaa sit
+溜歌	liuj goj
 
