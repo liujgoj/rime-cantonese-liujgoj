@@ -1,6 +1,7 @@
-# Rime粵語拼音輸入法（溜歌版本）
+# 溜歌粵語拼音輸入法
 
--本輸入法使用溜歌粵語拼音方案 https://www.liujgoj.com
+-本輸入法使用溜歌粵語拼音方案 www.liujgoj.com
+或者（www.liujgoj.net)(www.liujgoj.cn)
 用於粵語漢字嘅輸入
 
 -使用方法：
