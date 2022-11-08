@@ -6159,6 +6159,7 @@ import_tables:
 覩	dour
 賭	dour
 𡷊	dour
+度	dour
 纛	dukh
 竇	dukh
 毒	dukh
@@ -6354,16 +6355,14 @@ import_tables:
 腯	dvtj
 𡁯	dvtj
 誒	e
-欸	eh
 誒	eh
 㖡	eh
-欸	ei
-欸	eih
+誒	ei
 誒	eih
-欸	eij
-欸	eiq
-欸	eir
-欸	eix
+誒	eij
+誒	eiq
+誒	eir
+誒	eix
 誒	ej
 誒	eq
 誒	er
@@ -14997,7 +14996,7 @@ Q	kiuj
 蹘	laaux
 䃩	laaux
 䴃	laaux
-嚹	laax
+啦	laax
 喇	laax
 𨯅	laih
 迣	laih
@@ -15090,7 +15089,6 @@ Q	kiuj
 戾	lair
 捩	lair
 𡅏	lair
-來	laix
 菞	laix
 犁	laix
 䣓	laix
@@ -17913,7 +17911,6 @@ Q	kiuj
 乜	meh
 𧙕	meih
 汆	meih
-沒	meih
 祙	meih
 鬽	meih
 寐	meih
@@ -27956,7 +27953,6 @@ Q	kiuj
 駀	yauh
 蝣	yauh
 櫾	yauh
-有	yauh
 又	yauh
 右	yauh
 佑	yauh
@@ -34640,6 +34636,57 @@ feel	fiuj
 壓	ngaat
 鑿	zokr
 目	mukr
+零	lengx
+個	gor
+狀	zongr
+庵	ngamj
+腰	iuj
+嗨	haaiq
+哎	air
+啄	doekj
+𠾍	hex
+懟	deoir
+安	ngonj
+鶯	ngangj
+對	deoir
+丫	ngaaj
+嘅	gej
+嗨	haair
+唏	heix
+外	ngoir
+利	leir
+扠	caa
+哥	goh
+吐	tvj
+弟	dair
+堂	tongr
+抦	beng
+二	yir
+翻	faanr
+驗	yimr
+嚨	lungr
+侄	zatr
+狀	zongr
+棚	paangq
+棋	keir
+罌	ngaangj
+正	zengr
+河	hor
+撩	liur
+鉗	kimr
+領	lengr
+挑	tiur
+𠾍	heiq
+纊	kwang
+生	sengj
+囉	lox
+揞	ngamr
+兮	haaiq
+媾	kauj
+嘻	hir
+嘻	heir
+黅	kamx
+
 
 # 字組合
 阿亞圖拉	aa aa toux laaij
@@ -41821,8 +41868,8 @@ BB骨	bix bij gwatj
 BB女	bix bij neoir
 BB衫	bix bij saamj
 BB仔	bix bij zair
-嗶哩叭啦	bix lij baa _x005fx laax
-啤哩壁叻	bix lij bekx lekx
+嗶哩叭啦	bix lij baah laax
+啤哩壁叻	bix lij bekh lekh
 嗶哩叭啦	bix lix baax laax
 播報	bo bou
 播報員	bo bou yvnx
@@ -54890,7 +54937,7 @@ BB仔	bix bij zair
 大懶蛇	daaih laanq sex
 大懶堂	daaih laanq tongx
 大剌剌	daaih laath laath
-大喇喇	daaih laax laax
+大啦啦	daaih laax laax
 大荔	daaih laih
 大麗花	daaih laih faaj
 大荔縣	daaih laih yvnh
@@ -58226,7 +58273,7 @@ BB仔	bix bij zair
 𨂽地	damh deih
 𨂽腳	damh goek
 𨂽蹄𨂽爪	damh taix damh zaaur
-揼波拿	damj boj laax
+揼波啦	damj boj laax
 揼波鐘	damj boj zungj
 泵泵下	damj damj haaq
 揼時間	damj six gaan
@@ -66016,7 +66063,7 @@ faakhfaakr聲	faakh faakr sengj
 瞓覺	fan gaau
 瞓覺喇	fan gaau laa
 瞓覺啦你	fan gaau laaj neiq
-瞓覺喇你	fan gaau laax neiq
+瞓覺啦你	fan gaau laax neiq
 瞓覺衫	fan gaau saamj
 糞金龜	fan gamj gwaij
 糞金龜子	fan gamj gwaij zir
@@ -71948,9 +71995,9 @@ faakhfaakr聲	faakh faakr sengj
 㗎啦	gaa laaj
 㗎嘞	gaa laak
 㗎嘞咩	gaa laak mej
-㗎喇	gaa laax
-㗎喇噃	gaa laax bo
-㗎喇咩	gaa laax mej
+㗎啦	gaa laax
+㗎啦噃	gaa laax bo
+㗎啦咩	gaa laax mej
 駕臨	gaa lamx
 假柳	gaa lauq
 咖喱	gaa leij
@@ -86496,7 +86543,7 @@ faakhfaakr聲	faakh faakr sengj
 係喇	haih laa
 係啦	haih laaj
 係嘞	haih laak
-係喇	haih laax
+係啦	haih laax
 系列	haih lith
 系列放大器	haih lith fong daaih hei
 系列片	haih lith pinr
@@ -98850,14 +98897,14 @@ faakhfaakr聲	faakh faakr sengj
 撈嘢	laaux yeq
 撈魚	laaux yvx
 撈靜水	laaux zingh seoir
-喇喇亂	laax laar lvnh
-喇喇聲	laax laar sengj
-喇喇聲去啦	laax laar sengj heoi laaj
-喇喇臨	laax laax lamx
-喇喇聲	laax laax sengj
-喇臨	laax lamx
-喇聲	laax sengj
-喇哇	laax waaq
+啦啦亂	laax laar lvnh
+啦啦聲	laax laar sengj
+啦啦聲去啦	laax laar sengj heoi laaj
+啦啦臨	laax laax lamx
+啦啦聲	laax laax sengj
+啦臨	laax lamx
+啦聲	laax sengj
+啦哇	laax waaq
 厲兵秣馬	laih bingj mut maaq
 荔波	laih boj
 荔波縣	laih boj yvnh
@@ -102577,7 +102624,7 @@ faakhfaakr聲	faakh faakr sengj
 聊敍	liux zeoih
 遼中	liux zungj
 遼中縣	liux zungj yvnh
-哩哩喇喇	lix lix laax laax
+哩哩啦啦	lix lix laax laax
 囉噃	lo bo
 漯飯	loej faanh
 𦧲飯應	loej faanh ying
@@ -115161,7 +115208,7 @@ faakhfaakr聲	faakh faakr sengj
 拿起	naax heir
 拿喬	naax kiux
 拿權	naax kvnx
-嗱林	naax lamx
+嗱臨	naax lamx
 拿了	naax liuq
 拿來	naax loix
 拿來主義	naax loix zvr yih
@@ -115696,7 +115743,7 @@ faakhfaakr聲	faakh faakr sengj
 你死我活	neiq seir ngoq wuth
 你醒喇	neiq sengr laa
 你醒啦	neiq sengr laaj
-你醒喇	neiq sengr laax
+你醒啦	neiq sengr laax
 你事	neiq sih
 你試下	neiq si haaq
 你先	neiq sinj
@@ -155787,7 +155834,7 @@ petjpetj	petj petj
 有啲那個	yauq dij naaq go
 有啲燒	yauq dij siuj
 有啲時	yauq dij six
-有啲渣嗱	yauq dij zaaj laax
+有啲渣啦	yauq dij zaaj laax
 有啲震	yauq dij zan
 有啲阻滯	yauq dij zor zaih
 有的	yauq dikj
@@ -178364,4 +178411,72 @@ X	ikj sih
 寒鐵	honx tit
 孖筋	maaj ganj
 數目	sou mukr
+可愛	hor ngoi
+簽字	cimj zir
+行刑	haangx yingx
+格殺勿論	gaak saat math leonx
+意思	i sij
+經已	gingj yir
+安危	ngonj ngaix
+毒誓	dukh saih
+神韻	sanx wanq
+墊墊	zinr zin
+詩集	sij zaapr
+雀頭	zoekr taux
+愁眉苦面	saux meix fur minh
+伯虎	baak fur
+同牀異夢	tungx congx yih mungx
+一齊	yatj cair
+賢良淑德	yinx loengx sukh dakj
+持家有度	cix gaaj yauq douh
+知書識禮	zij svj sikj laiq
+夾硬	gaap ngaangr
+暗器	ngam hei
+精鋼	zingj gong
+唏吔	heiq yaaq
+架勢堂	gaar sai tongr
+婀娜多姿	oq noq doj zij
+婀娜多姿	ngoq noq doj zij
+暗戀	ngam lvnr
+淫賊	yamx caakr
+泗水	sei seoir
+腰間	iuj gaanj
+願意	yvnh i
+丫鬟	ngaajwaanx
+恩重如山	yanjzunghyvxsaanj
+嘅嘛	gejmaa
+義無反悔	yih moux faanr fui
+十五胡	saph ngq wur
+花燈	faaj dangj
+字蝨	zih satj
+依家	yij gaaj
+響度	hoengr douh
+員外	yvnx ngoir
+茂利	mauh leir
+扠喎	caa woq
+中堂	zungj tongr
+杜蟲	douh cungx
+哥哥	goh goj
+神捕	sanx bouh
+豹頭	paau taur
+甂爐	binj loux
+婉君	yvnr gwanj
+師兄弟	sij hingj dair
+升堂	singj tongr
+知縣	zij yvnr
+刁婦	diuj fux
+弄婆	lungh pox
+冇憑冇據	mouq pangx mouq geoi
+御狀	yvh zongr
+正正	zengr zeng
+冷河	laangq hor
+蒲你阿母	pux neq aamuj
+鱲魚	laaph yvx
+金縷	gamj lauq
+纊纊	kwangr kwang
+BB  bih bij
+南粵	naamx yvth
+咦嘻	yix heir
+停停	tingr tingx
+混帳	wanx zoeng
 
