@@ -11632,7 +11632,6 @@ import_tables:
 䨐	haph
 榙	haph
 匣	haph
-俠	haph
 珨	haph
 峽	haph
 狹	haph
@@ -54779,7 +54778,6 @@ BB仔	bix bij zair
 大亨	daaih hangj
 大行其道	daaih hangx keix douh
 大行星	daaih hangx singj
-大俠	daaih haph
 大合唱	daaih haph coeng
 大後年	daaih hauh ninr
 大後天	daaih hauh tinj
@@ -62989,7 +62987,7 @@ dixdix震	dix dix zan
 讀過	dukh gwo
 獨係	dukh haih
 獨行	dukh hangx
-獨行俠	dukh hangx haph
+獨行俠	dukh hangx haaph
 獨行其是	dukh hangx keix sih
 讀後感	dukh hauh gamr
 讀口黃	dukh haur wongr
@@ -77045,7 +77043,6 @@ faakhfaakr聲	faakh faakr sengj
 劍客	gim haak
 劍俠	gim haaph
 劍鴴	gim hangx
-劍俠	gim haph
 儉薄	gimh bokh
 儉腹	gimh fukj
 儉學	gimh hokh
@@ -77799,7 +77796,7 @@ faakhfaakr聲	faakh faakr sengj
 建行	gin hongx
 見好就收	gin hour zauh sauj
 鍵盤	ginh punr
-鍵盤俠	ginh punr haph
+鍵盤俠	ginh punr haaph
 鍵盤樂器	ginh punr ngokh hei
 鍵盤戰士	ginh punr zin sih
 鍵盤	ginh punx
@@ -87478,7 +87475,6 @@ faakhfaakr聲	faakh faakr sengj
 行篋	hangx haaph
 行俠仗義	hangx haaph zoengh yih
 行孝	hangx haau
-行俠仗義	hangx haph zoengh yih
 行乞	hangx hatj
 衡器	hangx hei
 行憲	hangx hin
@@ -87751,8 +87747,8 @@ faakhfaakr聲	faakh faakr sengj
 合訂本	haph ding bunr
 合檔	haph dong
 合當	haph dongj
-俠盜飛車	haph douh feij cej
-俠盜獵車手	haph douh liph cej saur
+俠盜飛車	haaph douh feij cej
+俠盜獵車手	haaph douh liph cej saur
 盒飯	haph faanh
 合法	haph faat
 合法化	haph faat faa
@@ -87789,11 +87785,11 @@ faakhfaakr聲	faakh faakr sengj
 合共	haph gungh
 合股	haph gur
 合股綫	haph gur sin
-俠客	haph haak
+俠客	haaph haak
 磕磕	haph haph
 磕磕巴巴	haph haph baaj baaj
 磕磕絆絆	haph haph bunh bunh
-俠氣	haph hei
+俠氣	haaph hei
 合氣道	haph hei douh
 合吃族	haph hek zukh
 合憲性	haph hin sing
@@ -87840,7 +87836,7 @@ faakhfaakr聲	faakh faakr sengj
 合水	haph seoir
 合水縣	haph seoir yvnh
 洽詢	haph seonj
-俠士	haph sih
+俠士	haaph sih
 合適	haph sikj
 盒式錄音磁帶	haph sikj lukh yamj cix daair
 合扇	haph sin
@@ -87880,7 +87876,7 @@ faakhfaakr聲	faakh faakr sengj
 合爲	haph waix
 合一	haph yatj
 合意	haph yi
-俠義	haph yih
+俠義	haaph yih
 合義複詞	haph yih fukj cix
 合影	haph yingr
 合營	haph yingx
@@ -93378,7 +93374,7 @@ faakhfaakr聲	faakh faakr sengj
 蠔菇	houx guj
 毫克	houx haakj
 毫克	houx hakj
-豪俠	houx haph
+豪俠	houx haaph
 豪氣	houx hei
 豪氣干雲	houx hei gonj wanx
 豪興	houx hing
@@ -107366,7 +107362,6 @@ faakhfaakr聲	faakh faakr sengj
 貓公	maauj gungj
 貓刮咁嘈	maauj gwaat gam coux
 貓刮噉聲	maauj gwaat gamr sengj
-貓俠	maauj haph
 貓哭耗子	maauj hukj hou zir
 貓哭耗子假慈悲	maauj hukj hou zir gaar cix beij
 貓哭老鼠	maauj hukj louq svr
@@ -111593,9 +111588,7 @@ faakhfaakr聲	faakh faakr sengj
 母系	mouq haih
 母系社會	mouq haih seq wuir
 冇閪用	mouq haij yungh
-武俠	mouq haph
-武俠片	mouq haph pinr
-武俠小説	mouq haph siur svt
+武俠小説	mouq haaph siur svt
 冇口齒	mouq haur cir
 冇口話佢	mouq haur waah keoiq
 武侯	mouq haux
@@ -122848,7 +122841,7 @@ petjpetj	petj petj
 偏房	pinj fongr
 蝙蝠	pinj fukj
 篇幅	pinj fukj
-蝙蝠俠	pinj fukj haph
+蝙蝠俠	pinj fukj haaph
 偏鋒	pinj fungj
 偏極	pinj gikh
 偏極化	pinj gikh faa
@@ -124785,13 +124778,12 @@ petjpetj	petj petj
 三下五除二	saamj haa hngq ceoix yih
 三峽	saamj haaph
 三峽大壩	saamj haaph daaih baa
-三俠五義	saamj haap hngq yih
+三俠五義	saamj haaph hngq yih
 三峽水庫	saamj haaph seoir fu
 三峽鎮	saamj haaph zan
 三下五落二	saamj haaq ngq lokh yih
 三行	saamj hangx
 三峽	saamj haph
-三俠五義	saamj hap hngq yih
 三合星	saamj haph singj
 三合土	saamj haph tour
 三合會	saamj haph wuih
@@ -128645,7 +128637,7 @@ petjpetj	petj petj
 神燈	sanx dangj
 神的兒子	sanx dikj yix zir
 神殿	sanx dinh
-神雕俠侶	sanx diuj haph leoiq
+神雕俠侶	sanx diuj haaph leoiq
 神道	sanx douh
 神道教	sanx douh gaau
 神化	sanx faa
@@ -152433,7 +152425,6 @@ petjpetj	petj petj
 衽金革	yamh gamj gaak
 任咎	yamh gau
 任劍輝	yamh gim faij
-任俠	yamh haph
 任氣	yamh hei
 任何	yamh hox
 任何人	yamh hox yanx
@@ -154971,7 +154962,7 @@ petjpetj	petj petj
 一仆一轆	yatj pukj yatj lukj
 一盤散沙	yatj punx saanr saaj
 一盤水	yatj punx seoir
-一生人	yatj saangj yanx
+一生人	yatj sangj yanx
 一山不能藏二虎	yatj saanj batj nangx congx yih fur
 一山還比一山高	yatj saanj waanx beir yatj saanj gouj
 一山還有一山高	yatj saanj waanx yauq yatj saanj gouj
@@ -156532,7 +156523,7 @@ petjpetj	petj petj
 由旬	yaux ceonx
 柔情	yaux cingx
 柔情似水	yaux cingx ciq seoir
-柔情俠骨	yaux cingx haph gwatj
+柔情俠骨	yaux cingx haaph gwatj
 柔情脈脈	yaux cingx makh makh
 由淺入深	yaux cinr yaph samj
 由此	yaux cir
@@ -156640,8 +156631,7 @@ petjpetj	petj petj
 遊行	yaux hangx
 遊行示威	yaux hangx sih waij
 揉合	yaux haph
-遊俠	yaux haph
-遊俠騎士	yaux haph kex sih
+遊俠騎士	yaux haaph kex sih
 柔喉	yaux haux
 油氣	yaux hei
 油器	yaux hei
@@ -170093,7 +170083,7 @@ petjpetj	petj petj
 資中縣	zij zungj yvnh
 蜘蛛	zij zvj
 錙銖必較	zij zvj bitj gaau
-蜘蛛俠	zij zvj haph
+蜘蛛俠	zij zvj haaph
 蜘蛛類	zij zvj leoih
 蜘蛛網	zij zvj mongq
 蜘蛛星雲	zij zvj singj wanx
