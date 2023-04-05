@@ -74,9 +74,7 @@ import_tables:
 𥮳	aa
 𦩒	aa
 㢌	aa
-啊	aah
-嗄	aai
-唉	aai
+啊	aa
 伌	aai
 隘	aai
 塧	aai
@@ -90,8 +88,6 @@ import_tables:
 砨	aai
 餲	aai
 噫	aai
-唉	aaih
-哎	aaij
 埃	aaij
 挨	aaij
 唉	aaij
@@ -233,7 +229,6 @@ import_tables:
 詏	aaur
 靿	aaur
 呀	aax
-哎	ai
 隘	ai
 阸	ai
 屃	ai
@@ -265,8 +260,6 @@ import_tables:
 繄	aij
 鷖	aij
 哎	aij
-哎	aiq
-欸	air
 㢊	air
 矮	air
 躷	air
@@ -6357,20 +6350,13 @@ import_tables:
 咄	dvtj
 腯	dvtj
 𡁯	dvtj
-誒	e
 誒	eh
 㖡	eh
-誒	ei
-誒	eih
 誒	eij
-誒	eiq
 誒	eir
 誒	eix
-誒	ej
-誒	eq
 誒	er
 𡃀	ex
-誒	ex
 魤	faa
 化	faa
 划	faa
@@ -20416,7 +20402,6 @@ Q	kiuj
 黁	nvnq
 煖	nvnq
 𠰲	oetj
-哦	oh
 濭	oi
 䨠	oi
 㤅	oi
@@ -34644,7 +34629,6 @@ feel	fiuj
 庵	ngamj
 腰	iuj
 嗨	haaiq
-哎	air
 啄	doekj
 𠾍	hex
 懟	deoir
@@ -88836,7 +88820,7 @@ faakhfaakr聲	faakh faakr sengj
 氣焊	hei honh
 氣焊	hei honq
 氣㗾氣喘	hei hox hei cvnr
-氣順	heih seonh
+氣順	hei seonh
 氣胸	hei hungj
 氣孔	hei hungr
 氣圈	hei hvnj
@@ -124243,7 +124227,7 @@ petjpetj	petj petj
 嘥晒	saaij saai
 嘥心機	saaij samj geij
 嘥心機，挨眼瞓	saaij samj geij ngaaix ngaanq fan
-嘥聲壞氣	saaij sengj waaih heih
+嘥聲壞氣	saaij sengj waaih hei
 嘥聲壞氣	saaij sengj waair hei
 嘥聲壞氣	saaij singj waaih hei
 晒士	saaij sir
