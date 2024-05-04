@@ -6,7 +6,7 @@
 
 - 安裝方法：
 
-1. 安裝“Rime 粵語拼音方案” https://github.com/rime/rime-cantonese
+1. 安裝“Rime 粵語拼音輸入法” https://github.com/rime/rime-cantonese
  
 2. 將文件（1）default.custom.yaml；（2）liujgoj.schema.yaml；（3）liujgoj.dict.yaml 複製保存到“用戶文件夾”（或者“用戶設定”）入便
 
