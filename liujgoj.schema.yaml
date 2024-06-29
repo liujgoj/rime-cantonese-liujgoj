@@ -154,7 +154,7 @@ cangjie5:
     - "^yyy.*$"
 
 
-iujgoj_reverse_lookup:
+liujgoj_reverse_lookup:
   tags: [ luna_pinyin, loengfan, stroke, cangjie5 ]
   overwrite_comment: false
   dictionary: liujgoj
