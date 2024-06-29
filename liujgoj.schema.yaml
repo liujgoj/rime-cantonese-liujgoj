@@ -16,7 +16,7 @@ schema:
     - Bing Jeung <bing@ososo.io>
     - Ayaka Mikazuki <ayaka@mail.shn.hk>
     - graphemecluster <graphemecluster@gmail.com>
-    - Liujgoj Cantonese <liujgoj@gmail.com>
+    - Liujgoj Cantonese <pactricklei@gmail.com>
 
 
   description: |-
@@ -81,7 +81,7 @@ engine:
     - simplifier
     - simplifier@emoji_suggestion
     - uniquifier
-    - reverse_lookup_filter@jyut6ping3_reverse_lookup
+    - reverse_lookup_filter@liujgoj_reverse_lookup
 
 speller:
   alphabet: zyxwvutsrqponmlkjihgfedcba
@@ -153,10 +153,15 @@ cangjie5:
     - "^z.*$"
     - "^yyy.*$"
 
+
 liujgoj_reverse_lookup:
-  tags: [ luna_pinyin, loengfan, stroke, cangjie5 ]
-  overwrite_comment: false
   dictionary: liujgoj
+  overwrite_comment: false
+  tags:
+    - luna_pinyin
+    - loengfan
+    - stroke
+    - cangjie5
 
 variants_hk:
   option_name: variants_hk
