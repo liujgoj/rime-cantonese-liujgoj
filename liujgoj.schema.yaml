@@ -154,14 +154,10 @@ cangjie5:
     - "^yyy.*$"
 
 
-liujgoj_reverse_lookup:
-  dictionary: liujgoj
+iujgoj_reverse_lookup:
+  tags: [ luna_pinyin, loengfan, stroke, cangjie5 ]
   overwrite_comment: false
-  tags:
-    - luna_pinyin
-    - loengfan
-    - stroke
-    - cangjie5
+  dictionary: liujgoj
 
 variants_hk:
   option_name: variants_hk
