@@ -2568,7 +2568,6 @@ import_tables:
 杘	cath
 柒	cath
 𡴶	cath
-
 䜉	catj
 㓼	catj
 腟	catj
@@ -16605,7 +16604,7 @@ Q	kiuj
 旯	loj
 𦣇	loj
 囉	loj
-籮  loj
+籮	loj
 咯	lok
 胳	lok
 硌	lok
@@ -34550,10 +34549,8 @@ Q	kiuj
 絕	zvtr
 紅	hungr
 啊	aaq
-棚  paangq
-爸  baah
-食  sikr
-士  sir
+食	sikr
+士	sir
 樣	yoengj
 off	okj
 喳	zaah
@@ -34562,7 +34559,7 @@ off	okj
 𡃓	boh
 行	hongr
 讕	laanr
-煨  wuj
+煨	wuj
 叟	sau
 胡	wur
 吠	fai
@@ -178206,35 +178203,9 @@ petjpetj	petj petj
 注重	zv zungh
 嘖嘖	zz
 㗎嗎	gaah maaq
-黑社會	hakjseqwuiq
-酒微菜薄  zaur meix coi bokh
-先飲爲敬  sinj yamr waix ging
-二百蚊  yih baak manj
-會喺  wuiq hair
-天棚  tinj paangq
-阿爸  aa baah
-耐啲  noih dij
-大譜  daaih pour
-離晒大譜  leix saai daaih pour
-偏財  pinj coix
-照我話事  ziu ngoq waah sih
-鍾意  zungj yi
-鍾意  zungj yi
-唏吔  heij yaax
-話俾  waah beir
-話俾你  waah beir neiq
-話俾你知  waah beir neiq zij
-我話俾你知  ngoq waah beir neiq zij
-咩啫  mej zej
-咩啝  mej wox
-係囖  haih lox
-越做越發  yvth zouh yvth faat
-企喺度  keiq hair douh
-仲使  zungh sair
-Face  feij sir
-跛豪  baij houx
-志明  zi mingx
-春嬌  ceonj giuj
+黑社會	hakj seq wuiq
+酒微菜薄	zaur meix coi bokh
+先飲爲敬	sinj yamr waix ging
 志明與春嬌	zi mingx yvq ceonj giuj
 一念無明	yatj nimh moux mingx
 零零發	lingx lingx faat
@@ -178461,7 +178432,6 @@ X	ikj sih
 鱲魚	laaph yvx
 金縷	gamj lauq
 纊纊	kwangr kwang
-BB  bih bij
 南粵	naamx yvth
 咦嘻	yix heir
 停停	tingr tingx
@@ -178564,11 +178534,7 @@ BB  bih bij
 叉飯	caaj faanh
 潛偽窺私	cimx ngaih kwaij sij
 粗獷	couj kwong
-唏吔  heij yaaj
-唏吔  heiq yaax
-嘎嗎  gaah maaq
 撒亞人	saat aa yanx
-嘅嘛  gej maa
 發耳䂻	faat yiq zaangh
 耳䂻	yiq zaangh
 石峁	sekh maauq
