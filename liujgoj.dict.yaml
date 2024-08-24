@@ -3903,7 +3903,6 @@ import_tables:
 箐	coengj
 闛	coengj
 䞎	coengj
-鋹	coengr
 磢	coengr
 搶	coengr
 摤	coengr
@@ -10317,7 +10316,7 @@ import_tables:
 俇	gwaangh
 逛	gwaangh
 誆	gwaangh
-梗	gwaangr
+梗	kwaangr
 𠴨	gwaanj
 関	gwaanj
 瘝	gwaanj
@@ -51419,7 +51418,7 @@ BB仔	bix bij zair
 菜乾	coi gonj
 菜館	coi gunr
 菜瓜	coi gwaaj
-菜梗	coi gwaangr
+菜梗	coi kwaangr
 賽季	coi gwai
 蔡國強	coi gwok koengx
 賽果	coi gwor
@@ -55821,7 +55820,6 @@ BB仔	bix bij zair
 帶寬	daair funj
 大葵扇	daaih gwaix sin
 帶釦	daair kau
-大朋	daaih paangr
 歹勢	daair sai
 歹徒	daair toux
 歹人	daair yanx
@@ -85923,7 +85921,7 @@ faakhfaakr聲	faakh faakr sengj
 坑窪	haangj waaj
 坑人	haangj yanx
 坑井	haangj zengr
-桁桷	haangr gok
+桁桷	hangx gok
 行不通	haangx batj tungj
 行咇	haangx bitj
 行步路打倒褪	haangx bouh louh daar dou tan
@@ -99781,6 +99779,7 @@ faakhfaakr聲	faakh faakr sengj
 劉慈欣	laux cix yanj
 流暢	laux coeng
 劉翔	laux coengx
+劉鋹	laux congr
 流速	laux cukj
 劉松齡	laux cungx lingx
 流竄	laux cvn
@@ -106810,7 +106809,7 @@ faakhfaakr聲	faakh faakr sengj
 蠻繃繃	maanx baangj baangj
 蠻班辦	maanx baanj baanh
 蠻不講理	maanx batj gongr leiq
-蠻鋹	maanx caangr
+蠻倀	maanx caangx
 蠻纏	maanx cinx
 蠻邸	maanx dair
 蠻荒	maanx fongj
@@ -157741,7 +157740,7 @@ petjpetj	petj petj
 義竹	yih zukj
 義竹鄉	yih zukj hoengj
 異種	yih zungr
-𪘲牙𠾴哨	yij aa baangh saau
+𪘲牙𠾴哨	yij ngaax baangh saau
 衣不蔽體	yij batj bai tair
 衣不稱身	yij batj cing sanj
 伊比利亞	yij beir leih aa
@@ -178221,7 +178220,6 @@ golf	gojfur
 嘰嘰趌趌	gih gij gath gath
 聽衰	teng seoij
 壞壞地	waaih waair deir
-乒鈴唪唥	bingh lingj baangh laangh
 意思	yi si
 風滿樓	fungj munq laux
 File	faaij lour
@@ -178332,7 +178330,6 @@ X	ikj sih
 賢良淑德	yinx loengx sukh dakj
 持家有度	cix gaaj yauq douh
 知書識禮	zij svj sikj laiq
-夾硬	gaap ngaangr
 暗器	ngam hei
 精鋼	zingj gong
 唏吔	heiq yaaq
