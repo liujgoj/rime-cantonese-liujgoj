@@ -157,7 +157,6 @@ import_tables:
 罌	aangj
 殷	aanj
 俺	aanr
-押	aap
 庘	aap
 㳌	aap
 㾎	aap
@@ -19374,7 +19373,7 @@ Q	kiuj
 顏	ngaanx
 顔	ngaanx
 㘖	ngaanx
-擪	ngaap
+擪	ngaat
 鴨	ngaap
 鴨	ngaapr
 疋	ngaaq
@@ -24753,7 +24752,6 @@ Q	kiuj
 闟	taap
 鎑	taap
 㲮	taap
-蹋	taaph
 迖	taat
 羍	taat
 達	taat
@@ -35287,8 +35285,8 @@ feel	fiuj
 鴨腳	aap goek
 鴨腳粟	aap goek sukj
 鴨腳扎	aap goek zaat
-押後	aap hauh
-押後處理	aap hauh cvq leiq
+押後	aat hauh
+押後處理	aat hauh cvq leiq
 鴨殼	aap hok
 阿片	aa pin
 亞平寧	aa pingx ningx
@@ -38293,8 +38291,8 @@ feel	fiuj
 幣值	baih zikh
 弊在	baih zoih
 跛腳	baij goek
-跛腳鴨	baij goe kaap
-跛腳鴨	baij goe kaapr
+跛腳鴨	baij goek aap
+跛腳鴨	baij goek aapr
 跛腳了哥自有飛來蜢	baij goek liuj goj zih yauq feij loix maangr
 跛腳了哥	baij goek liuq goj
 跛腳佬	baij goek lour
@@ -56527,8 +56525,8 @@ BB仔	bix bij zair
 踏板	daaph baanr
 踏板車	daaph baanr cej
 疊崩	daaph bangj
-搭膊	daaph bok
-搭膊頭	daaph bok taux
+搭膊	daap bok
+搭膊頭	daap bok taux
 踏步	daaph bouh
 踏步不前	daaph bouh batj cinx
 踏查	daaph caax
@@ -61266,8 +61264,8 @@ BB仔	bix bij zair
 吊籃	diu laamr
 吊籃	diu laamx
 吊蘭	diu laanx
-吊臘鴨	diu laap haap
-吊臘鴨	diu laap haapr
+吊臘鴨	diu laaph aap
+吊臘鴨	diu laaph aapr
 吊樓	diu laux
 弔文	diu manx
 弔民伐罪	diu manx fath zeoih
@@ -63404,7 +63402,7 @@ dixdix震	dix dix zan
 東半球	dungj bun kaux
 冬青	dungj cingj
 冬青樹	dungj cingj svh
-冬前臘鴨	dungj cinx laap haap
+冬前臘鴨	dungj cinx laaph aap
 東昌	dungj coengj
 東昌府	dungj coengj fur
 東昌府區	dungj coengj fur keoij
@@ -64529,7 +64527,7 @@ faakhfaakr聲	faakh faakr sengj
 範公偁	faanh gungj cingj
 飯館	faanh gunr
 飯館兒	faanh gunr yix
-飯盒	faanh haapr
+飯盒	faanh hapr
 飯盒	faanh haph
 飯盒	faanh hapr
 飯後百步走，活到九十九	faanh hauh baak bouh zaur wuth dou gaur saph gaur
@@ -72464,8 +72462,8 @@ faakhfaakr聲	faakh faakr sengj
 敆口	gaap haur
 敆口供	gaap haur gungj
 夾起尾巴	gaap heir meiq baaj
-夾鉗	gaaph kimr
-夾衲	gaaph naapr
+夾鉗	gaap kimr
+夾衲	gaap naaph
 甲鎧	gaap hoir
 甲殼	gaap hok
 甲殼蟲	gaap hok cungx
@@ -72859,7 +72857,7 @@ faakhfaakr聲	faakh faakr sengj
 交卷	gaauj gvnr
 膠卷	gaauj gvnr
 交關	gaauj gwaanj
-膠盒	gaauj haapr
+膠盒	gaauj hapr
 交合	gaauj haph
 膠合	gaauj haph
 膠盒	gaauj haph
@@ -78386,7 +78384,7 @@ faakhfaakr聲	faakh faakr sengj
 腳丫	goe kaaj
 腳丫子	goe kaaj zir
 腳鈪	goe kaak
-腳鴨子	goe kaap zir
+腳鴨子	goek aap zir
 腳坳	goek aau
 腳癭	goek angj
 腳板	goek baanr
@@ -82541,7 +82539,7 @@ faakhfaakr聲	faakh faakr sengj
 摑耳光	gwaak yiq gwongj
 掛藍燈籠	gwaa laamx dangj lungx
 掛蘭	gwaa laanx
-掛臘鴨	gwaa laap haapr
+掛臘鴨	gwaa laaph aapr
 掛慮	gwaa leoih
 掛曆	gwaa likh
 掛鐮	gwaa limx
@@ -82569,7 +82567,6 @@ faakhfaakr聲	faakh faakr sengj
 掛礙	gwaa ngoih
 掛念	gwaa nimh
 關隘	gwaanj aai
-關押	gwaanj aap
 關押	gwaanj aat
 關白	gwaanj baakh
 關閉	gwaanj bai
@@ -86134,12 +86131,12 @@ faakhfaakr聲	faakh faakr sengj
 閒章	haanx zoengj
 閒坐	haanx zoh
 閒在	haanx zoih
-狹隘	haap aai
+狹隘	haaph aai
 呷醋	haap cou
 掐斷	haap dvnh
 狎妓	haap geih
 呷乾醋	haap gonj cou
-峽谷	haap gukj
+峽谷	haaph gukj
 狹隘	haaph aai
 呷呷	haap haap
 匣槍	haaph coengj
@@ -86171,16 +86168,16 @@ faakhfaakr聲	faakh faakr sengj
 狹窄	haaph zaak
 篋笥	haaph zih
 匣子	haaph zir
-狹路相逢	haap louh soengj fungx
-狹路相逢勇者勝	haap louh soengj fungx yungq zer sing
+狹路相逢	haaph louh soengj fungx
+狹路相逢勇者勝	haaph louh soengj fungx yungq zer sing
 掐死	haap seir
-狹小	haap siur
+狹小	haaph siur
 掐算	haap svn
 掐斷	haap tvnq
 頰窩	haap woj
-狹義	haap yih
+狹義	haaph yih
 嗑藥	haap yoekh
-狹窄	haap zaak
+狹窄	haaph zaak
 掐着指頭	haap zoekh zir taux
 掐住	haap zvh
 下下	haaq haaq
@@ -96006,7 +96003,6 @@ faakhfaakr聲	faakh faakr sengj
 鉗鉗聲	kemx kemr sengj
 傾電話	kengj dinh waar
 傾偈	kengj gair
-拘押	keoij aap
 拘押	keoij aat
 拘押營	keoij aat yingx
 祛病	keoij bengh
@@ -98594,7 +98590,7 @@ faakhfaakr聲	faakh faakr sengj
 攔住我	laanx zvh ngoq
 擸架撑	laap gaa caangj
 擸光晒	laap gwongj saai
-臘鴨	laap haapr
+臘鴨	laaph aapr
 立百病毒	laaph baak bengh dukh
 蠟板	laaph baanr
 臘八	laaph baat
@@ -98686,8 +98682,8 @@ faakhfaakr聲	faakh faakr sengj
 立面圖	laaph minr toux
 臘梅	laaph muix
 立糯	laaph noh
-立案	laap hon
-立案偵查	laap hon zingj caax
+立案	laaph on
+立案偵查	laaph on zingj caax
 立山區	laaph saanj keoij
 立山小種	laaph saanj siur zungr
 垃圾	laaph saap
@@ -101366,7 +101362,7 @@ faakhfaakr聲	faakh faakr sengj
 栗色	leoth sikj
 傈僳	leoth sukj
 傈僳族	leoth sukj zukh
-栗樹鴨	leoth sv haap
+栗樹鴨	leoth svh aap
 栗鼠	leoth svr
 栗頭八色鶇	leoth taux baat sikj dungj
 栗頭地鶯	leoth taux dei hangj
@@ -104340,8 +104336,8 @@ faakhfaakr聲	faakh faakr sengj
 老死不相往來	louq seir batj soengj wongq loix
 老水	louq seoir
 滷水	louq seoir
-老水鴨	louq seoir aap
-老水鴨	louq seoir aapr
+滷水鴨	louq seoir aap
+滷水鴨	louq seoir aapr
 滷水汁	louq seoir zapj
 魯迅	louq seon
 魯蛇	louq sex
@@ -106053,7 +106049,7 @@ faakhfaakr聲	faakh faakr sengj
 賣魚佬洗身：冇聲氣	maaih yvx lour sair sanj mouh sengj heir
 賣仔莫摸頭	maaih zair mokh mor taux
 邁進	maaih zeon
-賣剩鴨	maaih zing haap
+賣剩鴨	maaih zingh aap
 賣剩腳	maaih zingh goekr
 賣剩蔗	maaih zingh ze
 賣招牌	maaih ziuj paaix
@@ -107780,7 +107776,7 @@ faakhfaakr聲	faakh faakr sengj
 密瓜	makh gwaaj
 墨客	makh haak
 墨匣	makh haaph
-墨盒	makh haapr
+墨盒	makh hapr
 麥克	makh hakj
 麥克阿瑟	makh hakj aa satj
 麥克白	makh hakj baakh
@@ -116606,8 +116602,8 @@ faakhfaakr聲	faakh faakr sengj
 顏回	ngaanx wuix
 顏淵	ngaanx yvnj
 顏真卿	ngaanx zanj hingj
-押高褲腳	ngaap gouj fu goek
-擪高衫袖	ngaap gouj saamj zauh
+押高褲腳	ngaat gouj fu goek
+擪高衫袖	ngaat gouj saamj zauh
 鴨仔團	ngaap zair tvnx
 瓦煲	ngaaq bouj
 瓦背	ngaaq bui
@@ -127166,7 +127162,7 @@ petjpetj	petj petj
 心胸	samj hungj
 心胸狹隘	samj hungj haaph aai
 心胸狹窄	samj hungj haaph zaak
-心胸狹窄	samj hungj haap zaak
+心胸狹窄	samj hungj haaph zaak
 心胸開闊	samj hungj hoij fut
 心孔	samj hungr
 深紅	samj hungx
@@ -152310,7 +152306,7 @@ petjpetj	petj petj
 𨅝檯腳	yaang toir goek
 㩉高褲腳	yaap gouj fu goek
 㩉高衫袖	yaap gouj saamj zauh
-㩉手	yaaph saur
+㩉手	yaap saur
 㩉屎片	yaap sir pinr
 也罷	yaaq baah
 也不	yaaq batj
@@ -155338,9 +155334,7 @@ petjpetj	petj petj
 一種米養百種人	yatj zungr maiq yoengq baak zungr yanx
 一住	yatj zvh
 一箸菜	yatj zvh coi
-一箸夾中	yatj zvh gaaph zung
 一箸夾中	yatj zvh gaap zung
-一箸夾中	yatj zvh gaap zungj
 一注香	yatj zv hoengj
 一磚豆腐想升仙	yatj zvnj dauh fuh soengr singj sinj
 一轉眼	yatj zvnr ngaanq
@@ -165450,7 +165444,7 @@ petjpetj	petj petj
 匝加利亞	zaap gaaj leih aa
 劄記	zaap gei
 砸夯	zaap haangj
-雜𤎣	zaap hapj
+雜𤎣	zaaph apj
 雜巴冷	zaaph baaj laangj
 閘北區	zaaph bakj keoij
 雜崩冷	zaaph bangj laangq
@@ -165579,8 +165573,8 @@ petjpetj	petj petj
 雜念	zaaph nimh
 集寧	zaaph ningx
 集寧區	zaaph ningx keoij
-集安	zaap honj
-集安市	zaap honj siq
+集安	zaaph onj
+集安市	zaaph onj siq
 雜牌	zaaph paaix
 雜牌軍	zaaph paaix gwanj
 雜牌兒	zaaph paaix yix
@@ -173062,7 +173056,7 @@ petjpetj	petj petj
 朘朘	zoej zoej
 啫啫煲	zoej zoej bouj
 啫住	zoej zvh
-鵲鴨	zoe kaap
+鵲鴨	zoek aap
 斫白	zoek baakh
 酌辦	zoek baanh
 雀斑	zoek baanj
@@ -174630,8 +174624,8 @@ petjpetj	petj petj
 灶君	zou gwanj
 灶君奶奶	zou gwanj naaix naair
 灶蝦	zou haaj
-做鴨	zou haap
-做鴨	zou haapr
+做鴨	zouh aap
+做鴨	zouh aapr
 做阿四	zouh aa sei
 皁白	zouh baakh
 做百囉	zouh baak loj
@@ -174891,8 +174885,8 @@ petjpetj	petj petj
 租錢	zouj cinr
 糟齒類爬蟲	zouj cir leoih paax cungx
 租單	zouj daanj
-糟蹋	zouj daaph
-蹧蹋	zouj daaph
+糟蹋	zouj taap
+蹧蹋	zouj taap
 租地	zouj deih
 租地人投標票權	zouj deih yanx taux biuj piu kvnx
 租佃	zouj dinh
@@ -178279,7 +178273,7 @@ X	ikj sih
 家下	gaaj haar
 生兒育女	saangj yix yukh neoir
 油錢	yaur cir
-霎時間	saaph six gaanj
+霎時間	saap six gaanj
 間歇性	gaan kit sing
 黃馬褂	wongx maaq gwaar
 陰毒	yamj dukh
