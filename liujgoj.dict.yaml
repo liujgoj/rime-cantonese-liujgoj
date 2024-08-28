@@ -7829,7 +7829,7 @@ import_tables:
 虖	fux
 乥	fux
 乯	fux
-㗎	ga
+㗎	gaa
 加	gaa
 假	gaa
 賈	gaa
@@ -8723,7 +8723,7 @@ import_tables:
 粂	gaur
 㐇	gaur
 㶢	gaur
-嘎	gax
+嘎	gaax
 嘅	ge
 穖	gei
 旡	gei
@@ -15104,7 +15104,7 @@ Q	kiuj
 蠡	laix
 廲	laix
 䄵	laix
-啦	laj
+啦	laaj
 嘞	lak
 𥵚	lakh
 㔹	lakh
@@ -15374,7 +15374,6 @@ Q	kiuj
 𥜆	laux
 斿	laux
 䖻	laux
-嚹	lax
 咧	le
 唎	leih
 蜊	leih
@@ -35078,7 +35077,7 @@ feel	fiuj
 扼要	aakj yiu
 扼制	aakj zai
 握住	aakj zvh
-阿奎納	aak waij naaph
+阿奎納	aa kwaij naaph
 阿孻	aa laaij
 亞拉巴馬	aa laaij baaj maaq
 亞拉巴馬州	aa laaij baaj maaq zauj
@@ -35452,8 +35451,8 @@ feel	fiuj
 阿嚏	aa tai
 阿提拉	aa taix laaij
 阿頭	aa taur
-壓迫	aat baakj
-壓迫感	aat baakj gamr
+壓迫	aat bikj
+壓迫感	aat bikj gamr
 壓板	aat baanr
 壓不碎	aat batj seoi
 壓迫	aat bikj
@@ -35909,7 +35908,7 @@ feel	fiuj
 歐亞大陸	auj aa daaih lukh
 歐亞紅尾鴝	auj aa hungx meiq keoix
 歐亞鴝	auj aa keoix
-歐亞鵟	auj aak wongx
+歐亞鵟	auj aa kwongx
 歐巴	auj baaj
 歐巴馬	auj baaj maaq
 歐巴桑	auj baaj songj
@@ -37207,16 +37206,16 @@ feel	fiuj
 白住	baakh zvh
 灞橋	baa kiux
 灞橋區	baa kiux keoij
-迫不得已	baakj batj dakj yiq
-迫切	baakj cit
-迫近	baakj ganh
-迫擊炮	baakj gikj paau
-迫害	baakj hoih
+迫不得已	bikj batj dakj yiq
+迫切	bikj cit
+迫近	bikj ganh
+迫擊炮	bikj gikj paau
+迫害	bikj hoih
 啪紐	baakj naur
-㩧手指綟	baakj saur zir lit
-迫使	baakj sir
-迫於形勢	baakj yvj yingx sai
-迫在眉睫	baakj zoih meix zith
+啪手指綟	baakj saur zir lit
+迫使	bikj sir
+迫於形勢	bikj yvj yingx sai
+迫在眉睫	bikj zoih meix zith
 百強	baak koengx
 伯拉第斯拉瓦	baak laaij daih sij laaij ngaaq
 伯利恆	baak leih hangx
@@ -40044,7 +40043,6 @@ feel	fiuj
 秘技	bei geih
 秘結	bei git
 庇古	bei gur
-被迫	beih baakj
 備辦	beih baanh
 被爆者	beih baau zer
 備品	beih banr
@@ -40727,7 +40725,6 @@ feel	fiuj
 碧歐泉	bikj auj cvnx
 逼巴士	bikj baaj sih
 逼巴士	bikj baaj sir
-逼迫	bikj baakj
 逼爆	bikj baau
 迫不得已	bikj batj dakj yiq
 迫不及待	bikj batj kaph doih
@@ -56878,10 +56875,9 @@ BB仔	bix bij zair
 打個突兀	daar go dath ngath
 打個電話	daar go dinh waar
 打腳骨	daar goek gwatj
-打個框	daar go gwaakj
 打個響指	daar go hoengr zir
 打哥夫	daar goj fur
-打個𡃈	daar gok waakj
+打個𡃈	daar go kwaakj
 打個靚芡	daar go leng hin
 打槓	daar gong
 打槓架	daar gong gaar
@@ -58105,7 +58101,6 @@ BB仔	bix bij zair
 得及	dakj kaph
 得其所哉	dakj keix sor zoij
 得虧	dakj kwaij
-得嘞	dakj la
 得喇	dakj laa
 德拉克羅瓦	dakj laaij hakj lox ngaaq
 德拉門	dakj laaij munx
@@ -58809,7 +58804,7 @@ BB仔	bix bij zair
 兜鍪	dauj maux
 兜帽	dauj mour
 兜生意	dauj saangj yi
-兜潺仔	dauj saanx zaij
+兜潺仔	dauj saanx zair
 兜售	dauj sauh
 兜頭	dauj taux
 兜肚	dauj touq
@@ -59834,7 +59829,6 @@ BB仔	bix bij zair
 店鋪	dim pou
 點啊	dimr aa
 點吖	dimr aaj
-點吖	dimr aj
 點辦	dimr baanh
 點斑林鴿	dimr baanj lamx gaap
 點不知	dimr batj zij
@@ -73714,7 +73708,7 @@ faakhfaakr聲	faakh faakr sengj
 咁多嘢	gam doj yeq
 禁賭	gam dour
 禁毒	gam dukh
-㗎咩	ga mej
+㗎咩	gaa mej
 咁快	gam faai
 咁快脆	gam faai ceoi
 禁伐	gam fath
@@ -75749,10 +75743,10 @@ faakhfaakr聲	faakh faakr sengj
 夠鐘	gau zungj
 夠鐘數	gau zungj sou
 救主	gau zvr
-㗎喎	ga wo
-㗎咋	ga za
-㗎咋	ga zaa
-㗎啫	ga zej
+㗎喎	gaa wo
+㗎咋	gaa zaa
+㗎咋	gaa zaa
+㗎啫	gaa zej
 嘅歌	ge goj
 嘅係	ge haih
 記不住	gei batj zvh
@@ -76022,7 +76016,6 @@ faakhfaakr聲	faakh faakr sengj
 機器語言	geij hei yvq yinx
 機器匠	geij hei zoengh
 幾許	geij heoir
-饑寒交迫	geij honx gaauj baakj
 饑寒交迫	geij honx gaauj bikj
 饑渴	geij hot
 基孔肯雅熱	geij hungr hangr ngaaq yith
@@ -78383,7 +78376,7 @@ faakhfaakr聲	faakh faakr sengj
 啹喀兵	goej gaax bingj
 腳丫	goe kaaj
 腳丫子	goe kaaj zir
-腳鈪	goe kaak
+腳鈪	goek aak
 腳鴨子	goek aap zir
 腳坳	goek aau
 腳癭	goek angj
@@ -90234,7 +90227,6 @@ faakhfaakr聲	faakh faakr sengj
 憲章	hin zoengj
 憲章派	hin zoengj paai
 獻拙	hin zvt
-脅迫	hip baakj
 協辦	hip baanh
 脅迫	hip bikj
 脅持	hip cix
@@ -92056,7 +92048,7 @@ faakhfaakr聲	faakh faakr sengj
 康泰旅行社	hongj taai leoiq hangx seq
 康託爾	hongj tok yiq
 康王	hongj wongx
-康王北	hongj wongx baakj
+康王北	hongj wongx bakj
 康有爲	hongj yauq waix
 糠耳	hongj yiq
 康縣	hongj yvnh
@@ -93732,7 +93724,6 @@ faakhfaakr聲	faakh faakr sengj
 空降兵	hungj gong bingj
 烘乾	hungj gonj
 空谷足音	hungj gukj zukj yamj
-空框框	hungj gwaakj gwaakj
 空䆲䆲	hungj gwaangj gwaangj
 空匱	hungj gwaih
 空軍	hungj gwanj
@@ -95999,7 +95990,7 @@ faakhfaakr聲	faakh faakr sengj
 劇終	kekh zungj
 劇中人	kekh zungj yanx
 劇種	kekh zungr
-棘叻𡃈嘞	kekj lekj gwaakj laakj
+棘叻𡃈嘞	kekj lekj kwaakj laakj
 鉗鉗聲	kemx kemr sengj
 傾電話	kengj dinh waar
 傾偈	kengj gair
@@ -97435,8 +97426,7 @@ faakhfaakr聲	faakh faakr sengj
 睽異	kwaix yih
 夔州	kwaix zauj
 愧怍	kwai zokh
-困厄	kwa naakj
-窘迫	kwan baakj
+困厄	kwan aakj
 窘迫	kwan bikj
 困頓	kwan deonh
 困乏	kwan fath
@@ -98019,7 +98009,7 @@ faakhfaakr聲	faakh faakr sengj
 勒索	laakh sok
 勒住褲頭	laakh zvh fu taux
 嘞嘞聲	laakj laakj sengj
-罅隙	laak wikj
+罅隙	laa kwikj
 喇嘛	laa maa
 喇咩	laa mej
 𨂾火盆	naam for punx
@@ -105409,7 +105399,7 @@ faakhfaakr聲	faakh faakr sengj
 龍飛鳳舞	lungx feij fungh mouq
 龍鳳	lungx fungh
 龍鳳鈪	lungx fung haak
-龍鳳鈪	lungx fung haakr
+龍鳳鈪	lungx fungh aakr
 龍鳳呈祥	lungx fungh cingx coengx
 龍鳳區	lungx fungh keoij
 龍鳳配	lungx fungh pui
@@ -106257,7 +106247,7 @@ faakhfaakr聲	faakh faakr sengj
 擘大獅子口	maak daaih sij zir haur
 擘口	maak haur
 擘口仔	maak haur zair
-麥豆	maakh daur
+麥豆	makh daur
 擘開	maak hoij
 擘開個口	maak hoij go haur
 擘開兩隻腳	maak hoij loengq zek goek
@@ -107283,7 +107273,7 @@ faakhfaakr聲	faakh faakr sengj
 抹乾淨	maat gonj zengh
 抹乾淨個面	maat gonj zengh go minh
 抹面	maat minh
-抹檯布	maatr toir bou
+抹檯布	maat toir bou
 抹身	maat sanj
 抹手	maat saur
 抹檯	maat toir
@@ -116139,8 +116129,6 @@ faakhfaakr聲	faakh faakr sengj
 挨宰	ngaaix zoir
 鴉路裇	ngaaj lour seotj
 額比河	ngaakh beir hox
-逆次次	ngaakh ci ci
-逆情	ngaakh cingx
 額竇	ngaakh dauh
 額定	ngaakh dingh
 額定值	ngaakh dingh zikh
@@ -116156,7 +116144,6 @@ faakhfaakr聲	faakh faakr sengj
 額外	ngaakh ngoih
 額外性	ngaakh ngoih sing
 額頭	ngaakh taux
-逆意	ngaakh yi
 額葉	ngaakh yiph
 額爾齊斯河	ngaakh yiq caix sij hox
 額爾金	ngaakh yiq gamj
@@ -121639,7 +121626,6 @@ party	paaj tix
 扒摟	paax laux
 扒龍船	paax lungx svnx
 扒龍舟	paax lungx zauj
-扒逆水	paax ngaakh seoir
 爬山	paax saanj
 爬山單車	paax saanj daanj cej
 爬山虎	paax saanj fur
@@ -123401,7 +123387,7 @@ petjpetj	petj petj
 浦江	pour gongj
 浦江縣	pour gongj yvnh
 普君	pour gwanj
-普君北	pour gwanj baakj
+普君北	pour gwanj bakj
 普考	pour haaur
 譜系	pour haih
 浦口	pour haur
@@ -128108,7 +128094,7 @@ petjpetj	petj petj
 新股	sanj gur
 新古典	sanj gur dinr
 新古典主義	sanj gur dinr zvr yih
-新𡃈𡃈	sanj gwaakj gwaakj
+新𡃈𡃈	sanj kwaakj kwaakj
 新貴	sanj gwai
 新軍	sanj gwanj
 身光頸靚	sanj gwongj gengr leng
@@ -130674,7 +130660,6 @@ petjpetj	petj petj
 四方八面	sei fongj baat minh
 四方辮頂	sei fongj binj dengr
 四方步	sei fongj bouh
-四方𡃈	sei fongj gwaakj
 四方區	sei fongj keoij
 四方𡃈	sei fongj kwaakj
 四方框	sei fongj kwaangj
@@ -131003,7 +130988,7 @@ petjpetj	petj petj
 死人尋舊路	seir yanx camx gauh louh
 死人燈籠	seir yanx dangj lungx
 死人都	seir yanx douj
-死人兼冧屋	seir yanx gimj la mukj
+死人兼冧屋	seir yanx gimj lam ukj
 死人骨	seir yanx gwatj
 死人藍	seir yanx laamx
 死人冧樓	seir yanx lamj laur
@@ -140221,7 +140206,6 @@ petjpetj	petj petj
 鬆人	sungj yanx
 鬆一口氣	sungj yatj haur hei
 從容	sungj yungx
-從容不迫	sungj yungx batj baakj
 從容不迫	sungj yungx batj bikj
 嵩縣	sungj yvnh
 鬆軟	sungj yvnq
@@ -142283,7 +142267,7 @@ petjpetj	petj petj
 睇路	tair louh
 睇老婆	tair louq pox
 睇埋	tair maaix
-睇脈	tair maakh
+睇脈	tair makh
 體貌	tair maauh
 睇脈	tair makh
 體味	tair meih
@@ -148611,7 +148595,6 @@ petjpetj	petj petj
 胃臟	waih zongh
 爲咗	waih zor
 爲主	waih zvr
-威迫	waij baakj
 威逼	waij bikj
 威逼利誘	waij bikj leih yauq
 威特	waij dakh
@@ -150664,7 +150647,7 @@ petjpetj	petj petj
 黃南州	wongx naamx zauj
 黃南藏族自治州	wongx naamx zongh zukh zih zih zauj
 黃泥	wongx naix
-黃額鴉雀	wongx ngaak haaj zoek
+黃額鴉雀	wongx ngaakh haaj zoek
 黃巖	wongx ngaamx
 黃巖島	wongx ngaamx dour
 黃巖區	wongx ngaamx keoij
@@ -152576,7 +152559,7 @@ petjpetj	petj petj
 陰鬱	yamj watj
 音域	yamj wikh
 陰戶	yamj wuh
-陰陰暗暗	yamj yamj a mam
+陰陰暗暗	yamj yamj am am
 陰陰沉沉	yamj yamj camx camx
 陰陰地	yamj yamj deir
 陰陰凍	yamj yamj dung
@@ -152762,11 +152745,11 @@ petjpetj	petj petj
 壬子	yamx zir
 吟誦	yamx zungh
 窨井	yam zengr
-印歐文	ya nauj manx
-印歐人	ya nauj yanx
-印歐語	ya nauj yvq
-印歐語系	ya nauj yvq haih
-印歐語言	ya nauj yvq yinx
+印歐文	yan auj manx
+印歐人	yan auj yanx
+印歐語	yan auj yvq
+印歐語系	yan auj yvq haih
+印歐語言	yan auj yvq yinx
 印巴	yan baaj
 印版	yan baanr
 印把子	yan baar zir
@@ -158046,7 +158029,7 @@ petjpetj	petj petj
 衣裝	yij zongj
 依足	yij zukj
 醫囑	yij zukj
-依足規矩	yij zukj gwaij geoir
+依足規矩	yij zukj kwaij geoir
 液壓	yikh aat
 液壓千斤頂	yikh aat cinj ganj dingr
 液壓傳動	yikh aat cvnx dungh
@@ -162038,7 +162021,7 @@ petjpetj	petj petj
 楊朱	yoengx zvj
 喲女	youj neoir
 玉鈪	yuk haak
-玉鈪	yuk haakr
+玉鈪	yukh aakr
 浴霸	yukh baa
 欲罷不能	yukh baah batj nangx
 玉帛	yukh baakh
@@ -166129,7 +166112,7 @@ petjpetj	petj petj
 製造者	zai zouh zer
 祭祖	zai zour
 掣住架車	zai zvh gaa cej
-咋嘛	zaj maa
+咋嘛	zaaj maa
 側壁	zakj bik
 側便	zakj binh
 側邊	zakj binj
@@ -166807,10 +166790,10 @@ petjpetj	petj petj
 鎮寧布依族苗族自治縣	zan ningx bou yij zukh miux zukh zih zih yvnh
 鎮寧縣	zan ningx yvnh
 震怒	zan nouh
-振安	za nonj
-鎮安	za nonj
-振安區	za nonj keoij
-鎮安縣	za nonj yvnh
+振安	zan onj
+鎮安	zan onj
+振安區	zan onj keoij
+鎮安縣	zan onj yvnh
 振頻	zan panx
 鎮平	zan pingx
 鎮坪	zan pingx
@@ -173041,7 +173024,7 @@ petjpetj	petj petj
 置諸度外	zi zvj douh ngoih
 置諸高閣	zi zvj gouj gok
 置諸死地而後生	zi zvj seir deih yix hauh sangj
-智珠在握	zi zvj zoi haakj
+智珠在握	zi zvj zoih akj
 至尊	zi zvnj
 佐餐	zo caanj
 佐丹奴	zo daanj noux
@@ -173841,7 +173824,7 @@ petjpetj	petj petj
 再過	zoi gwo
 載客	zoi haak
 載客車	zoi haak cej
-在握	zoi haakj
+在握	zoih akj
 載客量	zoi haak loengh
 在情在理	zoih cingx zoih leiq
 在前	zoih cinx
@@ -174500,7 +174483,7 @@ petjpetj	petj petj
 左口魚	zor haur yvr
 左口魚	zor haur yvx
 左券	zor hvn
-左券在握	zor hvn zoi haakj
+左券在握	zor hvn zoih akj
 左傾	zor kingj
 左傾機會主義	zor kingj geij wuir zvr yih
 阻抗	zor kong
@@ -178468,7 +178451,7 @@ X	ikj sih
 發耳䂻	faat yiq zaangh
 耳䂻	yiq zaangh
 石峁	sekh maauq
-係啦	haih laj
+係啦	haih laaj
 構式	kau sikj
 奢華	sej waax
 嚦咕嚦咕	likj guj likj guh
