@@ -11472,7 +11472,6 @@ import_tables:
 嗛	hamx
 衘	hamx
 銜	hamx
-睏	han
 啃	hang
 堼	hangh
 行	hangh
@@ -17614,6 +17613,7 @@ Q	kiuj
 𢛴	mangr
 𤷪	mangr
 忟	mangr
+䒐	mangr
 㒼	mangx
 甿	mangx
 氓	mangx
@@ -22149,6 +22149,7 @@ Q	kiuj
 葚	samx
 侺	samx
 㔤	san
+呻	san
 蹭	sang
 擤	sang
 僧	sangj
@@ -36147,7 +36148,7 @@ feel	fiuj
 拜物教	baai math gaau
 拜廟	baai miuh
 拜望	baai mongh
-拜眼睏	baai ngaanq han
+拜眼睏	baai ngaanq fan
 拜偶像	baai ngauq zoengh
 拜五臟廟	baai ngq zongh miur
 拜五臟神	baai ngq zongh sanx
@@ -44148,7 +44149,6 @@ BB仔	bix bij zair
 踩波車	caair boj cej
 踩嚫條尾	caair canj tiux meiq
 踩嚫條尾噉	caair canj tiux meiq gamr
-踩嚫條尾	caair can tiux meiq
 踩車	caair cej
 踩場	caair coengx
 踩錯腳	caair co goek
@@ -44729,7 +44729,6 @@ BB仔	bix bij zair
 餐檯	caanj toir
 餐檯	caanj toix
 餐湯	caanj tongj
-餐搵餐食餐餐清	caanj wan caanj sikh caanj caanj cingj
 餐搵餐食	caanj wanr caanj sikh
 餐搵餐食餐餐清	caanj wanr caanj sikh caanj caanj cingj
 餐會	caanj wuir
@@ -50190,7 +50189,6 @@ BB仔	bix bij zair
 潮解	ciux gaair
 潮解性	ciux gaair sing
 潮間帶	ciux gaanj daai
-朝覲	ciux gan
 朝覲	ciux ganh
 朝見	ciux gin
 朝綱	ciux gongj
@@ -65444,7 +65442,6 @@ faakhfaakr聲	faakh faakr sengj
 發起人	faat heir yanx
 發虛	faat heoij
 發焮	faat hing
-發抆憎	faat mangr zangr
 發噓聲	faat hoej sengj
 法向力	faat hoeng likh
 法向量	faat hoeng loengh
@@ -73524,7 +73521,6 @@ faakhfaakr聲	faakh faakr sengj
 雞心梨	gaij samj leir
 雞心領	gaij samj lengq
 雞心形	gaij samj yingx
-雞腎	gaij san
 雞腎	gaij sanh
 雞腎	gaij sanq
 雞腎	gaij sanr
@@ -87219,7 +87215,6 @@ faakhfaakr聲	faakh faakr sengj
 含商咀徵	hamx soengj zeoir zingj
 含酸	hamx svnj
 含碳	hamx taan
-含蘊	hamx wan
 含混	hamx wanh
 含蘊	hamx wanr
 含糊	hamx wux
@@ -87245,7 +87240,7 @@ faakhfaakr聲	faakh faakr sengj
 含住先	hamx zvh sinj
 勘驗	ham yimh
 勘災	ham zoij
-睏覺	han gaau
+睏覺	kwan gaau
 杏鮑菇	hangh baauj guj
 荇菜	hangh coi
 倖存	hangh cvnx
@@ -87605,7 +87600,7 @@ faakhfaakr聲	faakh faakr sengj
 恨到發燒	hanh dou faat siuj
 恨海難填	hanh hoir naanx tinx
 欿唔返	hanh mx faanj
-恨惡	han hok
+恨惡	hanh ok
 恨死	hanh seir
 恨死隔籬	hanh seir gaak leix
 恨事	hanh sih
@@ -107902,7 +107897,7 @@ faakhfaakr聲	faakh faakr sengj
 默誦佛號	makh zungh fath houh
 嘜頭	makj taux
 𩜠𩜠	mamj mamj
-抆灰	man fuij
+抆灰	manr fuij
 掹除	mangj ceoix
 掹出	mangj ceotj
 掹槍	mangj coengj
@@ -107996,7 +107991,7 @@ faakhfaakr聲	faakh faakr sengj
 問名	manh mingx
 問你怕未	manh neiq paa meih
 問你死未	manh neiq seir meih
-問安	man honj
+問安	manh onj
 問晒	manh saai
 問世	manh sai
 問心	manh samj
@@ -108041,11 +108036,11 @@ faakhfaakr聲	faakh faakr sengj
 蚊螆噉聲	manj zij gamr sengj
 蚊子	manj zir
 蚊帳	manj zoeng
-抆抆莫	man man mokh
-舋舋莫莫	man man mokr mokr
-舋尾	man meij
+呅呅莫	man man mokh
+呅呅莫莫	man man mokr mokr
+呅尾	man meij
 呅尾	man meiq
-舋杪	man miuq
+呅杪	man miuq
 吻別	manq bith
 吻部	manq bouh
 閩清	manq cingj
@@ -116447,7 +116442,7 @@ faakhfaakr聲	faakh faakr sengj
 眼光光	ngaanq gwongj gwongj
 眼下	ngaanq haah
 眼坑淺	ngaanq haangj cinr
-眼睏	ngaanq han
+眼睏	ngaanq fan
 眼瞎耳聾	ngaanq hath yiq lungx
 眼看	ngaanq hon
 眼眶	ngaanq hongj
@@ -123829,7 +123824,6 @@ petjpetj	petj petj
 配種	pui zungr
 配種季節	pui zungr gwai zit
 仆崩鼻	pukj bangj beih
-仆嚫	pukj can
 仆嚫	pukj canj
 仆低	pukj daij
 仆倒	pukj dour
@@ -127540,7 +127534,6 @@ petjpetj	petj petj
 沁源縣	sam yvnx yvnh
 滲井	sam zengr
 呻笨	san banh
-呻鼻涕	san beih tai
 擤鼻涕	sang beih tai
 蹭蹬	sang dangh
 呻飢莫呻飽	san geij mokh san baaur
@@ -135960,8 +135953,7 @@ petjpetj	petj petj
 𨃩咗嘢	sin zor yeq
 綫軸	sin zukh
 涉筆	sip batj
-攝嚫	sip can
-攝親	sip canj
+攝嚫	sip canj
 攝青鬼	sip cengj gwair
 攝取	sip ceoir
 攝電	sip dinh
@@ -149177,7 +149169,7 @@ petjpetj	petj petj
 弘治	wangx zih
 宏旨	wangx zir
 韞黑房	wan hakj fongr
-蘊含	wan hamx
+蘊含	wanq hamx
 運筆	wanh batj
 運鈔車	wanh caauj cej
 混唚	wanh cam
@@ -149443,7 +149435,7 @@ petjpetj	petj petj
 溫州	wanj zauj
 溫州市	wanj zauj siq
 溫靜	wanj zingh
-搵窿捐	wan lungx gvnj
+搵窿捐	wanr lungx gvnj
 愠怒	wan nouh
 韻白	wanq baakh
 蘊藏	wanq congx
@@ -149454,7 +149446,7 @@ petjpetj	petj petj
 尹光	wanq gwongj
 蘊涵	wanq haamx
 隕坑	wanq haangj
-蘊含	wanq hamx
+蘊含	wanr hamx
 允許	wanq heoir
 允許空	wanq heoir hungj
 韻律	wanq leoth
@@ -149790,7 +149782,7 @@ petjpetj	petj petj
 雲雀	wanx zoek
 雲珠	wanx zvj
 韞入黑房	wan yaph hakj fongr
-醖釀	wan yoengh
+醖釀	wanq yoengh
 韞住	wan zvh
 鶻突	wath dath
 屈㞘	wath dokj
