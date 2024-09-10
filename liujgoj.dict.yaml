@@ -15370,7 +15370,7 @@ Q	kiuj
 𥜆	laux
 斿	laux
 䖻	laux
-咧	le
+咧	leq
 唎	leih
 蜊	leih
 鯏	leih
@@ -74765,7 +74765,7 @@ faakhfaakr聲	faakh faakr sengj
 𥄫𥄫	gaph gaph
 𥄫下	gaph haaq
 𥄫實	gaph sath
-𥄫嘢	gaph ye
+𥄫嘢	gaph yeq
 𥄫住	gaph zvh
 𥄫住佢	gaph zvh keoiq
 急板	gapj baanr
@@ -88507,7 +88507,7 @@ faakhfaakr聲	faakh faakr sengj
 侯爵	haux zoek
 喉住	haux zvh
 吼住	hau zvh
-迆下	he haaq
+𠺪下	he haaq
 氣壓	hei aat
 氣壓表	hei aat biur
 氣壓計	hei aat gai
@@ -99936,7 +99936,7 @@ faakhfaakr聲	faakh faakr sengj
 留住	laux zvh
 流轉	laux zvn
 樓主	laux zvr
-咧啡	le fej
+咧啡	leq feq
 利伯曼	leih baak maanh
 利伯維爾	leih baak waix yiq
 利弊	leih baih
@@ -121963,7 +121963,6 @@ party	paaj tix
 平嘢冇好嘢	pengx yeq mouq hour yeq
 平嘢唔靚	pengx yeq mx leng
 平咗	pengx zor
-巴仙	pe senj
 petjpetj	petj petj
 劈叉	pikj caaj
 辟邪	pikj cex
@@ -131133,8 +131132,8 @@ petjpetj	petj petj
 錫林浩特	sek lamx houh dakh
 錫林浩特市	sek lamx houh dakh siq
 錫瓦	sek ngaaq
-錫安	se konj
-錫安山	se konj saanj
+錫安	sek onj
+錫安山	sek onj saanj
 錫晒	sek saai
 錫晒你	sek saai neiq
 錫山	sek saanj
@@ -172894,7 +172893,6 @@ petjpetj	petj petj
 象棋	zoengh keix
 丈量	zoengh loengx
 像貌	zoengh maauh
-長命斜	zoengh mengh ce
 丈母	zoengh mouq
 丈母娘	zoengh mouq noengx
 像模像樣	zoengh moux zoengh yoengh
