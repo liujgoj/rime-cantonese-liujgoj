@@ -5202,6 +5202,7 @@ import_tables:
 崸	danh
 墩	danj
 墪	danj
+𡏒	danj
 墩	danr
 墪	danr
 躉	danr
@@ -71844,7 +71845,6 @@ faakhfaakr聲	faakh faakr sengj
 監測	gaamj cakj
 監測器	gaamj cakj hei
 監倉	gaamj congj
-監躉	gaamj danj
 監躉	gaamj danr
 監督	gaamj dukj
 監督人	gaamj dukj yanx
@@ -108592,7 +108592,7 @@ faakhfaakr聲	faakh faakr sengj
 踎低	mauj daij
 踎低身	mauj daij sanj
 踎凳	mauj dang
-踎墩	mauj danj
+踎墩	mauj deonj
 踎躉	mauj danr
 踎兜	mauj dauj
 踎街	mauj gaaij
@@ -110021,6 +110021,8 @@ faakhfaakr聲	faakh faakr sengj
 面阻阻	minh zor zor
 面珠	minh zvj
 面珠墩	minh zvj danj
+𡏒頭	danj taux
+𡏒頭村	danj taux cvnj
 免不得	minq batj dakj
 免不了	minq batj liuq
 免除	minq ceoix
