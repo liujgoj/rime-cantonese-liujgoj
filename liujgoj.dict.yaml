@@ -12632,7 +12632,7 @@ import_tables:
 䉺	hongr
 慷	hongr
 䡉	hongr
-忼	hongr
+慷	hongr
 䐟	hongr
 䁰	hongr
 𣚺	hongr
@@ -14181,7 +14181,7 @@ Q	kiuj
 䯑	kongj
 慷	kongr
 㢜	kongr
-忼	kongr
+慷	kongr
 儣	kongr
 抂	kongx
 狂	kongx
@@ -37583,7 +37583,6 @@ feel	fiuj
 板擦兒	baanr caat yix
 板車	baanr cej
 版次	baanr ci
-板牀	baanr congr
 板凳	baanr dang
 板塊	baanr faai
 版塊	baanr faai
@@ -51965,7 +51964,6 @@ BB仔	bix bij zair
 錯愕	co ngokh
 創牌子	cong paaix zir
 敞車	congr cej
-倉猝	congr cvt
 闖蕩	congr dongh
 闖蕩江湖	congr dongh gongj wux
 廠房	congr fongx
@@ -52269,7 +52267,6 @@ BB仔	bix bij zair
 粗工	couj gungj
 粗管麪	couj gunr minh
 粗估	couj gur
-粗獷	couj gwongr
 粗嚡	couj haaix
 操行	couj hangh
 粗口	couj haur
@@ -62634,7 +62631,6 @@ BB仔	bix bij zair
 倒鈎	dour ngauj
 倒卧	dour ngoh
 倒尿	dour niuh
-倒囊	dour nongr
 倒瓤	dour nongx
 倒瓤冬瓜	dour nongx dungj gwaaj
 賭𠵿	dour pej
@@ -79313,7 +79309,7 @@ faakhfaakr聲	faakh faakr sengj
 干戈	gonj gwoj
 乾果	gonj gwor
 干係	gonj haih
-乾漮	gonj hongr
+乾漮	gonj hongj
 乾旱	gonj honq
 乾旱土	gonj honq tour
 乾渴	gonj hot
@@ -88276,7 +88272,7 @@ faakhfaakr聲	faakh faakr sengj
 口香糖	haur hoengj tongr
 口響	haur hoengr
 口腔	haur hongj
-口忼忼	haur hongj hongj
+口慷慷	haur hongj hongj
 口腔癌	haur hongj ngaamx
 口腔衞生	haur hongj waih sangj
 口腔炎	haur hongj yimx
@@ -91843,16 +91839,16 @@ faakhfaakr聲	faakh faakr sengj
 漢高祖	hon gouj zour
 漢高祖劉邦	hon gouj zour laux bongj
 行貨	hongr fo
-忼慨	hongr koi
-忼慨陳詞	hongr koi canx cix
-忼慨赴義	hongr koi fuh yih
-忼慨解囊	hongr koi gaair nongx
-忼慨激昂	hongr koi gikj ngongx
-忼慨捐生	hongr koi gvnj sangj
-忼慨輸將	hongr koi svj zoengj
-忼慨就義	hongr koi zauh yih
+慷慨	hongr koi
+慷慨陳詞	hongr koi canx cix
+慷慨赴義	hongr koi fuh yih
+慷慨解囊	hongr koi gaair nongx
+慷慨激昂	hongr koi gikj ngongx
+慷慨捐生	hongr koi gvnj sangj
+慷慨輸將	hongr koi svj zoengj
+慷慨就義	hongr koi zauh yih
 䉺米	hongr maiq
-忼他人之慨	hongr taaj yanx zij koi
+慷他人之慨	hongr taaj yanx zij koi
 䉺耳	hongr yiq
 巷仔	hongr zair
 炕沙	hong saaj
@@ -96561,7 +96557,6 @@ faakhfaakr聲	faakh faakr sengj
 抗病毒	kong bengh dukh
 抗病毒藥	kong bengh dukh yoekh
 抗辯	kong binh
-炕牀	kong congr
 炕牀	kong congx
 擴充	kwong cungj
 擴大	kwong daaih
@@ -96605,7 +96600,7 @@ faakhfaakr聲	faakh faakr sengj
 抗癌藥	kong ngaamx yoekh
 抗耐甲氧西林金葡菌	kong noih gaap yoengq saij lamx gamj poux kwanr
 擴編	w pinj
-忼慨	kongr koi
+慷慨	hongr koi
 擴散	kwong saan
 擴散周知	kwong saan zauj zij
 抗生素	kong sangj sou
@@ -107464,7 +107459,7 @@ faakhfaakr聲	faakh faakr sengj
 麥迪	makh dikh
 麥迪遜	makh dikh seon
 麥迪遜花園廣場	makh dikh seon faaj yvnx gwongr coengx
-麥迪遜廣場花園	makh dikh seong wongr coengx faaj yvnx
+麥迪遜廣場花園	makh dikh seon gwongr coengx faaj yvnx
 默多克	makh doj hakj
 麥當當	makh dongj dongj
 麥當勞	makh dongj loux
@@ -120801,7 +120796,6 @@ party	paaj tix
 拍電	paak dinh
 拍電影	paak dinh yingr
 拍檔	paak dong
-拍檔	paak dongr
 拍發	paak faat
 帕福斯	paak fukj sij
 帕金森	paak gamj samj
@@ -122928,7 +122922,6 @@ party	paaj tix
 破身	po sanj
 破四舊	po sei gauh
 破碎	po seoi
-破水囊	po seoir nongr
 破相	po soeng
 破傷風	po soengj fungj
 破損	po svnr
@@ -133899,7 +133892,7 @@ party	paaj tix
 釋典	sikj dinr
 色調	sikj diuh
 識多才廣	sikj doj coix gwongr
-識多見廣	sikj doj ging wongr
+識多見廣	sikj doj gin gwongr
 適當	sikj dong
 色噹	sikj dongj
 識到	sikj dou
@@ -177771,7 +177764,7 @@ X	ikj sih
 乾淨	gonj zingh
 哎吔	air yaaq
 舞女	mouq neoiq
-往時	wongr sir
+往時	wongq sir
 意義	yi yih
 卜卜跳	bukh bukr tiu
 無字花	moux zih faaj
