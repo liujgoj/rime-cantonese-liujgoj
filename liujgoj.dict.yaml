@@ -30263,7 +30263,6 @@ Q	kiuj
 俞	yvh
 兪	yvh
 𩁹	yvh
-隅	yvh
 逾	yvh
 愉	yvh
 窬	yvh
@@ -35886,7 +35885,7 @@ feel	fiuj
 哽心	angr samj
 哽心哽肺	angr samj angr fai
 哽耳	angr yiq
-哽住哽住	angr zv hangr zvh
+哽住哽住	angr zvh angr zvh
 哽哽聲	angx angr sengj
 罨耷	apj dapj
 罨㴙	apj zapj
@@ -36661,7 +36660,7 @@ feel	fiuj
 白䱽	baakh congj
 白醋	baakh cou
 白帶	baakh daai
-白大衣高血壓	baakh daaih yij gouj hv taat
+白大衣高血壓	baakh daaih yij gouj hvt aat
 白帶魚	baakh daai yvr
 白蛋白	baakh daanr baakh
 白搭	baakh daap
@@ -46446,7 +46445,6 @@ BB仔	bix bij zair
 酬唱	caux coeng
 惆悵若失	caux coeng yoekh satj
 籌措	caux cou
-躊躇	caux cvj
 躊躇	caux cvx
 躊躇不決	caux cvx batj kvt
 躊躇滿志	caux cvx munq zi
@@ -53324,9 +53322,9 @@ BB仔	bix bij zair
 處變不驚	cv bin batj gingj
 處處	cv cv
 處格	cv gaak
-櫥窗	cvj coengj
-櫥柜	cvj gwaih
-廚師	cvj sij
+櫥窗	cvx coengj
+櫥柜	cvx gwaih
+廚師	cvx sij
 處級	cv kapj
 寸步	cvn bouh
 寸步不離	cvn bouh batj leix
@@ -57502,7 +57500,7 @@ BB仔	bix bij zair
 低空飛行	daij hungj feij hangx
 低空跳傘	daij hungj tiu saan
 低胸裝	daij hungj zongj
-低血壓	daij hv taat
+低血壓	daij hvt aat
 低血糖	daij hvt tongx
 低級	daij kapj
 低級語言	daij kapj yvq yinx
@@ -68644,7 +68642,6 @@ faakhfaakr聲	faakh faakr sengj
 負翁	fuh yungj
 附庸	fuh yungx
 附庸風雅	fuh yungx fungj ngaaq
-負隅頑抗	fuh yvh waanx kong
 腐乳	fuh yvq
 付予	fuh yvq
 腐乳通菜	fuh yvq tungj coi
@@ -78770,7 +78767,7 @@ faakhfaakr聲	faakh faakr sengj
 鋼骨水泥	gong gwatj seoir naix
 降下	gong haah
 降號	gong houh
-降血壓藥	gong hv taat yoekh
+降血壓藥	gong hvt aat yoekh
 降血鈣素	gong hvt koi sou
 幹勁	gon ging
 幹勁	gon gingh
@@ -79791,7 +79788,7 @@ faakhfaakr聲	faakh faakr sengj
 高雄市	gouj hungx siq
 高雄縣	gouj hungx yvnh
 膏血	gouj hvt
-高血壓	gouj hv taat
+高血壓	gouj hvt aat
 高血糖	gouj hvt tongx
 高卡車	gouj kaaj cej
 高級	gouj kapj
@@ -90502,7 +90499,6 @@ faakhfaakr聲	faakh faakr sengj
 向陽	hoeng yoengx
 向陽花	hoeng yoengx faaj
 向陽區	hoeng yoengx keoij
-向隅	hoeng yvh
 向隅	hoeng yvx
 向着	hoeng zoekh
 向左	hoeng zor
@@ -94391,10 +94387,10 @@ faakhfaakr聲	faakh faakr sengj
 勸酒	hvn zaur
 勸止	hvn zir
 勸阻	hvn zor
-血壓	hv taat
-血壓低	hv taat daij
-血壓計	hv taat gai
-血壓高	hv taat gouj
+血壓	hvt aat
+血壓低	hvt aat daij
+血壓計	hvt aat gai
+血壓高	hvt aat gouj
 血崩	hvt bangj
 血泊	hvt bokh
 血本	hvt bunr
@@ -139952,8 +139948,8 @@ party	paaj tix
 庶吉士	sv gatj sih
 庶幾	sv geij
 戍角	sv gok
-樹椏	sv haaj
-樹癭	sv hangj
+樹椏	svh aaj
+樹癭	svh angj
 豎筆	svh batj
 樹碑立傳	svh beij laaph zvnh
 樹杈	svh caa
@@ -162354,7 +162350,7 @@ party	paaj tix
 預我	yvh ngoq
 遇溺	yvh nikh
 遇溺	yvh nikj
-預案	yv hon
+預案	yvh on
 裕安	yvh onj
 裕安區	yvh onj keoij
 預配	yvh pui
@@ -170856,7 +170852,6 @@ party	paaj tix
 整出嚟	zingr ceotj laix
 整飭整頓	zingr cikj zingr deonh
 整菜	zingr coi
-整除	zingr cvj
 整蛋糕	zingr daanh gouj
 井底之蛙	zingr dair zij waaj
 整地	zingr deih
