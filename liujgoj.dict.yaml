@@ -6350,6 +6350,7 @@ import_tables:
 咄	dvtj
 腯	dvtj
 𡁯	dvtj
+捋	lvtj
 誒	eh
 㖡	eh
 誒	eij
@@ -24501,6 +24502,7 @@ Q	kiuj
 鱈	svt
 𡠭	svt
 𠽌	svtj
+雪	svtj
 蜍	svx
 殳	svx
 杸	svx
@@ -34541,6 +34543,7 @@ Q	kiuj
 捽	zvth
 啜	zvtj
 絕	zvtr
+月	yvtr
 紅	hungr
 啊	aaq
 食	sikr
@@ -38649,7 +38652,6 @@ feel	fiuj
 笨重	banh zungh
 笨豬跳	banh zvj tiu
 笨拙	banh zvt
-笨拙	banh zvth
 彬彬	banj banj
 彬彬君子	banj banj gwanj zir
 彬彬有禮	banj banj yauq laiq
@@ -53355,7 +53357,7 @@ BB仔	bix bij zair
 串講	cvn gongr
 寸高尺低	cvn gouj cek daij
 串供	cvn gungj
-寸晷	cvng wair
+寸晷	cvn gwair
 串過馬𨶙	cvn gwo maaq lanr
 串口	cvn haur
 寸口	cvn haur
@@ -53480,7 +53482,6 @@ BB仔	bix bij zair
 喘不過	cvnr batj gwo
 喘不過氣來	cvnr batj gwo hei loix
 揣測	cvnr caakj
-揣測	cvnr cakj
 喘粗氣	cvnr couj hei
 忖度	cvnr dokh
 忖度	cvnr douh
@@ -105442,7 +105443,7 @@ faakhfaakr聲	faakh faakr sengj
 攣毛	lvnj mouj
 攣毛仔	lvnj mouj zair
 孌童	lvnq tungx
-孌童戀	lvnq tungx lvnr
+孌童癖	lvnq tungx pikj
 孌童者	lvnq tungx zer
 戀情	lvnr cingx
 戀家	lvnr gaaj
@@ -140217,7 +140218,7 @@ party	paaj tix
 算計	svn gai
 恕我直言	sv ngoq zikh yinx
 算卦	svn gwaa
-算鬼數	svng wair sou
+算鬼數	svn gwair sou
 算下	svn haaq
 算係	svn haih
 算係噉	svn haih gamr
@@ -142225,7 +142226,6 @@ party	paaj tix
 氹氹圈	tamx tamx hvnj
 氹氹𡃈	tamx tamx kwaakj
 氹氹轉	tamx tamx zvn
-氹氹轉	tamx tamx zvnq
 𧨾人	tam yanx
 𧨾人歡喜	tam yanx funj heir
 褪步	tan bouh
@@ -153899,7 +153899,7 @@ party	paaj tix
 一處	yatj cv
 一串	yatj cvn
 一寸光陰一寸金	yatj cvn gwongj yamj yatj cvn gamj
-一寸光陰一寸金，寸金難買寸光陰	yatj cvn gwongj yamj yatj cvn gamj cvn gamj naanx maaiq cvng wongj yamj
+一寸光陰一寸金，寸金難買寸光陰	yatj cvn gwongj yamj yatj cvn gamj cvn gamj naanx maaiq cvn gwongj yamj
 一傳十，十傳百	yatj cvnx saph saph cvnx baak
 一處	yatj cvq
 一柱擎天	yatj cvq kingx tinj
@@ -157422,7 +157422,6 @@ party	paaj tix
 伊撈七	yij louj catj
 依撈七都	yij louj catj douj
 衣籠	yij lungr
-依戀	yij lvnq
 依戀	yij lvnr
 伊曼	yij maanh
 伊馬姆	yij maaq mouq
@@ -167615,7 +167614,6 @@ party	paaj tix
 敍別	zeoih bith
 聚寶盆	zeoih bour punx
 聚苯乙烯	zeoih bunr yvt heij
-聚苯乙烯	zeoih bunr yvth heij
 聚餐	zeoih caanj
 聚齊	zeoih caix
 聚殲	zeoih cimj
@@ -170421,7 +170419,7 @@ party	paaj tix
 證券經紀人	zing hvn gingj geir yanx
 證券經營	zing hvn gingj yingx
 證券公司	zing hvn gungj sij
-證券柜檯買賣中心	zing hvng waih toir maaiq maaih zungj samj
+證券柜檯買賣中心	zing hvn gwaih toir maaiq maaih zungj samj
 政圈	zing hvnj
 證券市場	zing hvn siq coengx
 證券商	zing hvn soengj
@@ -176132,7 +176130,7 @@ party	paaj tix
 中中挺挺	zungj zungj tingr tingr
 忠忠直直	zungj zungj zikh zikh
 棕朱雀	zungj zvj zoek
-中轉柜檯	zungj zvng waih toir
+中轉柜檯	zungj zvn gwaih toir
 中專	zungj zvnj
 中轉	zungj zvnr
 中轉站	zungj zvnr zaamh
