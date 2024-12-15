@@ -10167,7 +10167,6 @@ import_tables:
 㖛	gur
 嗗	guth
 嗗	gutr
-嗗	gutx
 懁	gvn
 䣺	gvn
 卷	gvn
@@ -43529,8 +43528,8 @@ BB仔	bix bij zair
 卜晝卜夜	bukj zau bukj yeh
 卜占	bukj zimj
 卜征	bukj zingj
-卜卜聲	bukx bukr sengj
-伏伏跳	bukx bukr tiu
+卜卜聲	bukh bukr sengj
+伏伏跳	bukh bukr tiu
 半白	bun baakh
 半壁江山	bun bikj gongj saanj
 半壁河山	bun bikj hox saanj
@@ -44183,7 +44182,7 @@ BB仔	bix bij zair
 差不離兒	caaj batj leix yix
 差別	caaj bith
 叉車	caaj cej
-叉切飯	caaj citx faanh
+叉切飯	caaj cit faanh
 差遲	caaj cix
 差錯	caaj co
 䟕錯	caaj co
@@ -48172,7 +48171,7 @@ BB仔	bix bij zair
 眵目糊	cij mukh wux
 黐湆	cij naph
 黐𥹉𥹉	cij naph naph
-黐𥹉𥹉	cij napq napq
+黐𥹉𥹉	cij napr napr
 黐牙	cij ngaax
 黐牙黐爪	cij ngaax cij zaaur
 黐牙罅	cij ngaax laa
@@ -67266,7 +67265,7 @@ faakhfaakr聲	faakh faakr sengj
 揈頭丸	fingh taux yvnr
 𢞵到漏油	fitj dou lauh yaur
 𢞵到漏油	fitj dou lauh yaux
-𢞵𢞵聲	fitx fitr sengj
+𢞵𢞵聲	fith fitr sengj
 灰士	fiuj sir
 飛哩啡咧	fix lij fex lex
 貨辦	fo baanr
@@ -78620,10 +78619,10 @@ faakhfaakr聲	faakh faakr sengj
 各爲其主	gok waih keix zvr
 各位	gok wair
 角回	gok wuix
-咯咯	gokx gokj
-咯咯咯咯	gokx gokj gok gokh
-咯咯咯咯	gokx gokj gokh gokh
-咯咯	gokx gokr
+咯咯	gokh gokj
+咯咯咯咯	gokh gokj gok gokh
+咯咯咯咯	gokh gokj gokh gokh
+咯咯	gokh gokr
 各人	gok yanx
 各人自掃門前雪	gok yanx zih sou munx cinx svt
 各人自掃門前雪，莫管他家瓦上霜	gok yanx zih sou munx cinx svt mokh gunr taaj gaaj ngaaq soengh soengj
@@ -81938,7 +81937,7 @@ faakhfaakr聲	faakh faakr sengj
 固體溶體	gu tair yungx tair
 嗗嗗聲	guth guth sengj
 故土	gu tour
-括括聲	gutx gutr sengj
+括括聲	guth gutr sengj
 故云	gu wanx
 咕咕	gux guj
 咕咕雀	gux guj zoekr
@@ -83459,8 +83458,8 @@ faakhfaakr聲	faakh faakr sengj
 橘子汁	gwatj zir zapj
 橘子醬	gwatj zir zoeng
 骨折	gwatj zit
-呱呱	gwekx gwekr
-呱呱	gwekx gwekx
+呱呱	gwekh gwekr
+呱呱	gwekh gwekh
 隙縫	gwikj fungx
 虢礫緙嘞	gwikj likj kaakj laakj
 闃礫緙嘞	gwikj likj kaak laakj
@@ -138702,7 +138701,7 @@ party	paaj tix
 嗦嗦聲	sok sok sengj
 索書號	sok svj houh
 索回	sok wuix
-嗦嗦聲	sokx sokr sengj
+嗦嗦聲	sokh sokr sengj
 索引	sok yanq
 朔日	sok yath
 索油	sok yaux
@@ -140756,7 +140755,7 @@ party	paaj tix
 説話算數	svt waah svn sou
 説話算話	svt waah svn waah
 説話要算數	svt waah yiu svn sou
-𠽌𠽌聲	svtx svtr sengj
+𠽌𠽌聲	svth svtr sengj
 雪人	svt yanx
 説一不二	svt yatj batj yih
 雪油	svt yaur
