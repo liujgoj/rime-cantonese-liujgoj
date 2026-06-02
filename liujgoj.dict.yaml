@@ -2361,8 +2361,6 @@ import_tables:
 䈜	cam
 噆	cam
 譖	cam
-噚	camh
-譖	camh
 參	camj
 嵾	camj
 嬠	camj
@@ -2735,7 +2733,7 @@ import_tables:
 趄	ce
 笡	ce
 斜	ce
-𠳏	ceh
+𠳏	cej
 車	cej
 莗	cej
 唓	cej
@@ -4325,10 +4323,6 @@ import_tables:
 謥	cung
 欉	cung
 尰	cung
-淙	cungh
-悰	cungh
-琮	cungh
-昮	cungh
 冲	cungj
 充	cungj
 沖	cungj
@@ -12367,8 +12361,6 @@ import_tables:
 䥵	hiur
 𣇈	hiur
 噷	hmj
-哼	hngh
-啈	hngh
 哼	hngj
 賀	ho
 艐	ho
@@ -14005,7 +13997,6 @@ import_tables:
 竅	kiu
 躈	kiu
 㚁	kiu
-Q	kiuj
 藠	kiuq
 勪	kiuq
 繑	kiuq
@@ -21607,8 +21598,6 @@ call	koj
 纄	pungx
 鬔	pungx
 鑝	pungx
-葐	punh
-湓	punh
 拌	punj
 番	punj
 㢖	punj
@@ -24819,9 +24808,6 @@ Sir	soex
 䶍	tai
 䶑	tai
 薙	tai
-弟	taih
-娣	taih
-悌	taih
 梯	taij
 㔸	taij
 銻	taij
@@ -25122,7 +25108,6 @@ Sir	soex
 掭	tim
 㶺	tim
 㮇	tim
-掭	timh
 沗	timj
 添	timj
 婖	timj
@@ -25415,7 +25400,6 @@ Sir	soex
 娺	to
 唾	toe
 唾	toeq
-馱	toh
 漦	toij
 囼	toij
 孡	toij
@@ -49261,7 +49245,7 @@ BB仔	bix bij zair
 千載一時	cinj zoir yatj six
 千足蟲	cinj zukj cungx
 踐踏	cinq daaph
-前後矛盾	x hauh maaux teonq
+前後矛盾	cinx hauh maaux teonq
 踐約	cinq yoek
 淺白	cinr baakh
 錢不是萬能的沒錢是萬萬不能的	cinr batj sih maanh nangx dikj muth cinr sih maanh maanh batj nangx dikj
@@ -54177,7 +54161,7 @@ BB仔	bix bij zair
 大雅	daaih ngaaq
 大雅鄉	daaih ngaaq hoengj
 大蝦細，畀屎餵	daaih haaj sai beir sir wai
-大押	daaihhaat
+大押	daaih aat
 帶孝	daaih haau
 戴孝	daaih haau
 大亞灣	daaih aa waanj
@@ -62168,7 +62152,7 @@ BB仔	bix bij zair
 度假區	douh gaa keoij
 道格拉斯	douh gaak laaij sij
 道教	douh gaau
-度假屋	douh gaau kj
+度假屋	douh gaa ukj
 道教徒	douh gaau toux
 鍍金	douh gamj
 道具	douh geoih
@@ -66231,7 +66215,7 @@ faakhfaakr聲	faakh faakr sengj
 熏陶成性	fanj toux singx sing
 分爲	fanj waix
 氛圍	fanj waix
-分韻撮要	fanj q cvt yiu
+分韻撮要	fanj wanq cvt yiu
 紛紜	fanj wanx
 分會	fanj wuir
 分會場	fanj wuir coengx
@@ -117269,7 +117253,6 @@ case	keij sir
 誤解	ngh gaair
 誤機	ngh geij
 誤工	ngh gungj
-嗯哼	ngh hngh
 誤看	ngh hon
 悟空	ngh hungj
 誤區	ngh keoij
@@ -118323,7 +118306,7 @@ case	keij sir
 吳官正	ngx gunj zing
 吳君如	ngx gwanj yvx
 吳國	ngx gwok
-吳下阿蒙	ngxh aah aa mungx
+吳下阿蒙	ngx haah aa mungx
 吳晗	ngx hamx
 吳起	ngx heir
 吳起縣	ngx heir yvnh
@@ -122951,7 +122934,7 @@ party	paaj tix
 鋪展	pouj zinr
 鋪張	pouj zoengj
 鋪張浪費	pouj zoengj longh fai
-破屋又遭連夜雨	pou kj yauh zouj linx yeh yvq
+破屋又遭連夜雨	po ukj yauh zouj linx yeh yvq
 鋪面房	pou minh fongx
 鋪面	pou minr
 泡吧	pouq baaj
@@ -124339,7 +124322,7 @@ party	paaj tix
 三下五除二	saamj haah ngq ceoix yih
 三峽	saamj haaph
 三峽大壩	saamj haaph daaih baa
-三俠五義	saamj haaphh ngq yih
+三俠五義	saamj haaph ngq yih
 三峽水庫	saamj haaph seoir fu
 三峽鎮	saamj haaph zan
 三下五落二	saamj haaq ngq lokh yih
@@ -172776,7 +172759,7 @@ warrant	woj lanr
 仗勢欺人	zoengh sai heij yanx
 匠心獨運	zoengh samj dukh wanh
 橡實	zoengh sath
-撞手神	zoegh saur sanx
+撞手神	zongh saur sanx
 像是	zoengh sih
 象聲詞	zoengh singj cix
 像素	zoengh sou
@@ -177675,7 +177658,7 @@ win	winj
 溜歌	liuj goj
 上莊	soengh zongj
 下莊	haah zongj
-golf	gojfur
+golf	goj fur
 天昏地暗	tinj fanj deih ngam
 陣時	zanh six
 攀山	paanj saanj
@@ -177719,7 +177702,6 @@ File	faaij lour
 而家	yij gaaj
 菲傭	feij yungx
 指擬	zir yih
-X	ikj sih
 意識	yi sikj
 分裂	fanj lit
 乾淨	gonj zingh
@@ -177795,8 +177777,8 @@ X	ikj sih
 腰間	iuj gaanj
 願意	yvnh yi
 丫鬟	ngaaj waanx
-恩重如山	yanjzunghyvxsaanj
-嘅嘛	gejmaa
+恩重如山	yanj zungh yvx saanj
+嘅嘛	gej maa
 義無反悔	yih moux faanr fui
 十五胡	saph ngq wur
 花燈	faaj dangj
@@ -177864,7 +177846,7 @@ X	ikj sih
 豬肉佬	zvj yukh lour
 跛豪	baij houx
 七傷拳	catj soengj kvnx
-金槍人	gamjcoengjyanx
+金槍人	gamj coengj yanx
 咯喎	lo wo
 盤絲洞	punx sij dungr
 修緣	sauj yvnx
