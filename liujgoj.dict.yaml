@@ -50,9 +50,9 @@ import_tables:
 ...
 
 # 單字音
-阿	aa
+阿	aa	9%
 錒	aa
-啊	aa
+啊	aa	10%
 㚳	aa
 妿	aa
 呵	aa
@@ -61,7 +61,7 @@ import_tables:
 𩤃	aa
 襾	aa
 亜	aa
-亞	aa
+亞	aa	8%
 俹	aa
 埡	aa
 掗	aa
@@ -74,13 +74,13 @@ import_tables:
 𥮳	aa
 𦩒	aa
 㢌	aa
-啊	aa
-啊	ah
-啊	aah
+啊	aa	10%
+啊	ah	10%
+啊	aah	10%
 伌	aai
 隘	aai
 塧	aai
-嗌	aai
+嗌	aai	10%
 䅬	aai
 㿄	aai
 賹	aai
@@ -92,17 +92,17 @@ import_tables:
 噫	aai
 埃	aaij
 挨	aaij
-唉	aaij
+唉	aaij	10%
 溾	aaij
 噯	aaij
 唲	aaij
 劸	aaij
 娭	aaij
-唉	aaiq
+唉	aaiq	10%
 唉	aair
 欸	aair
 毐	aair
-吖	aaj
+吖	aaj	10%
 丫	aaj
 㝞	aaj
 孲	aaj
@@ -117,24 +117,24 @@ import_tables:
 雅	aaj
 錏	aaj
 𠮩	aaj
-阿	aak
+阿	aak	9%
 軛	aak
 軶	aak
 鈪	aak
-𡅅	aak
+𡅅	aak	10%
 厄	aakj
 戹	aakj
 阨	aakj
 扼	aakj
-呃	aakj
+呃	aakj	10%
 阸	aakj
 軛	aakj
 軶	aakj
 𧦠	aakj
-握	aakj
+握	aakj	9%
 幄	aakj
 軛	aakr
-鈪	aakr
+鈪	aakr	10%
 菡	aamr
 䳺	aan
 洝	aan
@@ -161,14 +161,14 @@ import_tables:
 㳌	aap
 㾎	aap
 䆘	aap
-鴨	aap
+鴨	aap	10%
 圔	aap
 擪	aap
 浥	aap
 鴨	aapr
-咓	aaq
+咓	aaq	10%
 阿	aar
-嗄	aar
+嗄	aar	10%
 啊	aar
 唖	aar
 啞	aar
@@ -188,7 +188,7 @@ import_tables:
 戛	aat
 嫼	aat
 押	aat
-壓	aat
+壓	aat	10%
 劜	aat
 軋	aat
 揠	aat
@@ -210,7 +210,7 @@ import_tables:
 岙	aau
 垇	aau
 坳	aau
-拗	aau
+拗	aau	10%
 岰	aau
 袎	aau
 詏	aau
@@ -229,7 +229,7 @@ import_tables:
 鴢	aaur
 詏	aaur
 靿	aaur
-呀	aax
+呀	aax	10%
 隘	ai
 阸	ai
 屃	ai
@@ -260,18 +260,18 @@ import_tables:
 㙠	aij
 繄	aij
 鷖	aij
-哎	aij
+哎	aij	10%
 㢊	air
-矮	air
+矮	air	9%
 躷	air
-哎	air
+哎	air	10%
 哎	aix
 隘	akj
 枙	akj
-厄	akj
+厄	akj	9%
 戹	akj
 阨	akj
-扼	akj
+扼	akj	10%
 苊	akj
 呃	akj
 阸	akj
@@ -289,7 +289,7 @@ import_tables:
 殕	akj
 喔	akj
 偓	akj
-握	akj
+握	akj	8%
 幄	akj
 渥	akj
 媉	akj
@@ -304,7 +304,7 @@ import_tables:
 腤	am
 闇	am
 晻	am
-暗	am
+暗	am	10%
 䬓	am
 黯	am
 匼	am
@@ -334,7 +334,7 @@ import_tables:
 𥂝	amj
 匎	amj
 广	amj
-龕	amj
+龕	amj	10%
 𡁏	amj
 菴	amj
 陰	amj
@@ -358,13 +358,13 @@ import_tables:
 甇	angj
 罃	angj
 褮	angj
-罌	angj
+罌	angj	10%
 鶯	angj
 鷪	angj
 䴍	angj
 鸎	angj
 鶑	angj
-哽	angr
+哽	angr	10%
 𬒔	angr
 䅰	anr
 罯	apj
@@ -390,7 +390,7 @@ import_tables:
 蚼	auj
 漚	auj
 甌	auj
-歐	auj
+歐	auj	8%
 毆	auj
 鴎	auj
 膒	auj
@@ -409,10 +409,10 @@ import_tables:
 䥲	auj
 嘔	auj
 慪	auj
-區	auj
+區	auj	10%
 梎	auj
 𠥹	auj
-勾	auj
+勾	auj	9%
 塸	aur
 歐	aur
 毆	aur
@@ -429,7 +429,7 @@ import_tables:
 覇	baa
 霸	baa
 㶚	baa
-壩	baa
+壩	baa	10%
 灞	baa
 欛	baa
 䃻	baa
@@ -448,7 +448,7 @@ import_tables:
 䒔	baai
 庍	baai
 拝	baai
-拜	baai
+拜	baai	10%
 㠔	baai
 㗑	baai
 唄	baai
@@ -467,7 +467,7 @@ import_tables:
 擘	baaij
 掰	baair
 捭	baair
-擺	baair
+擺	baair	10%
 襬	baair
 䙓	baair
 巴	baaj
@@ -485,7 +485,7 @@ import_tables:
 紦	baaj
 豝	baaj
 䰾	baaj
-爸	baaj
+爸	baaj	10%
 吧	baaj
 峇	baaj
 𤆵	baaj
@@ -493,14 +493,14 @@ import_tables:
 巼	baaj
 㓦	baak
 挀	baak
-百	baak
+百	baak	10%
 佰	baak
 柏	baak
 栢	baak
 粨	baak
 絔	baak
 薜	baak
-伯	baak
+伯	baak	9%
 狛	baak
 㼣	baak
 舶	baak
@@ -518,7 +518,7 @@ import_tables:
 瓸	baak ngaaq
 竡	baak singj
 䇉	baak singj
-白	baakh
+白	baakh	10%
 㿟	baakh
 䳆	baakh
 孛	baakh
@@ -548,9 +548,9 @@ import_tables:
 堋	baangh
 阪	baanh
 昄	baanh
-扮	baanh
+扮	baanh	10%
 湴	baanh
-辦	baanh
+辦	baanh	9%
 瓣	baanh
 埿	baanh
 爿	baanh
@@ -558,10 +558,10 @@ import_tables:
 𡌶	baanh
 扳	baanj
 攽	baanj
-班	baanj
+班	baanj	10%
 般	baanj
-斑	baanj
-頒	baanj
+斑	baanj	9%
+頒	baanj	8%
 斒	baanj
 䃑	baanj
 㿀	baanj
@@ -577,21 +577,21 @@ import_tables:
 阪	baanr
 坂	baanr
 岅	baanr
-板	baanr
+板	baanr	9%
 瓪	baanr
 昄	baanr
-版	baanr
+版	baanr	10%
 舨	baanr
 鈑	baanr
 䬳	baanr
 蝂	baanr
 魬	baanr
 闆	baanr
-把	baar
+把	baar	10%
 㞎	baar
 靶	baar
 鈀	baar
-八	baat
+八	baat	10%
 丷	baat
 仈	baat
 扒	baat
@@ -612,30 +612,30 @@ import_tables:
 魃	baath
 墢	baath
 趵	baau
-爆	baau
+爆	baau	10%
 炮	baau
 齙	baauh
 骲	baauh
 鮑	baauh
 鞄	baauh
 勹	baauj
-包	baauj
+包	baauj	10%
 佨	baauj
 苞	baauj
 孢	baauj
 枹	baauj
 胞	baauj
 笣	baauj
-鮑	baauj
+鮑	baauj	9%
 㚿	baauj
 蚫	baauj
 褜	baauj
 炮	baauj
 怉	baaur
 飹	baaur
-飽	baaur
+飽	baaur	10%
 䭋	baaur
-爸	baax
+爸	baax	10%
 鐾	bai
 閉	bai
 閇	bai
@@ -661,7 +661,7 @@ import_tables:
 䟤	baih
 蜌	baih
 獙	baih
-弊	baih
+弊	baih	10%
 𡚁	baih
 幣	baih
 㯇	baih
@@ -680,11 +680,11 @@ import_tables:
 蓖	baij
 篦	baij
 㝿	baij
-跛	baij
+跛	baij	10%
 箥	baij
 螕	baij
 㪏	bair
-北	bakj
+北	bakj	10%
 鉳	bakj
 泵	bamj
 乓	bamj
@@ -714,7 +714,7 @@ import_tables:
 捠	bangj
 祊	bangj
 奟	bangj
-崩	bangj
+崩	bangj	10%
 䑫	bangj
 絣	bangj
 嵭	bangj
@@ -727,7 +727,7 @@ import_tables:
 䙖	bangj
 繃	bangj
 塴	bangj
-蹦	bangj
+蹦	bangj	9%
 鏰	bangj
 䔊	bangj
 嗙	bangj
@@ -742,7 +742,7 @@ import_tables:
 𦯀	banh
 倴	banh
 桳	banh
-笨	banh
+笨	banh	10%
 㨧	banh
 䬱	banh
 㮥	banh
@@ -769,10 +769,10 @@ import_tables:
 汃	banj
 邠	banj
 玢	banj
-彬	banj
+彬	banj	10%
 㟗	banj
 椕	banj
-斌	banj
+斌	banj	9%
 㻞	banj
 豩	banj
 賓	banj
@@ -806,15 +806,15 @@ import_tables:
 𧓍	banj
 䐔	banr
 禀	banr
-稟	banr
-品	banr
+稟	banr	10%
+品	banr	9%
 榀	banr
 秡	bat
 䰾	bath
 犮	bath
 叐	bath
 抜	bath
-拔	bath
+拔	bath	10%
 㧞	bath
 茇	bath
 妭	bath
@@ -847,7 +847,7 @@ import_tables:
 䮡	bath
 柭	bath
 䟛	bath
-鈸	bath
+鈸	bath	9%
 僰	bath
 䯋	bath
 馛	bath
@@ -861,7 +861,7 @@ import_tables:
 泌	bath
 鴓	bath
 甭	batj
-筆	batj
+筆	batj	9%
 㻶	batj
 珌	batj
 畢	batj
@@ -893,11 +893,11 @@ import_tables:
 驆	batj
 鷝	batj
 𥷑	batj
-不	batj
+不	batj	10%
 吥	batj
 鈈	batj
 泌	batj
-𢳂	batj
+𢳂	batj	8%
 𤒹	batj
 勏	bauh
 䏽	bauh
@@ -956,7 +956,7 @@ import_tables:
 䊌	bei
 𠳓	bei
 俻	beih
-被	beih
+被	beih	10%
 偹	beih
 備	beih
 僃	beih
@@ -970,7 +970,7 @@ import_tables:
 糒	beih
 鞴	beih
 鎞	beih
-鼻	beih
+鼻	beih	8%
 嬶	beih
 匕	beih
 比	beih
@@ -984,7 +984,7 @@ import_tables:
 䫁	beih
 薜	beih
 篦	beih
-避	beih
+避	beih	9%
 䕗	beih
 奰	beih
 襣	beih
@@ -1026,7 +1026,7 @@ import_tables:
 䙓	beij
 㗗	beir
 匕	beir
-比	beir
+比	beir	9%
 㠲	beir
 朼	beir
 夶	beir
@@ -1042,16 +1042,16 @@ import_tables:
 秕	beir
 䏢	beir
 㑭	beir
-俾	beir
+俾	beir	8%
 舭	beir
 粃	beir
 聛	beir
 貏	beir
-畀	beir
+畀	beir	10%
 畁	beir
 䯗	beir
 鞞	beir
-髀	beir
+髀	beir	7%
 鞸	beir
 肶	beir
 毗	beir
@@ -1065,19 +1065,19 @@ import_tables:
 𠹇	bej
 睥	bej
 壁	bek
-柄	beng
+柄	beng	10%
 棅	beng
-病	bengh
+病	bengh	10%
 鉼	bengr
-餅	bengr
+餅	bengr	9%
 餠	bengr
-抦	bengr
+抦	bengr	10%
 啤	bij
 壁	bik
 璧	bik
 𠁆	bikh
 偪	bikj
-逼	bikj
+逼	bikj	10%
 楅	bikj
 䫾	bikj
 䮠	bikj
@@ -1120,7 +1120,7 @@ import_tables:
 㣐	bin
 徧	bin
 遍	bin
-變	bin
+變	bin	10%
 亪	bin
 絣	bing
 迸	bing
@@ -1133,7 +1133,7 @@ import_tables:
 并	bing
 㓈	bing
 併	bing
-並	bing
+並	bing	10%
 庰	bing
 倂	bing
 竝	bing
@@ -1143,7 +1143,7 @@ import_tables:
 并	bingh
 幷	bingh
 併	bingh
-並	bingh
+並	bingh	10%
 垪	bingh
 栤	bingh
 倂	bingh
@@ -1159,7 +1159,7 @@ import_tables:
 仒	bingj
 氷	bingj
 冰	bingj
-兵	bingj
+兵	bingj	10%
 掤	bingj
 鋲	bingj
 并	bingj
@@ -1182,7 +1182,7 @@ import_tables:
 𡛦	bingr
 昞	bingr
 昺	bingr
-炳	bingr
+炳	bingr	10%
 眪	bingr
 窉	bingr
 㨀	bingr
@@ -1220,7 +1220,7 @@ import_tables:
 㺹	binh
 㭓	binh
 昪	binh
-便	binh
+便	binh	10%
 覍	binh
 㝸	binh
 䛒	binh
@@ -1233,7 +1233,7 @@ import_tables:
 辨	binh
 辧	binh
 㵷	binh
-辯	binh
+辯	binh	9%
 䉸	binh
 笲	binh
 砭	binj
@@ -1246,8 +1246,8 @@ import_tables:
 邉	binj
 鍽	binj
 獱	binj
-鞭	binj
-邊	binj
+鞭	binj	9%
+邊	binj	10%
 鯾	binj
 鯿	binj
 䟍	binj
@@ -1309,7 +1309,7 @@ import_tables:
 彆	bith
 𡋾	bith
 𠦒	bitj
-必	bitj
+必	bitj	10%
 佖	bitj
 邲	bitj
 苾	bitj
@@ -1332,7 +1332,7 @@ import_tables:
 杓	biuj
 髟	biuj
 䙳	biuj
-彪	biuj
+彪	biuj	8%
 猋	biuj
 䁃	biuj
 墂	biuj
@@ -1341,7 +1341,7 @@ import_tables:
 幖	biuj
 颮	biuj
 滮	biuj
-標	biuj
+標	biuj	10%
 膘	biuj
 麃	biuj
 熛	biuj
@@ -1369,15 +1369,15 @@ import_tables:
 䮽	biuj
 驫	biuj
 表	biuj
-錶	biuj
+錶	biuj	9%
 鰾	biuj
 颩	biuj
 灬	biuj
 票	biuj
 脿	biur
-表	biur
+表	biur	10%
 婊	biur
-裱	biur
+裱	biur	9%
 㟽	biur
 䔸	biur
 諘	biur
@@ -1389,19 +1389,19 @@ import_tables:
 俵	biur
 㧼	biur
 䱪	biur
-播	bo
+播	bo	9%
 簸	bo
 譒	bo
 啵	bo
 抪	bo
 蕃	bo
-噃	bo
+噃	bo	10%
 蚾	bo
 鄱	bo
 𡃓	bo
 般	boj
 陂	boj
-波	boj
+波	boj	10%
 玻	boj
 菠	boj
 紴	boj
@@ -1421,13 +1421,13 @@ import_tables:
 爆	bok
 胉	bok
 亳	bok
-博	bok
+博	bok	10%
 䬪	bok
 搏	bok
 㗘	bok
 猼	bok
 愽	bok
-駁	bok
+駁	bok	9%
 僰	bok
 㬍	bok
 牔	bok
@@ -1489,13 +1489,13 @@ import_tables:
 踄	bokh
 縛	bokh
 濼	bokh
-泊	bokh
+泊	bokh	10%
 謈	bokh
 魄	bokh
 蒲	bokh
 剝	bokj
 䃗	bokj
-㩧	bokj
+㩧	bokj	10%
 髉	bokj
 䑈	bokj
 糪	bokj
@@ -1511,7 +1511,7 @@ import_tables:
 塝	bongh
 蒡	bongh
 稖	bongh
-磅	bongh
+磅	bongh	10%
 艕	bongh
 鎊	bongh
 埲	bongh
@@ -1529,7 +1529,7 @@ import_tables:
 㨍	bongj
 幚	bongj
 㿶	bongj
-幫	bongj
+幫	bongj	10%
 鞤	bongj
 䩷	bongj
 縍	bongj
@@ -1538,7 +1538,7 @@ import_tables:
 彭	bongj
 峀	bongj
 㮄	bongr
-綁	bongr
+綁	bongr	10%
 榜	bongr
 牓	bongr
 膀	bongr
@@ -1551,11 +1551,11 @@ import_tables:
 㝿	bor
 跛	bor
 簸	bor
-報	bou
+報	bou	10%
 儤	bou
 忁	bou
 誧	bou
-布	bou
+布	bou	9%
 佈	bou
 㘵	bou
 抪	bou
@@ -1580,15 +1580,15 @@ import_tables:
 哺	bouh
 鵏	bouh
 鸔	bouh
-步	bouh
+步	bouh	10%
 歨	bouh
 歩	bouh
 埗	bouh
 捗	bouh
 荹	bouh
-部	bouh
+部	bouh	9%
 㻉	bouh
-埠	bouh
+埠	bouh	8%
 㾟	bouh
 瓿	bouh
 蔀	bouh
@@ -1605,7 +1605,7 @@ import_tables:
 𣭚	bouh
 輮	bouh
 㬧	bouh
-煲	bouj
+煲	bouj	10%
 蕔	bouj
 褒	bouj
 闁	bouj
@@ -1625,7 +1625,7 @@ import_tables:
 裦	bouj
 㷛	bouj
 𨰦	bour
-保	bour
+保	bour	10%
 珤	bour
 㻄	bour
 㙅	bour
@@ -1645,14 +1645,14 @@ import_tables:
 藵	bour
 寳	bour
 䳰	bour
-寶	bour
+寶	bour	8%
 靌	bour
 𨰰	bour
 䴐	bour
 𨰻	bour
 𤣰	bour
 䀯	bour
-補	bour
+補	bour	9%
 㙛	bour
 䋠	bour
 䪔	bour
@@ -1669,7 +1669,7 @@ import_tables:
 𡝬	bour
 𡤧	bour
 𤦸	bour
-𡃓	box
+𡃓	box	10%
 揹	bui
 北	bui
 䋳	bui
@@ -1721,8 +1721,8 @@ import_tables:
 姵	buih
 䊃	buih
 僻	buih
-杯	buij
-盃	buij
+杯	buij	10%
+盃	buij	9%
 桮	buij
 㮎	buij
 𠁞	buiq
@@ -1732,7 +1732,7 @@ import_tables:
 轐	bukh
 醭	bukh
 䪁	bukh
-伏	bukh
+伏	bukh	10%
 匐	bukh
 幞	bukh
 襆	bukh
@@ -1772,7 +1772,7 @@ import_tables:
 虲	bukj
 㓀	bukj
 𪋿	bukj
-半	bun
+半	bun	10%
 坢	bun
 姅	bun
 㪵	bun
@@ -1798,7 +1798,7 @@ import_tables:
 鞛	bungr
 䳞	bungr
 捧	bungr
-伴	bunh
+伴	bunh	10%
 㚘	bunh
 坢	bunh
 拌	bunh
@@ -1814,13 +1814,13 @@ import_tables:
 畔	bunh
 胖	bunh
 般	bunj
-搬	bunj
+搬	bunj	10%
 䈲	bunj
 褩	bunj
 粄	bunr
 䉽	bunr
 䬳	bunr
-本	bunr
+本	bunr	10%
 苯	bunr
 㡷	bunr
 奙	bunr
@@ -1852,7 +1852,7 @@ import_tables:
 荸	buth
 癶	buth
 哱	buth
-撥	buth
+撥	buth	10%
 餑	buth
 蹳	buth
 鱍	buth
@@ -1883,7 +1883,7 @@ import_tables:
 茀	buth
 艴	buth
 桲	buth
-𠼭	butj
+𠼭	butj	10%
 杈	caa
 衩	caa
 汊	caa
@@ -1912,20 +1912,20 @@ import_tables:
 䟀	caaij
 䠕	caaij
 靫	caaij
-差	caaij
+差	caaij	10%
 䂘	caaij
 釵	caaij
 㼮	caaij
 䐤	caaij
 搋	caaij
 跴	caair
-踩	caair
+踩	caair	10%
 踹	caair
 跐	caair
 撮	caair
 䦟	caair
 犲	caaix
-柴	caaix
+柴	caaix	10%
 㑪	caaix
 豺	caaix
 祡	caaix
@@ -1937,8 +1937,8 @@ import_tables:
 茈	caaix
 齜	caaix
 𡣙	caaix
-叉	caaj
-扠	caaj
+叉	caaj	10%
+扠	caaj	8%
 杈	caaj
 肞	caaj
 䑡	caaj
@@ -1949,8 +1949,8 @@ import_tables:
 靫	caaj
 碴	caaj
 蹅	caaj
-差	caaj
-䟕	caaj
+差	caaj	9%
+䟕	caaj	7%
 苴	caaj
 喳	caaj
 㕚	caaj
@@ -1971,7 +1971,7 @@ import_tables:
 憡	caak
 𥰡	caak
 㩞	caak
-拆	caak
+拆	caak	10%
 坼	caak
 㿭	caak
 烢	caak
@@ -1993,10 +1993,10 @@ import_tables:
 蠈	caakh
 鰂	caakh
 鱡	caakh
-測	caakj
+測	caakj	10%
 惻	caakj
 吒	caakj
-賊	caakr
+賊	caakr	10%
 儳	caam
 旵	caam
 忏	caam
@@ -2027,16 +2027,16 @@ import_tables:
 劖	caamq
 㔆	caamq
 嶄	caamq
-慘	caamr
+慘	caamr	10%
 劖	caamr
-憯	caamr
+憯	caamr	9%
 㿊	caamr
 㦧	caamr
 黲	caamr
 旵	caamr
 䑎	caamr
 䤘	caamr
-朁	caamr
+朁	caamr	8%
 篸	caamr
 穇	caamr
 噆	caamr
@@ -2081,7 +2081,7 @@ import_tables:
 㣓	caan
 澯	caan
 璨	caan
-燦	caan
+燦	caan	10%
 孱	caan
 㬄	caan
 䴼	caan
@@ -2090,7 +2090,7 @@ import_tables:
 𨮏	caan
 𠍇	caan
 𤨪	caan
-撐	caang
+撐	caang	10%
 牚	caang
 𥋇	caang
 鋥	caang
@@ -2116,7 +2116,7 @@ import_tables:
 鎗	caangj
 爭	caangj
 錚	caangj
-橙	caangr
+橙	caangr	10%
 倀	caangx
 揨	caangx
 鏳	caangx
@@ -2139,7 +2139,7 @@ import_tables:
 喰	caanj
 湌	caanj
 䬸	caanj
-餐	caanj
+餐	caanj	10%
 䱗	caanj
 䉔	caanj
 爘	caanj
@@ -2156,7 +2156,7 @@ import_tables:
 㹌	caanr
 䐮	caanr
 簅	caanr
-鏟	caanr
+鏟	caanr	10%
 剗	caanr
 羼	caanr
 摌	caanr
@@ -2173,7 +2173,7 @@ import_tables:
 扱	caap
 臿	caap
 挿	caap
-插	caap
+插	caap	10%
 揷	caap
 㛼	caap
 㮑	caap
@@ -2201,7 +2201,7 @@ import_tables:
 䵵	caat
 刹	caat
 剎	caat
-刷	caat
+刷	caat	10%
 㕞	caat
 唰	caat
 㺚	caat
@@ -2216,9 +2216,9 @@ import_tables:
 仯	caau
 耖	caau
 觘	caau
-摷	caau
+摷	caau	10%
 𠳕	caau
-抄	caauj
+抄	caauj	10%
 䫸	caauj
 訬	caauj
 𤙴	caauj
@@ -2235,7 +2235,7 @@ import_tables:
 訬	caaur
 吵	caaur
 㶤	caaur
-炒	caaur
+炒	caaur	10%
 㷅	caaur
 䎐	caaur
 煼	caaur
@@ -2255,12 +2255,12 @@ import_tables:
 秅	caax
 垞	caax
 茬	caax
-茶	caax
-查	caax
+茶	caax	9%
+查	caax	10%
 査	caax
 䅊	caax
 㢉	caax
-搽	caax
+搽	caax	8%
 嵖	caax
 槎	caax
 碴	caax
@@ -2292,7 +2292,7 @@ import_tables:
 沏	cai
 妻	cai
 矵	cai
-砌	cai
+砌	cai	10%
 䀙	cai
 䏅	cai
 切	cai
@@ -2329,7 +2329,7 @@ import_tables:
 亝	caix
 斊	caix
 釮	caix
-齊	caix
+齊	caix	10%
 緕	caix
 𪗆	caix
 䶒	caix
@@ -2373,7 +2373,7 @@ import_tables:
 賝	camj
 諃	camj
 浸	camj
-侵	camj
+侵	camj	10%
 㓎	camj
 㑴	camj
 綅	camj
@@ -2425,7 +2425,7 @@ import_tables:
 鬵	camx
 鐔	camx
 桪	camx
-尋	camx
+尋	camx	10%
 㝷	camx
 㜄	camx
 鄩	camx
@@ -2443,14 +2443,14 @@ import_tables:
 爓	camx
 湛	camx
 疢	can
-趁	can
+趁	can	10%
 趂	can
 齓	can
 齔	can
 儭	can
 嚫	can
 櫬	can
-襯	can
+襯	can	9%
 䞋	can
 偁	can
 稱	can
@@ -2462,9 +2462,9 @@ import_tables:
 㓌	cangj
 靗	cangj
 竀	cangj
-曾	cangx
+曾	cangx	9%
 嶒	cangx
-層	cangx
+層	cangx	10%
 㬝	cangx
 䁬	cangx
 竲	cangx
@@ -2484,9 +2484,9 @@ import_tables:
 謓	canj
 媇	canj
 寴	canj
-親	canj
+親	canj	9%
 𡤅	canj
-嚫	canj
+嚫	canj	10%
 抻	canr
 塵	canr
 疢	canr
@@ -2516,7 +2516,7 @@ import_tables:
 紾	canr
 軫	canr
 覙	canr
-診	canr
+診	canr	9%
 䪾	canr
 駗	canr
 稹	canr
@@ -2525,13 +2525,13 @@ import_tables:
 鬒	canr
 黰	canr
 㶊	canr
-陳	canr
+陳	canr	10%
 迧	canx
-陳	canx
+陳	canx	10%
 軙	canx
 蔯	canx
 樄	canx
-塵	canx
+塵	canx	9%
 螴	canx
 薼	canx
 湁	capj
@@ -2571,7 +2571,7 @@ import_tables:
 腟	catj
 㔑	catj
 㲺	catj
-七	catj
+七	catj	10%
 𠀁	catj
 㭍	catj
 柒	catj
@@ -2580,14 +2580,14 @@ import_tables:
 㯃	catj
 㐂	catj
 㓒	catj
-臭	cau
+臭	cau	9%
 遚	cau
 臰	cau
 䔏	cau
 殠	cau
 嘼	cau
 凑	cau
-湊	cau
+湊	cau	10%
 楱	cau
 腠	cau
 輳	cau
@@ -2606,7 +2606,7 @@ import_tables:
 奏	cau
 揍	cau
 族	cau
-抽	cauj
+抽	cauj	10%
 紬	cauj
 䀺	cauj
 㨨	cauj
@@ -2620,7 +2620,7 @@ import_tables:
 湫	cauj
 鬏	cauj
 𩄍	cauj
-秋	cauj
+秋	cauj	9%
 秌	cauj
 萩	cauj
 媝	cauj
@@ -2655,7 +2655,7 @@ import_tables:
 愀	cauq
 𧽒	cauq
 䏚	caur
-丑	caur
+丑	caur	10%
 吜	caur
 杽	caur
 杻	caur
@@ -2734,9 +2734,9 @@ import_tables:
 笡	ce
 斜	ce
 𠳏	cej
-車	cej
+車	cej	9%
 莗	cej
-唓	cej
+唓	cej	10%
 硨	cej
 蛼	cej
 俥	cej
@@ -2748,9 +2748,9 @@ import_tables:
 譇	cej
 𡌄	cej
 𤉖	cej
-尺	cek
+尺	cek	10%
 叺	cek
-呎	cek
+呎	cek	9%
 蚇	cek
 赤	cek
 灻	cek
@@ -2763,12 +2763,12 @@ import_tables:
 青	cengj
 靑	cengj
 清	cengj
-請	cengr
+請	cengr	10%
 夝	cengx
 晴	cengx
 䦤	ceoi
 䴝	ceoi
-吹	ceoi
+吹	ceoi	10%
 炊	ceoi
 龡	ceoi
 皠	ceoi
@@ -2817,12 +2817,12 @@ import_tables:
 趍	ceoij
 貙	ceoij
 幮	ceoij
-吹	ceoij
+吹	ceoij	10%
 炊	ceoij
 龡	ceoij
 䶴	ceoij
 崔	ceoij
-催	ceoij
+催	ceoij	9%
 凗	ceoij
 墔	ceoij
 摧	ceoij
@@ -2868,9 +2868,9 @@ import_tables:
 䧽	ceoir
 䊫	ceoir
 且	ceoir
-取	ceoir
-娶	ceoir
-除	ceoix
+取	ceoir	10%
+娶	ceoir	9%
+除	ceoix	10%
 蒢	ceoix
 滁	ceoix
 蜍	ceoix
@@ -2893,7 +2893,7 @@ import_tables:
 腄	ceoix
 槌	ceoix
 箠	ceoix
-錘	ceoix
+錘	ceoix	8%
 顀	ceoix
 鎚	ceoix
 崔	ceoix
@@ -2924,10 +2924,10 @@ import_tables:
 椎	ceoix
 沝	ceoix
 鉏	ceoix
-𡃴	ceoix
+𡃴	ceoix	9%
 杶	ceonj
 旾	ceonj
-春	ceonj
+春	ceonj	10%
 㫩	ceonj
 䡅	ceonj
 萅	ceonj
@@ -2970,8 +2970,8 @@ import_tables:
 賰	ceonr
 䦮	ceonr
 䮞	ceonr
-蠢	ceonr
-秦	ceonx
+蠢	ceonr	10%
+秦	ceonx	10%
 嗪	ceonx
 溱	ceonx
 嫀	ceonx
@@ -2980,7 +2980,7 @@ import_tables:
 㫬	ceonx
 廵	ceonx
 旬	ceonx
-巡	ceonx
+巡	ceonx	9%
 杊	ceonx
 紃	ceonx
 栒	ceonx
@@ -2994,21 +2994,21 @@ import_tables:
 馴	ceonx
 蓁	ceonx
 𡻈	ceonx
-出	ceotj
-岀	ceotj
+出	ceotj	9%
+岀	ceotj	10%
 䢺	ceotj
-齣	ceotj
+齣	ceotj	8%
 㔘	ceotj
 怵	ceotj
 㤕	ceotj
 欪	ceotj
 絀	ceotj
 䟣	ceotj
-黜	ceotj
+黜	ceotj	7%
 焌	ceotj
 炧	ceq
 伬	cer
-扯	cer
+扯	cer	10%
 偖	cer
 㨋	cer
 䞣	cer
@@ -3021,12 +3021,12 @@ import_tables:
 且	cer
 灺	cer
 炧	cer
-𠳏	cer
+𠳏	cer	9%
 㚗	cex
 厁	cex
 輋	cex
 荼	cex
-邪	cex
+邪	cex	10%
 衺	cex
 𦳃	cex
 斜	cex
@@ -3036,7 +3036,7 @@ import_tables:
 厠	ci
 廁	ci
 杘	ci
-翅	ci
+翅	ci	8%
 翄	ci
 痓	ci
 啻	ci
@@ -3049,8 +3049,8 @@ import_tables:
 熾	ci
 饎	ci
 朿	ci
-次	ci
-刺	ci
+次	ci	10%
+刺	ci	9%
 佽	ci
 㓨	ci
 㢀	ci
@@ -3061,7 +3061,7 @@ import_tables:
 蛓	ci
 𠤣	ci
 絘	ci
-賜	ci
+賜	ci	7%
 䯸	ci
 䳐	ci
 䗹	ci
@@ -3117,11 +3117,11 @@ import_tables:
 鵄	cij
 魑	cij
 䬜	cij
-癡	cij
+癡	cij	10%
 齝	cij
 攡	cij
 彲	cij
-黐	cij
+黐	cij	9%
 訵	cij
 呲	cij
 趀	cij
@@ -3254,9 +3254,9 @@ import_tables:
 厱	cimj
 僉	cimj
 㔐	cimj
-簽	cimj
+簽	cimj	10%
 鐱	cimj
-籤	cimj
+籤	cimj	9%
 鉆	cimj
 籖	cimj
 鏲	cimj
@@ -3309,13 +3309,13 @@ import_tables:
 鬵	cimx
 燅	cimx
 燂	cimx
-撍	cimx
+撍	cimx	10%
 硟	cin
 刋	cin
 㣒	cing
 偁	cing
 稱	cing
-秤	cing
+秤	cing	10%
 倩	cing
 凊	cing
 掅	cing
@@ -3330,7 +3330,7 @@ import_tables:
 㛵	cingj
 䞓	cingj
 䗀	cingj
-稱	cingj
+稱	cingj	10%
 緽	cingj
 頳	cingj
 赬	cingj
@@ -3350,7 +3350,7 @@ import_tables:
 靑	cingj
 郬	cingj
 圊	cingj
-清	cingj
+清	cingj	9%
 淸	cingj
 寈	cingj
 蜻	cingj
@@ -3371,7 +3371,7 @@ import_tables:
 庱	cingr
 睈	cingr
 騁	cingr
-請	cingr
+請	cingr	10%
 郢	cingr
 浧	cingr
 氶	cingr
@@ -3380,13 +3380,13 @@ import_tables:
 撜	cingr
 塣	cingr
 𢌥	cingr
-成	cingx
+成	cingx	9%
 呈	cingx
 埕	cingx
 珵	cingx
 脭	cingx
 䄇	cingx
-程	cingx
+程	cingx	10%
 裎	cingx
 䇸	cingx
 酲	cingx
@@ -3414,7 +3414,7 @@ import_tables:
 梴	cinj
 𦒘	cinj
 𦭛	cinj
-千	cinj
+千	cinj	10%
 䢴	cinj
 仟	cinj
 阡	cinj
@@ -3459,8 +3459,8 @@ import_tables:
 灛	cinr
 斺	cinr
 扦	cinr
-錢	cinr
-淺	cinr
+錢	cinr	10%
+淺	cinr	9%
 嘽	cinr
 榐	cinr
 辿	cinx
@@ -3475,15 +3475,15 @@ import_tables:
 瀍	cinx
 繵	cinx
 壥	cinx
-纏	cinx
+纏	cinx	9%
 躔	cinx
 纒	cinx
-前	cinx
+前	cinx	10%
 歬	cinx
 偂	cinx
 媊	cinx
 銭	cinx
-錢	cinx
+錢	cinx	8%
 騚	cinx
 𥗛	cinx
 迠	cip
@@ -3509,10 +3509,10 @@ import_tables:
 詀	cip
 鈶	ciq
 杮	ciq
-似	ciq
+似	ciq	10%
 柹	ciq
 柿	ciq
-恃	ciq
+恃	ciq	9%
 㐶	ciq
 汜	ciq
 㕽	ciq
@@ -3549,7 +3549,7 @@ import_tables:
 褫	cir
 搋	cir
 跐	cir
-此	cir
+此	cir	10%
 佌	cir
 泚	cir
 玼	cir
@@ -3594,17 +3594,17 @@ import_tables:
 砌	cit
 苆	cit
 聺	cit
-切	cit
+切	cit	10%
 䟙	cit
 㗫	cit
-設	cit
+設	cit	9%
 蔎	cit
 焎	cit
 轍	cit
 柣	cit
 屮	cit
 譙	ciu
-俏	ciu
+俏	ciu	10%
 陗	ciu
 峭	ciu
 帩	ciu
@@ -3613,7 +3613,7 @@ import_tables:
 踃	ciu
 誚	ciu
 僺	ciu
-鞘	ciu
+鞘	ciu	9%
 韒	ciu
 鞩	ciu
 琑	ciu
@@ -3623,7 +3623,7 @@ import_tables:
 怊	ciuj
 弨	ciuj
 欩	ciuj
-超	ciuj
+超	ciuj	10%
 䫿	ciuj
 眧	ciuj
 㡑	ciuj
@@ -3653,10 +3653,10 @@ import_tables:
 悄	ciur
 釥	ciur
 愀	ciur
-超	ciur
+超	ciur	10%
 牊	ciux
 晁	ciux
-朝	ciux
+朝	ciux	10%
 潮	ciux
 鼂	ciux
 嶕	ciux
@@ -3679,13 +3679,13 @@ import_tables:
 菬	ciux
 茬	cix
 𩶅	cix
-池	cix
+池	cix	6%
 弛	cix
 㞴	cix
 茌	cix
 岻	cix
 㢮	cix
-持	cix
+持	cix	9%
 竾	cix
 赿	cix
 㔭	cix
@@ -3700,7 +3700,7 @@ import_tables:
 漦	cix
 墀	cix
 踟	cix
-遲	cix
+遲	cix	8%
 䮈	cix
 篪	cix
 䞾	cix
@@ -3720,7 +3720,7 @@ import_tables:
 祠	cix
 瓷	cix
 㤵	cix
-詞	cix
+詞	cix	10%
 䛐	cix
 辝	cix
 鈶	cix
@@ -3740,7 +3740,7 @@ import_tables:
 嬨	cix
 鴜	cix
 礠	cix
-辭	cix
+辭	cix	7%
 鶿	cix
 鷀	cix
 䭣	cix
@@ -3782,7 +3782,7 @@ import_tables:
 夎	co
 蓌	co
 銼	co
-錯	co
+錯	co	10%
 䥘	co
 侳	co
 䟶	co
@@ -3824,16 +3824,16 @@ import_tables:
 穛	coek
 汋	coek
 灼	coek
-卓	coek
+卓	coek	10%
 䓬	coek
 𥇍	coek
 窧	coek
 灂	coek
 昶	coeng
 鬯	coeng
-唱	coeng
+唱	coeng	10%
 悵	coeng
-暢	coeng
+暢	coeng	9%
 誯	coeng
 䩨	coeng
 韔	coeng
@@ -3847,7 +3847,7 @@ import_tables:
 瑒	coeng
 𣈱	coeng
 鶬	coengj
-昌	coengj
+昌	coengj	9%
 倀	coengj
 菖	coengj
 猖	coengj
@@ -3868,7 +3868,7 @@ import_tables:
 倡	coengj
 㘟	coengj
 窓	coengj
-窗	coengj
+窗	coengj	8%
 牎	coengj
 摐	coengj
 䆫	coengj
@@ -3882,7 +3882,7 @@ import_tables:
 𨫥	coengj
 斨	coengj
 瑲	coengj
-槍	coengj
+槍	coengj	10%
 嶈	coengj
 戧	coengj
 牄	coengj
@@ -3902,20 +3902,20 @@ import_tables:
 闛	coengj
 䞎	coengj
 磢	coengr
-搶	coengr
+搶	coengr	10%
 摤	coengr
 墏	coengr
-腸	coengr
+腸	coengr	9%
 仧	coengx
 仩	coengx
 镸	coengx
 兏	coengx
-長	coengx
+長	coengx	10%
 瓺	coengx
 㙊	coengx
 萇	coengx
-場	coengx
-腸	coengx
+場	coengx	9%
+腸	coengx	5%
 䯴	coengx
 塲	coengx
 䠆	coengx
@@ -3929,14 +3929,14 @@ import_tables:
 廧	coengx
 嬙	coengx
 檣	coengx
-牆	coengx
+牆	coengx	8%
 艢	coengx
 蘠	coengx
 㟄	coengx
 庠	coengx
 𢒑	coengx
-祥	coengx
-翔	coengx
+祥	coengx	7%
+翔	coengx	6%
 絴	coengx
 䔗	coengx
 詳	coengx
@@ -3947,9 +3947,9 @@ import_tables:
 采	coi
 寀	coi
 埰	coi
-菜	coi
+菜	coi	9%
 棌	coi
-蔡	coi
+蔡	coi	10%
 縩	coi
 䰂	coi
 塞	coi
@@ -3960,19 +3960,19 @@ import_tables:
 㗷	coi
 𡤐	coi
 𡧳	coi
-啋	coij
+啋	coij	10%
 毝	coir
 采	coir
 倸	coir
 䣋	coir
 採	coir
-彩	coir
+彩	coir	10%
 㥒	coir
 寀	coir
 婇	coir
 䌽	coir
 䐆	coir
-睬	coir
+睬	coir	9%
 跴	coir
 綵	coir
 踩	coir
@@ -3984,17 +3984,17 @@ import_tables:
 𦹮	coir
 𣶶	coir
 𤊕	coir
-才	coix
+才	coix	10%
 㒲	coix
 材	coix
-財	coix
+財	coix	9%
 裁	coix
 䴭	coix
-纔	coix
+纔	coix	8%
 𠆫	coix
 差	coj
 瘥	coj
-初	coj
+初	coj	10%
 㗙	coj
 䥚	coj
 芻	coj
@@ -4003,7 +4003,7 @@ import_tables:
 犓	coj
 雛	coj
 鶵	coj
-搓	coj
+搓	coj	9%
 瑳	coj
 遳	coj
 磋	coj
@@ -4017,7 +4017,7 @@ import_tables:
 戳	cok
 擉	cok
 縒	cok
-剒	cok
+剒	cok	10%
 莡	cok
 逪	cok
 錯	cok
@@ -4032,10 +4032,10 @@ import_tables:
 刱	cong
 剏	cong
 剙	cong
-創	cong
+創	cong	10%
 愴	cong
 仺	congj
-倉	congj
+倉	congj	10%
 凔	congj
 蒼	congj
 嵢	congj
@@ -4065,14 +4065,14 @@ import_tables:
 厰	congr
 僘	congr
 㒉	congr
-廠	congr
+廠	congr	9%
 𢠵	congr
 氅	congr
 鋹	congr
 傸	congr
 㼽	congr
 磢	congr
-闖	congr
+闖	congr	10%
 愴	congr
 搶	congr
 戃	congr
@@ -4087,7 +4087,7 @@ import_tables:
 欌	congx
 鑶	congx
 床	congx
-牀	congx
+牀	congx	10%
 㡖	congx
 幢	congx
 䃥	congx
@@ -4097,10 +4097,10 @@ import_tables:
 膧	congx
 臧	congx
 撞	congx
-坐	coq
+坐	coq	10%
 𨭣	cor
 椘	cor
-楚	cor
+楚	cor	10%
 𣕑	cor
 䠂	cor
 濋	cor
@@ -4138,7 +4138,7 @@ import_tables:
 慥	cou
 噪	cou
 簉	cou
-燥	cou
+燥	cou	10%
 趮	cou
 躁	cou
 譟	cou
@@ -4146,7 +4146,7 @@ import_tables:
 䆆	cou
 撡	couj
 䎭	couj
-操	couj
+操	couj	10%
 觕	couj
 粗	couj
 麁	couj
@@ -4160,22 +4160,22 @@ import_tables:
 造	couq
 𢲵	couq
 艸	cour
-草	cour
+草	cour	9%
 愺	cour
 騲	cour
 取	cour
-娶	cour
+娶	cour	10%
 慅	cour
 懆	cour
 曺	coux
 曹	coux
 傮	coux
 蓸	coux
-嘈	coux
+嘈	coux	10%
 嶆	coux
 漕	coux
 㜖	coux
-槽	coux
+槽	coux	9%
 䐬	coux
 䄚	coux
 㯥	coux
@@ -4325,7 +4325,7 @@ import_tables:
 尰	cung
 冲	cungj
 充	cungj
-沖	cungj
+沖	cungj	10%
 忡	cungj
 茺	cungj
 㳞	cungj
@@ -4396,7 +4396,7 @@ import_tables:
 傭	cungj
 嫞	cungj
 埇	cungj
-涌	cungj
+涌	cungj	9%
 衷	cungj
 祌	cungj
 鍯	cungj
@@ -4407,7 +4407,7 @@ import_tables:
 䟲	cungj
 𠁨	cungj
 𪻐	cungj
-重	cungq
+重	cungq	10%
 𤭮	cungq
 寵	cungr
 埫	cungr
@@ -4430,7 +4430,7 @@ import_tables:
 瑽	cungx
 从	cungx
 従	cungx
-從	cungx
+從	cungx	10%
 徖	cungx
 淙	cungx
 悰	cungx
@@ -4463,7 +4463,7 @@ import_tables:
 𩃭	cungx
 㞞	cungx
 种	cungx
-重	cungx
+重	cungx	9%
 鬃	cungx
 錝	cungx
 𡨭	cungx
@@ -4472,7 +4472,7 @@ import_tables:
 䖏	cv
 処	cv
 竌	cv
-處	cv
+處	cv	10%
 䦌	cv
 署	cv
 除	cvj
@@ -4485,7 +4485,7 @@ import_tables:
 儲	cvj
 汌	cvn
 玔	cvn
-串	cvn
+串	cvn	10%
 釧	cvn
 賗	cvn
 攛	cvn
@@ -4507,7 +4507,7 @@ import_tables:
 川	cvnj
 巛	cvnj
 氚	cvnj
-穿	cvnj
+穿	cvnj	9%
 剶	cvnj
 䆥	cvnj
 䆤	cvnj
@@ -4518,7 +4518,7 @@ import_tables:
 躥	cvnj
 鑹	cvnj
 邨	cvnj
-村	cvnj
+村	cvnj	10%
 踆	cvnj
 澊	cvnj
 鋑	cvnj
@@ -4553,7 +4553,7 @@ import_tables:
 遄	cvnx
 圌	cvnx
 椽	cvnx
-傳	cvnx
+傳	cvnx	9%
 㯌	cvnx
 暷	cvnx
 篅	cvnx
@@ -4563,7 +4563,7 @@ import_tables:
 櫕	cvnx
 巑	cvnx
 欑	cvnx
-存	cvnx
+存	cvnx	8%
 𨚲	cvnx
 侟	cvnx
 拵	cvnx
@@ -4578,7 +4578,7 @@ import_tables:
 駩	cvnx
 鐉	cvnx
 㒰	cvnx
-全	cvnx
+全	cvnx	10%
 佺	cvnx
 荃	cvnx
 泉	cvnx
@@ -4638,7 +4638,7 @@ import_tables:
 坾	cvq
 杼	cvq
 㑏	cvq
-柱	cvq
+柱	cvq	10%
 砫	cvq
 眝	cvq
 竚	cvq
@@ -4658,14 +4658,14 @@ import_tables:
 楮	cvr
 褚	cvr
 処	cvr
-處	cvr
+處	cvr	10%
 貯	cvr
 啜	cvt
 酫	cvt
 歠	cvt
 猝	cvt
 椊	cvt
-撮	cvt
+撮	cvt	10%
 咄	cvt
 踅	cvt
 茁	cvt
@@ -4699,10 +4699,10 @@ import_tables:
 麆	cvx
 侢	daai
 帯	daai
-帶	daai
+帶	daai	10%
 廗	daai
 㯂	daai
-戴	daai
+戴	daai	9%
 艜	daai
 蹛	daai
 瀻	daai
@@ -4714,7 +4714,7 @@ import_tables:
 𡠹	daai
 𥛣	daai
 𧜵	daai
-大	daaih
+大	daaih	10%
 亣	daaih
 汏	daaih
 㐲	daaih
@@ -4739,7 +4739,7 @@ import_tables:
 傣	daair
 䚞	daair
 䚟	daair
-大	daair
+大	daair	10%
 咑	daaj
 打	daaj
 咑	daakj
@@ -4754,7 +4754,7 @@ import_tables:
 𠵆	daam
 萏	daamh
 啗	daamh
-啖	daamh
+啖	daamh	10%
 淡	daamh
 啿	daamh
 氮	daamh
@@ -4811,7 +4811,7 @@ import_tables:
 胆	daamr
 疸	daamr
 紞	daamr
-膽	daamr
+膽	daamr	10%
 䃫	daamr
 黵	daamr
 繵	daan
@@ -4833,7 +4833,7 @@ import_tables:
 亶	daanh
 撣	daanh
 旦	daanh
-但	daanh
+但	daanh	10%
 泹	daanh
 柦	daanh
 疍	daanh
@@ -4844,7 +4844,7 @@ import_tables:
 僤	daanh
 䩥	daanh
 憚	daanh
-彈	daanh
+彈	daanh	9%
 駳	daanh
 膻	daanh
 弾	daanh
@@ -4857,7 +4857,7 @@ import_tables:
 㣋	daanj
 砃	daanj
 単	daanj
-單	daanj
+單	daanj	10%
 㐤	daanj
 匰	daanj
 鄲	daanj
@@ -4880,7 +4880,7 @@ import_tables:
 彈	daanr
 耷	daap
 畣	daap
-搭	daap
+搭	daap	10%
 𡍲	daap
 嗒	daap
 㿴	daap
@@ -4893,7 +4893,7 @@ import_tables:
 㿯	daap
 匒	daap
 㾑	daap
-答	daap
+答	daap	9%
 溚	daap
 㜓	daap
 㩉	daap
@@ -4907,12 +4907,12 @@ import_tables:
 㯚	daap
 荅	daap
 笚	daap
-沓	daaph
+沓	daaph	10%
 龖	daaph
 龘	daaph
 眔	daaph
 疉	daaph
-疊	daaph
+疊	daaph	8%
 佮	daaph
 蹹	daaph
 䍇	daaph
@@ -4923,7 +4923,7 @@ import_tables:
 遝	daaph
 禢	daaph
 䎓	daaph
-踏	daaph
+踏	daaph	9%
 誻	daaph
 嚃	daaph
 䈳	daaph
@@ -4943,7 +4943,7 @@ import_tables:
 𤦊	daaph
 嗒	daapj
 䐛	daapj
-打	daar
+打	daar	10%
 𡍲	daat
 嗒	daat
 㟷	daat
@@ -4953,7 +4953,7 @@ import_tables:
 怛	daat
 妲	daat
 炟	daat
-笪	daat
+笪	daat	9%
 詚	daat
 靼	daat
 䵣	daat
@@ -4967,10 +4967,10 @@ import_tables:
 𢴈	daat
 嗒	daath
 𡐿	daath
-噠	daath
+噠	daath	9%
 迖	daath
 逹	daath
-達	daath
+達	daath	10%
 薘	daath
 燵	daath
 䃮	daath
@@ -4986,7 +4986,7 @@ import_tables:
 迏	dai
 楴	dai
 怟	dai
-帝	dai
+帝	dai	10%
 梊	dai
 偙	dai
 祶	dai
@@ -5030,7 +5030,7 @@ import_tables:
 娣	daih
 珶	daih
 梊	daih
-第	daih
+第	daih	10%
 釱	daih
 焍	daih
 棣	daih
@@ -5056,7 +5056,7 @@ import_tables:
 𩻸	daih
 氐	daij
 仾	daij
-低	daij
+低	daij	10%
 奃	daij
 彽	daij
 㫝	daij
@@ -5076,10 +5076,10 @@ import_tables:
 阺	dair
 拞	dair
 坻	dair
-抵	dair
+抵	dair	10%
 呧	dair
 䢑	dair
-底	dair
+底	dair	9%
 弤	dair
 柢	dair
 牴	dair
@@ -5098,7 +5098,7 @@ import_tables:
 䏄	dair
 鯳	dair
 鴏	dakh
-特	dakh
+特	dakh	10%
 蟘	dakh
 螣	dakh
 杙	dakh
@@ -5113,17 +5113,17 @@ import_tables:
 䙸	dakj
 㝶	dakj
 恴	dakj
-得	dakj
+得	dakj	10%
 淂	dakj
 惪	dakj
 悳	dakj
 㥁	dakj
 徳	dakj
-德	dakj
+德	dakj	9%
 鍀	dakj
 𦂥	dam
 紞	dam
-髧	dam
+髧	dam	10%
 揼	dam
 𧿒	damh
 𨂽	damh
@@ -5139,7 +5139,7 @@ import_tables:
 沊	damr
 揼	damr
 丼	damr
-抌	damr
+抌	damr	10%
 㱽	damr
 氹	damx
 榃	damx
@@ -5151,7 +5151,7 @@ import_tables:
 蹾	dan
 橙	dang
 隥	dang
-凳	dang
+凳	dang	10%
 墱	dang
 嶝	dang
 磴	dang
@@ -5160,19 +5160,19 @@ import_tables:
 䠬	dang
 澄	dangh
 蹬	dangh
-戥	dangh
-鄧	dangh
+戥	dangh	10%
+鄧	dangh	9%
 瞪	dangh
 䮴	dangh
 霯	dangh
-登	dangj
+登	dangj	10%
 豋	dangj
 㔁	dangj
 䔲	dangj
 噔	dangj
 嬁	dangj
 璒	dangj
-燈	dangj
+燈	dangj	9%
 㽅	dangj
 㲪	dangj
 竳	dangj
@@ -5188,9 +5188,9 @@ import_tables:
 䗳	dangj
 䒭	dangr
 䓁	dangr
-等	dangr
+等	dangr	10%
 戥	dangr
-鄧	dangr
+鄧	dangr	9%
 扽	danh
 燉	danh
 伅	danh
@@ -5205,9 +5205,9 @@ import_tables:
 躉	danr
 𣎴	danr
 𧄌	danr
-撴	danr
+撴	danr	10%
 撘	daph
-𢱕	daph
+𢱕	daph	10%
 揼	daph
 㧺	daph
 𠳖	daph
@@ -5219,7 +5219,7 @@ import_tables:
 怢	dath
 宊	dath
 蟘	dath
-凸	dath
+凸	dath	10%
 突	dath
 捸	dath
 堗	dath
@@ -5237,11 +5237,11 @@ import_tables:
 犆	dath
 㷝	dath
 䃐	dath
-𠱂	datj
+𠱂	datj	10%
 腯	datj
 巢	dau
 斗	dau
-鬥	dau
+鬥	dau	9%
 閗	dau
 䬦	dau
 鬦	dau
@@ -5249,14 +5249,14 @@ import_tables:
 斣	dau
 闘	dau
 鬪	dau
-竇	dau
+竇	dau	10%
 鬭	dau
 鬬	dau
 𢭃	dau
-豆	dauh
+豆	dauh	10%
 郖	dauh
 荳	dauh
-逗	dauh
+逗	dauh	9%
 㢄	dauh
 浢	dauh
 㛒	dauh
@@ -5281,7 +5281,7 @@ import_tables:
 吺	dauj
 唗	dauj
 㿡	dauj
-兜	dauj
+兜	dauj	10%
 兠	dauj
 㨮	dauj
 蔸	dauj
@@ -5313,16 +5313,16 @@ import_tables:
 㺶	daur
 䢏	daur
 𣁾	daur
-地	deih
+地	deih	9%
 坔	deih
 埊	deih
 墬	deih
 嶳	deih
-哋	deih
+哋	deih	10%
 哋	deir
-地	deir
-爹	dej
-趯	dek
+地	deir	10%
+爹	dej	10%
+趯	dek	10%
 笛	dekh
 篴	dekh
 䨀	dekh
@@ -5330,24 +5330,24 @@ import_tables:
 糴	dekh
 笛	dekr
 訂	deng
-掟	deng
+掟	deng	10%
 地	dengh
-埞	dengh
+埞	dengh	9%
 埊	dengh
 定	dengh
-訂	dengh
+訂	dengh	10%
 掟	dengh
 盯	dengj
 疔	dengj
-釘	dengj
-頂	dengr
+釘	dengj	10%
+頂	dengr	10%
 兊	deoi
 兌	deoi
 対	deoi
 兑	deoi
 祋	deoi
 碓	deoi
-對	deoi
+對	deoi	10%
 𡭊	deoi
 憝	deoi
 䨴	deoi
@@ -5364,7 +5364,7 @@ import_tables:
 㙂	deoih
 㟋	deoih
 陮	deoih
-隊	deoih
+隊	deoih	10%
 綐	deoih
 䬈	deoih
 憝	deoih
@@ -5390,7 +5390,7 @@ import_tables:
 垖	deoij
 𣳨	deoij
 㕍	deoij
-堆	deoij
+堆	deoij	10%
 塠	deoij
 嵟	deoij
 痽	deoij
@@ -5403,9 +5403,9 @@ import_tables:
 敦	deoij
 追	deoij
 埻	deoij
-㨃	deoir
+㨃	deoir	10%
 頧	deoir
-隊	deoir
+隊	deoir	9%
 䇏	deoir
 𦞙	deoir
 𢵌	deoir
@@ -5425,7 +5425,7 @@ import_tables:
 𥫱	deonh
 䤜	deonh
 遁	deonh
-鈍	deonh
+鈍	deonh	10%
 頓	deonh
 遯	deonh
 潡	deonh
@@ -5463,13 +5463,13 @@ import_tables:
 胐	deotj
 嗒	depj
 襶	der
-嗲	der
-掉	deuh
+嗲	der	10%
+掉	deuh	10%
 調	deuh
 嗲	dex
-啲	dij
+啲	dij	10%
 踧	dikh
-滴	dikh
+滴	dikh	10%
 鍉	dikh
 廸	dikh
 狄	dikh
@@ -5507,7 +5507,7 @@ import_tables:
 逐	dikh
 𢣷	dikh
 𣶻	dikh
-的	dikj
+的	dikj	10%
 滴	dikj
 鍉	dikj
 靮	dikj
@@ -5536,12 +5536,12 @@ import_tables:
 樀	dikj
 㠃	dikj
 𢯊	dikj
-掂	dim
+掂	dim	9%
 踮	dim
 㓠	dim
 阽	dim
 坫	dim
-店	dim
+店	dim	10%
 玷	dim
 扂	dim
 惦	dim
@@ -5552,7 +5552,7 @@ import_tables:
 磹	dim
 𥺦	dim
 敁	dimh
-掂	dimh
+掂	dimh	10%
 𠶧	dimh
 扂	dimh
 㼭	dimh
@@ -5565,7 +5565,7 @@ import_tables:
 蒧	dimr
 踮	dimr
 㸃	dimr
-點	dimr
+點	dimr	10%
 嚸	dimr
 玷	dimr
 跕	dimr
@@ -5576,7 +5576,7 @@ import_tables:
 蒂	ding
 蔕	ding
 矴	ding
-定	ding
+定	ding	10%
 訂	ding
 飣	ding
 椗	ding
@@ -5587,14 +5587,14 @@ import_tables:
 顁	ding
 忊	dingh
 㝎	dingh
-定	dingh
+定	dingh	10%
 萣	dingh
 啶	dingh
 腚	dingh
 聢	dingh
 蝊	dingh
 鋌	dingh
-錠	dingh
+錠	dingh	9%
 𠉵	dingh
 訂	dingh
 丁	dingj
@@ -5617,11 +5617,11 @@ import_tables:
 汀	dingj
 㐉	dingj
 䰳	dingj
-打	dingr
+打	dingr	8%
 奵	dingr
 耵	dingr
 酊	dingr
-頂	dingr
+頂	dingr	10%
 鼎	dingr
 㫀	dingr
 鼑	dingr
@@ -5633,14 +5633,14 @@ import_tables:
 顁	dingr
 艼	dingr
 濎	dingr
-定	dingr
+定	dingr	9%
 佃	dinh
 甸	dinh
 淀	dinh
 婝	dinh
 琔	dinh
 奠	dinh
-電	dinh
+電	dinh	10%
 鈿	dinh
 殿	dinh
 墊	dinh
@@ -5666,12 +5666,12 @@ import_tables:
 攧	dinj
 巔	dinj
 巓	dinj
-癲	dinj
+癲	dinj	10%
 齻	dinj
 甸	dinj
 槇	dinj
 㰜	dinj
-典	dinr
+典	dinr	10%
 䓦	dinr
 婰	dinr
 椣	dinr
@@ -5703,7 +5703,7 @@ import_tables:
 牒	diph
 牃	diph
 叠	diph
-碟	diph
+碟	diph	10%
 蜨	diph
 褋	diph
 蝶	diph
@@ -5732,9 +5732,9 @@ import_tables:
 𢶣	diph
 𣜖	diph
 𣿫	diph
-碟	dipr
+碟	dipr	10%
 蝶	dipr
-跌	dit
+跌	dit	10%
 胅	dit
 䫕	dit
 跕	dit
@@ -5799,12 +5799,12 @@ import_tables:
 𢬢	diu
 𣑐	diu
 踔	diuh
-掉	diuh
+掉	diuh	9%
 㪕	diuh
 䂽	diuh
 竨	diuh
 雿	diuh
-調	diuh
+調	diuh	10%
 鑃	diuh
 𦱿	diuh
 蓧	diuh
@@ -5840,15 +5840,15 @@ import_tables:
 鼦	diuj
 鵰	diuj
 鯛	diuj
-丟	diuj
+丟	diuj	10%
 𠲍	diuj
 銩	diuj
 敦	diuj
 鵈	diuj
 扚	diur
-屌	diur
+屌	diur	10%
 鳥	diur
-𨳒	diur
+𨳒	diur	9%
 哋	dix
 癉	do
 埵	do
@@ -5879,9 +5879,9 @@ import_tables:
 琢	doek
 𣄽	doek
 剁	doekj
-啄	doengj
+啄	doengj	10%
 𡁷	doengj
-朵	doer
+朵	doer	10%
 哚	doer
 𡇙	doex
 𣳼	doex
@@ -5905,7 +5905,7 @@ import_tables:
 隋	doh
 馱	doh
 逮	doih
-代	doih
+代	doih	10%
 甙	doih
 䒫	doih
 𠰺	doih
@@ -5916,10 +5916,10 @@ import_tables:
 玳	doih
 殆	doih
 柋	doih
-待	doih
+待	doih	9%
 怠	doih
 埭	doih
-袋	doih
+袋	doih	8%
 𥿝	doih
 𦨮	doih
 紿	doih
@@ -5942,15 +5942,15 @@ import_tables:
 詒	doih
 酨	doih
 㭖	doih
-袋	doir
-多	doj
+袋	doir	10%
+多	doj	10%
 夛	doj
 茤	doj
 哆	doj
 崜	doj
 跢	doj
 𤥀	doj
-度	dokh
+度	dokh	10%
 剫	dokh
 喥	dokh
 鈬	dokh
@@ -5959,9 +5959,9 @@ import_tables:
 䐾	dokh
 鐸	dokh
 襗	dokh
-當	dong
+當	dong	10%
 擋	dong
-檔	dong
+檔	dong	9%
 攩	dong
 儅	dong
 礑	dong
@@ -5988,7 +5988,7 @@ import_tables:
 潒	dongh
 崵	dongh
 瑒	dongh
-當	dongj
+當	dongj	10%
 噹	dongj
 澢	dongj
 璫	dongj
@@ -6005,7 +6005,7 @@ import_tables:
 党	dongr
 擋	dongr
 檔	dongr
-黨	dongr
+黨	dongr	10%
 䣣	dongr
 攩	dongr
 灙	dongr
@@ -6017,7 +6017,7 @@ import_tables:
 𫽮	dongr
 奲	dor
 哆	dor
-朵	dor
+朵	dor	10%
 朶	dor
 垛	dor
 挆	dor
@@ -6050,11 +6050,11 @@ import_tables:
 䑮	dor
 秅	dou
 捯	dou
-到	dou
+到	dou	10%
 倒	dou
 菿	dou
 椡	dou
-道	dou
+道	dou	9%
 衜	dou
 妒	dou
 妬	dou
@@ -6070,10 +6070,10 @@ import_tables:
 箌	dou
 䑒	dou
 幬	douh
-導	douh
+導	douh	7%
 蹈	douh
 悼	douh
-道	douh
+道	douh	9%
 盜	douh
 稲	douh
 翢	douh
@@ -6092,8 +6092,8 @@ import_tables:
 纛	douh
 毒	douh
 芏	douh
-杜	douh
-度	douh
+杜	douh	8%
+度	douh	10%
 荰	douh
 秺	douh
 靯	douh
@@ -6109,7 +6109,7 @@ import_tables:
 㘏	douh
 刂	douj
 裯	douj
-刀	douj
+刀	douj	9%
 叨	douj
 忉	douj
 朷	douj
@@ -6118,7 +6118,7 @@ import_tables:
 釖	douj
 魛	douj
 鳭	douj
-都	douj
+都	douj	10%
 嘟	douj
 醏	douj
 闍	douj
@@ -6141,8 +6141,8 @@ import_tables:
 禱	dour
 㿒	dour
 䮻	dour
-到	dour
-倒	dour
+到	dour	10%
+倒	dour	8%
 菿	dour
 艔	dour
 堵	dour
@@ -6151,17 +6151,17 @@ import_tables:
 䀾	dour
 睹	dour
 覩	dour
-賭	dour
+賭	dour	9%
 𡷊	dour
-度	dour
+度	dour	7%
 纛	dukh
 竇	dukh
-毒	dukh
+毒	dukh	9%
 㾄	dukh
 涜	dukh
 䓯	dukh
 読	dukh
-獨	dukh
+獨	dukh	8%
 匵	dukh
 凟	dukh
 䢱	dukh
@@ -6180,7 +6180,7 @@ import_tables:
 髑	dukh
 豄	dukh
 贕	dukh
-讀	dukh
+讀	dukh	10%
 韣	dukh
 䮷	dukh
 鑟	dukh
@@ -6198,7 +6198,7 @@ import_tables:
 剢	dukj
 㞘	dukj
 督	dukj
-毒	dukj
+毒	dukj	9%
 𧰵	dukj
 裻	dukj
 錖	dukj
@@ -6206,14 +6206,14 @@ import_tables:
 篤	dukj
 突	dukj
 𡰪	dukj
-㧻	dukj
+㧻	dukj	10%
 𢽴	dukj
 䐁	dukj
 叾	dukj
 涿	dukj
 涷	dung
 蝀	dung
-凍	dung
+凍	dung	10%
 崠	dung
 棟	dung
 㼯	dung
@@ -6228,14 +6228,14 @@ import_tables:
 迵	dungh
 峒	dungh
 峝	dungh
-洞	dungh
+洞	dungh	8%
 恫	dungh
 姛	dungh
 戙	dungh
 胴	dungh
 硐	dungh
-動	dungh
-棟	dungh
+動	dungh	10%
+棟	dungh	9%
 湩	dungh
 䞒	dungh
 働	dungh
@@ -6250,9 +6250,9 @@ import_tables:
 蚛	dungh
 騆	dungh
 㷲	dungh
-冬	dungj
+冬	dungj	9%
 苳	dungj
-東	dungj
+東	dungj	10%
 咚	dungj
 㚵	dungj
 㫡	dungj
@@ -6290,7 +6290,7 @@ import_tables:
 箽	dungr
 諌	dungr
 𣿅	dungr
-懂	dungr
+懂	dungr	9%
 嬞	dungr
 𢤦	dungr
 䵔	dungr
@@ -6298,7 +6298,7 @@ import_tables:
 畽	dungr
 踵	dungr
 㯵	dungr
-洞	dungr
+洞	dungr	10%
 踹	dvn
 瑖	dvn
 腶	dvn
@@ -6306,7 +6306,7 @@ import_tables:
 碫	dvn
 鍛	dvn
 斷	dvn
-段	dvnh
+段	dvnh	10%
 塅	dvnh
 葮	dvnh
 椴	dvnh
@@ -6316,7 +6316,7 @@ import_tables:
 縀	dvnh
 毈	dvnh
 鍛	dvnh
-斷	dvnh
+斷	dvnh	9%
 躖	dvnh
 籪	dvnh
 𦀩	dvnh
@@ -6325,10 +6325,10 @@ import_tables:
 偳	dvnj
 㟨	dvnj
 媏	dvnj
-端	dvnj
+端	dvnj	10%
 褍	dvnj
 鍴	dvnj
-短	dvnr
+短	dvnr	10%
 掇	dvt
 㔢	dvt
 炪	dvt
@@ -6348,23 +6348,23 @@ import_tables:
 咄	dvtj
 腯	dvtj
 𡁯	dvtj
-嘟	dutj
+嘟	dutj	10%
 捋	lvtj
-誒	eh
+誒	eh	10%
 㖡	eh
-誒	eij
-誒	eir
+誒	eij	10%
+誒	eir	9%
 誒	eix
-誒	er
+誒	er	10%
 誒	eih
 欸	eih
-欸	eiq
-欸	eir
-欸	eix
+欸	eiq	10%
+欸	eir	10%
+欸	eix	10%
 欸	er
 𡃀	ex
 魤	faa
-化	faa
+化	faa	10%
 划	faa
 杹	faa
 諣	faa
@@ -6376,10 +6376,10 @@ import_tables:
 蒯	faai
 圦	faai
 凷	faai
-快	faai
+快	faai	10%
 㙕	faai
-塊	faai
-筷	faai
+塊	faai	9%
+筷	faai	8%
 墤	faai
 䈛	faai
 傀	faai
@@ -6389,7 +6389,7 @@ import_tables:
 喟	faai
 嬇	faai
 𫂈	faai
-花	faaj
+花	faaj	10%
 芲	faaj
 埖	faaj
 㳸	faaj
@@ -6411,7 +6411,7 @@ import_tables:
 奿	faan
 汎	faan
 䒦	faan
-泛	faan
+泛	faan	10%
 㤆	faan
 畈	faan
 䀀	faan
@@ -6424,20 +6424,20 @@ import_tables:
 嬔	faan
 婏	faan
 娩	faan
-瓣	faanh
+瓣	faanh	9%
 閞	faanh
 帆	faanh
 樊	faanh
 礬	faanh
 蠜	faanh
-犯	faanh
+犯	faanh	7%
 㕨	faanh
 范	faanh
 軓	faanh
 訉	faanh
 梵	faanh
 笵	faanh
-飯	faanh
+飯	faanh	10%
 飰	faanh
 軬	faanh
 滼	faanh
@@ -6451,7 +6451,7 @@ import_tables:
 僠	faanj
 犿	faanj
 㴀	faanj
-番	faanj
+番	faanj	9%
 勫	faanj
 蕃	faanj
 幡	faanj
@@ -6469,7 +6469,7 @@ import_tables:
 繙	faanj
 反	faanj
 𢓉	faanj
-返	faanj
+返	faanj	10%
 畨	faanj
 拚	faanj
 販	faanr
@@ -6480,7 +6480,7 @@ import_tables:
 坂	faanr
 岅	faanr
 橎	faanr
-反	faanr
+反	faanr	9%
 払	faanr
 仮	faanr
 返	faanr
@@ -6488,9 +6488,9 @@ import_tables:
 䡊	faanr
 䛀	faanr
 𠆩	faanr
-犯	faanr
+犯	faanr	10%
 㠶	faanx
-帆	faanx
+帆	faanx	8%
 忛	faanx
 勫	faanx
 蕃	faanx
@@ -6500,7 +6500,7 @@ import_tables:
 䬚	faanx
 凣	faanx
 凢	faanx
-凡	faanx
+凡	faanx	9%
 杋	faanx
 匥	faanx
 柉	faanx
@@ -6512,7 +6512,7 @@ import_tables:
 棥	faanx
 䭵	faanx
 䋣	faanx
-煩	faanx
+煩	faanx	10%
 䋦	faanx
 緐	faanx
 墦	faanx
@@ -6542,7 +6542,7 @@ import_tables:
 鷭	faanx
 氾	faanx
 汎	faanx
-泛	faanh
+泛	faanh	8%
 軓	faanx
 梵	faanx
 𥐥	faanx
@@ -6554,10 +6554,10 @@ import_tables:
 𢖾	faanx
 沷	faat
 発	faat
-發	faat
+發	faat	10%
 彂	faat
 佱	faat
-法	faat
+法	faat	9%
 㳒	faat
 砝	faat
 䂲	faat
@@ -6567,7 +6567,7 @@ import_tables:
 琺	faat
 㛲	faat
 髪	faat
-髮	faat
+髮	faat	8%
 𧬋	faat
 䰋	faat
 蕟	faat
@@ -6578,7 +6578,7 @@ import_tables:
 胇	fai
 芾	fai
 杮	fai
-肺	fai
+肺	fai	9%
 狒	fai
 沸	fai
 昲	fai
@@ -6588,7 +6588,7 @@ import_tables:
 疿	fai
 䛍	fai
 廃	fai
-費	fai
+費	fai	10%
 痱	fai
 䠊	fai
 㵒	fai
@@ -6611,7 +6611,7 @@ import_tables:
 淝	faih
 蜰	faih
 胇	faih
-吠	faih
+吠	faih	10%
 㔗	faih
 狒	faih
 剕	faih
@@ -6637,7 +6637,7 @@ import_tables:
 煇	faij
 禈	faij
 幑	faij
-輝	faij
+輝	faij	10%
 噅	faij
 噕	faij
 麾	faij
@@ -6666,7 +6666,7 @@ import_tables:
 痱	fair
 焚	fan
 鐼	fan
-瞓	fan
+瞓	fan	9%
 𡊄	fan
 僨	fan
 奮	fan
@@ -6677,19 +6677,19 @@ import_tables:
 睏	fan
 拚	fan
 熏	fan
-訓	fan
+訓	fan	10%
 鑂	fan
-揈	fangx
-分	fanh
-份	fanh
+揈	fangx	10%
+分	fanh	9%
+份	fanh	10%
 坋	fanh
-忿	fanh
+忿	fanh	8%
 秎	fanh
 㿎	fanh
 玢	fanj
 砏	fanj
-分	fanj
-芬	fanj
+分	fanj	10%
+芬	fanj	8%
 吩	fanj
 帉	fanj
 㤋	fanj
@@ -6717,7 +6717,7 @@ import_tables:
 㖧	fanj
 涽	fanj
 惛	fanj
-婚	fanj
+婚	fanj	9%
 䎜	fanj
 葷	fanj
 棔	fanj
@@ -6790,11 +6790,11 @@ import_tables:
 歕	fanq
 牝	fanq
 𡚒	fanq
-粉	fanr
+粉	fanr	10%
 㥹	fanr
 黺	fanr
 忿	fanr
-份	fanr
+份	fanr	9%
 頒	fanx
 賁	fanx
 𡌂	fanx
@@ -6858,7 +6858,7 @@ import_tables:
 傠	fath
 䣹	fath
 閥	fath
-罰	fath
+罰	fath	9%
 瞂	fath
 罸	fath
 藅	fath
@@ -6867,7 +6867,7 @@ import_tables:
 坲	fath
 梻	fath
 甶	fath
-佛	fath
+佛	fath	10%
 刜	fath
 咈	fath
 岪	fath
@@ -6945,7 +6945,7 @@ import_tables:
 堀	fatj
 崫	fatj
 䯇	fatj
-窟	fatj
+窟	fatj	10%
 㵠	fatj
 𦡆	fatj
 㺀	fatj
@@ -6980,7 +6980,7 @@ import_tables:
 不	faur
 紑	faur
 缶	faur
-否	faur
+否	faur	10%
 妚	faur
 𠳝	faur
 缻	faur
@@ -7031,8 +7031,8 @@ import_tables:
 榌	feij
 𦴧	feij
 妃	feij
-非	feij
-飛	feij
+非	feij	10%
+飛	feij	9%
 菲	feij
 𩇫	feij
 婓	feij
@@ -7086,7 +7086,7 @@ import_tables:
 膹	feir
 𦻔	feir
 婓	feix
-肥	feix
+肥	feix	10%
 淝	feix
 腓	feix
 䈈	feix
@@ -7094,22 +7094,22 @@ import_tables:
 蟦	feix
 萉	feix
 痱	feix
-啡	fej
+啡	fej	10%
 𠱥	fikj
 弗	fikj
-捹	fingh
-揈	fingh
+捹	fingh	9%
+揈	fingh	10%
 𢝵	fitj
 𢞵	fitj
 覅	fiu
 沎	fo
-貨	fo
+貨	fo	10%
 嗀	fo
 稞	fo
 顆	fo
 敤	fo
 堁	fo
-課	fo
+課	fo	9%
 錁	fo
 騍	fo
 㾧	fo
@@ -7119,7 +7119,7 @@ import_tables:
 㸯	foj
 㸱	foj
 㸰	foj
-科	foj
+科	foj	10%
 萪	foj
 棵	foj
 嵙	foj
@@ -7139,7 +7139,7 @@ import_tables:
 㺢	fok
 漷	fok
 䁨	fok
-霍	fok
+霍	fok	10%
 矆	fok
 藿	fok
 瀖	fok
@@ -7169,7 +7169,7 @@ import_tables:
 瞿	fok
 蠼	fok
 趽	fong
-放	fong
+放	fong	10%
 况	fong
 岲	fong
 況	fong
@@ -7179,12 +7179,12 @@ import_tables:
 𧵦	fong
 兄	fong
 况	fong
-䢍	fongh
+䢍	fongh	10%
 匚	fongj
-方	fongj
+方	fongj	9%
 邡	fongj
 坊	fongj
-芳	fongj
+芳	fongj	8%
 汸	fongj
 枋	fongj
 牥	fongj
@@ -7207,7 +7207,7 @@ import_tables:
 衁	fongj
 䀮	fongj
 塃	fongj
-慌	fongj
+慌	fongj	10%
 㬻	fongj
 䐠	fongj
 㵁	fongj
@@ -7264,17 +7264,17 @@ import_tables:
 彷	fongr
 𣆤	fongr
 𣆥	fongr
-房	fongr
+房	fongr	10%
 坊	fongx
 防	fongx
 妨	fongx
-房	fongx
+房	fongx	10%
 埅	fongx
 堏	fongx
 魴	fongx
 鰟	fongx
 吙	for
-火	for
+火	for	10%
 伙	for
 邩	for
 鈥	for
@@ -7295,9 +7295,9 @@ import_tables:
 㤱	fu
 陚	fu
 䞜	fu
-副	fu
+副	fu	10%
 冨	fu
-富	fu
+富	fu	8%
 䞯	fu
 褔	fu
 䝾	fu
@@ -7314,7 +7314,7 @@ import_tables:
 嘑	fu
 戽	fu
 秙	fu
-庫	fu
+庫	fu	9%
 袴	fu
 絝	fu
 瘔	fu
@@ -7340,7 +7340,7 @@ import_tables:
 㤔	fuh
 赴	fuh
 䟔	fuh
-負	fuh
+負	fuh	9%
 訃	fuh
 祔	fuh
 䂤	fuh
@@ -7351,7 +7351,7 @@ import_tables:
 偩	fuh
 萯	fuh
 秿	fuh
-傅	fuh
+傅	fuh	10%
 䠵	fuh
 詂	fuh
 䭸	fuh
@@ -7382,7 +7382,7 @@ import_tables:
 頮	fui
 𡟇	fui
 𡟼	fui
-灰	fuij
+灰	fuij	10%
 拻	fuij
 㞀	fuij
 虺	fuij
@@ -7424,7 +7424,7 @@ import_tables:
 枹	fuj
 䑧	fuj
 惡	fuj
-夫	fuj
+夫	fuj	10%
 邞	fuj
 伕	fuj
 呋	fuj
@@ -7527,7 +7527,7 @@ import_tables:
 㓫	fuj
 𠬝	fukh
 伏	fukh
-服	fukh
+服	fukh	9%
 垘	fukh
 茯	fukh
 洑	fukh
@@ -7550,7 +7550,7 @@ import_tables:
 鵩	fukh
 复	fukh
 㚆	fukh
-復	fukh
+復	fukh	10%
 椱	fukh
 蕧	fukh
 㬼	fukh
@@ -7564,8 +7564,8 @@ import_tables:
 愎	fukj
 畐	fukj
 葍	fukj
-幅	fukj
-福	fukj
+幅	fukj	10%
+福	fukj	9%
 稪	fukj
 蝠	fukj
 䋹	fukj
@@ -7579,13 +7579,13 @@ import_tables:
 㙏	fukj
 覄	fukj
 復	fukj
-腹	fukj
+腹	fukj	8%
 複	fukj
 蝮	fukj
 輹	fukj
 鍢	fukj
 鍑	fukj
-覆	fukj
+覆	fukj	7%
 䫝	fukj
 馥	fukj
 䨱	fukj
@@ -7604,7 +7604,7 @@ import_tables:
 捀	fungh
 縫	fungh
 唪	fungh
-奉	fungh
+奉	fungh	10%
 甮	fungh
 俸	fungh
 湗	fungh
@@ -7627,9 +7627,9 @@ import_tables:
 凬	fungj
 妦	fungj
 凮	fungj
-封	fungj
+封	fungj	10%
 盽	fungj
-風	fungj
+風	fungj	9%
 峯	fungj
 峰	fungj
 㛔	fungj
@@ -7698,7 +7698,7 @@ import_tables:
 浲	fungx
 堸	fungx
 舽	fungx
-馮	fungx
+馮	fungx	9%
 溄	fungx
 渢	fungx
 摓	fungx
@@ -7707,7 +7707,7 @@ import_tables:
 㦀	fungx
 綘	fungx
 䙜	fungx
-縫	fungx
+縫	fungx	10%
 㵯	fungx
 䩼	fungx
 㻱	fungx
@@ -7720,7 +7720,7 @@ import_tables:
 嚾	funj
 獾	funj
 懽	funj
-歡	funj
+歡	funj	10%
 䝔	funj
 貛	funj
 讙	funj
@@ -7735,7 +7735,7 @@ import_tables:
 雚	funr
 梡	funr
 欵	funr
-款	funr
+款	funr	10%
 歀	funr
 䕀	funr
 㯘	funr
@@ -7743,7 +7743,7 @@ import_tables:
 窾	funr
 䥗	funr
 䲌	funr
-婦	fuq
+婦	fuq	10%
 萯	fuq
 媍	fuq
 父	fuq
@@ -7753,7 +7753,7 @@ import_tables:
 拊	fur
 㓡	fur
 斧	fur
-府	fur
+府	fur	10%
 弣	fur
 郙	fur
 俯	fur
@@ -7790,7 +7790,7 @@ import_tables:
 滸	fur
 錿	fur
 鯱	fur
-苦	fur
+苦	fur	9%
 䇢	fur
 楛	fur
 瘔	fur
@@ -7809,10 +7809,10 @@ import_tables:
 䦚	fut
 蛞	fut
 䦢	fut
-闊	fut
+闊	fut	10%
 濶	fut
 夫	fux
-扶	fux
+扶	fux	10%
 芙	fux
 苻	fux
 枎	fux
@@ -7834,17 +7834,17 @@ import_tables:
 虖	fux
 乥	fux
 乯	fux
-㗎	gaa
+㗎	gaa	10%
 加	gaa
-假	gaa
+假	gaa	8%
 賈	gaa
 瘕	gaa
 价	gaa
-架	gaa
+架	gaa	9%
 𢱌	gaa
-㗎	gaa
+㗎	gaa	10%
 幏	gaa
-嫁	gaa
+嫁	gaa	7%
 榢	gaa
 稼	gaa
 價	gaa
@@ -7864,8 +7864,8 @@ import_tables:
 鶛	gaai
 觧	gaai
 解	gaai
-介	gaai
-戒	gaai
+介	gaai	9%
+戒	gaai	8%
 芥	gaai
 吤	gaai
 㠹	gaai
@@ -7876,7 +7876,7 @@ import_tables:
 玠	gaai
 屆	gaai
 砎	gaai
-界	gaai
+界	gaai	10%
 畍	gaai
 疥	gaai
 衸	gaai
@@ -7906,16 +7906,16 @@ import_tables:
 艐	gaai
 㖋	gaai
 㖎	gaai
-𠝹	gaai
+𠝹	gaai	7%
 裓	gaaij
-佳	gaaij
-皆	gaaij
+佳	gaaij	9%
+皆	gaaij	8%
 秸	gaaij
 痎	gaaij
 階	gaaij
 堦	gaaij
 喈	gaaij
-街	gaaij
+街	gaaij	10%
 湝	gaaij
 媘	gaaij
 煯	gaaij
@@ -7933,14 +7933,14 @@ import_tables:
 𥟠	gaaij
 𣾂	gaaij
 觧	gaair
-解	gaair
+解	gaair	10%
 檞	gaair
 癿	gaaj
 伽	gaaj
 噶	gaaj
 尕	gaaj
 鴚	gaaj
-加	gaaj
+加	gaaj	10%
 㹢	gaaj
 泇	gaaj
 㚙	gaaj
@@ -7950,7 +7950,7 @@ import_tables:
 毠	gaaj
 𥑆	gaaj
 痂	gaaj
-家	gaaj
+家	gaaj	9%
 䂟	gaaj
 耞	gaaj
 笳	gaaj
@@ -7996,7 +7996,7 @@ import_tables:
 肐	gaak
 胳	gaak
 袼	gaak
-𠺝	gaak
+𠺝	gaak	10%
 挌	gaak
 革	gaak
 茖	gaak
@@ -8007,7 +8007,7 @@ import_tables:
 㗆	gaak
 蛒	gaak
 愅	gaak
-隔	gaak
+隔	gaak	9%
 塥	gaak
 嗝	gaak
 䐙	gaak
@@ -8047,7 +8047,7 @@ import_tables:
 魐	gaamj
 䛓	gaamj
 椷	gaamj
-監	gaamj
+監	gaamj	10%
 緘	gaamj
 䌠	gaamj
 礛	gaamj
@@ -8059,8 +8059,8 @@ import_tables:
 玪	gaamj
 煘	gaamr
 减	gaamr
-減	gaamr
-間	gaan
+減	gaamr	10%
+間	gaan	10%
 覸	gaan
 襇	gaan
 襉	gaan
@@ -8088,13 +8088,13 @@ import_tables:
 䎴	gaangj
 更	gaangj
 粳	gaangj
-奸	gaanj
+奸	gaanj	9%
 姧	gaanj
-姦	gaanj
+姦	gaanj	8%
 菅	gaanj
 䓸	gaanj
 葌	gaanj
-間	gaanj
+間	gaanj	10%
 蕳	gaanj
 蕑	gaanj
 艱	gaanj
@@ -8114,7 +8114,7 @@ import_tables:
 挸	gaanr
 梘	gaanr
 趼	gaanr
-揀	gaanr
+揀	gaanr	10%
 堿	gaanr
 暕	gaanr
 筧	gaanr
@@ -8154,7 +8154,7 @@ import_tables:
 裌	gaap
 筴	gaap
 㕅	gaap
-夾	gaap
+夾	gaap	10%
 郟	gaap
 莢	gaap
 唊	gaap
@@ -8189,18 +8189,18 @@ import_tables:
 嘏	gaar
 叚	gaar
 斚	gaar
-假	gaar
+假	gaar	9%
 斝	gaar
 徦	gaar
 婽	gaar
 椵	gaar
-賈	gaar
+賈	gaar	7%
 榎	gaar
 䑝	gaar
 瘕	gaar
-𠿪	gaar
+𠿪	gaar	6%
 檟	gaar
-㗎	gaar
+㗎	gaar	10%
 夏	gaar
 呷	gaat
 嘎	gaat
@@ -8225,18 +8225,18 @@ import_tables:
 挍	gaau
 珓	gaau
 窌	gaau
-教	gaau
+教	gaau	10%
 窖	gaau
-較	gaau
+較	gaau	9%
 滘	gaau
 斠	gaau
 酵	gaau
 漖	gaau
-覺	gaau
-校	gaau
+覺	gaau	8%
+校	gaau	7%
 艽	gaauj
-交	gaauj
-郊	gaauj
+交	gaauj	10%
+郊	gaauj	8%
 茭	gaauj
 峧	gaauj
 䢒	gaauj
@@ -8245,7 +8245,7 @@ import_tables:
 蛟	gaauj
 䍊	gaauj
 跤	gaauj
-膠	gaauj
+膠	gaauj	9%
 鮫	gaauj
 轇	gaauj
 㶀	gaauj
@@ -8255,7 +8255,7 @@ import_tables:
 詨	gaauj
 䕧	gaauj
 咬	gaauj
-搞	gaaur
+搞	gaaur	10%
 虠	gaaur
 㚣	gaaur
 姣	gaaur
@@ -8272,12 +8272,12 @@ import_tables:
 絞	gaaur
 賋	gaaur
 鉸	gaaur
-餃	gaaur
+餃	gaaur	8%
 撹	gaaur
 皦	gaaur
 㩭	gaaur
 䀊	gaaur
-攪	gaaur
+攪	gaaur	9%
 灚	gaaur
 敥	gaaur
 㗎	gaax
@@ -8285,7 +8285,7 @@ import_tables:
 彐	gai
 彑	gai
 峜	gai
-計	gai
+計	gai	10%
 䦇	gai
 紒	gai
 葪	gai
@@ -8300,7 +8300,7 @@ import_tables:
 繫	gai
 蘮	gai
 瀱	gai
-繼	gai
+繼	gai	9%
 蘻	gai
 丯	gai
 瞉	gai
@@ -8318,12 +8318,12 @@ import_tables:
 鳮	gaij
 㮷	gaij
 銈	gaij
-雞	gaij
+雞	gaij	10%
 鶏	gaij
 鷄	gaij
 結	gaij
-計	gair
-偈	gair
+計	gair	9%
+偈	gair	10%
 呄	gakj
 汵	gam
 凎	gam
@@ -8335,9 +8335,9 @@ import_tables:
 贛	gam
 灨	gam
 贑	gam
-咁	gam
+咁	gam	10%
 紟	gam
-禁	gam
+禁	gam	9%
 僸	gam
 噤	gam
 㯲	gam
@@ -8357,7 +8357,7 @@ import_tables:
 鈙	gamh
 㩒	gamh
 搇	gamh
-撳	gamh
+撳	gamh	10%
 甘	gamj
 苷	gamj
 泔	gamj
@@ -8369,8 +8369,8 @@ import_tables:
 䇞	gamj
 粓	gamj
 𤯌	gamj
-今	gamj
-金	gamj
+今	gamj	9%
+金	gamj	10%
 衿	gamj
 紟	gamj
 惍	gamj
@@ -8385,16 +8385,16 @@ import_tables:
 菳	gamj
 媣	gamj
 㲐	gamj
-噉	gamr
-敢	gamr
-感	gamr
+噉	gamr	10%
+敢	gamr	9%
+感	gamr	8%
 澉	gamr
-橄	gamr
+橄	gamr	6%
 䃭	gamr
 鱤	gamr
 䤗	gamr
 鰔	gamr
-錦	gamr
+錦	gamr	7%
 鏱	gamr
 䧩	gamr
 𡄎	gamr
@@ -8415,7 +8415,7 @@ import_tables:
 龩	gan
 揯	gang
 緪	gang
-更	gang
+更	gang	10%
 堩	gang
 暅	gang
 恆	gang
@@ -8438,7 +8438,7 @@ import_tables:
 縆	gangj
 緪	gangj
 鶊	gangj
-羹	gangj
+羹	gangj	10%
 更	gangj
 恆	gangj
 絙	gangj
@@ -8459,7 +8459,7 @@ import_tables:
 哽	gangr
 峺	gangr
 䋁	gangr
-梗	gangr
+梗	gangr	10%
 𣆳	gangr
 㾘	gangr
 𬒔	gangr
@@ -8480,21 +8480,21 @@ import_tables:
 廑	ganh
 瑾	ganh
 饉	ganh
-近	ganh
+近	ganh	10%
 墐	ganh
 歏	ganh
 殣	ganh
 覲	ganh
 𦶠	ganj
-根	ganj
-跟	ganj
+根	ganj	8%
+跟	ganj	10%
 哏	ganj
 巾	ganj
-斤	ganj
+斤	ganj	9%
 䘜	ganj
 荕	ganj
 觔	ganj
-筋	ganj
+筋	ganj	7%
 䈥	ganj
 䈽	ganj
 䤺	ganj
@@ -8508,9 +8508,9 @@ import_tables:
 堇	ganr
 菫	ganr
 厪	ganr
-僅	ganr
+僅	ganr	9%
 蓳	ganr
-緊	ganr
+緊	ganr	10%
 廑	ganr
 漌	ganr
 嫤	ganr
@@ -8519,7 +8519,7 @@ import_tables:
 槿	ganr
 㹏	ganr
 䌍	ganr
-謹	ganr
+謹	ganr	8%
 饉	ganr
 墐	ganr
 殣	ganr
@@ -8549,7 +8549,7 @@ import_tables:
 頜	gap
 夾	gap
 敆	gap
-𥄫	gaph
+𥄫	gaph	10%
 蓋	gaph
 及	gaph
 岌	gaph
@@ -8564,15 +8564,15 @@ import_tables:
 㤂	gapj
 㽺	gapj
 叝	gapj
-急	gapj
+急	gapj	10%
 觙	gapj
 鴿	gapr
 圪	gat
-圪	gath
+圪	gath	9%
 疙	gath
 㔕	gath
 䞘	gath
-趌	gath
+趌	gath	10%
 㡮	gath
 趷	gath
 曱	gath
@@ -8586,14 +8586,14 @@ import_tables:
 虼	gatj
 紇	gatj
 咭	gatj
-吉	gatj
+吉	gatj	10%
 郆	gatj
 佶	gatj
 姞	gatj
 銡	gatj
 㰟	gatj
 鴶	gatj
-拮	gatj
+拮	gatj	9%
 狤	gatj
 詰	gatj
 桔	gatj
@@ -8609,7 +8609,7 @@ import_tables:
 垢	gau
 姤	gau
 够	gau
-夠	gau
+夠	gau	10%
 䝭	gau
 傋	gau
 訽	gau
@@ -8637,7 +8637,7 @@ import_tables:
 㝌	gau
 咎	gau
 疚	gau
-救	gau
+救	gau	9%
 厩	gau
 匓	gau
 㲃	gau
@@ -8649,14 +8649,14 @@ import_tables:
 匶	gau
 捄	gau
 𤨣	gau
-嚿	gauh
+嚿	gauh	10%
 匛	gauh
 㺩	gauh
 柾	gauh
 柩	gauh
 倃	gauh
 䊆	gauh
-舊	gauh
+舊	gauh	9%
 匶	gauh
 鯦	gauh
 𠴰	gauh
@@ -8681,7 +8681,7 @@ import_tables:
 䧱	gauj
 萛	gauj
 䲥	gauj
-鳩	gauj
+鳩	gauj	10%
 摎	gauj
 䲫	gauj
 樛	gauj
@@ -8696,7 +8696,7 @@ import_tables:
 芶	gaur
 苟	gaur
 岣	gaur
-狗	gaur
+狗	gaur	10%
 玽	gaur
 耇	gaur
 耉	gaur
@@ -8712,8 +8712,8 @@ import_tables:
 糺	gaur
 糾	gaur
 赳	gaur
-九	gaur
-久	gaur
+九	gaur	9%
+久	gaur	8%
 乆	gaur
 乣	gaur
 奺	gaur
@@ -8728,8 +8728,8 @@ import_tables:
 粂	gaur
 㐇	gaur
 㶢	gaur
-嘎	gaax
-嘅	ge
+嘎	gaax	10%
+嘅	ge	10%
 穖	gei
 旡	gei
 㒫	gei
@@ -8737,12 +8737,12 @@ import_tables:
 䢎	gei
 計	gei
 洎	gei
-既	gei
+既	gei	8%
 紀	gei
-記	gei
+記	gei	10%
 旣	gei
 徛	gei
-寄	gei
+寄	gei	9%
 惎	gei
 蔇	gei
 䐀	gei
@@ -8762,7 +8762,7 @@ import_tables:
 禨	geih
 伎	geih
 坖	geih
-技	geih
+技	geih	10%
 芰	geih
 忌	geih
 妓	geih
@@ -8805,7 +8805,7 @@ import_tables:
 剞	geij
 飢	geij
 姬	geij
-基	geij
+基	geij	9%
 㫷	geij
 敧	geij
 犄	geij
@@ -8822,7 +8822,7 @@ import_tables:
 䛴	geij
 畿	geij
 璣	geij
-機	geij
+機	geij	10%
 錤	geij
 禨	geij
 䩭	geij
@@ -8868,8 +8868,8 @@ import_tables:
 机	geir
 剞	geir
 犄	geir
-几	geir
-己	geir
+几	geir	9%
+己	geir	8%
 䢳	geir
 㞦	geir
 妀	geir
@@ -8877,7 +8877,7 @@ import_tables:
 掎	geir
 㞆	geir
 㞛	geir
-幾	geir
+幾	geir	10%
 麂	geir
 魢	geir
 㚡	geir
@@ -8896,21 +8896,21 @@ import_tables:
 𣊉	geir
 痂	gej
 獍	geng
-鏡	geng
-擏	gengh
+鏡	geng	10%
+擏	gengh	10%
 𢠃	gengh
 猄	gengj
-驚	gengj
-頸	gengr
+驚	gengj	10%
+頸	gengr	10%
 頚	gengr
 泃	geoi
 鋦	geoi
-句	geoi
+句	geoi	10%
 邭	geoi
 拠	geoi
 倨	geoi
 粔	geoi
-据	geoi
+据	geoi	9%
 豦	geoi
 㩀	geoi
 㨿	geoi
@@ -8921,7 +8921,7 @@ import_tables:
 據	geoi
 遽	geoi
 䈮	geoi
-鋸	geoi
+鋸	geoi	8%
 澽	geoi
 屨	geoi
 䱟	geoi
@@ -8938,7 +8938,7 @@ import_tables:
 怇	geoih
 姖	geoih
 歫	geoih
-具	geoih
+具	geoih	10%
 昛	geoih
 炬	geoih
 秬	geoih
@@ -8977,7 +8977,7 @@ import_tables:
 車	geoij
 凥	geoij
 㝒	geoij
-居	geoij
+居	geoij	10%
 㞐	geoij
 捄	geoij
 眗	geoij
@@ -8995,7 +8995,7 @@ import_tables:
 鮈	geoij
 鶋	geoij
 俱	geoij
-据	geoij
+据	geoij	9%
 𩤅	geoij
 𤉸	geoij
 枸	geoir
@@ -9019,7 +9019,7 @@ import_tables:
 䄔	geoir
 聥	geoir
 踽	geoir
-舉	geoir
+舉	geoir	10%
 擧	geoir
 櫸	geoir
 欅	geoir
@@ -9041,25 +9041,25 @@ import_tables:
 𦲂	geoir
 㐦	geoir
 鐻	geoix
-夾	geph
+夾	geph	10%
 喼	gepj
-嘅	ger
+嘅	ger	10%
 𠸏	ger
 嘰	gij
 𠼻	gij
 极	gikh
 㭲	gikh
 㥛	gikh
-極	gikh
+極	gikh	10%
 革	gikj
 隔	gikj
 苟	gikj
 毄	gikj
 撃	gikj
 墼	gikj
-激	gikj
+激	gikj	9%
 憿	gikj
-擊	gikj
+擊	gikj	10%
 㦘	gikj
 䁶	gikj
 譤	gikj
@@ -9090,7 +9090,7 @@ import_tables:
 剣	gim
 剱	gim
 趝	gim
-劍	gim
+劍	gim	10%
 劎	gim
 劒	gim
 劔	gim
@@ -9099,7 +9099,7 @@ import_tables:
 倹	gimh
 儉	gimh
 鐱	gimh
-兼	gimj
+兼	gimj	10%
 搛	gimj
 蒹	gimj
 𥡝	gimj
@@ -9113,8 +9113,8 @@ import_tables:
 瞼	gimr
 䭠	gimr
 籡	gimr
-見	gin
-建	gin
+見	gin	10%
+建	gin	9%
 䇟	gin
 𤧣	gin
 毽	gin
@@ -9137,7 +9137,7 @@ import_tables:
 競	ging
 矜	gingh
 劤	gingh
-勁	gingh
+勁	gingh	10%
 殑	gingh
 𠗊	gingh
 倞	gingh
@@ -9161,7 +9161,7 @@ import_tables:
 惊	gingj
 婛	gingj
 経	gingj
-經	gingj
+經	gingj	10%
 兢	gingj
 鵛	gingj
 鶁	gingj
@@ -9174,7 +9174,7 @@ import_tables:
 澋	gingr
 㘫	gingr
 剄	gingr
-景	gingr
+景	gingr	10%
 儆	gingr
 𠎠	gingr
 璄	gingr
@@ -9186,16 +9186,16 @@ import_tables:
 暻	gingr
 燝	gingr
 蟼	gingr
-警	gingr
+警	gingr	8%
 䜘	gingr
-竟	gingr
+竟	gingr	9%
 㬌	gingr
 境	gingr
 烴	gingr
 㜔	gingr
 𠾶	gingr
 𡡡	gingr
-件	ginh
+件	ginh	10%
 𣴓	ginh
 健	ginh
 揵	ginh
@@ -9204,14 +9204,14 @@ import_tables:
 腱	ginh
 寋	ginh
 踺	ginh
-鍵	ginh
+鍵	ginh	9%
 鑳	ginh
 𨫡	ginh
 幵	ginj
 㸫	ginj
 肩	ginj
 菺	ginj
-堅	ginj
+堅	ginj	10%
 猏	ginj
 惤	ginj
 犍	ginj
@@ -9261,13 +9261,13 @@ import_tables:
 涀	ginr
 硏	ginr
 橏	ginr
-見	ginr
+見	ginr	10%
 鵖	gip
 袷	gip
 䛟	gip
 刦	gip
 刧	gip
-劫	gip
+劫	gip	10%
 昅	gip
 刼	gip
 衱	gip
@@ -9287,11 +9287,11 @@ import_tables:
 硤	gip
 㤼	gip
 㥘	gip
-夾	giph
+夾	giph	10%
 陜	giph
 狹	giph
 喼	gipj
-篋	gipj
+篋	gipj	10%
 篋	gipr
 佶	git
 圿	git
@@ -9339,7 +9339,7 @@ import_tables:
 㘶	gith
 桝	gith
 桀	gith
-傑	gith
+傑	gith	10%
 𦵴	gith
 楬	gith
 嵥	gith
@@ -9355,7 +9355,7 @@ import_tables:
 嘄	giu
 敫	giu
 徼	giu
-叫	giu
+叫	giu	10%
 呌	giu
 訆	giu
 㰾	giu
@@ -9375,7 +9375,7 @@ import_tables:
 㤭	giuj
 澆	giuj
 憍	giuj
-嬌	giuj
+嬌	giuj	10%
 穚	giuj
 簥	giuj
 䮦	giuj
@@ -9414,17 +9414,17 @@ import_tables:
 蹻	giur
 嶠	giur
 䱁	giux
-个	go
-個	go
+个	go	9%
+個	go	10%
 箇	go
 咊	go
 吤	go
 𩼣	go
-鋸	goe
+鋸	goe	10%
 啹	goej
 谻	goek
 脚	goek
-腳	goek
+腳	goek	10%
 踋	goek
 屩	goek
 屫	goek
@@ -9446,7 +9446,7 @@ import_tables:
 翞	goengj
 僵	goengj
 壃	goengj
-薑	goengj
+薑	goengj	10%
 彊	goengj
 橿	goengj
 殭	goengj
@@ -9481,7 +9481,7 @@ import_tables:
 摡	goi
 葢	goi
 溉	goi
-蓋	goi
+蓋	goi	10%
 概	goi
 瓂	goi
 扢	goi
@@ -9503,7 +9503,7 @@ import_tables:
 絯	goij
 豥	goij
 賅	goij
-該	goij
+該	goij	10%
 賌	goij
 䬵	goij
 䐩	goij
@@ -9513,7 +9513,7 @@ import_tables:
 剴	goij
 𡀲	goij
 忋	goir
-改	goir
+改	goir	10%
 䪱	goir
 絠	goir
 胲	goir
@@ -9525,13 +9525,13 @@ import_tables:
 𠯫	goj
 牫	goj
 㤎	goj
-哥	goj
+哥	goj	10%
 䔅	goj
 㢦	goj
 滒	goj
 彁	goj
 戨	goj
-歌	goj
+歌	goj	9%
 𩾷	goj
 鴚	goj
 謌	goj
@@ -9550,9 +9550,9 @@ import_tables:
 擱	gok
 敋	gok
 閤	gok
-閣	gok
+閣	gok	7%
 櫊	gok
-各	gok
+各	gok	10%
 䧄	gok
 虼	gok
 硌	gok
@@ -9564,7 +9564,7 @@ import_tables:
 𧰒	gok
 郝	gok
 㬑	gok
-角	gok
+角	gok	9%
 𧢲	gok
 腳	gok
 鵤	gok
@@ -9583,7 +9583,7 @@ import_tables:
 䇶	gok
 瑴	gok
 䁷	gok
-覺	gok
+覺	gok	8%
 龣	gok
 鮥	gok
 埆	gok
@@ -9600,7 +9600,7 @@ import_tables:
 盰	gon
 倝	gon
 骭	gon
-幹	gon
+幹	gon	10%
 榦	gon
 䯎	gon
 龫	gon
@@ -9617,7 +9617,7 @@ import_tables:
 𩑈	gong
 夅	gong
 杢	gong
-降	gong
+降	gong	10%
 洚	gong
 袶	gong
 𧊵	gong
@@ -9637,12 +9637,12 @@ import_tables:
 牨	gongj
 疘	gongj
 㼚	gongj
-缸	gongj
+缸	gongj	8%
 罡	gongj
 剛	gongj
 堈	gongj
 㟠	gongj
-崗	gongj
+崗	gongj	9%
 釭	gongj
 䚗	gongj
 棡	gongj
@@ -9672,7 +9672,7 @@ import_tables:
 魧	gongj
 玒	gongj
 㿠	gongj
-江	gongj
+江	gongj	10%
 茳	gongj
 豇	gongj
 䜫	gongj
@@ -9687,13 +9687,13 @@ import_tables:
 𢜟	gongj
 𣷣	gongj
 㽘	gongr
-港	gongr
+港	gongr	9%
 䴚	gongr
 傋	gongr
 広	gongr
 𪇵	gongr
 耩	gongr
-講	gongr
+講	gongr	10%
 顜	gongr
 㼅	gongr
 䇊	gongr
@@ -9732,7 +9732,7 @@ import_tables:
 桿	gonr
 笴	gonr
 稈	gonr
-趕	gonr
+趕	gonr	10%
 䵟	gonr
 擀	gonr
 簳	gonr
@@ -9740,7 +9740,7 @@ import_tables:
 笴	gor
 哿	gor
 舸	gor
-嗰	gor
+嗰	gor	10%
 楇	gor
 淉	gor
 綶	gor
@@ -9748,7 +9748,7 @@ import_tables:
 魺	gor
 噶	got
 匄	got
-割	got
+割	got	10%
 㖵	got
 葛	got
 䈓	got
@@ -9760,7 +9760,7 @@ import_tables:
 嶱	got
 膏	gou
 吿	gou
-告	gou
+告	gou	10%
 郜	gou
 誥	gou
 鋯	gou
@@ -9768,7 +9768,7 @@ import_tables:
 𦤑	gouj
 㤒	gouj
 皋	gouj
-高	gouj
+高	gouj	10%
 羙	gouj
 羔	gouj
 䓘	gouj
@@ -9787,7 +9787,7 @@ import_tables:
 槹	gouj
 橰	gouj
 篙	gouj
-糕	gouj
+糕	gouj	9%
 𧀎	gouj
 䚌	gouj
 䆁	gouj
@@ -9830,7 +9830,7 @@ import_tables:
 酤	gu
 詁	gu
 固	gu
-故	gu
+故	gu	9%
 怘	gu
 凅	gu
 㽽	gu
@@ -9849,19 +9849,19 @@ import_tables:
 僱	gu
 錮	gu
 鯝	gu
-顧	gu
+顧	gu	10%
 䏗	gui
 椢	gui
 䐴	gui
-攰	guih
-癐	guih
+攰	guih	10%
+癐	guih	9%
 𣪘	guir
 咕	guj
 呱	guj
 沽	guj
 泒	guj
 孤	guj
-姑	guj
+姑	guj	10%
 柧	guj
 㼋	guj
 罛	guj
@@ -9898,7 +9898,7 @@ import_tables:
 梮	gukh
 局	gukh
 侷	gukh
-焗	gukh
+焗	gukh	10%
 䎤	gukh
 輂	gukh
 跼	gukh
@@ -9914,7 +9914,7 @@ import_tables:
 唂	gukj
 轂	gukj
 䜼	gukj
-谷	gukj
+谷	gukj	10%
 唃	gukj
 逧	gukj
 䀰	gukj
@@ -10005,7 +10005,7 @@ import_tables:
 爟	gun
 礶	gun
 矔	gun
-罐	gun
+罐	gun	10%
 鑵	gun
 鸛	gun
 鱹	gun
@@ -10031,28 +10031,28 @@ import_tables:
 𨫋	gung
 𫋐	gung
 䳍	gungh
-共	gungh
+共	gungh	10%
 㓋	gungh
 巭	gungj
 釭	gungj
-工	gungj
+工	gungj	7%
 弓	gungj
-公	gungj
+公	gungj	9%
 㓚	gungj
 㓛	gungj
-功	gungj
+功	gungj	6%
 㣉	gungj
-攻	gungj
+攻	gungj	5%
 杛	gungj
 㒶	gungj
 䢼	gungj
-供	gungj
+供	gungj	8%
 糼	gungj
 恭	gungj
 蚣	gungj
 䣏	gungj
 躬	gungj
-宮	gungj
+宮	gungj	10%
 匑	gungj
 塨	gungj
 幊	gungj
@@ -10097,7 +10097,7 @@ import_tables:
 㭟	gungr
 蛬	gungr
 𥕜	gunj
-官	gunj
+官	gunj	10%
 冠	gunj
 覌	gunj
 倌	gunj
@@ -10118,11 +10118,11 @@ import_tables:
 痯	gunr
 䘾	gunr
 䗆	gunr
-管	gunr
+管	gunr	10%
 輨	gunr
 舘	gunr
 錧	gunr
-館	gunr
+館	gunr	9%
 䩪	gunr
 䪀	gunr
 䲘	gunr
@@ -10136,12 +10136,12 @@ import_tables:
 斡	gunr
 𩸘	gunr
 𤪔	gunr
-估	gur
+估	gur	10%
 咕	gur
 沽	gur
 夃	gur
-古	gur
-股	gur
+古	gur	9%
+股	gur	8%
 㚉	gur
 牯	gur
 𦙶	gur
@@ -10152,7 +10152,7 @@ import_tables:
 䑩	gur
 𦍩	gur
 詁	gur
-鼓	gur
+鼓	gur	7%
 鼔	gur
 鈷	gur
 皷	gur
@@ -10228,7 +10228,7 @@ import_tables:
 姢	gvnj
 捐	gvnj
 涓	gvnj
-娟	gvnj
+娟	gvnj	10%
 瓹	gvnj
 焆	gvnj
 䅌	gvnj
@@ -10242,10 +10242,10 @@ import_tables:
 悁	gvnj
 身	gvnj
 駽	gvnj
-蜎	gvnj
+蜎	gvnj	9%
 詃	gvnr
 呟	gvnr
-卷	gvnr
+卷	gvnr	10%
 巻	gvnr
 埍	gvnr
 捲	gvnr
@@ -10264,24 +10264,24 @@ import_tables:
 䞷	gvth
 橛	gvth
 䙠	gvth
-卦	gwaa
+卦	gwaa	9%
 坬	gwaa
-挂	gwaa
-掛	gwaa
-啩	gwaa
+挂	gwaa	7%
+掛	gwaa	8%
+啩	gwaa	10%
 罣	gwaa
 絓	gwaa
 詿	gwaa
-褂	gwaa
+褂	gwaa	6%
 夬	gwaai
 㧔	gwaai
-怪	gwaai
+怪	gwaai	10%
 恠	gwaai
 䊽	gwaai
 䂯	gwaai
 狤	gwaai
 叏	gwaai
-乖	gwaaij
+乖	gwaaij	10%
 䂷	gwaaij
 㾩	gwaaij
 㔞	gwaaij
@@ -10294,7 +10294,7 @@ import_tables:
 䓒	gwaair
 蒯	gwaair
 呱	gwaaj
-瓜	gwaaj
+瓜	gwaaj	10%
 㧓	gwaaj
 䒷	gwaaj
 胍	gwaaj
@@ -10312,7 +10312,7 @@ import_tables:
 丱	gwaan
 貫	gwaan
 摜	gwaan
-慣	gwaan
+慣	gwaan	10%
 遦	gwaan
 躀	gwaan
 擐	gwaan
@@ -10326,7 +10326,7 @@ import_tables:
 闗	gwaanj
 䤽	gwaanj
 癏	gwaanj
-關	gwaanj
+關	gwaanj	10%
 䚪	gwaanj
 鰥	gwaanj
 鱞	gwaanj
@@ -10339,7 +10339,7 @@ import_tables:
 剮	gwaar
 䈑	gwaar
 寡	gwaar
-刮	gwaat
+刮	gwaat	10%
 䏦	gwaat
 劀	gwaat
 䀨	gwaat
@@ -10354,7 +10354,7 @@ import_tables:
 昋	gwai
 㪈	gwai
 桂	gwai
-貴	gwai
+貴	gwai	10%
 猤	gwai
 蓕	gwai
 溎	gwai
@@ -10388,9 +10388,9 @@ import_tables:
 𡞳	gwai
 歸	gwaih
 柜	gwaih
-跪	gwaih
+跪	gwaih	9%
 撌	gwaih
-櫃	gwaih
+櫃	gwaih	10%
 䠩	gwaih
 鞼	gwaih
 闠	gwaih
@@ -10428,9 +10428,9 @@ import_tables:
 嬀	gwaij
 璝	gwaij
 膭	gwaij
-龜	gwaij
+龜	gwaij	9%
 鮭	gwaij
-歸	gwaij
+歸	gwaij	10%
 騩	gwaij
 瓌	gwaij
 櫷	gwaij
@@ -10455,7 +10455,7 @@ import_tables:
 㧪	gwair
 垝	gwair
 軌	gwair
-鬼	gwair
+鬼	gwair	10%
 恑	gwair
 姽	gwair
 㸵	gwair
@@ -10482,7 +10482,7 @@ import_tables:
 㔲	gwair
 𥕏	gwakh
 㨰	gwan
-棍	gwan
+棍	gwan	10%
 睔	gwan
 㙥	gwan
 䎾	gwan
@@ -10521,13 +10521,13 @@ import_tables:
 𨧡	gwanj
 龜	gwanj
 𥳾	gwanj
-均	gwanj
+均	gwanj	9%
 抣	gwanj
 𠣕	gwanj
 汮	gwanj
-君	gwanj
+君	gwanj	10%
 㚬	gwanj
-軍	gwanj
+軍	gwanj	8%
 袀	gwanj
 莙	gwanj
 蚐	gwanj
@@ -10574,7 +10574,7 @@ import_tables:
 䃂	gwanr
 裷	gwanr
 蔉	gwanr
-滾	gwanr
+滾	gwanr	10%
 緄	gwanr
 輥	gwanr
 磙	gwanr
@@ -10621,7 +10621,7 @@ import_tables:
 扢	gwatj
 㒴	gwatj
 汩	gwatj
-骨	gwatj
+骨	gwatj	10%
 啒	gwatj
 傦	gwatj
 淈	gwatj
@@ -10728,7 +10728,7 @@ import_tables:
 𠵯	gwitj
 鐹	gwo
 㳀	gwo
-過	gwo
+過	gwo	10%
 咊	gwo
 和	gwo
 𩼣	gwo
@@ -10749,7 +10749,7 @@ import_tables:
 撾	gwoj
 簻	gwoj
 簂	gwok
-郭	gwok
+郭	gwok	10%
 䧐	gwok
 崞	gwok
 墎	gwok
@@ -10760,7 +10760,7 @@ import_tables:
 囶	gwok
 囻	gwok
 圀	gwok
-國	gwok
+國	gwok	9%
 𤦂	gwok
 䂸	gwok
 摑	gwok
@@ -10803,7 +10803,7 @@ import_tables:
 鑛	gwong
 迋	gwong
 誆	gwongh
-光	gwongj
+光	gwongj	10%
 灮	gwongj
 㫕	gwongj
 炗	gwongj
@@ -10831,7 +10831,7 @@ import_tables:
 𥙑	gwongj
 㹰	gwongj
 広	gwongr
-廣	gwongr
+廣	gwongr	10%
 獷	gwongr
 𪇵	gwongr
 誑	gwongr
@@ -10863,11 +10863,11 @@ import_tables:
 煆	haah
 暇	haah
 睱	haah
-下	haah
+下	haah	10%
 圷	haah
 芐	haah
 疜	haah
-夏	haah
+夏	haah	9%
 梺	haah
 㰺	haah
 夓	haah
@@ -10904,8 +10904,8 @@ import_tables:
 哈	haaij
 咍	haaij
 咳	haaij
-嗨	haaij
-揩	haaij
+嗨	haaij	10%
+揩	haaij	9%
 欬	haaij
 㰨	haaij
 㗨	haaij
@@ -10926,7 +10926,7 @@ import_tables:
 懈	haaiq
 蠏	haaiq
 䉏	haaiq
-蟹	haaiq
+蟹	haaiq	9%
 䲒	haaiq
 豥	haaix
 咳	haaix
@@ -10937,7 +10937,7 @@ import_tables:
 骸	haaix
 䠽	haaix
 䱺	haaix
-嚡	haaix
+嚡	haaix	10%
 榽	haaix
 慀	haaix
 偕	haaix
@@ -10945,16 +10945,16 @@ import_tables:
 瑎	haaix
 㨙	haaix
 膎	haaix
-鞋	haaix
+鞋	haaix	9%
 䙎	haaix
 䡡	haaix
-諧	haaix
+諧	haaix	8%
 𩋘	haaix
 𩋧	haaix
 鞵	haaix
 龤	haaix
 𧎚	haaj
-哈	haaj
+哈	haaj	10%
 鉿	haaj
 蛤	haaj
 𡄟	haaj
@@ -10963,7 +10963,7 @@ import_tables:
 颬	haaj
 煆	haaj
 𧇍	haaj
-蝦	haaj
+蝦	haaj	9%
 鰕	haaj
 㗇	haaj
 閜	haaj
@@ -10978,10 +10978,10 @@ import_tables:
 𦴦	haak
 喀	haak
 衉	haak
-客	haak
+客	haak	10%
 碦	haak
 𪃭	haak
-嚇	haak
+嚇	haak	9%
 䞦	haakh
 楁	haakh
 垎	haakh
@@ -10996,7 +10996,7 @@ import_tables:
 剋	haakj
 嚇	haakj
 㬨	haakj
-喊	haam
+喊	haam	10%
 豃	haam
 闞	haam
 㘕	haam
@@ -11071,12 +11071,12 @@ import_tables:
 䂫	haangj
 劥	haangj
 阬	haangj
-坑	haangj
+坑	haangj	10%
 妔	haangj
 錓	haangj
 坈	haangj
 桁	haangx
-行	haangx
+行	haangx	10%
 骭	haanh
 憪	haanh
 限	haanh
@@ -11092,7 +11092,7 @@ import_tables:
 孯	haanj
 婜	haanj
 掔	haanj
-慳	haanj
+慳	haanj	10%
 顅	haanj
 鬝	haanj
 鬜	haanj
@@ -11109,7 +11109,7 @@ import_tables:
 瞯	haanx
 椚	haanx
 閑	haanx
-閒	haanx
+閒	haanx	10%
 蛝	haanx
 澖	haanx
 憪	haanx
@@ -11166,14 +11166,14 @@ import_tables:
 押	haaph
 哈	haaq
 奤	haaq
-下	haaq
+下	haaq	10%
 嗄	haar
-吓	haar
+吓	haar	10%
 襾	haar
 嗃	haau
 酵	haau
 撽	haau
-孝	haau
+孝	haau	10%
 涍	haau
 詨	haau
 㭳	haau
@@ -11209,7 +11209,7 @@ import_tables:
 䂭	haauj
 䯨	haauj
 踍	haauj
-敲	haauj
+敲	haauj	10%
 毃	haauj
 墝	haauj
 頝	haauj
@@ -11247,7 +11247,7 @@ import_tables:
 禞	haaur
 熇	haaur
 丂	haaur
-考	haaur
+考	haaur	10%
 攷	haaur
 拷	haaur
 洘	haaur
@@ -11285,7 +11285,7 @@ import_tables:
 碬	haax
 蕸	haax
 赮	haax
-霞	haax
+霞	haax	10%
 鍜	haax
 䫗	haax
 䪗	haax
@@ -11293,16 +11293,16 @@ import_tables:
 𡤕	haax
 𣌊	haax
 𤫑	haax
-㰥	hai
+㰥	hai	10%
 㚛	hai
 縘	haih
 檕	haih
-繫	haih
+繫	haih	9%
 妎	haih
 傒	haih
 系	haih
 盻	haih
-係	haih
+係	haih	10%
 慀	haih
 禊	haih
 稧	haih
@@ -11311,14 +11311,14 @@ import_tables:
 繋	haih
 屄	haij
 㞓	haij
-閪	haij
+閪	haij	10%
 𡚦	haij
 𥉐	haiq
 徯	haiq
 謑	haiq
 匸	haiq
 奊	haiq
-喺	hair
+喺	hair	10%
 嵇	haix
 蹊	haix
 兮	haix
@@ -11339,7 +11339,7 @@ import_tables:
 騱	haix
 赫	hakj
 黒	hakj
-黑	hakj
+黑	hakj	10%
 㩏	hakj
 潶	hakj
 㱄	hakj
@@ -11347,8 +11347,8 @@ import_tables:
 悈	hakj
 𢭪	hakj
 可	hakj
-克	hakj
-刻	hakj
+克	hakj	8%
+刻	hakj	9%
 剋	hakj
 勀	hakj
 勊	hakj
@@ -11446,14 +11446,14 @@ import_tables:
 凵	hamr
 㧄	hamr
 嵌	hamr
-扻	hamr
+扻	hamr	10%
 笒	hamx
 佄	hamx
 酣	hamx
 谽	hamx
 馠	hamx
 邯	hamx
-含	hamx
+含	hamx	10%
 㶰	hamx
 唅	hamx
 㟏	hamx
@@ -11526,7 +11526,7 @@ import_tables:
 涬	hangq
 悻	hangq
 肎	hangr
-肯	hangr
+肯	hangr	10%
 肻	hangr
 啃	hangr
 錹	hangr
@@ -11560,10 +11560,10 @@ import_tables:
 䰢	hangx
 𠒣	hangx
 拫	hanh
-恨	hanh
+恨	hanh	10%
 哏	hanr
 佷	hanr
-很	hanr
+很	hanr	10%
 狠	hanr
 䓳	hanr
 詪	hanr
@@ -11574,7 +11574,7 @@ import_tables:
 懇	hanr
 齦	hanr
 拫	hanx
-痕	hanx
+痕	hanx	10%
 鞎	hanx
 㯊	hanx
 嗑	hap
@@ -11588,7 +11588,7 @@ import_tables:
 閤	haph
 鉿	haph
 欱	haph
-合	haph
+合	haph	10%
 郃	haph
 盇	haph
 峆	haph
@@ -11651,7 +11651,7 @@ import_tables:
 㓣	hapj
 帢	hapj
 洽	hapj
-恰	hapj
+恰	hapj	10%
 殎	hapj
 㡊	hapj
 䁍	hapj
@@ -11662,11 +11662,11 @@ import_tables:
 潝	hapj
 闟	hapj
 敮	hapj
-盒	hapr
+盒	hapr	10%
 劾	hath
 籺	hath
 紇	hath
-核	hath
+核	hath	10%
 㮝	hath
 楁	hath
 閡	hath
@@ -11733,11 +11733,11 @@ import_tables:
 㻈	hauh
 侯	hauh
 㸸	hauh
-后	hauh
+后	hauh	10%
 郈	hauh
 垕	hauh
 逅	hauh
-後	hauh
+後	hauh	9%
 洉	hauh
 候	hauh
 鄇	hauh
@@ -11749,13 +11749,13 @@ import_tables:
 怐	hauh
 吽	hauj
 齁	hauj
-睺	hauj
+睺	hauj	10%
 䳧	hauj
 吼	hauj
 𥅠	hauj
 㫗	hauq
 郈	hauq
-厚	hauq
+厚	hauq	10%
 垕	hauq
 㴟	hauq
 㷞	hauq
@@ -11763,7 +11763,7 @@ import_tables:
 吼	haur
 㖃	haur
 亼	haur
-口	haur
+口	haur	10%
 𤘘	haur
 㔚	haur
 劶	haur
@@ -11775,7 +11775,7 @@ import_tables:
 矦	haux
 㤧	haux
 葔	haux
-喉	haux
+喉	haux	10%
 㗋	haux
 帿	haux
 猴	haux
@@ -11818,16 +11818,16 @@ import_tables:
 炁	hei
 盵	hei
 㞓	hei
-氣	hei
+氣	hei	9%
 夡	hei
-棄	hei
+棄	hei	7%
 愒	hei
 暣	hei
 甈	hei
 䔾	hei
 噐	hei
 憇	hei
-器	hei
+器	hei	8%
 憩	hei
 巇	hei
 屃	hei
@@ -11844,7 +11844,7 @@ import_tables:
 戱	hei
 黖	hei
 䮎	hei
-戲	hei
+戲	hei	10%
 餼	hei
 㸍	hei
 霼	hei
@@ -11877,7 +11877,7 @@ import_tables:
 郗	heij
 㿽	heij
 莃	heij
-唏	heij
+唏	heij	10%
 䒊	heij
 狶	heij
 浠	heij
@@ -11949,7 +11949,7 @@ import_tables:
 𠘑	heij
 𣜠	heij
 𤏁	heij
-唏	heiq
+唏	heiq	10%
 𨭎	heir
 釐	heir
 榿	heir
@@ -11963,14 +11963,14 @@ import_tables:
 呇	heir
 䄫	heir
 䒻	heir
-起	heir
+起	heir	10%
 豈	heir
 䔇	heir
 㵙	heir
 狶	heir
 豨	heir
 嬉	heir
-喜	heir
+喜	heir	8%
 憘	heir
 歖	heir
 憙	heir
@@ -11983,14 +11983,14 @@ import_tables:
 㝆	heir
 𤍈	heir
 𤧸	heir
-嚱	hej
-吃	hek
+嚱	hej	10%
+吃	hek	10%
 喫	hek
 噄	hek
 毄	hek
 輕	hengh
-輕	hengj
-去	heoi
+輕	hengj	10%
+去	heoi	10%
 厺	heoi
 迲	heoi
 呿	heoi
@@ -12022,15 +12022,15 @@ import_tables:
 㰭	heoij
 訏	heoij
 虗	heoij
-虛	heoij
+虛	heoij	9%
 墟	heoij
 歔	heoij
-噓	heoij
+噓	heoij	10%
 魖	heoij
 驉	heoij
 呴	heoij
-佢	heoiq
-許	heoir
+佢	heoiq	10%
+許	heoir	10%
 滸	heoir
 紶	heoir
 𧉧	heoir
@@ -12055,11 +12055,11 @@ import_tables:
 祤	heoir
 𤍥	heoir
 𠺬	her
-嚱	her
-嚱	hex
+嚱	her	10%
+嚱	hex	10%
 𠺪	hij
 咦	hij
-嘻	hij
+嘻	hij	10%
 嘻	hix
 赥	hikj
 㤸	hikj
@@ -12081,7 +12081,7 @@ import_tables:
 姭	him
 磏	himj
 欦	himj
-謙	himj
+謙	himj	10%
 檶	himj
 㽐	himj
 忺	himj
@@ -12133,7 +12133,7 @@ import_tables:
 謦	hing
 殸	hing
 䡖	hing
-慶	hing
+慶	hing	10%
 磬	hing
 罄	hing
 櫦	hing
@@ -12149,7 +12149,7 @@ import_tables:
 𦺄	hingj
 賯	hingj
 𠨍	hingj
-卿	hingj
+卿	hingj	8%
 𡖖	hingj
 氫	hingj
 輕	hingj
@@ -12164,8 +12164,8 @@ import_tables:
 蛵	hingj
 䕟	hingj
 嬹	hingj
-興	hingj
-兄	hingj
+興	hingj	9%
+兄	hingj	10%
 㚾	hingj
 𨯵	hingj
 㑆	hingj
@@ -12237,7 +12237,7 @@ import_tables:
 䘆	hinr
 䥪	hinr
 韅	hinr
-顯	hinr
+顯	hinr	10%
 䜢	hinr
 灦	hinr
 鋧	hinr
@@ -12267,7 +12267,7 @@ import_tables:
 垥	hip
 拹	hip
 㢵	hip
-挾	hip
+挾	hip	10%
 脇	hip
 㶸	hip
 脅	hip
@@ -12286,7 +12286,7 @@ import_tables:
 劦	hiph
 愜	hiph
 㥦	hiph
-協	hiph
+協	hiph	10%
 拹	hiph
 恊	hiph
 挾	hiph
@@ -12356,12 +12356,12 @@ import_tables:
 徺	hiuj
 獟	hiuj
 暁	hiur
-曉	hiur
+曉	hiur	10%
 皢	hiur
 䥵	hiur
 𣇈	hiur
-噷	hmj
-哼	hngj
+噷	hmj	10%
+哼	hngj	10%
 賀	ho
 艐	ho
 吙	hoej
@@ -12374,7 +12374,7 @@ import_tables:
 鄉	hoeng
 鄕	hoeng
 蠁	hoeng
-向	hoeng
+向	hoeng	10%
 姠	hoeng
 珦	hoeng
 萫	hoeng
@@ -12383,7 +12383,7 @@ import_tables:
 嚮	hoeng
 䦳	hoeng
 㿝	hoengj
-香	hoengj
+香	hoengj	10%
 郷	hoengj
 鄊	hoengj
 鄉	hoengj
@@ -12398,11 +12398,11 @@ import_tables:
 㴡	hoengj
 亨	hoengr
 垧	hoengr
-晌	hoengr
+晌	hoengr	8%
 恦	hoengr
 薌	hoengr
 享	hoengr
-响	hoengr
+响	hoengr	9%
 亯	hoengr
 晑	hoengr
 䖮	hoengr
@@ -12412,7 +12412,7 @@ import_tables:
 㗽	hoengr
 蠁	hoengr
 饗	hoengr
-響	hoengr
+響	hoengr	10%
 𩐿	hoengr
 饟	hoengr
 嚮	hoengr
@@ -12429,11 +12429,11 @@ import_tables:
 饚	hoi
 𠀅	hoih
 㐪	hoih
-亥	hoih
+亥	hoih	9%
 㧡	hoih
 㤥	hoih
 氦	hoih
-害	hoih
+害	hoih	10%
 䇋	hoih
 嗐	hoih
 妎	hoih
@@ -12444,7 +12444,7 @@ import_tables:
 㾂	hoij
 嗨	hoij
 奒	hoij
-開	hoij
+開	hoij	10%
 㚊	hoij
 䤤	hoij
 鐦	hoij
@@ -12457,7 +12457,7 @@ import_tables:
 嵦	hoir
 𨬫	hoir
 胲	hoir
-海	hoir
+海	hoir	10%
 烸	hoir
 塰	hoir
 酼	hoir
@@ -12488,7 +12488,7 @@ import_tables:
 頦	hoix
 厂	hoj
 抲	hoj
-呵	hoj
+呵	hoj	10%
 㰤	hoj
 㱒	hoj
 訶	hoj
@@ -12512,7 +12512,7 @@ import_tables:
 矐	hok
 壳	hok
 殻	hok
-殼	hok
+殼	hok	10%
 𣪊	hok
 㕰	hok
 䤕	hok
@@ -12543,7 +12543,7 @@ import_tables:
 𢻯	hokh
 斈	hokh
 嶨	hokh
-學	hokh
+學	hokh	10%
 澩	hokh
 燢	hokh
 㙾	hokh
@@ -12557,7 +12557,7 @@ import_tables:
 厂	hon
 厈	hon
 傼	hon
-漢	hon
+漢	hon	9%
 㵄	hon
 暵	hon
 熯	hon
@@ -12567,7 +12567,7 @@ import_tables:
 䕿	hon
 𨫪	hon
 侃	hon
-看	hon
+看	hon	10%
 衎	hon
 𥉏	hon
 㸔	hon
@@ -12579,8 +12579,8 @@ import_tables:
 鬨	hongh
 銗	hongh
 衖	hongh
-巷	hongh
-項	hongh
+巷	hongh	10%
+項	hongh	9%
 㟟	hongh
 缿	hongh
 䢽	hongh
@@ -12594,7 +12594,7 @@ import_tables:
 㰠	hongj
 䦭	hongj
 粇	hongj
-康	hongj
+康	hongj	10%
 㼹	hongj
 𡐓	hongj
 嵻	hongj
@@ -12635,7 +12635,7 @@ import_tables:
 𤎖	hongj
 酐	hongq
 汻	hongq
-䉺	hongr
+䉺	hongr	10%
 慷	hongr
 䡉	hongr
 慷	hongr
@@ -12669,7 +12669,7 @@ import_tables:
 𦶢	hongx
 栙	hongx
 跭	hongx
-行	hongx
+行	hongx	10%
 塂	hongx
 犴	honh
 豻	honh
@@ -12711,7 +12711,7 @@ import_tables:
 嫨	honj
 刊	honj
 栞	honj
-看	honj
+看	honj	10%
 𥉏	honj
 刋	honj
 扞	honq
@@ -12756,19 +12756,19 @@ import_tables:
 寒	honx
 甝	honx
 䗙	honx
-韓	honx
+韓	honx	10%
 汗	honx
 馯	honx
 䮧	honx
 㒏	honx
 哿	hor
 舸	hor
-呵	hor
-呵	hox
-嗬	hor
+呵	hor	8%
+呵	hox	8%
+嗬	hor	9%
 㪃	hor
 軻	hor
-可	hor
+可	hor	10%
 坷	hor
 㞹	hor
 岢	hor
@@ -12776,7 +12776,7 @@ import_tables:
 炣	hor
 閜	hor
 㐓	hor
-何	hor
+何	hor	7%
 獦	hot
 害	hot
 𦤦	hot
@@ -12830,7 +12830,7 @@ import_tables:
 㞻	houh
 昦	houh
 哠	houh
-浩	houh
+浩	houh	9%
 悎	houh
 晧	houh
 㬶	houh
@@ -12840,7 +12840,7 @@ import_tables:
 鄗	houh
 䧚	houh
 聕	houh
-號	houh
+號	houh	10%
 滈	houh
 暤	houh
 䪽	houh
@@ -12872,7 +12872,7 @@ import_tables:
 薧	houj
 髇	houj
 茠	houj
-好	hour
+好	hour	10%
 㝀	hour
 恏	hour
 𡥘	hour
@@ -12883,13 +12883,13 @@ import_tables:
 毜	houx
 呺	houx
 蚝	houx
-毫	houx
+毫	houx	9%
 椃	houx
 嗥	houx
 獆	houx
 噑	houx
 𩖸	houx
-豪	houx
+豪	houx	10%
 㬔	houx
 嘷	houx
 獋	houx
@@ -12912,10 +12912,10 @@ import_tables:
 兞	houx hakj
 瓱	houx ngaaq
 竓	houx singj
-嗬	hox
+嗬	hox	9%
 合	hox
-何	hox
-河	hox
+何	hox	10%
+河	hox	7%
 荷	hox
 哬	hox
 菏	hox
@@ -12961,7 +12961,7 @@ import_tables:
 㜅	hukj
 汞	hung
 灴	hung
-哄	hung
+哄	hung	10%
 烘	hung
 訌	hung
 鬨	hung
@@ -12999,7 +12999,7 @@ import_tables:
 谾	hungj
 𩐠	hungj
 鬨	hungj
-空	hungj
+空	hungj	10%
 倥	hungj
 埪	hungj
 崆	hungj
@@ -13024,7 +13024,7 @@ import_tables:
 哅	hungj
 洶	hungj
 恟	hungj
-胸	hungj
+胸	hungj	9%
 胷	hungj
 訩	hungj
 詾	hungj
@@ -13050,9 +13050,9 @@ import_tables:
 䧆	hungx
 垬	hungx
 虹	hungx
-洪	hungx
+洪	hungx	8%
 娂	hungx
-紅	hungx
+紅	hungx	10%
 䞑	hungx
 㖓	hungx
 硔	hungx
@@ -13078,7 +13078,7 @@ import_tables:
 黌	hungx
 訌	hungx
 洚	hungx
-雄	hungx
+雄	hungx	9%
 䧺	hungx
 熊	hungx
 㳟	hungx
@@ -13093,7 +13093,7 @@ import_tables:
 勧	hvn
 䄐	hvn
 韏	hvn
-勸	hvn
+勸	hvn	10%
 夐	hvn
 敻	hvn
 禤	hvn
@@ -13116,9 +13116,9 @@ import_tables:
 梋	hvnj
 鋗	hvnj
 弮	hvnj
-暖	hvnj
+暖	hvnj	9%
 箞	hvnj
-圈	hvnj
+圈	hvnj	10%
 棬	hvnj
 㒽	hvnj
 圏	hvnj
@@ -13196,7 +13196,7 @@ import_tables:
 䬄	hvt
 瞲	hvt
 岤	hvt
-血	hvt
+血	hvt	10%
 㞽	hvt
 狘	hvt
 怴	hvt
@@ -13209,8 +13209,8 @@ import_tables:
 䫼	hvt
 䬂	hvt
 䆷	hvt
-意	yi
-要	iu
+意	yi	10%
+要	iu	10%
 旮	kaa
 喀	kaa
 卡	kaa
@@ -13220,7 +13220,7 @@ import_tables:
 炌	kaai
 炏	kaai
 𢬿	kaai
-凱	kaaij
+凱	kaaij	10%
 𢬿	kaaiq
 䒓	kaair
 蒈	kaair
@@ -13231,7 +13231,7 @@ import_tables:
 咔	kaaj
 咖	kaaj
 喀	kaaj
-卡	kaaj
+卡	kaaj	10%
 佧	kaaj
 胩	kaaj
 鉲	kaaj
@@ -13249,18 +13249,18 @@ import_tables:
 卡	kaar
 跒	kaar
 擖	kaat
-咭	kaatj
-卡	kaatj
+咭	kaatj	9%
+卡	kaatj	10%
 𥬯	kaau
 䎋	kaau
 銬	kaau
 鲓	kaau
-靠	kaau
+靠	kaau	10%
 鮳	kaau
 㸆	kaau
 瘛	kai
 揭	kai
-契	kai
+契	kai	10%
 栔	kai
 愒	kai
 䁉	kai
@@ -13326,7 +13326,7 @@ import_tables:
 冚	kamr
 搇	kamr
 𠹸	kamr
-𢫏	kamr
+𢫏	kamr	10%
 肣	kamx
 靎	kamx
 矜	kamx
@@ -13359,15 +13359,15 @@ import_tables:
 蠄	kamx
 䥆	kamx
 鵭	kamx
-掯	kang
+掯	kang	10%
 裉	kang
 褃	kang
 𠼰	kang
 𣔨	kang
-骾	kangr
+骾	kangr	9%
 鯁	kangr
-啃	kangr
-近	kanq
+啃	kangr	10%
+近	kanq	10%
 矜	kanx
 堇	kanx
 蓳	kanx
@@ -13388,7 +13388,7 @@ import_tables:
 𣂷	kanx
 𤜯	kaph
 芨	kaph
-及	kaph
+及	kaph	10%
 笈	kaph
 䲯	kaph
 鷑	kaph
@@ -13396,7 +13396,7 @@ import_tables:
 𪘁	kaph
 𢎽	kaph
 扱	kapj
-給	kapj
+給	kapj	9%
 圾	kapj
 芨	kapj
 伋	kapj
@@ -13405,11 +13405,11 @@ import_tables:
 汲	kapj
 极	kapj
 笈	kapj
-級	kapj
+級	kapj	8%
 㴔	kapj
 歙	kapj
 㲸	kapj
-吸	kapj
+吸	kapj	10%
 㒆	kapj
 噏	kapj
 㬛	kapj
@@ -13437,7 +13437,7 @@ import_tables:
 㺉	kau
 銬	kau
 叩	kau
-扣	kau
+扣	kau	10%
 怐	kau
 敂	kau
 㓂	kau
@@ -13462,7 +13462,7 @@ import_tables:
 䑦	kauj
 㡚	kauj
 䬲	kauj
-溝	kauj
+溝	kauj	10%
 褠	kauj
 緱	kauj
 篝	kauj
@@ -13508,7 +13508,7 @@ import_tables:
 犰	kaux
 㺫	kaux
 朹	kaux
-求	kaux
+求	kaux	10%
 虬	kaux
 虯	kaux
 䊵	kaux
@@ -13576,7 +13576,7 @@ import_tables:
 㱦	keij
 榿	keij
 㟢	keij
-崎	keij
+崎	keij	10%
 嵜	keij
 踑	keij
 欹	keij
@@ -13586,9 +13586,9 @@ import_tables:
 徛	keiq
 𦮳	keiq
 跂	keiq
-企	keiq
+企	keiq	10%
 㖉	keiq
-企	keir
+企	keir	10%
 䄎	keir
 𨀣	keir
 𦝁	keix
@@ -13603,17 +13603,17 @@ import_tables:
 鄿	keix
 蟣	keix
 伎	keix
-期	keix
+期	keix	10%
 鵸	keix
 亓	keix
 祁	keix
 圻	keix
 芪	keix
-岐	keix
+岐	keix	7%
 岓	keix
 忯	keix
-其	keix
-奇	keix
+其	keix	9%
+奇	keix	8%
 歧	keix
 㞿	keix
 肵	keix
@@ -13648,7 +13648,7 @@ import_tables:
 琪	keix
 琦	keix
 棊	keix
-棋	keix
+棋	keix	5%
 𣄃	keix
 祺	keix
 𤦺	keix
@@ -13666,7 +13666,7 @@ import_tables:
 𦸀	keix
 蜞	keix
 䑴	keix
-旗	keix
+旗	keix	6%
 粸	keix
 綨	keix
 綥	keix
@@ -13724,7 +13724,7 @@ import_tables:
 貙	keoij
 抅	keoij
 佝	keoij
-拘	keoij
+拘	keoij	9%
 㣘	keoij
 泃	keoij
 痀	keoij
@@ -13747,7 +13747,7 @@ import_tables:
 胠	keoij
 祛	keoij
 袪	keoij
-區	keoij
+區	keoij	10%
 紶	keoij
 䧢	keoij
 駆	keoij
@@ -13767,8 +13767,8 @@ import_tables:
 拒	keoiq
 𠰠	keoiq
 岠	keoiq
-距	keoiq
-佢	keoiq
+距	keoiq	9%
+佢	keoiq	10%
 竘	keoiq
 𠳔	keoiq
 蟝	keoir
@@ -13835,7 +13835,7 @@ import_tables:
 喼	kepj
 拁	ker
 㧝	ker
-茄	ker
+茄	ker	10%
 𨔽	ker
 𠵇	keux
 癿	kex
@@ -13867,7 +13867,7 @@ import_tables:
 蚙	kimx
 鳹	kimx
 菣	kin
-傾	kingj
+傾	kingj	10%
 漀	kingj
 頃	kingj
 漀	kingr
@@ -13914,7 +13914,7 @@ import_tables:
 㼇	kingx
 瓗	kingx
 嬛	kingx
-㨴	kinr
+㨴	kinr	10%
 乹	kinx
 㓺	kinx
 犍	kinx
@@ -13922,7 +13922,7 @@ import_tables:
 䖍	kinx
 虔	kinx
 掮	kinx
-乾	kinx
+乾	kinx	10%
 㨜	kinx
 墘	kinx
 榩	kinx
@@ -14005,8 +14005,8 @@ import_tables:
 轎	kiur
 蹺	kiur
 蹻	kiur
-巧	kiur
-竅	kiur
+巧	kiur	9%
+竅	kiur	10%
 轎	kiux
 荍	kiux
 喬	kiux
@@ -14016,7 +14016,7 @@ import_tables:
 嘺	kiux
 嶠	kiux
 㝯	kiux
-橋	kiux
+橋	kiux	10%
 犞	kiux
 礄	kiux
 䀉	kiux
@@ -14036,7 +14036,7 @@ import_tables:
 却	koek
 𨚫	koek
 㕁	koek
-卻	koek
+卻	koek	10%
 㾡	koek
 噱	koek
 㘌	koekh
@@ -14056,18 +14056,18 @@ import_tables:
 摾	koengq
 謽	koengq
 䥒	koengq
-強	koengq
+強	koengq	10%
 强	koengq
 羥	koengq
 襁	koengq
 繈	koengq
 繦	koengq
 鏹	koengq
-蔃	koengr
+蔃	koengr	10%
 㛨	koengr
 彊	koengx
 嵹	koengx
-強	koengx
+強	koengx	10%
 强	koengx
 漒	koengx
 㩖	koengx
@@ -14144,7 +14144,7 @@ call	koj
 㙜	kok
 𡌃	kok
 𤥢	kok
-搉	kokj
+搉	kokj	10%
 㩁	kokj
 骯	kong
 卝	kong
@@ -14251,7 +14251,7 @@ call	koj
 䙡	kuir
 聵	kuir
 笟	kuj
-箍	kuj
+箍	kuj	10%
 箛	kuj
 篐	kuj
 圐	kuj
@@ -14290,7 +14290,7 @@ call	koj
 跫	kungx
 銎	kungx
 㮪	kungx
-窮	kungx
+窮	kungx	10%
 藭	kungx
 竆	kungx
 芎	kungx
@@ -14323,7 +14323,7 @@ call	koj
 泧	kut
 拳	kvnr
 卷	kvnx
-拳	kvnx
+拳	kvnx	9%
 啳	kvnx
 惓	kvnx
 婘	kvnx
@@ -14338,7 +14338,7 @@ call	koj
 㩲	kvnx
 巏	kvnx
 孉	kvnx
-權	kvnx
+權	kvnx	10%
 䑏	kvnx
 齤	kvnx
 蠸	kvnx
@@ -14456,7 +14456,7 @@ call	koj
 迋	kwaang
 䆲	kwaangj
 筐	kwaangj
-框	kwaangj
+框	kwaangj	10%
 眶	kwaangj
 褂	kwaar
 侉	kwaar
@@ -14473,7 +14473,7 @@ call	koj
 䰎	kwai
 硊	kwai
 茥	kwaij
-規	kwaij
+規	kwaij	10%
 䂓	kwaij
 嫢	kwaij
 摫	kwaij
@@ -14506,7 +14506,7 @@ call	koj
 湀	kwaiq
 揆	kwaiq
 楑	kwaiq
-愧	kwaiq
+愧	kwaiq	10%
 媿	kwaiq
 謉	kwaiq
 㟡	kwaiq
@@ -14603,7 +14603,7 @@ call	koj
 鈞	kwanj
 碅	kwanj
 𧥺	kwanj
-坤	kwanj
+坤	kwanj	10%
 昆	kwanj
 㒭	kwanj
 堒	kwanj
@@ -14677,9 +14677,9 @@ call	koj
 麇	kwanx
 帬	kwanx
 㪊	kwanx
-裙	kwanx
+裙	kwanx	9%
 裠	kwanx
-羣	kwanx
+羣	kwanx	10%
 群	kwanx
 䭽	kwanx
 㿏	kwanx
@@ -14742,10 +14742,10 @@ call	koj
 誑	kwongx
 鵟	kwongx
 嘑	laa
-喇	laa
+喇	laa	10%
 嚹	laa
 㙤	laa
-罅	laa
+罅	laa	9%
 鎼	laa
 鏬	laa
 𡅈	laa
@@ -14759,7 +14759,7 @@ call	koj
 顂	laaih
 䓶	laaih
 頼	laaih
-賴	laaih
+賴	laaih	10%
 鵣	laaih
 攋	laaih
 藾	laaih
@@ -14780,7 +14780,7 @@ call	koj
 癘	laaih
 犡	laaih
 落	laaih
-拉	laaij
+拉	laaij	10%
 鞡	laaij
 孻	laaij
 𡝰	laaij
@@ -14800,10 +14800,10 @@ call	koj
 𤰚	laaj
 剌	laaj
 砬	laaj
-啦	laaj
+啦	laaj	10%
 鞡	laaj
 㖸	laaj
-嘞	laak
+嘞	laak	10%
 𨊛	laak
 砳	laakh
 簕	laakh
@@ -14819,7 +14819,7 @@ call	koj
 漤	laamh
 䌫	laamh
 灠	laamh
-纜	laamh
+纜	laamh	10%
 嚂	laamh
 濫	laamh
 㜮	laamh
@@ -14843,7 +14843,7 @@ call	koj
 㧛	laamr
 㩜	laamr
 擥	laamr
-攬	laamr
+攬	laamr	10%
 欖	laamr
 杬	laamr
 礛	laamx
@@ -14853,14 +14853,14 @@ call	koj
 嵐	laamx
 厱	laamx
 儖	laamx
-藍	laamx
+藍	laamx	9%
 燷	laamx
 燣	laamx
 懢	laamx
 璼	laamx
 䆾	laamx
 襤	laamx
-籃	laamx
+籃	laamx	10%
 灆	laamx
 繿	laamx
 礷	laamx
@@ -14875,12 +14875,12 @@ call	koj
 䆡	laangj
 唥	laangj
 迒	laangq
-冷	laangq
+冷	laangq	10%
 瀾	laanh
 㱫	laanh
 燗	laanh
 瓓	laanh
-爛	laanh
+爛	laanh	10%
 䃹	laanh
 爤	laanh
 糷	laanh
@@ -14898,7 +14898,7 @@ call	koj
 闌	laanx
 譋	laanx
 攔	laanx
-蘭	laanx
+蘭	laanx	10%
 㘓	laanx
 幱	laanx
 瀾	laanx
@@ -14917,7 +14917,7 @@ call	koj
 䪍	laanx
 钄	laanx
 韊	laanx
-擸	laap
+擸	laap	10%
 䁽	laap
 𥅈	laap
 錯	laaph
@@ -14953,7 +14953,7 @@ call	koj
 㧜	laaph
 㼃	laaph
 揦	laaq
-揦	laar
+揦	laar	10%
 𢲡	laar
 喇	laat
 瘌	laat
@@ -14971,7 +14971,7 @@ call	koj
 揧	laath
 辢	laath
 瘌	laath
-辣	laath
+辣	laath	10%
 䏀	laath
 蝲	laath
 鬎	laath
@@ -14987,12 +14987,12 @@ call	koj
 撈	laauj
 𥒚	laaux
 巙	laaux
-撈	laaux
+撈	laaux	10%
 賿	laaux
 蹘	laaux
 䃩	laaux
 䴃	laaux
-啦	laax
+啦	laax	10%
 喇	laax
 𨯅	laih
 迣	laih
@@ -15003,7 +15003,7 @@ call	koj
 劙	laih
 欐	laih
 丽	laih
-例	laih
+例	laih	10%
 沴	laih
 戾	laih
 茘	laih
@@ -15040,7 +15040,7 @@ call	koj
 䊪	laih
 爄	laih
 禲	laih
-麗	laih
+麗	laih	9%
 礪	laih
 㘑	laih
 蠣	laih
@@ -15070,7 +15070,7 @@ call	koj
 豊	laiq
 䗍	laiq
 澧	laiq
-禮	laiq
+禮	laiq	10%
 蟸	laiq
 醴	laiq
 邐	laiq
@@ -15097,7 +15097,7 @@ call	koj
 黎	laix
 謧	laix
 藜	laix
-嚟	laix
+嚟	laix	10%
 㠟	laix
 邌	laix
 㰀	laix
@@ -15108,7 +15108,7 @@ call	koj
 蠡	laix
 廲	laix
 䄵	laix
-啦	laaj
+啦	laaj	10%
 𥵚	lakh
 㔹	lakh
 仂	lakh
@@ -15131,11 +15131,11 @@ call	koj
 䅞	lakh
 䎪	lakh
 䭆	lakh
-肋	lakj
+肋	lakj	10%
 㪐	lakj
-冧	lam
-㨆	lamh
-冧	lamj
+冧	lam	10%
+㨆	lamh	10%
+冧	lamj	10%
 𣺉	lamj
 稟	lamq
 癝	lamq
@@ -15154,26 +15154,26 @@ call	koj
 䕲	lamq
 顲	lamq
 𧯴	lamx
-林	lamx
+林	lamx	10%
 啉	lamx
 崊	lamx
-淋	lamx
+淋	lamx	9%
 惏	lamx
 㝝	lamx
-琳	lamx
+琳	lamx	7%
 晽	lamx
 碄	lamx
 箖	lamx
 霖	lamx
 䫐	lamx
-臨	lamx
+臨	lamx	8%
 瀶	lamx
 菻	lamx
 瀮	lamx
 痳	lamx
 㣩	lamx
 㵉	lamx
-林	lamr
+林	lamr	10%
 𠹌	lang
 䮚	langh
 㘄	langj
@@ -15182,12 +15182,12 @@ call	koj
 𡳞	lanr
 𠹌	lanr
 𨶙	lanr
-撚	lanr
+撚	lanr	10%
 𠹹	lanx
 蹸	lanx
 𨚪	laph
 搚	laph
-立	laph
+立	laph	10%
 苙	laph
 岦	laph
 笠	laph
@@ -15196,14 +15196,14 @@ call	koj
 鱲	laph
 竔	laph
 𠈔	laph
-凹	lapj
+凹	lapj	10%
 苙	lapj
 㕸	lapj
-笠	lapj
+笠	lapj	9%
 粒	lapj
 𢫫	latj
-甩	latj
-嘍	lau
+甩	latj	10%
+嘍	lau	10%
 摟	lau
 溜	lauh
 熘	lauh
@@ -15229,7 +15229,7 @@ call	koj
 㔷	lauh
 陋	lauh
 屚	lauh
-漏	lauh
+漏	lauh	10%
 瘻	lauh
 瘺	lauh
 鏤	lauh
@@ -15242,7 +15242,7 @@ call	koj
 瞜	lauj
 嘍	lauj
 㺏	lauj
-摟	lauj
+摟	lauj	10%
 褸	lauj
 藰	lauq
 懰	lauq
@@ -15268,7 +15268,7 @@ call	koj
 㪹	lauq
 簍	lauq
 褸	lauq
-縷	lauq
+縷	lauq	10%
 茆	lauq
 㜌	lauq
 瘤	laur
@@ -15276,7 +15276,7 @@ call	koj
 㚼	laur
 靵	laur
 㱙	laur
-樓	laur
+樓	laur	10%
 摎	laux
 寠	laux
 窶	laux
@@ -15286,8 +15286,8 @@ call	koj
 㐬	laux
 㳅	laux
 畄	laux
-留	laux
-流	laux
+留	laux	9%
+流	laux	7%
 琉	laux
 㽞	laux
 旈	laux
@@ -15305,7 +15305,7 @@ call	koj
 榴	laux
 駠	laux
 磂	laux
-劉	laux
+劉	laux	10%
 瘤	laux
 瑬	laux
 璢	laux
@@ -15355,7 +15355,7 @@ call	koj
 㺏	laux
 廔	laux
 慺	laux
-樓	laux
+樓	laux	8%
 膢	laux
 熡	laux
 𤬏	laux
@@ -15378,7 +15378,7 @@ call	koj
 𥜆	laux
 斿	laux
 䖻	laux
-咧	le
+咧	le	10%
 唎	leih
 蜊	leih
 鯏	leih
@@ -15394,7 +15394,7 @@ call	koj
 涖	leih
 娳	leih
 𦲷	leih
-脷	leih
+脷	leih	10%
 詈	leih
 痢	leih
 蒞	leih
@@ -15412,8 +15412,8 @@ call	koj
 悝	leiq
 哩	leiq
 瓼	leiq
-李	leiq
-里	leiq
+李	leiq	9%
+里	leiq	8%
 㸚	leiq
 峛	leiq
 俚	leiq
@@ -15422,16 +15422,16 @@ call	koj
 峲	leiq
 浬	leiq
 娌	leiq
-理	leiq
+理	leiq	10%
 䤚	leiq
 㾖	leiq
 裡	leiq
 裏	leiq
 粴	leiq
 鋰	leiq
-鯉	leiq
+鯉	leiq	7%
 邐	leiq
-履	leiq
+履	leiq	6%
 儞	leiq
 䕥	leiq
 𡛧	leiq
@@ -15485,7 +15485,7 @@ call	koj
 藜	leix
 嚟	leix
 䱘	leix
-離	leix
+離	leix	10%
 斄	leix
 䴻	leix
 鵹	leix
@@ -15527,18 +15527,18 @@ call	koj
 壢	lekh
 瀝	lekh
 癧	lekh
-叻	lekj
+叻	lekj	10%
 舔	lemr
 𦧷	lemr
-靚	leng
+靚	leng	10%
 愣	lengj
-僆	lengj
+僆	lengj	10%
 𡃁	lengj
 岭	lengq
 領	lengq
 嶺	lengq
 鯪	lengx
-靈	lengx
+靈	lengx	9%
 累	leoi
 櫚	leoi
 旅	leoi
@@ -15556,14 +15556,14 @@ call	koj
 䣦	leoih
 洡	leoih
 涙	leoih
-累	leoih
+累	leoih	9%
 淚	leoih
 㴃	leoih
 酹	leoih
 銇	leoih
 錑	leoih
 䮑	leoih
-類	leoih
+類	leoih	10%
 䉪	leoih
 纇	leoih
 蘱	leoih
@@ -15576,7 +15576,7 @@ call	koj
 盭	leoih
 捩	leoih
 䫫	leoih
-慮	leoih
+慮	leoih	8%
 䮉	leoih
 勴	leoih
 㔧	leoih
@@ -15631,7 +15631,7 @@ call	koj
 頛	leoiq
 䢮	leoiq
 裡	leoiq
-裏	leoiq
+裏	leoiq	10%
 僂	leoiq
 謱	leoiq
 捛	leoiq
@@ -15667,7 +15667,7 @@ call	koj
 䲎	leoiq
 蜼	leoiq
 㗊	leoix
-雷	leoix
+雷	leoix	10%
 蔂	leoix
 䨓	leoix
 㒍	leoix
@@ -15754,7 +15754,7 @@ call	koj
 惀	leonh
 碖	leonh
 溣	leonh
-論	leonh
+論	leonh	10%
 𥣡	leonh
 紊	leonh
 㖥	leonj
@@ -15771,7 +15771,7 @@ call	koj
 厸	leonx
 粦	leonx
 㔂	leonx
-鄰	leonx
+鄰	leonx	9%
 粼	leonx
 㷠	leonx
 隣	leonx
@@ -15822,7 +15822,7 @@ call	koj
 䈁	leonx
 䑳	leonx
 綸	leonx
-輪	leonx
+輪	leonx	10%
 踚	leonx
 磮	leonx
 錀	leonx
@@ -15846,7 +15846,7 @@ call	koj
 㗚	leoth
 㟳	leoth
 溧	leoth
-慄	leoth
+慄	leoth	10%
 瑮	leoth
 篥	leoth
 䬆	leoth
@@ -15859,7 +15859,7 @@ call	koj
 𨀞	leoth
 膟	leoth
 垏	leoth
-律	leoth
+律	leoth	9%
 率	leoth
 葎	leoth
 𠷈	leoth
@@ -15882,13 +15882,13 @@ call	koj
 鷸	leoth
 栗	leotr
 率	leotr
-哩	leq
+哩	leq	10%
 䟩	leq
 褦	leq
 咧	ler
 𠺫	leuj
 𠻗	lex
-咧	lex
+咧	lex	10%
 哩	lij
 唎	lij
 𨉖	lij
@@ -15899,7 +15899,7 @@ call	koj
 鞷	likh
 仂	likh
 叻	likh
-力	likh
+力	likh	10%
 屴	likh
 朸	likh
 赲	likh
@@ -15971,7 +15971,7 @@ call	koj
 皪	likj
 轢	likj
 靂	likj
-擽	likj
+擽	likj	10%
 濼	likj
 匿	likj
 眤	likj
@@ -16013,7 +16013,7 @@ call	koj
 薟	limq
 㪘	limq
 㰸	limq
-簾	limr
+簾	limr	10%
 搛	limx
 瞼	limx
 帘	limx
@@ -16066,20 +16066,20 @@ call	koj
 愣	lingh
 睖	lingh
 倰	lingh
-另	lingh
-令	lingh
+另	lingh	9%
+令	lingh	10%
 呤	lingh
 炩	lingh
 擰	lingh
 睃	lingh
-拎	lingj
+拎	lingj	10%
 㩕	lingj
 令	lingj
 阾	lingq
 彾	lingq
 袊	lingq
 岭	lingq
-領	lingq
+領	lingq	10%
 嶺	lingq
 令	lingq
 呤	lingq
@@ -16152,7 +16152,7 @@ call	koj
 祾	lingx
 蓤	lingx
 䔖	lingx
-零	lingx
+零	lingx	10%
 閝	lingx
 鈴	lingx
 裬	lingx
@@ -16195,7 +16195,7 @@ call	koj
 𦉢	lingx
 䡼	lingx
 醽	lingx
-靈	lingx
+靈	lingx	9%
 䴇	lingx
 䴫	lingx
 䖅	lingx
@@ -16238,9 +16238,9 @@ call	koj
 瑓	linh
 楝	linh
 㪝	linh
-煉	linh
+煉	linh	9%
 㼑	linh
-練	linh
+練	linh	10%
 錬	linh
 鍊	linh
 鏈	linh
@@ -16250,19 +16250,19 @@ call	koj
 璉	linq
 鄻	linq
 僆	linq
-摙	linq
+摙	linq	10%
 輦	linq
 攆	linq
 𨃨	linq
-摙	linr
+摙	linr	9%
 鍊	linr
-鏈	linr
+鏈	linr	10%
 䟢	linr
 㮟	linr
 嫾	linx
 㟀	linx
 怜	linx
-連	linx
+連	linx	10%
 㥕	linx
 蓮	linx
 嗹	linx
@@ -16321,7 +16321,7 @@ call	koj
 䢂	lipj
 結	lit
 𤹐	lit
-裂	lit
+裂	lit	10%
 纈	lit
 迣	lith
 戾	lith
@@ -16329,7 +16329,7 @@ call	koj
 棙	lith
 綟	lith
 咧	lith
-列	lith
+列	lith	10%
 劽	lith
 冽	lith
 挒	lith
@@ -16339,7 +16339,7 @@ call	koj
 峢	lith
 洌	lith
 烮	lith
-烈	lith
+烈	lith	9%
 㤠	lith
 捩	lith
 䅀	lith
@@ -16368,19 +16368,19 @@ call	koj
 䉼	liuh
 料	liuh
 䎆	liuh
-廖	liuh
+廖	liuh	10%
 䢧	liuh
 㭂	liuj
-撩	liuj
+撩	liuj	10%
 敹	liuj
-鷯	liuj
+鷯	liuj	7%
 撂	liuj
-溜	liuj
-熘	liuj
+溜	liuj	9%
+熘	liuj	8%
 六	liuj
 𠮩	liuj
 𢓌	liuj
-了	liuq
+了	liuq	10%
 㶫	liuq
 僚	liuq
 潦	liuq
@@ -16400,13 +16400,13 @@ call	koj
 嬼	liuq
 潦	liur
 髎	liur
-料	liur
+料	liur	9%
 顟	liux
 佬	liux
 㺐	liux
 橑	liux
 了	liux
-撩	liux
+撩	liux	10%
 蹽	liux
 䒿	liux
 聊	liux
@@ -16463,8 +16463,8 @@ call	koj
 䭜	liux
 咯	lo
 摞	lo
-囉	lo
-𤓓	lo
+囉	lo	10%
+𤓓	lo	9%
 𦧲	loej
 𠼱	loej
 撂	loekh
@@ -16473,7 +16473,7 @@ call	koj
 㨼	loekh
 䂮	loekh
 掠	loekh
-略	loekh
+略	loekh	10%
 畧	loekh
 㗉	loekh
 䛚	loekh
@@ -16491,7 +16491,7 @@ call	koj
 亮	loengh
 哴	loengh
 悢	loengh
-量	loengh
+量	loengh	10%
 䀶	loengh
 喨	loengh
 㾗	loengh
@@ -16499,15 +16499,15 @@ call	koj
 輌	loengh
 䁁	loengh
 踉	loengh
-輛	loengh
+輛	loengh	9%
 諒	loengh
 鍄	loengh
 𤦻	loengh
 襔	loengq
 㒳	loengq
-兩	loengq
+兩	loengq	10%
 㔝	loengq
-倆	loengq
+倆	loengq	9%
 掚	loengq
 䓣	loengq
 啢	loengq
@@ -16519,16 +16519,16 @@ call	koj
 䩫	loengq
 魎	loengq
 両	loengr
-兩	loengr
+兩	loengr	10%
 啢	loengr
 斏	loengx
 駺	loengx
 莨	loengx
 簗	loengx
-良	loengx
+良	loengx	10%
 俍	loengx
 涼	loengx
-梁	loengx
+梁	loengx	9%
 椋	loengx
 㹁	loengx
 𣸑	loengx
@@ -16542,13 +16542,13 @@ call	koj
 䣼	loengx
 䝶	loengx
 糧	loengx
-量	loengx
+量	loengx	8%
 踉	loengx
 諒	loengx
 𩞯	loengx
 羪	loengx
 𨫟	loengx
-𦧲	loer
+𦧲	loer	10%
 𠼱	loer
 𢶤	loer
 邏	loh
@@ -16564,7 +16564,7 @@ call	koj
 䌴	loh
 㤖	loh
 㾢	loih
-來	loih
+來	loih	10%
 唻	loih
 徠	loih
 睞	loih
@@ -16580,7 +16580,7 @@ call	koj
 酹	loih
 頪	loih
 䂾	loiq
-來	loix
+來	loix	10%
 郲	loix
 倈	loix
 䧒	loix
@@ -16607,9 +16607,9 @@ call	koj
 咯	loj
 旯	loj
 𦣇	loj
-囉	loj
+囉	loj	10%
 籮	loj
-咯	lok
+咯	lok	10%
 胳	lok
 硌	lok
 鉻	lok
@@ -16639,14 +16639,14 @@ call	koj
 硦	lokh
 㓢	lokh
 峈	lokh
-洛	lokh
+洛	lokh	8%
 珞	lokh
 㪾	lokh
 䀩	lokh
-落	lokh
+落	lokh	10%
 䎊	lokh
 㴖	lokh
-絡	lokh
+絡	lokh	7%
 雒	lokh
 犖	lokh
 鮥	lokh
@@ -16659,7 +16659,7 @@ call	koj
 馲	lokh
 橐	lokh
 楽	lokh
-樂	lokh
+樂	lokh	9%
 㦡	lokh
 躒	lokh
 𨿅	lokh
@@ -16713,7 +16713,7 @@ call	koj
 勆	longx
 郞	longx
 㟍	longx
-狼	longx
+狼	longx	10%
 㢃	longx
 㝗	longx
 欴	longx
@@ -16768,7 +16768,7 @@ call	koj
 㩡	lor
 蠃	lor
 臝	lor
-攞	lor
+攞	lor	10%
 曪	lor
 㒩	lor
 癳	lor
@@ -16788,7 +16788,7 @@ call	koj
 潦	louh
 輅	louh
 賂	louh
-路	louh
+路	louh	10%
 蕗	louh
 𡀔	louh
 潞	louh
@@ -16797,13 +16797,13 @@ call	koj
 鴼	louh
 簵	louh
 簬	louh
-露	louh
+露	louh	9%
 鏴	louh
 虂	louh
 鷺	louh
 𤅟	louh
 𤫢	louh
-撈	louj
+撈	louj	10%
 謢	louj
 嚕	louj
 黸	louj
@@ -16811,7 +16811,7 @@ call	koj
 粩	louq
 狫	louq
 耂	louq
-老	louq
+老	louq	10%
 佬	louq
 㧯	louq
 荖	louq
@@ -16865,7 +16865,7 @@ call	koj
 䎛	louq
 𠐔	louq
 蟧	lour
-佬	lour
+佬	lour	10%
 撈	loux
 労	loux
 牢	loux
@@ -16949,7 +16949,7 @@ call	koj
 腡	lox
 螺	lox
 䊨	lox
-羅	lox
+羅	lox	7%
 鏍	lox
 覶	lox
 騾	lox
@@ -16964,8 +16964,8 @@ call	koj
 㽋	lox
 驘	lox
 鸁	lox
-籮	lox
-鑼	lox
+籮	lox	9%
+鑼	lox	8%
 饠	lox
 剆	lox
 蠃	lox
@@ -16976,7 +16976,7 @@ call	koj
 谷	lukh
 角	lukh
 蓼	lukh
-六	lukh
+六	lukh	10%
 磟	lukh
 飂	lukh
 圥	lukh
@@ -16986,13 +16986,13 @@ call	koj
 彔	lukh
 勎	lukh
 㓐	lukh
-陸	lukh
+陸	lukh	8%
 菉	lukh
 㖨	lukh
 㟤	lukh
 鹿	lukh
 淕	lukh
-淥	lukh
+淥	lukh	6%
 逯	lukh
 㛬	lukh
 娽	lukh
@@ -17039,7 +17039,7 @@ call	koj
 穋	lukh
 錴	lukh
 録	lukh
-錄	lukh
+錄	lukh	7%
 䩮	lukh
 螰	lukh
 簏	lukh
@@ -17062,7 +17062,7 @@ call	koj
 鱳	lukh
 氯	lukh
 緑	lukh
-綠	lukh
+綠	lukh	9%
 慮	lukh
 䂇	lukh
 搙	lukh
@@ -17072,11 +17072,11 @@ call	koj
 𤊒	lukh
 磟	lukj
 𢮑	lukj
-碌	lukj
-睩	lukj
+碌	lukj	10%
+睩	lukj	8%
 㯟	lukj
 簏	lukj
-轆	lukj
+轆	lukj	9%
 麓	lukj
 鹿	lukr
 錄	lukr
@@ -17094,25 +17094,25 @@ call	koj
 梇	lungh
 衖	lungh
 贚	lungh
-弄	lungh
+弄	lungh	10%
 挊	lungh
 挵	lungh
 鞐	lungh
 桛	lungh
 㺯	lungh
 𥥅	lungj
-窿	lungj
+窿	lungj	10%
 竉	lungj
 槓	lungq
 篢	lungq
 龓	lungq
-籠	lungq
+籠	lungq	10%
 㴳	lungq
 㙙	lungq
 儱	lungq
 隴	lungq
 壠	lungq
-攏	lungq
+攏	lungq	9%
 徿	lungq
 壟	lungq
 䡁	lungq
@@ -17120,7 +17120,7 @@ call	koj
 屸	lungx
 㚅	lungx
 竜	lungx
-隆	lungx
+隆	lungx	7%
 湰	lungx
 槞	lungx
 𠾐	lungx
@@ -17130,7 +17130,7 @@ call	koj
 㝫	lungx
 篭	lungx
 癃	lungx
-龍	lungx
+龍	lungx	9%
 𢅛	lungx
 㡣	lungx
 窿	lungx
@@ -17158,8 +17158,8 @@ call	koj
 襱	lungx
 䏊	lungx
 蠬	lungx
-籠	lungx
-聾	lungx
+籠	lungx	10%
+聾	lungx	8%
 蠪	lungx
 躘	lungx
 豅	lungx
@@ -17177,7 +17177,7 @@ call	koj
 𤜆	lungx
 乱	lvnh
 釠	lvnh
-亂	lvnh
+亂	lvnh	10%
 㯎	lvnh
 攣	lvnj
 癵	lvnj
@@ -17191,11 +17191,11 @@ call	koj
 孌	lvnr
 㜻	lvnr
 㘘	lvnr
-亂	lvnr
+亂	lvnr	10%
 聨	lvnx
 聫	lvnx
 聮	lvnx
-聯	lvnx
+聯	lvnx	10%
 䏈	lvnx
 鵉	lvnx
 䜌	lvnx
@@ -17250,8 +17250,8 @@ call	koj
 䟹	lvth
 捋	lvth
 鋝	lvth
-嗎	maa
-嘛	maa
+嗎	maa	9%
+嘛	maa	10%
 嚜	maa
 傌	maah
 獁	maah
@@ -17267,17 +17267,17 @@ call	koj
 売	maaih
 佅	maaih
 勱	maaih
-賣	maaih
+賣	maaih	10%
 邁	maaih
 䜕	maaih
 䀛	maaih
 䀜	maaih
-買	maaiq
+買	maaiq	10%
 蕒	maaiq
 嘪	maaiq
 鷶	maaiq
 貍	maaix
-埋	maaix
+埋	maaix	10%
 㜥	maaix
 薶	maaix
 䁲	maaix
@@ -17286,8 +17286,8 @@ call	koj
 䚑	maaix
 霾	maaix
 𠹺	maaix
-媽	maaj
-嗎	maaj
+媽	maaj	9%
+嗎	maaj	10%
 螞	maaj
 么	maaj
 麼	maaj
@@ -17295,15 +17295,15 @@ call	koj
 摩	maaj
 嬤	maaj
 狕	maaj
-孖	maaj
+孖	maaj	8%
 𡚸	maaj
 㓦	maak
 掰	maak
 孹	maak
-擘	maak
+擘	maak	10%
 貉	maakh
 脈	maakh
-麥	maakh
+麥	maakh	10%
 霢	maakh
 陌	maakh
 眽	maakh
@@ -17314,7 +17314,7 @@ call	koj
 萬	maakh
 嚜	maakj
 盟	maangh
-孟	maangh
+孟	maangh	10%
 䓝	maangh
 𠗠	maangh
 絣	maangj
@@ -17323,7 +17323,7 @@ call	koj
 鯭	maangj
 鄳	maangq
 勐	maangq
-猛	maangq
+猛	maangq	10%
 瓾	maangq
 䁅	maangq
 蜢	maangq
@@ -17332,7 +17332,7 @@ call	koj
 黽	maangq
 鱦	maangq
 蜢	maangr
-盲	maangx
+盲	maangx	10%
 氓	maangx
 莔	maangx
 䇇	maangx
@@ -17354,7 +17354,7 @@ call	koj
 幔	maanh
 獌	maanh
 漫	maanh
-慢	maanh
+慢	maanh	9%
 槾	maanh
 㡢	maanh
 熳	maanh
@@ -17372,25 +17372,25 @@ call	koj
 鏝	maanh
 蘰	maanh
 𤅎	maanh
-万	maanh
+万	maanh	8%
 卐	maanh
 卍	maanh
 杤	maanh
 㸘	maanh
 脕	maanh
-萬	maanh
+萬	maanh	10%
 蟃	maanh
 贎	maanh
 㻴	maanh
 𤛔	maanh
-摱	maanj
+摱	maanj	10%
 𢶯	maanj
 𢺳	maanj
 矕	maanq
 睌	maanq
 娩	maanq
 梚	maanq
-晚	maanq
+晚	maanq	10%
 葂	maanq
 晩	maanq
 䅋	maanq
@@ -17416,8 +17416,8 @@ call	koj
 𧖣	maanx
 𥡗	maaq
 媽	maaq
-嗎	maaq
-馬	maaq
+嗎	maaq	9%
+馬	maaq	10%
 䣕	maaq
 遤	maaq
 獁	maaq
@@ -17439,7 +17439,7 @@ call	koj
 㨸	maat
 礣	maat
 䯦	maat
-抹	maat
+抹	maat	10%
 靺	maath
 袜	maath
 襪	maath
@@ -17449,12 +17449,12 @@ call	koj
 皃	maauh
 㹸	maauh
 䡚	maauh
-貌	maauh
+貌	maauh	10%
 䫉	maauh
 貎	maauh
 𠒇	maauh
 猫	maauj
-貓	maauj
+貓	maauj	10%
 茆	maauq
 卯	maauq
 夘	maauq
@@ -17506,15 +17506,15 @@ call	koj
 䲈	maax
 襼	mai
 袂	maih
-咪	maih
+咪	maih	10%
 謎	maih
 㜆	maih
-咪	maij
+咪	maij	10%
 劘	maij
 米	maij
-咪	maiq
+咪	maiq	10%
 眯	maiq
-米	maiq
+米	maiq	9%
 洣	maiq
 弭	maiq
 眫	maiq
@@ -17534,7 +17534,7 @@ call	koj
 謎	mair
 霾	maix
 眯	maix
-迷	maix
+迷	maix	10%
 蒾	maix
 㴹	maix
 詸	maix
@@ -17558,7 +17558,7 @@ call	koj
 貉	makh
 嘿	makh
 脉	makh
-脈	makh
+脈	makh	10%
 麥	makh
 䘑	makh
 衇	makh
@@ -17613,7 +17613,7 @@ call	koj
 顭	mangh
 㜴	mangh
 擝	mangj
-掹	mangj
+掹	mangj	10%
 𠵼	mangj
 䫤	mangj
 繃	mangr
@@ -17650,16 +17650,16 @@ call	koj
 汶	manh
 妏	manh
 㡈	manh
-問	manh
+問	manh	10%
 㼂	manh
 璺	manh
 舋	manh
 㭣	manh
 䠺	manh
-燜	manj
-文	manj
-炆	manj
-蚊	manj
+燜	manj	8%
+文	manj	7%
+炆	manj	9%
+蚊	manj	10%
 蚉	manj
 蟁	manj
 䘇	manj
@@ -17678,7 +17678,7 @@ call	koj
 勄	manq
 敃	manq
 笢	manq
-敏	manq
+敏	manq	10%
 閔	manq
 湣	manq
 黽	manq
@@ -17715,7 +17715,7 @@ call	koj
 𣇹	manq
 𤨨	manq
 聞	manr
-抆	manr
+抆	manr	10%
 𦐐	manx
 𦅙	manx
 甿	manx
@@ -17763,7 +17763,7 @@ call	koj
 敯	manx
 閩	manx
 鈫	manx
-文	manx
+文	manx	10%
 芠	manx
 彣	manx
 玟	manx
@@ -17803,7 +17803,7 @@ call	koj
 宻	math
 淧	math
 㳴	math
-密	math
+密	math	8%
 䛑	math
 㴵	math
 蔤	math
@@ -17826,21 +17826,21 @@ call	koj
 帕	math
 袜	math
 䍪	math
-襪	math
+襪	math	9%
 韈	math
 韤	math
 勿	math
 伆	math
 芴	math
 岉	math
-物	math
+物	math	10%
 粅	math
 䥼	math
 𠖳	math
 𡛁	math
-乜	matj
+乜	matj	10%
 卯	mau
-茂	mauh
+茂	mauh	9%
 䀤	mauh
 袤	mauh
 䓮	mauh
@@ -17852,17 +17852,17 @@ call	koj
 瞀	mauh
 懋	mauh
 繆	mauh
-謬	mauh
+謬	mauh	10%
 柕	mauh
 㮊	mauh
 𢡟	mauh
 𣕚	mauh
-踎	mauj
+踎	mauj	10%
 痞	mauj
 畂	mauq
 卯	mauq
 昴	mauq
-某	mauq
+某	mauq	10%
 䍒	mauq
 𦳑	mauq
 牡	mauq
@@ -17870,7 +17870,7 @@ call	koj
 畒	mauq
 畆	mauq
 畞	mauq
-畝	mauq
+畝	mauq	9%
 畮	mauq
 𠺖	mauq
 踇	mauq
@@ -17893,7 +17893,7 @@ call	koj
 鉾	maux
 䗋	maux
 䋷	maux
-謀	maux
+謀	maux	10%
 麰	maux
 鴾	maux
 鍪	maux
@@ -17903,7 +17903,7 @@ call	koj
 母	maux
 鞪	maux
 㛌	maux
-乜	meh
+乜	meh	10%
 𧙕	meih
 汆	meih
 祙	meih
@@ -17919,9 +17919,9 @@ call	koj
 䰨	meih
 䰪	meih
 怽	meih
-未	meih
+未	meih	10%
 苿	meih
-味	meih
+味	meih	9%
 菋	meih
 䙿	meih
 䅏	meih
@@ -17937,7 +17937,7 @@ call	koj
 㵟	meij
 𧋦	meij
 𦾡	meiq
-美	meiq
+美	meiq	9%
 䓺	meiq
 嵄	meiq
 渼	meiq
@@ -17963,7 +17963,7 @@ call	koj
 䭧	meiq
 吀	meiq
 𠳿	meiq
-尾	meiq
+尾	meiq	10%
 㞑	meiq
 捤	meiq
 荱	meiq
@@ -18000,7 +18000,7 @@ call	koj
 𪑛	meix
 鶥	meix
 黴	meix
-媚	meix
+媚	meix	10%
 冞	meix
 㟜	meix
 䴢	meix
@@ -18049,18 +18049,18 @@ call	koj
 𢃼	meix
 𢔰	meix
 𣈲	meix
-孭	mej
+孭	mej	9%
 𦍋	mej
 羋	mej
 乜	mej
-咩	mej
+咩	mej	10%
 哶	mej
 𧴯	mej
 蝆	mej
 𠤖	mej
 𡥼	mej
-命	mengh
-名	mengr
+命	mengh	10%
+名	mengr	10%
 名	mengx
 𦍋	meq
 羋	meq
@@ -18068,7 +18068,7 @@ call	koj
 乜	mer
 歪	mer
 喵	meuj
-呣	mh
+呣	mh	10%
 唔	mh
 咪	mij
 眯	mij
@@ -18104,7 +18104,7 @@ call	koj
 銯	mikh
 㯒	mikh
 暝	mingh
-命	mingh
+命	mingh	10%
 掵	mingh
 詺	mingh
 䒌	mingh
@@ -18118,7 +18118,7 @@ call	koj
 溟	mingq
 嫇	mingq
 暝	mingq
-銘	mingq
+銘	mingq	10%
 瞑	mingq
 佲	mingq
 姳	mingq
@@ -18127,8 +18127,8 @@ call	koj
 㟰	mingq
 慏	mingq
 㭗	mingq
-名	mingx
-明	mingx
+名	mingx	10%
+明	mingx	9%
 茗	mingx
 眀	mingx
 𠱷	mingx
@@ -18161,11 +18161,11 @@ call	koj
 眄	minh
 偭	minh
 靣	minh
-面	minh
+面	minh	10%
 䛉	minh
 㴐	minh
 麫	minh
-麪	minh
+麪	minh	9%
 糆	minh
 麺	minh
 麵	minh
@@ -18174,7 +18174,7 @@ call	koj
 丏	minq
 汅	minq
 䀎	minq
-免	minq
+免	minq	10%
 沔	minq
 眄	minq
 俛	minq
@@ -18199,7 +18199,7 @@ call	koj
 靦	minq
 𠡳	minq
 𣈳	minq
-面	minr
+面	minr	10%
 宀	minx
 芇	minx
 杣	minx
@@ -18208,7 +18208,7 @@ call	koj
 棉	minx
 㮌	minx
 䃇	minx
-綿	minx
+綿	minx	10%
 蝒	minx
 臱	minx
 緜	minx
@@ -18253,7 +18253,7 @@ call	koj
 鱴	mith
 眜	mith
 䡸	mith
-搣	mitj
+搣	mitj	10%
 篎	miuh
 妙	miuh
 庙	miuh
@@ -18264,11 +18264,11 @@ call	koj
 繆	miuh
 𦯷	miuh
 咪	miuj
-喵	miuj
+喵	miuj	10%
 訬	miuq
 杪	miuq
 眇	miuq
-秒	miuq
+秒	miuq	10%
 淼	miuq
 渺	miuq
 篎	miuq
@@ -18286,12 +18286,12 @@ call	koj
 苗	miux
 䖢	miux
 描	miux
-瞄	miux
+瞄	miux	10%
 䁧	miux
 鶓	miux
 鱙	miux
 𣈴	miux
-呣	mj
+呣	mj	10%
 塺	moh
 磨	moh
 藦	moh
@@ -18321,7 +18321,7 @@ call	koj
 膜	mokh
 劰	mokh
 䒬	mokh
-莫	mokh
+莫	mokh	10%
 塻	mokh
 嗼	mokh
 漠	mokh
@@ -18336,16 +18336,16 @@ call	koj
 貘	mokh
 鏌	mokh
 䮬	mokh
-幕	mokh
+幕	mokh	9%
 幙	mokh
 㡍	mokh
 𪅐	mokh
-剝	mokj
+剝	mokj	10%
 膜	mokr
 莽	mongh
 妄	mongh
 盳	mongh
-望	mongh
+望	mongh	10%
 朢	mongh
 牤	mongj
 芒	mongj
@@ -18380,7 +18380,7 @@ call	koj
 蛧	mongq
 䋞	mongq
 蝄	mongq
-網	mongq
+網	mongq	10%
 輞	mongq
 䰣	mongq
 誷	mongq
@@ -18397,7 +18397,7 @@ call	koj
 芒	mongx
 吂	mongx
 汒	mongx
-忙	mongx
+忙	mongx	10%
 尨	mongx
 杗	mongx
 𥐞	mongx
@@ -18433,18 +18433,18 @@ call	koj
 𦮝	mongx
 亾	mongx
 兦	mongx
-亡	mongx
+亡	mongx	9%
 莣	mongx
 㤀	mongx
 忘	mongx
 望	mongx
 朢	mongx
-冇	moq
+冇	moq	10%
 麼	moq
 嬤	moq
 懡	moq
 䩋	moq
-摸	mor
+摸	mor	10%
 𦻒	mouh
 𡝭	mouh
 旄	mouh
@@ -18476,7 +18476,7 @@ call	koj
 縸	mouh
 募	mouh
 萺	mouh
-墓	mouh
+墓	mouh	10%
 慔	mouh
 楘	mouh
 慕	mouh
@@ -18491,21 +18491,21 @@ call	koj
 熃	mouh
 霚	mouh
 䨁	mouh
-霧	mouh
+霧	mouh	9%
 騖	mouh
 鶩	mouh
 䳱	mouh
 龯	mouh
 蟇	mouj
-髦	mouj
+髦	mouj	10%
 膴	mouq
 姥	mouq
 茻	mouq
 堥	mouq
-冇	mouq
+冇	mouq	10%
 瞴	mouq
 嘸	mouq
-母	mouq
+母	mouq	8%
 拇	mouq
 㟂	mouq
 姆	mouq
@@ -18517,13 +18517,13 @@ call	koj
 踇	mouq
 䥈	mouq
 㑄	mouq
-武	mouq
+武	mouq	9%
 侮	mouq
 倵	mouq
 娬	mouq
 珷	mouq
 碔	mouq
-舞	mouq
+舞	mouq	7%
 㒇	mouq
 䟼	mouq
 廡	mouq
@@ -18543,12 +18543,12 @@ call	koj
 㶃	mouq
 𠕇	mouq
 𤪕	mouq
-帽	mour
+帽	mour	9%
 模	mour
-毋	mour
+毋	mour	10%
 㲠	moux
 犛	moux
-毛	moux
+毛	moux	9%
 枆	moux
 牦	moux
 旄	moux
@@ -18584,7 +18584,7 @@ call	koj
 无	moux
 毋	moux
 莁	moux
-無	moux
+無	moux	10%
 墲	moux
 蕪	moux
 璑	moux
@@ -18614,7 +18614,7 @@ call	koj
 藦	mox
 無	mox
 𣟖	mox
-呣	mr
+呣	mr	10%
 湏	muih
 佅	muih
 瑁	muih
@@ -18634,9 +18634,9 @@ call	koj
 𤽜	muih
 㭑	muih
 𦳀	muih
-妹	muij
+妹	muij	10%
 毎	muiq
-每	muiq
+每	muiq	10%
 凂	muiq
 挴	muiq
 浼	muiq
@@ -18646,7 +18646,7 @@ call	koj
 黣	muiq
 潣	muiq
 𠗟	muiq
-妹	muir
+妹	muir	10%
 𠵈	muir
 坆	muix
 㺳	muix
@@ -18689,7 +18689,7 @@ call	koj
 坶	mukh
 木	mukh
 㧅	mukh
-目	mukh
+目	mukh	10%
 狇	mukh
 沐	mukh
 苜	mukh
@@ -18723,7 +18723,7 @@ call	koj
 㙹	mungh
 㝱	mungh
 梦	mungh
-夢	mungh
+夢	mungh	10%
 夣	mungh
 䠢	mungh
 霥	mungh
@@ -18733,11 +18733,11 @@ call	koj
 懞	mungq
 䲛	mungq
 䏵	mungq
-懵	mungq
+懵	mungq	10%
 蠓	mungq
 懜	mungq
 幪	mungr
-懵	mungr
+懵	mungr	10%
 蠓	mungr
 尨	mungx
 罞	mungx
@@ -18784,7 +18784,7 @@ call	koj
 鞔	munh
 滿	munh
 㥃	munh
-悶	munh
+悶	munh	10%
 㦖	munh
 燜	munh
 懣	munh
@@ -18792,7 +18792,7 @@ call	koj
 捫	munj
 悗	munq
 満	munq
-滿	munq
+滿	munq	10%
 蟎	munq
 鏋	munq
 曼	munq
@@ -18803,7 +18803,7 @@ call	koj
 𡠪	munq
 𡦖	munq
 𣂎	munq
-門	munr
+門	munr	10%
 顢	munx
 䒥	munx
 悗	munx
@@ -18813,12 +18813,12 @@ call	koj
 樠	munx
 䐽	munx
 鞔	munx
-瞞	munx
+瞞	munx	8%
 䊡	munx
 䟂	munx
 鬗	munx
 䜱	munx
-門	munx
+門	munx	10%
 閅	munx
 㻊	munx
 捫	munx
@@ -18828,14 +18828,14 @@ call	koj
 䫒	munx
 䊟	munx
 虋	munx
-們	munx
+們	munx	9%
 穈	munx
 蹣	munx
 亹	munx
 玧	munx
 𠵘	munx
 瀎	mut
-抹	mut
+抹	mut	10%
 沫	mut
 秣	mut
 䬴	mut
@@ -18843,7 +18843,7 @@ call	koj
 韎	muth
 瀎	muth
 抹	muth
-末	muth
+末	muth	10%
 圽	muth
 𤣻	muth
 茉	muth
@@ -18869,9 +18869,9 @@ call	koj
 袜	muth
 唜	muth
 𠰌	mutj
-呣	mx
+呣	mx	9%
 嘸	mx
-唔	mx
+唔	mx	10%
 呐	naa
 那	naah
 娜	naah
@@ -18879,12 +18879,12 @@ call	koj
 𠮨	naai
 佴	naaih
 褦	naaih
-奶	naaij
+奶	naaij	10%
 㜷	naaiq
 𠄎	naaiq
 乃	naaiq
 艿	naaiq
-奶	naaiq
+奶	naaiq	10%
 氖	naaiq
 疓	naaiq
 廼	naaiq
@@ -18933,7 +18933,7 @@ call	koj
 抩	naamx
 枏	naamx
 𣏵	naamx
-南	naamx
+南	naamx	10%
 侽	naamx
 莮	naamx
 畘	naamx
@@ -18943,7 +18943,7 @@ call	koj
 㓓	naamx
 萳	naamx
 遖	naamx
-喃	naamx
+喃	naamx	9%
 楠	naamx
 暔	naamx
 䔜	naamx
@@ -18967,7 +18967,7 @@ call	koj
 㫱	naanq
 戁	naanq
 赧	naanr
-難	naanx
+難	naanx	10%
 奻	naanx
 吶	naaph
 呐	naaph
@@ -18989,17 +18989,17 @@ call	koj
 㘝	naaph
 𠺶	naaph
 郍	naaq
-哪	naaq
+哪	naaq	9%
 𨙻	naaq
-那	naaq
+那	naaq	10%
 𨚗	naaq
 𦰡	naaq
 㑚	naaq
 㖠	naaq
 𤥶	naaq
-乸	naar
+乸	naar	10%
 鈉	naat
-焫	naat
+焫	naat	10%
 捺	naath
 䖧	naath
 痆	naath
@@ -19008,7 +19008,7 @@ call	koj
 鐃	naauh
 淖	naauh
 閙	naauh
-鬧	naauh
+鬧	naauh	10%
 臑	naauh
 橈	naauh
 孬	naauj
@@ -19044,7 +19044,7 @@ call	koj
 哪	naax
 那	naax
 娜	naax
-嗱	naax
+嗱	naax	10%
 挐	naax
 泥	naih
 迡	naih
@@ -19056,7 +19056,7 @@ call	koj
 䦵	naiq
 鑈	naiq
 坭	naix
-泥	naix
+泥	naix	10%
 屔	naix
 䘦	naix
 埿	naix
@@ -19079,7 +19079,7 @@ call	koj
 腍	namq
 恁	namr
 惗	namr
-諗	namr
+諗	namr	10%
 煁	namx
 淰	namx
 焾	namx
@@ -19089,7 +19089,7 @@ call	koj
 𠹌	nang
 而	nangx
 耐	nangx
-能	nangx
+能	nangx	10%
 䏻	nangx
 㴰	nangx
 儜	nangx
@@ -19098,12 +19098,12 @@ call	koj
 撚	nanr
 涊	nanr
 囜	nanx
-𥹉	naph
+𥹉	naph	10%
 𣲷	naph
 㵫	naph
 凹	napj
 𢈈	napj
-粒	napj
+粒	napj	10%
 𠕄	napj
 吶	nath
 呐	nath
@@ -19124,7 +19124,7 @@ call	koj
 腬	nauh
 糅	nauh
 獳	nauh
-嬲	nauj
+嬲	nauj	10%
 杻	nauq
 妞	nauq
 扭	nauq
@@ -19145,7 +19145,7 @@ call	koj
 杻	naur
 妞	naur
 㚼	naur
-扭	naur
+扭	naur	10%
 狃	naur
 忸	naur
 紐	naur
@@ -19176,9 +19176,9 @@ call	koj
 胒	neih
 㦐	neih
 膩	neih
-呢	neij
+呢	neij	10%
 𨉖	neij
-匿	neij
+匿	neij	9%
 洱	neiq
 𦴪	neiq
 祢	neiq
@@ -19186,7 +19186,7 @@ call	koj
 禰	neiq
 抳	neiq
 伱	neiq
-你	neiq
+你	neiq	10%
 苨	neiq
 狔	neiq
 妳	neiq
@@ -19212,7 +19212,7 @@ call	koj
 㳽	neix
 瀰	neix
 呢	neix
-妮	neix
+妮	neix	10%
 尼	neix
 㞾	neix
 怩	neix
@@ -19227,7 +19227,7 @@ call	koj
 㢱	neix
 𤤗	neix
 呐	nej
-呢	nej
+呢	nej	10%
 𠽒	nengr
 呐	neoih
 㨅	neoih
@@ -19240,14 +19240,14 @@ call	koj
 鮾	neoiq
 鯘	neoiq
 䲎	neoiq
-女	neoiq
+女	neoiq	10%
 籹	neoiq
 釹	neoiq
 浽	neoiq
 娞	neoiq
 脮	neoiq
 餧	neoiq
-女	neoir
+女	neoir	10%
 蒘	neoix
 䋈	neoix
 吶	neoth
@@ -19264,7 +19264,7 @@ call	koj
 鷸	neoth
 瓦	ngaah
 閕	ngaah
-椏	ngaah
+椏	ngaah	10%
 齖	ngaah
 𧧝	ngaah
 迓	ngaah
@@ -19274,11 +19274,11 @@ call	koj
 訝	ngaah
 𦜖	ngaah
 御	ngaah
-嗌	ngaai
+嗌	ngaai	10%
 哎	ngaaih
 唉	ngaaih
 娾	ngaaih
-艾	ngaaih
+艾	ngaaih	10%
 㘷	ngaaih
 䝽	ngaaih
 鴱	ngaaih
@@ -19298,7 +19298,7 @@ call	koj
 䢃	ngaaih
 𠊎	ngaaij
 挨	ngaaix
-捱	ngaaix
+捱	ngaaix	9%
 啀	ngaaix
 嘊	ngaaix
 淣	ngaaix
@@ -19306,7 +19306,7 @@ call	koj
 厓	ngaaix
 堐	ngaaix
 崕	ngaaix
-崖	ngaaix
+崖	ngaaix	10%
 猚	ngaaix
 涯	ngaaix
 睚	ngaaix
@@ -19315,7 +19315,7 @@ call	koj
 枒	ngaaj
 磀	ngaakh
 頟	ngaakh
-額	ngaakh
+額	ngaakh	10%
 額	ngaakr
 䩹	ngaakh
 䱮	ngaakh
@@ -19328,10 +19328,10 @@ call	koj
 𠱘	ngaakh
 逆	ngaakh
 𠸺	ngaakh
-呃	ngaakj
+呃	ngaakj	10%
 眲	ngaakj
 握	ngaakj
-啱	ngaamj
+啱	ngaamj	10%
 癌	ngaamx
 啽	ngaamx
 儑	ngaamx
@@ -19354,7 +19354,7 @@ call	koj
 礹	ngaamx
 晏	ngaan
 鞕	ngaangh
-硬	ngaangh
+硬	ngaangh	10%
 䤝	ngaangh
 硬	ngaangr
 偐	ngaanh
@@ -19365,7 +19365,7 @@ call	koj
 軅	ngaanh
 贗	ngaanh
 𪆒	ngaanh
-眼	ngaanq
+眼	ngaanq	10%
 齴	ngaanq
 碾	ngaanx
 研	ngaanx
@@ -19380,7 +19380,7 @@ call	koj
 㘖	ngaanx
 擪	ngaat
 鴨	ngaap
-鴨	ngaapr
+鴨	ngaapr	10%
 疋	ngaaq
 瓦	ngaaq
 邷	ngaaq
@@ -19392,10 +19392,10 @@ call	koj
 厊	ngaaq
 庌	ngaaq
 㿿	ngaaq
-雅	ngaaq
+雅	ngaaq	10%
 䪵	ngaaq
 蕥	ngaaq
-啞	ngaar
+啞	ngaar	10%
 餲	ngaat
 歹	ngaath
 歺	ngaath
@@ -19408,17 +19408,17 @@ call	koj
 聐	ngaath
 䦪	ngaath
 𠴳	ngaau
-詏	ngaau
+詏	ngaau	10%
 樂	ngaauh
 嗷	ngaauj
 𢲷	ngaauj
 𥅟	ngaauj
 𠴳	ngaauj
 𢯎	ngaauj
-𢱑	ngaauj
+𢱑	ngaauj	10%
 澫	ngaauq
 宎	ngaauq
-咬	ngaauq
+咬	ngaauq	10%
 溔	ngaauq
 齩	ngaauq
 䶧	ngaauq
@@ -19433,7 +19433,7 @@ call	koj
 洨	ngaaux
 崤	ngaaux
 淆	ngaaux
-爻	ngaaux
+爻	ngaaux	10%
 肴	ngaaux
 殽	ngaaux
 餚	ngaaux
@@ -19441,7 +19441,7 @@ call	koj
 𤉶	ngaaux
 禡	ngaax
 吾	ngaax
-牙	ngaax
+牙	ngaax	10%
 伢	ngaax
 㧎	ngaax
 芽	ngaax
@@ -19458,14 +19458,14 @@ call	koj
 呀	ngaax
 釾	ngaax
 𦐒	ngaih
-倪	ngaih
+倪	ngaih	10%
 晲	ngaih
 堄	ngaih
 睨	ngaih
 誽	ngaih
 鮨	ngaih
 偽	ngaih
-僞	ngaih
+僞	ngaih	9%
 魏	ngaih
 蘶	ngaih
 讆	ngaih
@@ -19502,7 +19502,7 @@ call	koj
 𠎵	ngaih
 𣫛	ngaih
 𠱓	ngaij
-𠼮	ngaij
+𠼮	ngaij	10%
 蛾	ngaiq
 姽	ngaiq
 掜	ngaiq
@@ -19522,7 +19522,7 @@ call	koj
 㠖	ngaiq
 檥	ngaiq
 礒	ngaiq
-蟻	ngaiq
+蟻	ngaiq	10%
 顗	ngaiq
 䉝	ngaiq
 艤	ngaiq
@@ -19532,7 +19532,7 @@ call	koj
 兒	ngaix
 麛	ngaix
 郳	ngaix
-倪	ngaix
+倪	ngaix	10%
 猊	ngaix
 淣	ngaix
 婗	ngaix
@@ -19579,13 +19579,13 @@ call	koj
 䜙	ngamx
 玵	ngamx
 唅	ngamx
-扲	ngamx
+扲	ngamx	10%
 撢	ngamx
 吟	ngamx
 印	ngan
 䟴	ngan
 更	ngang
-哽	ngangr
+哽	ngangr	10%
 䬶	nganh
 䅱	nganh
 䭓	nganh
@@ -19620,7 +19620,7 @@ call	koj
 䖐	nganx
 鄞	nganx
 䇵	nganx
-銀	nganx
+銀	nganx	10%
 㙬	nganx
 誾	nganx
 檭	nganx
@@ -19641,7 +19641,7 @@ call	koj
 喦	ngaph
 㱞	ngaph
 嗑	ngapj
-噏	ngapj
+噏	ngapj	10%
 仡	ngath
 圪	ngath
 疙	ngath
@@ -19677,7 +19677,7 @@ call	koj
 漚	ngau
 吽	ngauh
 𩥋	ngauh
-勾	ngauj
+勾	ngauj	10%
 鈎	ngauj
 鉤	ngauj
 蚼	ngauj
@@ -19694,7 +19694,7 @@ call	koj
 窔	ngauq
 髃	ngauq
 呍	ngaux
-牛	ngaux
+牛	ngaux	10%
 䒜	ngaux
 汼	ngaux
 䋅	ngaux
@@ -19703,7 +19703,7 @@ call	koj
 遻	ngh
 蘁	ngh
 㕶	ngh
-嗯	ngh
+嗯	ngh	10%
 梧	ngh
 迕	ngh
 忤	ngh
@@ -19729,13 +19729,13 @@ call	koj
 齧	ngith
 囓	ngith
 䥹	ngith
-嗯	ngj
-餓	ngoh
+嗯	ngj	10%
+餓	ngoh	10%
 卧	ngoh
-臥	ngoh
+臥	ngoh	9%
 硪	ngoh
 𢛶	ngoh
-愛	ngoi
+愛	ngoi	10%
 㕌	ngoih
 硋	ngoih
 碍	ngoih
@@ -19743,7 +19743,7 @@ call	koj
 閡	ngoih
 聵	ngoih
 懝	ngoih
-外	ngoih
+外	ngoih	10%
 𠰻	ngoih
 磑	ngoih
 夞	ngoih
@@ -19760,7 +19760,7 @@ call	koj
 騃	ngoix
 磑	ngoix
 敳	ngoix
-惡	ngok
+惡	ngok	10%
 咢	ngokh
 㓵	ngokh
 卾	ngokh
@@ -19814,7 +19814,7 @@ call	koj
 案	ngon
 枊	ngongh
 戅	ngongh
-戇	ngongh
+戇	ngongh	10%
 昂	ngongq
 䭺	ngongq
 仰	ngongq
@@ -19846,10 +19846,10 @@ call	koj
 騀	ngoq
 砈	ngoq
 𢦓	ngoq
-我	ngoq
+我	ngoq	10%
 㦱	ngoq
 㧴	ngoq
-猗	ngoq
+猗	ngoq	9%
 㦳	ngoq
 䞲	ngoq
 鵝	ngor
@@ -19873,7 +19873,7 @@ call	koj
 澆	ngouh
 擙	ngouj
 爊	ngoux
-敖	ngoux
+敖	ngoux	10%
 厫	ngoux
 隞	ngoux
 嗸	ngoux
@@ -19900,7 +19900,7 @@ call	koj
 翺	ngoux
 鏖	ngoux
 鷔	ngoux
-鰲	ngoux
+鰲	ngoux	9%
 鼇	ngoux
 𢳆	ngoux
 鏊	ngoux
@@ -19930,7 +19930,7 @@ call	koj
 鋨	ngox
 魤	ngox
 䕏	ngox
-鵝	ngox
+鵝	ngox	10%
 鵞	ngox
 䳗	ngox
 䳘	ngox
@@ -19942,9 +19942,9 @@ call	koj
 𠹷	ngox
 𡟶	ngox
 丒	ngq
-嗯	ngq
+嗯	ngq	9%
 㐅	ngq
-五	ngq
+五	ngq	10%
 午	ngq
 伍	ngq
 仵	ngq
@@ -19956,13 +19956,13 @@ call	koj
 啎	ngq
 牾	ngq
 㐏	ngq
-嗯	ngr
+嗯	ngr	10%
 屋	ngukj
 㧬	ngungr
 脵	ngx
 鋘	ngx
 夻	ngx
-嗯	ngx
+嗯	ngx	10%
 筽	ngx
 吾	ngx
 吳	ngx
@@ -20026,7 +20026,7 @@ call	koj
 衵	nikj
 蹨	nim
 廿	nimh
-念	nimh
+念	nimh	10%
 䧔	nimh
 埝	nimh
 唸	nimh
@@ -20059,7 +20059,7 @@ call	koj
 甯	ningh
 寍	ningh
 寧	ningh
-擰	ningh
+擰	ningh	10%
 佞	ningh
 侫	ningh
 泞	ningh
@@ -20085,7 +20085,7 @@ call	koj
 寍	ningx
 䆨	ningx
 寜	ningx
-寧	ningx
+寧	ningx	10%
 儜	ningx
 薴	ningx
 嚀	ningx
@@ -20100,7 +20100,7 @@ call	koj
 䭢	ningx
 鬡	ningx
 鸋	ningx
-擰	ningx
+擰	ningx	9%
 寗	ningx
 𤪥	ningx
 姩	ninh
@@ -20121,13 +20121,13 @@ call	koj
 跈	ninr
 拈	ninr
 㞋	ninr
-捻	ninr
+捻	ninr	10%
 䟢	ninr
 㮟	ninr
 撚	ninr
 簐	ninr
 棯	ninr
-年	ninx
+年	ninx	10%
 䄭	ninx
 秊	ninx
 哖	ninx
@@ -20218,7 +20218,7 @@ call	koj
 蹃	noekh
 䖆	noengh
 娘	noengr
-娘	noengx
+娘	noengx	10%
 嬢	noengx
 孃	noengx
 𥻟	noh
@@ -20240,7 +20240,7 @@ call	koj
 倷	noih
 奈	noih
 柰	noih
-耐	noih
+耐	noih	9%
 耏	noih
 萘	noih
 㴎	noih
@@ -20254,14 +20254,14 @@ call	koj
 錼	noih
 䱞	noih
 䘅	noih
-內	noih
+內	noih	10%
 㐻	noih
 氝	noih
 能	noih
 𥇧	noih
 餒	noiq
 餧	noiq
-耏	noir
+耏	noir	10%
 㾍	noix
 䯮	noix
 熋	noix
@@ -20298,7 +20298,7 @@ call	koj
 瓤	nongx
 袲	noq
 雫	noq
-那	noq
+那	noq	10%
 娜	noq
 橠	noq
 㡅	noq
@@ -20314,7 +20314,7 @@ call	koj
 惱	nouq
 㛴	nouq
 瑙	nouq
-腦	nouq
+腦	nouq	10%
 嫐	nouq
 碯	nouq
 䜀	nouq
@@ -20415,7 +20415,7 @@ call	koj
 濭	oi
 䨠	oi
 㤅	oi
-愛	oi
+愛	oi	10%
 㦈	oi
 䔽	oi
 僾	oi
@@ -20437,7 +20437,7 @@ call	koj
 哀	oij
 埃	oij
 唉	oij
-欸	oij
+欸	oij	10%
 鎄	oij
 㗒	oij
 娭	oij
@@ -20468,8 +20468,8 @@ call	koj
 呵	oj
 㺢	oj
 匼	oj
-珂	oj
-柯	oj
+珂	oj	9%
+柯	oj	8%
 牁	oj
 疴	oj
 軻	oj
@@ -20483,18 +20483,18 @@ call	koj
 堊	ok
 悪	ok
 𤦩	ok
-惡	ok
+惡	ok	10%
 琧	ok
 蝁	ok
 僫	ok
 肟	ok
 喔	okj
 桉	on
-按	on
+按	on	10%
 荌	on
 洝	on
 胺	on
-案	on
+案	on	9%
 䅁	on
 摁	on
 盎	ong
@@ -20512,7 +20512,7 @@ call	koj
 傟	ongr
 慃	ongr
 𡟸	ongr
-安	onj
+安	onj	10%
 侒	onj
 䢿	onj
 峖	onj
@@ -20525,15 +20525,15 @@ call	koj
 鮟	onj
 銨	onj
 胺	onj
-盎	onj
+盎	onj	9%
 𤇼	onj
 𤥃	onj
 銨	onr
-哦	oq
+哦	oq	10%
 妸	or
 婀	or
 嚄	or
-哦	or
+哦	or	10%
 喔	or
 猗	or
 芺	ou
@@ -20551,7 +20551,7 @@ call	koj
 㜩	ou
 䐿	ou
 䜒	ou
-噢	ou
+噢	ou	10%
 塢	ou
 𥜌	ou
 圫	ou
@@ -20579,14 +20579,14 @@ call	koj
 䴠	our
 燠	our
 蝹	our
-哦	ox
+哦	ox	10%
 帊	paa
 帕	paa
-怕	paa
+怕	paa	10%
 袙	paa
 沠	paai
 哌	paai
-派	paai
+派	paai	10%
 㭛	paai
 蒎	paai
 䖰	paai
@@ -20594,10 +20594,10 @@ call	koj
 鎃	paai
 𠼕	paair
 俳	paaix
-排	paaix
+排	paaix	10%
 猅	paaix
 棑	paaix
-牌	paaix
+牌	paaix	9%
 箄	paaix
 輫	paaix
 𥱼	paaix
@@ -20607,10 +20607,10 @@ call	koj
 㵺	paaix
 猈	paaix
 篺	paaix
-扒	paaj
+扒	paaj	10%
 蚆	paaj
 妑	paaj
-趴	paaj
+趴	paaj	9%
 皅	paaj
 舥	paaj
 啪	paaj
@@ -20626,11 +20626,11 @@ call	koj
 檗	paak
 蘗	paak
 櫱	paak
-帕	paak
+帕	paak	9%
 袙	paak
-拍	paak
+拍	paak	10%
 𢫦	paak
-泊	paak
+泊	paak	8%
 岶	paak
 珀	paak
 洦	paak
@@ -20657,7 +20657,7 @@ call	koj
 𨭌	paangj
 嗙	paangj
 匉	paangj
-抨	paangj
+抨	paangj	10%
 怦	paangj
 㛁	paangj
 恲	paangj
@@ -20699,7 +20699,7 @@ call	koj
 䰃	paangx
 蟚	paangx
 蟛	paangx
-鵬	paangx
+鵬	paangx	10%
 騯	paangx
 扳	paanj
 頒	paanj
@@ -20708,11 +20708,11 @@ call	koj
 眅	paanj
 攀	paanj
 棓	paanq
-扒	paar
+扒	paar	10%
 𥐙	paat
 坺	paath
 趵	paau
-豹	paau
+豹	paau	8%
 袌	paau
 靤	paau
 髱	paau
@@ -20721,8 +20721,8 @@ call	koj
 咆	paau
 炰	paau
 奅	paau
-泡	paau
-炮	paau
+泡	paau	9%
+炮	paau	10%
 砲	paau
 疱	paau
 皰	paau
@@ -20734,11 +20734,11 @@ call	koj
 礮	paau
 胞	paauj
 抱	paauj
-拋	paauj
+拋	paauj	10%
 萢	paauj
 脬	paauj
 泡	paauj
-跑	paaur
+跑	paaur	10%
 齙	paaux
 鉋	paaux
 鑤	paaux
@@ -20759,12 +20759,12 @@ call	koj
 跑	paaux
 泡	paaux
 炮	paaux
-扒	paax
+扒	paax	10%
 朳	paax
 耙	paax
 䎱	paax
 杷	paax
-爬	paax
+爬	paax	9%
 琶	paax
 掱	paax
 鈀	paax
@@ -20777,7 +20777,7 @@ call	koj
 睥	pai
 䡟	pai
 鈚	paij
-批	paij
+批	paij	10%
 𠜱	paij
 紕	paij
 錍	paij
@@ -20823,7 +20823,7 @@ call	koj
 凴	pangx
 慿	pangx
 㵗	pangx
-憑	pangx
+憑	pangx	10%
 㻚	pangx
 繽	panj
 噴	panj
@@ -20854,7 +20854,7 @@ call	koj
 蘋	panx
 𤅖	panx
 鵯	patj
-匹	patj
+匹	patj	10%
 苉	patj
 鴄	patj
 䏘	patj
@@ -20900,7 +20900,7 @@ call	koj
 鎞	peij
 䋔	peij
 不	peij
-呸	peij
+呸	peij	10%
 肧	peij
 怌	peij
 胚	peij
@@ -20938,7 +20938,7 @@ call	koj
 魾	peij
 䫠	peij
 鈹	peij
-被	peiq
+被	peiq	10%
 鞁	peiq
 庳	peiq
 婢	peiq
@@ -20981,7 +20981,7 @@ call	koj
 邳	peix
 紕	peix
 魾	peix
-皮	peix
+皮	peix	10%
 阰	peix
 𨸹	peix
 枇	peix
@@ -21028,9 +21028,9 @@ call	koj
 鵧	peix
 𠵿	pej
 啤	pej
-劈	pek
+劈	pek	10%
 劈	pekh
-擗	pekh
+擗	pekh	10%
 漰	pengj
 𩩍	pengj
 凭	pengj
@@ -21038,7 +21038,7 @@ call	koj
 𠝭	pengr
 平	pengx
 瓶	pengx
-䠋	peq
+䠋	peq	10%
 坺	peth
 噼	petj
 椑	pikj
@@ -21072,9 +21072,9 @@ call	koj
 釽	pikj
 徧	pin
 㴜	pin
-遍	pin
+遍	pin	9%
 頨	pin
-片	pin
+片	pin	10%
 䏒	pin
 魸	pin
 㸤	pin
@@ -21085,7 +21085,7 @@ call	koj
 倂	ping
 騁	ping
 拚	ping
-拼	ping
+拼	ping	10%
 聘	ping
 娉	ping
 䀻	ping
@@ -21126,7 +21126,7 @@ call	koj
 𨥾	pingx
 駢	pingx
 騈	pingx
-平	pingx
+平	pingx	10%
 坪	pingx
 苹	pingx
 呯	pingx
@@ -21173,18 +21173,18 @@ call	koj
 萹	pinj
 煸	pinj
 蝙	pinj
-編	pinj
+編	pinj	8%
 扁	pinj
 鶣	pinj
 揙	pinj
 囨	pinj
-偏	pinj
+偏	pinj	9%
 㓲	pinj
 媥	pinj
 犏	pinj
 甂	pinj
 㾫	pinj
-篇	pinj
+篇	pinj	10%
 翩	pinj
 蹁	pinj
 褊	pinq
@@ -21193,7 +21193,7 @@ call	koj
 惼	pinr
 覑	pinr
 貵	pinr
-片	pinr
+片	pinr	10%
 跰	pinx
 便	pinx
 揙	pinx
@@ -21219,7 +21219,7 @@ call	koj
 覕	pit
 潎	pit
 氕	pit
-撇	pit
+撇	pit	10%
 暼	pit
 瞥	pit
 丿	pit
@@ -21228,14 +21228,14 @@ call	koj
 鐅	pit
 嫳	pit
 摽	piu
-驃	piu
+驃	piu	9%
 潎	piu
 剽	piu
 翲	piu
 嫖	piu
 篻	piu
 皫	piu
-票	piu
+票	piu	10%
 勡	piu
 僄	piu
 嘌	piu
@@ -21289,7 +21289,7 @@ call	koj
 㯱	piux
 剽	piux
 螵	piux
-嫖	piux
+嫖	piux	10%
 㼼	piux
 瓢	piux
 薸	piux
@@ -21297,7 +21297,7 @@ call	koj
 䴩	piux
 朴	piux
 哱	po
-破	po
+破	po	10%
 㗞	po
 俖	poir
 陂	poj
@@ -21328,7 +21328,7 @@ call	koj
 䨰	pok
 炇	pok
 䇚	pok
-撲	pok
+撲	pok	10%
 噗	pok
 擈	pok
 圤	pok
@@ -21394,7 +21394,7 @@ call	koj
 㝑	pongx
 㫄	pongx
 逄	pongx
-旁	pongx
+旁	pongx	10%
 徬	pongx
 㥬	pongx
 嫎	pongx
@@ -21413,7 +21413,7 @@ call	koj
 鉕	por
 駊	por
 頗	por
-婆	por
+婆	por	10%
 堡	pou
 㚴	pou
 甫	pou
@@ -21433,7 +21433,7 @@ call	koj
 䲕	pouj
 舖	pouj
 怉	pouq
-抱	pouq
+抱	pouq	10%
 袌	pouq
 𩶉	pouq
 泡	pouq
@@ -21441,7 +21441,7 @@ call	koj
 𦡮	pour
 甫	pour
 潽	pour
-鋪	pour
+鋪	pour	9%
 脯	pour
 圃	pour
 浦	pour
@@ -21452,7 +21452,7 @@ call	koj
 暜	pour
 諩	pour
 氆	pour
-譜	pour
+譜	pour	10%
 鐠	pour
 𣿀	pour
 捗	poux
@@ -21466,7 +21466,7 @@ call	koj
 脯	poux
 葡	poux
 蒱	poux
-蒲	poux
+蒲	poux	10%
 𥮉	poux
 䔕	poux
 酺	poux
@@ -21476,7 +21476,7 @@ call	koj
 番	pox
 繁	pox
 搫	pox
-婆	pox
+婆	pox	10%
 㨇	pox
 㜑	pox
 蔢	pox
@@ -21498,12 +21498,12 @@ call	koj
 㳈	pui
 沛	pui
 㤄	pui
-佩	pui
+佩	pui	9%
 昢	pui
 斾	pui
 姵	pui
 珮	pui
-配	pui
+配	pui	10%
 旆	pui
 蓜	pui
 馷	pui
@@ -21529,7 +21529,7 @@ call	koj
 㶨	puij
 炋	puij
 棓	puiq
-倍	puiq
+倍	puiq	10%
 蓓	puiq
 䔒	puiq
 碚	puiq
@@ -21542,19 +21542,19 @@ call	koj
 徘	puix
 輫	puix
 阫	puix
-陪	puix
+陪	puix	10%
 培	puix
 㟝	puix
 毰	puix
 䣙	puix
 㯁	puix
 裴	puix
-賠	puix
+賠	puix	9%
 䫊	puix
 錇	puix
 𧜏	puix
 𦹷	puix
-仆	pukj
+仆	pukj	10%
 拌	pun
 姅	pun
 冸	pun
@@ -21570,10 +21570,10 @@ call	koj
 胖	pun
 𦚓	pun
 拚	pun
-拼	pun
+拼	pun	10%
 掽	pung
 椪	pung
-碰	pung
+碰	pung	10%
 踫	pung
 埲	pungj
 㠮	pungj
@@ -21611,7 +21611,7 @@ call	koj
 翸	punr
 拚	punr
 拼	punr
-盤	punr
+盤	punr	10%
 般	punx
 瘢	punx
 跘	punx
@@ -21624,7 +21624,7 @@ call	koj
 槃	punx
 搫	punx
 磐	punx
-盤	punx
+盤	punx	10%
 螌	punx
 縏	punx
 磻	punx
@@ -21648,7 +21648,7 @@ call	koj
 㩯	punx
 洀	punx
 㮽	punx
-撥	put
+撥	put	10%
 鈸	put
 䪬	put
 醗	put
@@ -21669,11 +21669,11 @@ call	koj
 嗮	saai
 殺	saai
 閷	saai
-晒	saai
+晒	saai	10%
 㬠	saai
 䵘	saai
-曬	saai
-嘥	saaij
+曬	saai	9%
+嘥	saaij	10%
 㴓	saaij
 㩄	saaij
 𢳜	saaij
@@ -21707,9 +21707,9 @@ call	koj
 嘥	saaix
 仨	saaj
 挲	saaj
-卅	saaj
+卅	saaj	9%
 㠺	saaj
-沙	saaj
+沙	saaj	10%
 乷	saaj
 砂	saaj
 莎	saaj
@@ -21733,7 +21733,7 @@ call	koj
 髿	saaj
 逤	saaj
 䣉	saaj
-卅	saaj aah
+卅	saaj	9%
 𠯢	saaj aah
 拺	saak
 槭	saak
@@ -21761,7 +21761,7 @@ call	koj
 摻	saamj
 蔪	saamj
 仨	saamj
-三	saamj
+三	saamj	10%
 彡	saamj
 弎	saamj
 叁	saamj
@@ -21772,7 +21772,7 @@ call	koj
 芟	saamj
 杉	saamj
 䀐	saamj
-衫	saamj
+衫	saamj	9%
 釤	saamj
 剼	saamj
 嘇	saamj
@@ -21801,7 +21801,7 @@ call	koj
 傘	saan
 橵	saan
 繖	saan
-散	saan
+散	saan	10%
 狦	saan
 汕	saan
 疝	saan
@@ -21812,7 +21812,7 @@ call	koj
 䴮	saan
 涮	saan
 䃟	saan
-生	saangj
+生	saangj	10%
 狌	saangj
 牲	saangj
 笙	saangj
@@ -21821,7 +21821,7 @@ call	koj
 胜	saangj
 磢	saangr
 詵	saangr
-省	saangr
+省	saangr	10%
 眚	saangr
 偗	saangr
 㗂	saangr
@@ -21835,11 +21835,11 @@ call	koj
 孱	saanj
 𠮿	saanj
 䈀	saanj
-山	saanj
+山	saanj	9%
 邖	saanj
 圸	saanj
 芟	saanj
-刪	saanj
+刪	saanj	10%
 㹪	saanj
 姍	saanj
 珊	saanj
@@ -21856,7 +21856,7 @@ call	koj
 羶	saanj
 拴	saanj
 閂	saanj
-栓	saanj
+栓	saanj	8%
 屲	saanj
 挻	saanj
 柵	saanj
@@ -21866,7 +21866,7 @@ call	koj
 䉈	saanr
 糤	saanr
 饊	saanr
-散	saanr
+散	saanr	10%
 潸	saanr
 孱	saanx
 僝	saanx
@@ -21919,7 +21919,7 @@ call	koj
 訯	saar
 灑	saar
 啥	saar
-耍	saar
+耍	saar	10%
 攃	saat
 蔡	saat
 䓭	saat
@@ -21934,9 +21934,9 @@ call	koj
 櫒	saat
 刹	saat
 剎	saat
-殺	saat
+殺	saat	10%
 蔱	saat
-煞	saat
+煞	saat	9%
 樧	saat
 閷	saat
 鎩	saat
@@ -21946,7 +21946,7 @@ call	koj
 虄	saat
 㷺	saat
 娋	saau
-哨	saau
+哨	saau	10%
 䏴	saau
 睄	saau
 潲	saau
@@ -21967,7 +21967,7 @@ call	koj
 髾	saauj
 䈾	saauj
 鮹	saauj
-稍	saaur
+稍	saaur	10%
 蕱	saaur
 𨈘	saaur
 㪢	saaur
@@ -21980,16 +21980,16 @@ call	koj
 楴	sai
 僿	sai
 㔺	sai
-世	sai
+世	sai	9%
 丗	sai
 𠀍	sai
 卋	sai
 笹	sai
 貰	sai
-勢	sai
+勢	sai	8%
 㭡	sai
-細	sai
-些	sai
+細	sai	10%
+些	sai	7%
 𦕓	sai
 𡎎	sai
 聓	sai
@@ -22005,7 +22005,7 @@ call	koj
 逝	saih
 觢	saih
 筮	saih
-誓	saih
+誓	saih	10%
 銴	saih
 䤱	saih
 噬	saih
@@ -22026,7 +22026,7 @@ call	koj
 嘶	saij
 簛	saij
 荽	saij
-西	saij
+西	saij	10%
 卥	saij
 𠧧	saij
 徆	saij
@@ -22047,25 +22047,25 @@ call	koj
 䇴	saij
 䧈	saij
 洒	sair
-使	sair
-駛	sair
+使	sair	10%
+駛	sair	8%
 𩢲	sair
 𧳅	sair
-洗	sair
+洗	sair	9%
 枲	sair
 揌	sakj
-塞	sakj
+塞	sakj	10%
 㩙	sakj
 噻	sakj
 㥶	sakj
 息	sakj
-沁	sam
+沁	sam	10%
 糝	sam
 鏒	sam
 閐	sam
 涁	sam
 籸	sam
-滲	sam
+滲	sam	9%
 㵕	sam
 瘮	sam
 鈊	sam
@@ -22076,25 +22076,25 @@ call	koj
 黮	samh
 㻣	samh
 㕘	samj
-參	samj
+參	samj	7%
 郴	samj
-琛	samj
+琛	samj	8%
 綝	samj
 賝	samj
-森	samj
+森	samj	6%
 槮	samj
 襂	samj
 罙	samj
 穼	samj
 堔	samj
-深	samj
+深	samj	9%
 葠	samj
 棽	samj
 蓡	samj
 罧	samj
 㴱	samj
 䆦	samj
-蔘	samj
+蔘	samj	5%
 甧	samj
 薓	samj
 曑	samj
@@ -22103,7 +22103,7 @@ call	koj
 𨨥	samj
 襳	samj
 㣺	samj
-心	samj
+心	samj	10%
 芯	samj
 杺	samj
 鈊	samj
@@ -22129,10 +22129,10 @@ call	koj
 㾕	samr
 魫	samr
 諗	samr
-審	samr
+審	samr	10%
 瞫	samr
 瀋	samr
-嬸	samr
+嬸	samr	9%
 㰂	samr
 䚓	samr
 讅	samr
@@ -22163,7 +22163,7 @@ call	koj
 蹭	sang
 擤	sang
 鬙	sangj
-生	sangj
+生	sangj	10%
 苼	sangj
 狌	sangj
 泩	sangj
@@ -22187,7 +22187,7 @@ call	koj
 㰮	sanh
 脤	sanh
 祳	sanh
-腎	sanh
+腎	sanh	10%
 蜃	sanh
 慎	sanh
 愼	sanh
@@ -22197,12 +22197,12 @@ call	koj
 㖕	sanj
 嫀	sanj
 𥭴	sanj
-申	sanj
+申	sanj	6%
 扟	sanj
 屾	sanj
 㚨	sanj
-伸	sanj
-身	sanj
+伸	sanj	8%
+身	sanj	9%
 呻	sanj
 侁	sanj
 籶	sanj
@@ -22229,7 +22229,7 @@ call	koj
 䅸	sanj
 駪	sanj
 㜪	sanj
-燊	sanj
+燊	sanj	7%
 鵢	sanj
 鯓	sanj
 䯂	sanj
@@ -22240,7 +22240,7 @@ call	koj
 䢾	sanj
 辛	sanj
 㛙	sanj
-新	sanj
+新	sanj	10%
 鋅	sanj
 薪	sanj
 噺	sanj
@@ -22251,13 +22251,13 @@ call	koj
 㽓	sanj
 𣟕	sanj
 𤒇	sanj
-脤	sanq
+脤	sanq	10%
 侲	sanq
 腎	sanq
 蜃	sanq
 㖘	sanr
 𠱸	sanr
-臣	sanx
+臣	sanx	9%
 辰	sanx
 䢻	sanx
 䣅	sanx
@@ -22271,7 +22271,7 @@ call	koj
 麎	sanx
 曟	sanx
 鷐	sanx
-神	sanx
+神	sanx	10%
 榊	sanx
 鉮	sanx
 鰰	sanx
@@ -22281,7 +22281,7 @@ call	koj
 𠩐	sanx
 什	saph
 甚	saph
-十	saph
+十	saph	10%
 䦹	saph
 辻	saph
 拾	saph
@@ -22294,7 +22294,7 @@ call	koj
 澀	sapj
 譅	sapj
 溼	sapj
-濕	sapj
+濕	sapj	10%
 䏉	sapj
 㗩	sapj
 趇	sapj
@@ -22302,7 +22302,7 @@ call	koj
 実	sath
 湜	sath
 寔	sath
-實	sath
+實	sath	10%
 㺙	sath
 䣛	satj
 㻎	satj
@@ -22311,12 +22311,12 @@ call	koj
 濏	satj
 璱	satj
 飋	satj
-失	satj
+失	satj	10%
 虱	satj
 蝨	satj
 鯴	satj
 榁	satj
-室	satj
+室	satj	9%
 鰘	satj
 厀	satj
 膝	satj
@@ -22327,9 +22327,9 @@ call	koj
 狩	sau
 痩	sau
 膄	sau
-瘦	sau
+瘦	sau	9%
 獣	sau
-獸	sau
+獸	sau	10%
 鏉	sau
 潄	sau
 漱	sau
@@ -22338,7 +22338,7 @@ call	koj
 瘶	sau
 宿	sau
 滫	sau
-秀	sau
+秀	sau	8%
 琇	sau
 綉	sau
 璓	sau
@@ -22350,7 +22350,7 @@ call	koj
 惾	sau
 㛢	sau
 𣵛	sau
-受	sauh
+受	sauh	10%
 授	sauh
 㖟	sauh
 售	sauh
@@ -22366,7 +22366,7 @@ call	koj
 颾	sauj
 𦺋	sauj
 収	sauj
-收	sauj
+收	sauj	10%
 凁	sauj
 捜	sauj
 㲙	sauj
@@ -22401,7 +22401,7 @@ call	koj
 鱐	sauj
 蓨	sauj
 俢	sauj
-修	sauj
+修	sauj	9%
 脩	sauj
 羞	sauj
 臹	sauj
@@ -22421,17 +22421,17 @@ call	koj
 𣘀	sauj
 𤨩	sauj
 𤪱	sauj
-手	saur
+手	saur	10%
 㝊	saur
-守	saur
+守	saur	8%
 垨	saur
-首	saur
+首	saur	9%
 𩠐	saur
 艏	saur
 䭭	saur
 狩	saur
 籔	saur
-搜	saur
+搜	saur	7%
 𢯱	saur
 蒐	saur
 溲	saur
@@ -22455,12 +22455,12 @@ call	koj
 滫	saur
 潃	saur
 綇	saur
-頁	saur
+頁	saur	6%
 棷	saur
 㐿	saur
 䢘	saur
 犨	saux
-仇	saux
+仇	saux	10%
 㐜	saux
 愁	saux
 雔	saux
@@ -22469,7 +22469,7 @@ call	koj
 㖌	saux
 庫	se
 猞	se
-舍	se
+舍	se	9%
 舎	se
 厙	se
 赦	se
@@ -22483,14 +22483,14 @@ call	koj
 炧	se
 炨	se
 䉣	se
-瀉	se
+瀉	se	10%
 㵼	se
 社	seh
-射	seh
+射	seh	10%
 䠶	seh
 麝	seh
 亖	sei
-四	sei
+四	sei	10%
 柶	sei
 牭	sei
 肆	sei
@@ -22499,7 +22499,7 @@ call	koj
 㹑	sei
 䦉	sei
 卌	sei aah
-死	seir
+死	seir	10%
 㱝	seir
 奢	sej
 畬	sej
@@ -22510,10 +22510,10 @@ call	koj
 㾚	sej
 奓	sej
 惜	sek
-錫	sek
+錫	sek	10%
 㒪	sek
 𡃶	sek
-石	sekh
+石	sekh	10%
 䂖	sekh
 𠰴	sekh
 炻	sekh
@@ -22531,13 +22531,13 @@ call	koj
 鍟	seng
 腥	seng
 姓	seng
-聲	sengj
+聲	sengj	10%
 星	sengj
 腥	sengj
-醒	sengr
-成	sengx
+醒	sengr	10%
+成	sengx	10%
 城	sengx
-粹	seoi
+粹	seoi	8%
 率	seoi
 㱁	seoi
 帥	seoi
@@ -22561,8 +22561,8 @@ call	koj
 砕	seoi
 嵗	seoi
 㥞	seoi
-碎	seoi
-歲	seoi
+碎	seoi	9%
+歲	seoi	10%
 歳	seoi
 睟	seoi
 𡻕	seoi
@@ -22600,7 +22600,7 @@ call	koj
 𥶙	seoih
 䵻	seoih
 𨪂	seoih
-瑞	seoih
+瑞	seoih	10%
 墅	seoih
 睡	seoih
 㥨	seoih
@@ -22610,7 +22610,7 @@ call	koj
 祟	seoih
 脺	seoih
 𤭢	seoih
-遂	seoih
+遂	seoih	9%
 㴚	seoih
 睟	seoih
 煫	seoih
@@ -22655,7 +22655,7 @@ call	koj
 嶿	seoij
 繻	seoij
 毸	seoij
-衰	seoij
+衰	seoij	10%
 摔	seoij
 㲤	seoij
 夊	seoij
@@ -22675,18 +22675,18 @@ call	koj
 鞖	seoij
 䕑	seoij
 濉	seoij
-雖	seoij
+雖	seoij	7%
 䪎	seoij
 綏	seoij
 緰	seoij
 胥	seoij
 揟	seoij
 幁	seoij
-須	seoij
+須	seoij	9%
 𤟠	seoij
 㥠	seoij
 楈	seoij
-需	seoij
+需	seoij	8%
 稰	seoij
 蕦	seoij
 蝑	seoij
@@ -22722,7 +22722,7 @@ call	koj
 諿	seoir
 氵	seoir
 誰	seoir
-水	seoir
+水	seoir	10%
 氺	seoir
 㝽	seoir
 閖	seoir
@@ -22748,7 +22748,7 @@ call	koj
 箠	seoix
 錘	seoix
 脽	seoix
-誰	seoix
+誰	seoix	10%
 埣	seoix
 厜	seoix
 𦴩	seon
@@ -22757,7 +22757,7 @@ call	koj
 鵔	seon
 䀢	seon
 䀵	seon
-舜	seon
+舜	seon	9%
 蕣	seon
 橓	seon
 䑞	seon
@@ -22778,7 +22778,7 @@ call	koj
 𤣲	seon
 㭄	seon
 孞	seon
-信	seon
+信	seon	10%
 䏤	seon
 軐	seon
 䚱	seon
@@ -22817,7 +22817,7 @@ call	koj
 𢁉	seon
 𣊬	seon
 𤩥	seon
-順	seonh
+順	seonh	10%
 㥧	seonh
 瞤	seonh
 揗	seonh
@@ -22863,7 +22863,7 @@ call	koj
 賰	seonr
 笋	seonr
 隼	seonr
-筍	seonr
+筍	seonr	10%
 㔼	seonr
 榫	seonr
 箰	seonr
@@ -22882,7 +22882,7 @@ call	koj
 䣨	seonx
 唇	seonx
 浱	seonx
-純	seonx
+純	seonx	10%
 䣩	seonx
 脣	seonx
 淳	seonx
@@ -22909,13 +22909,13 @@ call	koj
 屯	seonx
 畃	seonx
 紃	seonx
-馴	seonx
+馴	seonx	9%
 䣬	seonx
 肫	seonx
 秫	seoth
 术	seoth
 朮	seoth
-述	seoth
+述	seoth	10%
 沭	seoth
 荗	seoth
 怷	seoth
@@ -22935,9 +22935,9 @@ call	koj
 𦸇	seoth
 𤇍	seoth
 怵	seotj
-率	seotj
+率	seotj	9%
 卛	seotj
-摔	seotj
+摔	seotj	10%
 𨄮	seotj
 甩	seotj
 帥	seotj
@@ -22951,7 +22951,7 @@ call	koj
 僁	seotj
 碿	seotj
 戌	seotj
-裇	seotj
+裇	seotj	8%
 䘏	seotj
 卹	seotj
 㺷	seotj
@@ -22965,17 +22965,17 @@ call	koj
 銊	seotj
 䳳	seotj
 舍	seq
-社	seq
+社	seq	10%
 䀅	seq
 䄕	seq
 𠶈	seq
-舍	ser
-捨	ser
+舍	ser	8%
+捨	ser	9%
 䬷	ser
 㝍	ser
 㕐	ser
 冩	ser
-寫	ser
+寫	ser	10%
 藛	ser
 䥱	ser
 灺	ser
@@ -22985,7 +22985,7 @@ call	koj
 畬	sex
 輋	sex
 佘	sex
-蛇	sex
+蛇	sex	10%
 㵃	sex
 鉇	sex
 鍦	sex
@@ -22998,13 +22998,13 @@ call	koj
 䛈	si
 嗜	si
 弒	si
-試	si
+試	si	10%
 諡	si
 謚	si
-思	si
+思	si	8%
 𢇁	si
 澌	si
-四	si
+四	si	9%
 泗	si
 柶	si
 肂	si
@@ -23024,25 +23024,25 @@ call	koj
 忯	sih
 耆	sih
 蒔	sih
-士	sih
+士	sih	5%
 𥘅	sih
-氏	sih
+氏	sih	8%
 礻	sih
-示	sih
+示	sih	7%
 仕	sih
 亊	sih
 㹝	sih
-事	sih
+事	sih	10%
 侍	sih
 枾	sih
 昰	sih
-是	sih
+是	sih	9%
 眂	sih
 䏡	sih
 眎	sih
 眡	sih
 䟗	sih
-視	sih
+視	sih	6%
 崼	sih
 徥	sih
 䩃	sih
@@ -23078,9 +23078,9 @@ call	koj
 呞	sij
 𦮂	sij
 𤞏	sij
-施	sij
-屍	sij
-師	sij
+施	sij	9%
+屍	sij	7%
+師	sij	10%
 絁	sij
 葹	sij
 湤	sij
@@ -23115,7 +23115,7 @@ call	koj
 㟃	sij
 泀	sij
 㚸	sij
-思	sij
+思	sij	8%
 俬	sij
 恖	sij
 虒	sij
@@ -23184,7 +23184,7 @@ call	koj
 緆	sik
 錫	sik
 射	sikh
-食	sikh
+食	sikh	10%
 蝕	sikh
 篒	sikh
 飤	sikh
@@ -23197,7 +23197,7 @@ call	koj
 腊	sikj
 薔	sikj
 舃	sikj
-色	sikj
+色	sikj	7%
 嗇	sikj
 銫	sikj
 濇	sikj
@@ -23211,8 +23211,8 @@ call	koj
 穯	sikj
 摵	sikj
 鉽	sikj
-識	sikj
-式	sikj
+識	sikj	10%
+式	sikj	9%
 拭	sikj
 适	sikj
 冟	sikj
@@ -23245,7 +23245,7 @@ call	koj
 唽	sikj
 悉	sikj
 淅	sikj
-惜	sikj
+惜	sikj	6%
 㝜	sikj
 㛭	sikj
 㛫	sikj
@@ -23264,7 +23264,7 @@ call	koj
 蜤	sikj
 蜥	sikj
 㗭	sikj
-熄	sikj
+熄	sikj	8%
 緆	sikj
 餙	sikj
 瘜	sikj
@@ -23307,7 +23307,7 @@ call	koj
 㚒	simr
 炶	simr
 陝	simr
-閃	simr
+閃	simr	10%
 㪎	simr
 晱	simr
 㨛	simr
@@ -23346,7 +23346,7 @@ call	koj
 釤	sin
 搧	sin
 煽	sin
-扇	sin
+扇	sin	9%
 傓	sin
 𥔱	sin
 䡪	sin
@@ -23359,10 +23359,10 @@ call	koj
 缐	sin
 絤	sin
 腺	sin
-綫	sin
+綫	sin	10%
 䨘	sin
 䵇	sin
-線	sin
+線	sin	8%
 𨃩	sin
 霰	sin
 䨷	sin
@@ -23372,18 +23372,18 @@ call	koj
 圣	sing
 胜	sing
 貹	sing
-勝	sing
+勝	sing	8%
 聖	sing
 琞	sing
 榺	sing
 蕂	sing
 橳	sing
 腥	sing
-性	sing
-姓	sing
+性	sing	9%
+姓	sing	10%
 乗	singh
 晟	singh
-乘	singh
+乘	singh	10%
 椉	singh
 鱦	singh
 盛	singh
@@ -23401,23 +23401,23 @@ call	koj
 旍	singj
 𨛘	singj
 㮱	singj
-升	singj
+升	singj	10%
 阩	singj
 呏	singj
 斘	singj
 枡	singj
-昇	singj
+昇	singj	7%
 狌	singj
 竔	singj
 陞	singj
 㱡	singj
 陹	singj
 焺	singj
-聲	singj
+聲	singj	8%
 鵿	singj
 胜	singj
 勝	singj
-星	singj
+星	singj	9%
 垶	singj
 猩	singj
 惺	singj
@@ -23442,21 +23442,21 @@ call	koj
 醒	singj
 抍	singj
 𡟙	singj
-省	singr
+省	singr	8%
 渻	singr
 惺	singr
 箵	singr
 睲	singr
 㝭	singr
-醒	singr
-繩	singr
+醒	singr	9%
+繩	singr	10%
 䮪	singx
-成	singx
+成	singx	10%
 丞	singx
 郕	singx
-承	singx
+承	singx	9%
 㞼	singx
-城	singx
+城	singx	7%
 荿	singx
 峸	singx
 𡷫	singx
@@ -23475,7 +23475,7 @@ call	koj
 絾	singx
 塖	singx
 塍	singx
-誠	singx
+誠	singx	8%
 溗	singx
 畻	singx
 鋮	singx
@@ -23496,7 +23496,7 @@ call	koj
 𠄘	singx
 𠉛	singx
 𣲛	singx
-禪	sinh
+禪	sinh	9%
 闡	sinh
 𥛶	sinh
 單	sinh
@@ -23508,7 +23508,7 @@ call	koj
 蔳	sinh
 綪	sinh
 箐	sinh
-善	sinh
+善	sinh	10%
 僐	sinh
 鄯	sinh
 墠	sinh
@@ -23542,9 +23542,9 @@ call	koj
 䘰	sinj
 膻	sinj
 羶	sinj
-仙	sinj
+仙	sinj	9%
 屳	sinj
-先	sinj
+先	sinj	10%
 奾	sinj
 氙	sinj
 苮	sinj
@@ -23607,7 +23607,7 @@ call	koj
 澶	sinx
 禪	sinx
 蟬	sinx
-單	sinx
+單	sinx	10%
 亶	sinx
 揲	sip
 聶	sip
@@ -23629,7 +23629,7 @@ call	koj
 蠂	sip
 韘	sip
 䜓	sip
-攝	sip
+攝	sip	10%
 灄	sip
 懾	sip
 欇	sip
@@ -23651,7 +23651,7 @@ call	koj
 霅	sip
 𠓼	sip
 蜨	sip
-市	siq
+市	siq	10%
 恃	siq
 舐	siq
 鈰	siq
@@ -23666,7 +23666,7 @@ call	koj
 使	sir
 㹬	sir
 宩	sir
-屎	sir
+屎	sir	10%
 䂠	sir
 𦳊	sir
 鉂	sir
@@ -23692,7 +23692,7 @@ call	koj
 㞕	sit
 𥜽	sit
 卨	sit
-屑	sit
+屑	sit	10%
 禼	sit
 偰	sit
 㳿	sit
@@ -23730,15 +23730,15 @@ call	koj
 絏	sit
 靾	sit
 揲	sith
-舌	sith
+舌	sith	10%
 蛥	sith
 𧵳	sith
-蝕	sith
+蝕	sith	9%
 折	sith
-少	siu
+少	siu	9%
 咲	siu
 𥬇	siu
-笑	siu
+笑	siu	10%
 㗛	siu
 嘨	siu
 㔅	siu
@@ -23777,13 +23777,13 @@ call	koj
 捎	siuj
 焼	siuj
 蛸	siuj
-燒	siuj
+燒	siuj	9%
 㩋	siuj
 潚	siuj
 𢸳	siuj
 逍	siuj
 消	siuj
-宵	siuj
+宵	siuj	6%
 㲖	siuj
 㲵	siuj
 焇	siuj
@@ -23798,27 +23798,27 @@ call	koj
 撨	siuj
 霄	siuj
 箾	siuj
-銷	siuj
+銷	siuj	7%
 䌃	siuj
-蕭	siuj
+蕭	siuj	10%
 魈	siuj
 彇	siuj
 簘	siuj
 䴛	siuj
 䨭	siuj
 蟰	siuj
-簫	siuj
+簫	siuj	5%
 瀟	siuj
 櫹	siuj
 𤑳	siuj
 蠨	siuj
 𤄙	siuj
-肖	siuj
+肖	siuj	8%
 毟	siur
-少	siur
+少	siur	9%
 䒚	siur
 謏	siur
-小	siur
+小	siur	10%
 䒕	siur
 筱	siur
 篠	siur
@@ -23835,7 +23835,7 @@ call	koj
 旹	six
 峕	six
 姼	six
-時	six
+時	six	10%
 㖷	six
 塒	six
 蒔	six
@@ -23866,11 +23866,11 @@ call	koj
 𠸑	soek
 㦼	soeng
 䉘	soeng
-相	soeng
+相	soeng	10%
 丄	soengh
-上	soengh
+上	soengh	10%
 尙	soengh
-尚	soengh
+尚	soengh	9%
 㫾	soengh
 𤳈	soengj
 愓	soengj
@@ -23878,7 +23878,7 @@ call	koj
 𨫢	soengj
 儴	soengj
 商	soengj
-傷	soengj
+傷	soengj	10%
 墒	soengj
 蔏	soengj
 漡	soengj
@@ -23892,8 +23892,8 @@ call	koj
 䵰	soengj
 䵼	soengj
 㕠	soengj
-霜	soengj
-雙	soengj
+霜	soengj	6%
+雙	soengj	9%
 䨇	soengj
 孀	soengj
 騻	soengj
@@ -23914,7 +23914,7 @@ call	koj
 廂	soengj
 湘	soengj
 㐮	soengj
-箱	soengj
+箱	soengj	8%
 緗	soengj
 襄	soengj
 勷	soengj
@@ -23922,23 +23922,23 @@ call	koj
 瓖	soengj
 欀	soengj
 纕	soengj
-鑲	soengj
+鑲	soengj	7%
 驤	soengj
 㜀	soengj
 㠤	soengj
-上	soengq
+上	soengq	10%
 緔	soengq
 鞝	soengq
 扄	soengr
-賞	soengr
+賞	soengr	8%
 贘	soengr
 鑜	soengr
-相	soengr
-想	soengr
+相	soengr	9%
+想	soengr	10%
 鮝	soengr
 鯗	soengr
 鱶	soengr
-常	soengx
+常	soengx	10%
 徜	soengx
 甞	soengx
 嘗	soengx
@@ -23980,7 +23980,7 @@ Sir	soex
 㧧	soj
 梳	soj
 疎	soj
-疏	soj
+疏	soj	10%
 㽰	soj
 綀	soj
 踈	soj
@@ -24021,9 +24021,9 @@ Sir	soex
 嗽	sok
 洬	sok
 塑	sok
-嗦	sok
+嗦	sok	9%
 嗍	sok
-索	sok
+索	sok	10%
 𢱢	sok
 㮦	sok
 䅴	sok
@@ -24056,7 +24056,7 @@ Sir	soex
 䫙	songr
 鎟	songr
 顙	songr
-爽	songr
+爽	songr	10%
 塽	songr
 䔪	songr
 漺	songr
@@ -24070,7 +24070,7 @@ Sir	soex
 惢	sor
 䝪	sor
 𠩄	sor
-所	sor
+所	sor	10%
 㪽	sor
 𧴪	sor
 䣔	sor
@@ -24088,7 +24088,7 @@ Sir	soex
 乺	sor
 螦	sou
 臊	sou
-掃	sou
+掃	sou	9%
 埽	sou
 㲧	sou
 瘙	sou
@@ -24096,7 +24096,7 @@ Sir	soex
 㿋	sou
 潄	sou
 漱	sou
-數	sou
+數	sou	10%
 泝	sou
 素	sou
 㕖	sou
@@ -24137,24 +24137,24 @@ Sir	soex
 穌	souj
 鯂	souj
 蘓	souj
-蘇	souj
+蘇	souj	10%
 㢝	souj
 櫯	souj
 囌	souj
 䰅	souj
-鬚	souj
+鬚	souj	9%
 䰑	souj
 繰	souj
 㛐	sour
 掃	sour
-嫂	sour
+嫂	sour	10%
 㛮	sour
 䕅	sour
 𦺋	sour
 䈹	sour
 籔	sour
-數	sour
-傻	sox
+數	sour	9%
+傻	sox	10%
 儍	sox
 索	suk
 尗	sukh
@@ -24166,7 +24166,7 @@ Sir	soex
 塾	sukh
 䴰	sukh
 㒔	sukh
-熟	sukh
+熟	sukh	10%
 䃞	sukh
 㯮	sukh
 璹	sukh
@@ -24176,7 +24176,7 @@ Sir	soex
 薥	sukh
 㻿	sukh
 襡	sukh
-屬	sukh
+屬	sukh	9%
 鸀	sukh
 䙱	sukh
 盄	sukh
@@ -24189,7 +24189,7 @@ Sir	soex
 襩	sukj
 棴	sukj
 鏼	sukj
-叔	sukj
+叔	sukj	10%
 㑐	sukj
 倏	sukj
 倐	sukj
@@ -24253,18 +24253,18 @@ Sir	soex
 鱐	sukj
 鷫	sukj
 摍	sukj
-縮	sukj
+縮	sukj	9%
 儵	sukj
 翛	sukj
 蓿	sukj
 莤	sukj
 㯨	sukj
-宋	sung
-送	sung
+宋	sung	9%
+送	sung	10%
 䢠	sung
 㮸	sung
-鎹	sung
-餸	sung
+鎹	sung	7%
+餸	sung	8%
 㞱	sungj
 從	sungj
 忪	sungj
@@ -24286,7 +24286,7 @@ Sir	soex
 憽	sungj
 䯷	sungj
 檧	sungj
-鬆	sungj
+鬆	sungj	10%
 䉥	sungj
 㟣	sungj
 楤	sungr
@@ -24311,12 +24311,12 @@ Sir	soex
 嫞	sungx
 鰫	sungx
 𩻃	sungx
-處	sv
+處	sv	10%
 署	sv
 戍	sv
 㣽	sv
 㲓	sv
-恕	sv
+恕	sv	9%
 庻	sv
 庶	sv
 腧	sv
@@ -24356,18 +24356,18 @@ Sir	soex
 橾	svj
 抒	svj
 姝	svj
-書	svj
+書	svj	10%
 紓	svj
 鄃	svj
 䋒	svj
 㡏	svj
-舒	svj
+舒	svj	8%
 𨥤	svj
 毺	svj
 毹	svj
 䋡	svj
 樞	svj
-輸	svj
+輸	svj	9%
 䧾	svj
 攄	svj
 鵨	svj
@@ -24384,7 +24384,7 @@ Sir	soex
 笇	svn
 蒜	svn
 筭	svn
-算	svn
+算	svn	10%
 選	svn
 渲	svn
 䍻	svn
@@ -24407,7 +24407,7 @@ Sir	soex
 酸	svnj
 䝜	svnj
 𪊴	svnj
-孫	svnj
+孫	svnj	10%
 飧	svnj
 搎	svnj
 蓀	svnj
@@ -24442,14 +24442,14 @@ Sir	soex
 愃	svnr
 㔵	svnr
 𣉖	svnr
-選	svnr
+選	svnr	10%
 䠣	svnr
 篹	svnr
 饌	svnr
 吮	svnr
 舡	svnx
 舩	svnx
-船	svnx
+船	svnx	10%
 遄	svnx
 輲	svnx
 䁣	svnx
@@ -24494,7 +24494,7 @@ Sir	soex
 䑕	svr
 暑	svr
 黍	svr
-鼠	svr
+鼠	svr	10%
 潻	svr
 薯	svr
 癙	svr
@@ -24503,9 +24503,9 @@ Sir	soex
 㓿	svr
 唰	svt
 哾	svt
-說	svt
+說	svt	10%
 説	svt
-雪	svt
+雪	svt	9%
 樰	svt
 膤	svt
 艝	svt
@@ -24526,7 +24526,7 @@ Sir	soex
 薯	svx
 糬	svx
 蠴	svx
-噓	svx
+噓	svx	10%
 朱	svx
 茱	svx
 洙	svx
@@ -24538,7 +24538,7 @@ Sir	soex
 傣	taai
 蚮	taai
 貸	taai
-太	taai
+太	taai	10%
 夳	taai
 冭	taai
 㑀	taai
@@ -24547,30 +24547,30 @@ Sir	soex
 忲	taai
 肽	taai
 𡘙	taai
-泰	taai
+泰	taai	8%
 粏	taai
 酞	taai
 㑷	taai
 鈦	taai
 溙	taai
 㥭	taai
-態	taai
+態	taai	9%
 燤	taai
 㣖	taai
 㤗	taai
 㳲	taai
 𡛕	taai
 𣳾	taai
-呔	taaij
-𧘹	taaij
+呔	taaij	10%
+𧘹	taaij	9%
 舵	taaiq
 舦	taaiq
 軚	taaiq
 柁	taaiq
-太	taair
-他	taaj
-它	taaj
-她	taaj
+太	taair	10%
+他	taaj	9%
+它	taaj	10%
+她	taaj	8%
 牠	taaj
 祂	taaj
 咜	taaj
@@ -24579,7 +24579,7 @@ Sir	soex
 佗	taaj
 鉈	taaj
 傝	taam
-探	taam
+探	taam	10%
 僋	taam
 䗊	taam
 舕	taam
@@ -24588,7 +24588,7 @@ Sir	soex
 黮	taam
 䏥	taamj
 㳩	taamj
-貪	taamj
+貪	taamj	10%
 㴂	taamj
 㵅	taamj
 䆱	taamj
@@ -24642,7 +24642,7 @@ Sir	soex
 䊤	taamx
 壜	taamx
 醰	taamx
-譚	taamx
+譚	taamx	10%
 䜖	taamx
 罎	taamx
 錟	taamx
@@ -24657,7 +24657,7 @@ Sir	soex
 湠	taan
 㛶	taan
 碳	taan
-嘆	taan
+嘆	taan	10%
 歎	taan
 贃	taan
 𤨢	taan
@@ -24670,8 +24670,8 @@ Sir	soex
 嘽	taanj
 潬	taanj
 擹	taanj
-攤	taanj
-灘	taanj
+攤	taanj	10%
+灘	taanj	9%
 癱	taanj
 譠	taanj
 嘆	taanj
@@ -24702,7 +24702,7 @@ Sir	soex
 繟	taanx
 彈	taanx
 榃	taanx
-壇	taanx
+壇	taanx	10%
 䕊	taanx
 檀	taanx
 䃪	taanx
@@ -24722,7 +24722,7 @@ Sir	soex
 遢	taap
 溻	taap
 褟	taap
-塔	taap
+塔	taap	9%
 墖	taap
 鰨	taap
 拓	taap
@@ -24735,7 +24735,7 @@ Sir	soex
 㛥	taap
 㭼	taap
 傝	taap
-搨	taap
+搨	taap	10%
 䍝	taap
 榻	taap
 毾	taap
@@ -24778,7 +24778,7 @@ Sir	soex
 橽	taat
 㿹	taat
 闥	taat
-撻	taatj
+撻	taatj	10%
 迖	tai
 髢	tai
 楴	tai
@@ -24790,7 +24790,7 @@ Sir	soex
 洟	tai
 涕	tai
 屜	tai
-替	tai
+替	tai	10%
 𡲕	tai
 𢞖	tai
 裼	tai
@@ -24820,15 +24820,15 @@ Sir	soex
 䑯	taiq
 悌	taiq
 𡠨	taiq
-睇	tair
+睇	tair	10%
 梯	tair
-体	tair
+体	tair	8%
 躰	tair
 骵	tair
 䌡	tair
 軆	tair
 䪆	tair
-體	tair
+體	tair	9%
 挮	tair
 隄	taix
 堤	taix
@@ -24845,7 +24845,7 @@ Sir	soex
 㖒	taix
 㣢	taix
 偍	taix
-提	taix
+提	taix	10%
 啼	taix
 罤	taix
 崹	taix
@@ -24877,7 +24877,7 @@ Sir	soex
 蹏	taix
 鍗	taix
 謕	taix
-題	taix
+題	taix	9%
 鮷	taix
 鵜	taix
 騠	taix
@@ -24891,7 +24891,7 @@ Sir	soex
 禔	taix
 禵	taix
 氹	tam
-𧨾	tam
+𧨾	tam	10%
 𠱁	tam
 窞	tamq
 𥧹	tamq
@@ -24932,7 +24932,7 @@ Sir	soex
 𧬸	tangx
 蜳	tanj
 䵊	tanj
-吞	tanj
+吞	tanj	10%
 呑	tanj
 旽	tanj
 涒	tanj
@@ -24960,12 +24960,12 @@ Sir	soex
 㰯	tau
 䟝	tau
 䞬	tau
-偷	tauj
+偷	tauj	10%
 偸	tauj
 鍮	tauj
 媮	tauj
 婾	tauj
-唞	taur
+唞	taur	10%
 𧿫	taur
 㳆	taur
 妵	taur
@@ -24979,32 +24979,32 @@ Sir	soex
 䱏	taur
 蘣	taur
 飳	taur
-頭	taur
+頭	taur	9%
 酘	taux
-投	taux
+投	taux	9%
 㓱	taux
 㢏	taux
 骰	taux
 緰	taux
-頭	taux
+頭	taux	10%
 䕱	taux
 䵉	taux
 亠	taux
 牏	taux
 𨆉	tek
-踢	tek
+踢	tek	10%
 艇	teng
 听	tengj
 厛	tengj
 聼	tengj
 廰	tengj
-聽	tengj
+聽	tengj	10%
 㕔	tengj
-廳	tengj
-艇	tengq
+廳	tengj	9%
+艇	tengq	10%
 稅	teoi
 侻	teoi
-退	teoi
+退	teoi	10%
 娧	teoi
 㥆	teoi
 蛻	teoi
@@ -25016,7 +25016,7 @@ Sir	soex
 駾	teoi
 脫	teoi
 毻	teoi
-推	teoij
+推	teoij	10%
 蓷	teoij
 㞜	teoij
 藬	teoij
@@ -25024,7 +25024,7 @@ Sir	soex
 俀	teoir
 㞂	teoir
 㱣	teoir
-腿	teoir
+腿	teoir	10%
 㾼	teoir
 骽	teoir
 弚	teoix
@@ -25109,7 +25109,7 @@ Sir	soex
 㶺	tim
 㮇	tim
 沗	timj
-添	timj
+添	timj	10%
 婖	timj
 酟	timj
 䋬	timj
@@ -25137,7 +25137,7 @@ Sir	soex
 䑚	timx
 甛	timx
 菾	timx
-甜	timx
+甜	timx	10%
 湉	timx
 㵇	timx
 琠	tin
@@ -25209,13 +25209,13 @@ Sir	soex
 㹶	tingx
 亭	tingx
 庭	tingx
-停	tingx
+停	tingx	10%
 葶	tingx
 蜓	tingx
 嵉	tingx
 筳	tingx
 渟	tingx
-婷	tingx
+婷	tingx	9%
 楟	tingx
 榳	tingx
 霆	tingx
@@ -25231,7 +25231,7 @@ Sir	soex
 㷚	tingx
 𤧟	tingx
 𤧻	tingx
-天	tinj
+天	tinj	10%
 兲	tinj
 𠀡	tinj
 䒶	tinj
@@ -25278,7 +25278,7 @@ Sir	soex
 畠	tinx
 䡒	tinx
 䟧	tinx
-填	tinx
+填	tinx	10%
 搷	tinx
 塡	tinx
 䡘	tinx
@@ -25294,10 +25294,10 @@ Sir	soex
 𡊰	tinx
 㤐	tip
 闥	tip
-帖	tip
+帖	tip	10%
 怗	tip
 萜	tip
-貼	tip
+貼	tip	9%
 跕	tip
 䩞	tip
 呫	tip
@@ -25309,7 +25309,7 @@ Sir	soex
 鉄	tit
 僣	tit
 鐡	tit
-鐵	tit
+鐵	tit	10%
 䥫	tit
 驖	tit
 飻	tit
@@ -25322,7 +25322,7 @@ Sir	soex
 眺	tiu
 絩	tiu
 趒	tiu
-跳	tiu
+跳	tiu	10%
 覜	tiu
 頫	tiu
 糶	tiu
@@ -25332,7 +25332,7 @@ Sir	soex
 旫	tiuj
 佻	tiuj
 𠛪	tiuj
-挑	tiuj
+挑	tiuj	10%
 庣	tiuj
 恌	tiuj
 祧	tiuj
@@ -25345,7 +25345,7 @@ Sir	soex
 趒	tiuj
 㸠	tiuq
 㒛	tiuq
-挑	tiuq
+挑	tiuq	10%
 條	tiuq
 朓	tiuq
 窕	tiuq
@@ -25362,7 +25362,7 @@ Sir	soex
 脁	tiur
 趒	tiur
 怊	tiux
-調	tiux
+調	tiux	9%
 苕	tiux
 萔	tiux
 佻	tiux
@@ -25372,7 +25372,7 @@ Sir	soex
 岹	tiux
 迢	tiux
 祒	tiux
-條	tiux
+條	tiux	10%
 㟘	tiux
 笤	tiux
 蓚	tiux
@@ -25404,7 +25404,7 @@ Sir	soex
 囼	toij
 孡	toij
 珆	toij
-胎	toij
+胎	toij	10%
 台	toij
 邰	toij
 苔	toij
@@ -25417,13 +25417,13 @@ Sir	soex
 駘	toiq
 詒	toiq
 呔	toir
-枱	toir
-檯	toir
+枱	toir	9%
+檯	toir	10%
 㘆	toir
 斄	toix
 能	toix
-枱	toix
-台	toix
+枱	toix	8%
+台	toix	9%
 旲	toix
 邰	toix
 坮	toix
@@ -25437,7 +25437,7 @@ Sir	soex
 䑓	toix
 㬃	toix
 㷘	toix
-臺	toix
+臺	toix	10%
 颱	toix
 駘	toix
 㙵	toix
@@ -25454,7 +25454,7 @@ Sir	soex
 他	toj
 它	toj
 牠	toj
-拖	toj
+拖	toj	10%
 拕	toj
 咃	toj
 䴱	toj
@@ -25470,7 +25470,7 @@ Sir	soex
 拓	tok
 乇	tok
 讬	tok
-托	tok
+托	tok	10%
 汑	tok
 杔	tok
 𠈁	tok
@@ -25494,7 +25494,7 @@ Sir	soex
 湯	tong
 𧼮	tong
 摥	tong
-趟	tong
+趟	tong	10%
 燙	tong
 鐋	tong
 熨	tong
@@ -25502,7 +25502,7 @@ Sir	soex
 䠀	tongj
 鐺	tongj
 闣	tongj
-湯	tongj
+湯	tongj	10%
 嘡	tongj
 劏	tongj
 蝪	tongj
@@ -25524,13 +25524,13 @@ Sir	soex
 伖	tongr
 耥	tongr
 蹚	tongr
-糖	tongr
+糖	tongr	10%
 帑	tongr
 倘	tongr
 偒	tongr
 淌	tongr
 㼒	tongr
-躺	tongr
+躺	tongr	9%
 鎲	tongr
 儻	tongr
 戃	tongr
@@ -25542,13 +25542,13 @@ Sir	soex
 鐋	tongr
 𡛀	tongr
 瞠	tongx
-幢	tongx
+幢	tongx	10%
 逿	tongx
 䑗	tongx
 闛	tongx
 坣	tongx
-唐	tongx
-堂	tongx
+唐	tongx	8%
+堂	tongx	9%
 㭻	tongx
 棠	tongx
 啺	tongx
@@ -25585,7 +25585,7 @@ Sir	soex
 螗	tongx
 篖	tongx
 㙶	tongx
-糖	tongx
+糖	tongx	7%
 䌅	tongx
 赯	tongx
 醣	tongx
@@ -25618,8 +25618,8 @@ Sir	soex
 鵎	tor
 鰖	tor
 㚐	tou
-套	tou
-吐	tou
+套	tou	10%
+吐	tou	9%
 兎	tou
 兔	tou
 莵	tou
@@ -25676,7 +25676,7 @@ Sir	soex
 㻯	touj
 𣈥	touj
 弢	touj
-肚	touq
+肚	touq	10%
 禂	tour
 禱	tour
 芏	tour
@@ -25707,7 +25707,7 @@ Sir	soex
 咷	toux
 逃	toux
 洮	toux
-桃	toux
+桃	toux	9%
 𣑯	toux
 陶	toux
 萄	toux
@@ -25733,7 +25733,7 @@ Sir	soex
 凃	toux
 捈	toux
 荼	toux
-徒	toux
+徒	toux	8%
 峹	toux
 途	toux
 庩	toux
@@ -25751,7 +25751,7 @@ Sir	soex
 䣝	toux
 酴	toux
 跿	toux
-圖	toux
+圖	toux	10%
 圗	toux
 廜	toux
 潳	toux
@@ -25776,7 +25776,7 @@ Sir	soex
 𦱆	tox
 佗	tox
 陁	tox
-陀	tox
+陀	tox	10%
 坨	tox
 岮	tox
 狏	tox
@@ -25822,13 +25822,13 @@ Sir	soex
 鋵	tukj
 鵚	tukj
 疼	tung
-痛	tung
+痛	tung	10%
 囪	tungj
 恫	tungj
 熥	tungj
 囲	tungj
 炵	tungj
-通	tungj
+通	tungj	10%
 痌	tungj
 蓪	tungj
 嗵	tungj
@@ -25859,7 +25859,7 @@ Sir	soex
 㤻	tungx
 疼	tungx
 仝	tungx
-同	tungx
+同	tungx	10%
 佟	tungx
 彤	tungx
 㠽	tungx
@@ -25889,7 +25889,7 @@ Sir	soex
 詷	tungx
 僮	tungx
 鉵	tungx
-銅	tungx
+銅	tungx	9%
 餇	tungx
 勭	tungx
 㠉	tungx
@@ -25911,14 +25911,14 @@ Sir	soex
 䮵	tungx
 䶱	tungx
 䴀	tungx
-筒	tungx
+筒	tungx	8%
 筩	tungx
 㖯	tungx
 㖰	tungx
 湍	tvnj
 煓	tvnj
 貒	tvnj
-斷	tvnq
+斷	tvnq	10%
 䜝	tvnr
 純	tvnx
 剬	tvnx
@@ -25970,7 +25970,7 @@ Sir	soex
 脫	tvt
 脱	tvt
 梲	tvt
-屋	ukj
+屋	ukj	10%
 剭	ukj
 箼	ukj
 䑁	ukj
@@ -25981,8 +25981,8 @@ Sir	soex
 罋	ung
 齆	ung
 䔨	ung
-壅	ungj
-㧬	ungr
+壅	ungj	10%
+㧬	ungr	10%
 𢫨	ungr
 擁	ungr
 𡃵	ungr
@@ -25991,13 +25991,13 @@ Sir	soex
 罫	waah
 詿	waah
 婲	waah
-華	waah
+華	waah	9%
 㕦	waah
 崋	waah
 䇈	waah
 畫	waah
 觟	waah
-話	waah
+話	waah	10%
 嬅	waah
 摦	waah
 樺	waah
@@ -26011,7 +26011,7 @@ Sir	soex
 纗	waah
 坏	waaih
 壊	waaih
-壞	waaih
+壞	waaih	10%
 蘾	waaih
 恚	waaih
 瘣	waaih
@@ -26051,7 +26051,7 @@ Sir	soex
 窐	waaj
 誮	waaj
 撶	waaj
-嘩	waaj
+嘩	waaj	10%
 鏵	waaj
 划	waaj
 豁	waaj
@@ -26070,7 +26070,7 @@ Sir	soex
 鼃	waaj
 娃	waaj
 譁	waaj
-哇	waaj
+哇	waaj	9%
 咼	waaj
 喎	waaj
 蝸	waaj
@@ -26083,9 +26083,9 @@ Sir	soex
 砉	waakh
 划	waakh
 㓰	waakh
-畫	waakh
+畫	waakh	9%
 畵	waakh
-劃	waakh
+劃	waakh	7%
 嫿	waakh
 繣	waakh
 㩇	waakh
@@ -26094,11 +26094,11 @@ Sir	soex
 嚄	waakh
 豁	waakh
 騞	waakh
-或	waakh
+或	waakh	10%
 捇	waakh
 掝	waakh
 㖪	waakh
-惑	waakh
+惑	waakh	8%
 湱	waakh
 㦎	waakh
 䐸	waakh
@@ -26114,9 +26114,9 @@ Sir	soex
 㗲	waakj
 桄	waangh
 橫	waangh
-橫	waangj
+橫	waangj	10%
 軭	waangj
-橫	waangx
+橫	waangx	10%
 衡	waangx
 䬖	waangx
 㶇	waangx
@@ -26133,13 +26133,13 @@ Sir	soex
 轘	waanh
 攌	waanh
 㕕	waanh
-幻	waanh
+幻	waanh	10%
 䒛	waanh
 𠈄	waanh
 宦	waanh
 圂	waanh
 梙	waanh
-患	waanh
+患	waanh	9%
 䆠	waanh
 豢	waanh
 漶	waanh
@@ -26170,9 +26170,9 @@ Sir	soex
 輓	waanq
 綰	waanq
 鋔	waanq
-玩	waanr
+玩	waanr	10%
 綰	waanr
-還	waanx
+還	waanx	10%
 㹕	waanx
 㡲	waanx
 郇	waanx
@@ -26180,7 +26180,7 @@ Sir	soex
 圜	waanx
 澴	waanx
 寰	waanx
-環	waanx
+環	waanx	9%
 鍰	waanx
 鹮	waanx
 糫	waanx
@@ -26204,14 +26204,14 @@ Sir	soex
 㝨	waanx
 䋀	waaq
 踝	waaq
-哇	waaq
+哇	waaq	10%
 剮	waar
-畫	waar
+畫	waar	9%
 搲	waar
 攨	waar
 𢱑	waar
 䠚	waar
-話	waar
+話	waar	10%
 嗗	waat
 穵	waat
 挖	waat
@@ -26224,7 +26224,7 @@ Sir	soex
 濣	waat
 姡	waath
 猾	waath
-滑	waath
+滑	waath	10%
 磆	waath
 螖	waath
 䴳	waath
@@ -26238,8 +26238,8 @@ Sir	soex
 椛	waax
 蕐	waax
 㭉	waax
-華	waax
-嘩	waax
+華	waax	9%
+嘩	waax	10%
 㠏	waax
 㦊	waax
 䔢	waax
@@ -26284,10 +26284,10 @@ Sir	soex
 㟪	wai
 萎	wai
 嵔	wai
-畏	wai
+畏	wai	9%
 叞	wai
 尉	wai
-喂	wai
+喂	wai	10%
 㷉	wai
 墛	wai
 蔚	wai
@@ -26299,7 +26299,7 @@ Sir	soex
 餧	wai
 濊	wai
 懀	wai
-餵	wai
+餵	wai	8%
 螱	wai
 褽	wai
 藯	wai
@@ -26348,13 +26348,13 @@ Sir	soex
 譿	waih
 喟	waih
 懳	waih
-爲	waih
+爲	waih	10%
 喡	waih
 為	waih
 蜼	waih
 緯	waih
-位	waih
-胃	waih
+位	waih	9%
+胃	waih	7%
 軎	waih
 喂	waih
 猬	waih
@@ -26369,7 +26369,7 @@ Sir	soex
 緭	waih
 璏	waih
 衞	waih
-謂	waih
+謂	waih	8%
 轊	waih
 䬑	waih
 㦣	waih
@@ -26419,12 +26419,12 @@ Sir	soex
 蜲	waij
 倭	waij
 𨩆	waij
-喂	waij
+喂	waij	10%
 蘤	waiq
 卉	waiq
 諱	waiq
 撱	waiq
-韋	waiq
+韋	waiq	10%
 唯	waiq
 湋	waiq
 蓶	waiq
@@ -26499,24 +26499,24 @@ Sir	soex
 薳	wair
 壝	wair
 䦱	wair
-位	wair
-喂	wair
+位	wair	9%
+喂	wair	10%
 碨	wair
 倭	wair
 㷐	wair
 爳	waix
 囗	waix
 圩	waix
-爲	waix
+爲	waix	10%
 韋	waix
-桅	waix
-唯	waix
+桅	waix	6%
+唯	waix	7%
 帷	waix
 惟	waix
 琟	waix
 喡	waix
 幃	waix
-圍	waix
+圍	waix	8%
 為	waix
 湋	waix
 違	waix
@@ -26543,7 +26543,7 @@ Sir	soex
 㗹	waix
 𡺨	waix
 𤔡	waix
-喂	waix
+喂	waix	9%
 𤷇	wakh
 𧄧	wan
 菀	wan
@@ -26559,7 +26559,7 @@ Sir	soex
 醞	wan
 鞰	wan
 藴	wan
-韞	wan
+韞	wan	10%
 蘊	wan
 撔	wangh
 澋	wangh
@@ -26572,7 +26572,7 @@ Sir	soex
 吰	wangx
 𡵓	wangx
 汯	wangx
-宏	wangx
+宏	wangx	10%
 㢬	wangx
 苰	wangx
 泓	wangx
@@ -26612,7 +26612,7 @@ Sir	soex
 俒	wanh
 倱	wanh
 掍	wanh
-混	wanh
+混	wanh	8%
 溷	wanh
 㥵	wanh
 慁	wanh
@@ -26632,7 +26632,7 @@ Sir	soex
 䵴	wanh
 贠	wanh
 員	wanh
-暈	wanh
+暈	wanh	9%
 煴	wanh
 眃	wanh
 貟	wanh
@@ -26640,7 +26640,7 @@ Sir	soex
 㟦	wanh
 傊	wanh
 惲	wanh
-運	wanh
+運	wanh	10%
 腪	wanh
 韵	wanh
 熅	wanh
@@ -26727,8 +26727,8 @@ Sir	soex
 桽	wanr
 㝧	wanr
 穏	wanr
-穩	wanr
-搵	wanr
+穩	wanr	9%
+搵	wanr	10%
 褞	wanr
 賱	wanr
 惲	wanr
@@ -26749,7 +26749,7 @@ Sir	soex
 渾	wanx
 琿	wanx
 䰟	wanx
-魂	wanx
+魂	wanx	6%
 㮯	wanx
 䊐	wanx
 餛	wanx
@@ -26763,9 +26763,9 @@ Sir	soex
 轋	wanx
 㽦	wanx
 員	wanx
-暈	wanx
+暈	wanx	9%
 云	wanx
-勻	wanx
+勻	wanx	7%
 䢵	wanx
 伝	wanx
 芸	wanx
@@ -26776,10 +26776,10 @@ Sir	soex
 眃	wanx
 畇	wanx
 秐	wanx
-耘	wanx
+耘	wanx	8%
 耺	wanx
 紜	wanx
-雲	wanx
+雲	wanx	10%
 鄖	wanx
 𦶮	wanx
 蒷	wanx
@@ -26834,7 +26834,7 @@ Sir	soex
 鷸	wath
 镼	watj
 煀	watj
-屈	watj
+屈	watj	10%
 䓛	watj
 䖦	watj
 詘	watj
@@ -26877,7 +26877,7 @@ Sir	soex
 閄	wikh
 窢	wikh
 䧕	wikh
-域	wikh
+域	wikh	10%
 㚜	wikh
 淢	wikh
 惐	wikh
@@ -26909,7 +26909,7 @@ Sir	soex
 𪷿	wingh
 扔	wingj
 𢫕	wingj
-永	wingq
+永	wingq	10%
 怺	wingq
 栐	wingq
 柡	wingq
@@ -26931,7 +26931,7 @@ Sir	soex
 𡠺	wingx
 𣞁	wingx
 𤪤	wingx
-喎	wo
+喎	wo	10%
 涴	wo
 咊	woh
 和	woh
@@ -26989,7 +26989,7 @@ Sir	soex
 蠖	wokh
 䉟	wokh
 艧	wokh
-鑊	wokh
+鑊	wokh	10%
 瓁	wokh
 約	wokh
 矱	wokh
@@ -27006,12 +27006,12 @@ Sir	soex
 王	wongh
 暀	wongh
 迋	wongh
-旺	wongh
+旺	wongh	10%
 𡯁	wongj
 𡯂	wongj
 尪	wongj
 尫	wongj
-汪	wongj
+汪	wongj	10%
 尩	wongj
 尢	wongj
 尣	wongj
@@ -27020,23 +27020,23 @@ Sir	soex
 㞷	wongq
 徍	wongq
 徃	wongq
-往	wongq
+往	wongq	10%
 暀	wongq
 誑	wongr
-枉	wongr
+枉	wongr	9%
 㳹	wongr
 㴏	wongr
 瀇	wongr
 𠶖	wongr
 㞷	wongx
-皇	wongx
+皇	wongx	8%
 䍿	wongx
 黄	wongx
 偟	wongx
 凰	wongx
 隍	wongx
 堭	wongx
-黃	wongx
+黃	wongx	10%
 葟	wongx
 喤	wongx
 崲	wongx
@@ -27078,7 +27078,7 @@ Sir	soex
 䑟	wongx
 鷬	wongx
 鱑	wongx
-王	wongx
+王	wongx	9%
 仼	wongx
 彺	wongx
 蚟	wongx
@@ -27087,7 +27087,7 @@ Sir	soex
 㶂	wongx
 禍	woq
 喎	woq
-𡁜	woq
+𡁜	woq	10%
 𢰸	woq
 倭	wor
 捰	wor
@@ -27097,13 +27097,13 @@ Sir	soex
 䰀	wor
 禾	wox
 䒩	wox
-咊	wox
-和	wox
+咊	wox	8%
+和	wox	9%
 姀	wox
 柇	wox
 盉	wox
 萂	wox
-啝	wox
+啝	wox	10%
 惒	wox
 訸	wox
 鉌	wox
@@ -27122,7 +27122,7 @@ Sir	soex
 雽	wuh
 戸	wuh
 㸦	wuh
-互	wuh
+互	wuh	10%
 戶	wuh
 户	wuh
 冴	wuh
@@ -27169,7 +27169,7 @@ Sir	soex
 芌	wuh
 㣗	wuh
 䕶	wuh
-會	wui
+會	wui	10%
 薈	wui
 徻	wui
 瞺	wui
@@ -27184,7 +27184,7 @@ Sir	soex
 屷	wuih
 㑹	wuih
 匯	wuih
-會	wuih
+會	wuih	10%
 滙	wuih
 彙	wuih
 瘣	wuih
@@ -27215,17 +27215,17 @@ Sir	soex
 䋿	wuij
 燰	wuij
 猥	wuij
-會	wuiq
+會	wuiq	10%
 㞇	wuir
 猥	wuir
 㛱	wuir
 㱬	wuir
 鍡	wuir
-會	wuir
+會	wuir	10%
 佪	wuix
 徊	wuix
 囘	wuix
-回	wuix
+回	wuix	10%
 囬	wuix
 廻	wuix
 茴	wuix
@@ -27255,7 +27255,7 @@ Sir	soex
 㢪	wuj
 杇	wuj
 洿	wuj
-烏	wuj
+烏	wuj	10%
 釫	wuj
 窏	wuj
 𠌥	wuj
@@ -27291,7 +27291,7 @@ Sir	soex
 㬇	wunh
 㪱	wunh
 逭	wunh
-換	wunh
+換	wunh	10%
 㼫	wunh
 喚	wunh
 嵈	wunh
@@ -27349,7 +27349,7 @@ Sir	soex
 椀	wunr
 晼	wunr
 皖	wunr
-碗	wunr
+碗	wunr	10%
 䝹	wunr
 腕	wunr
 垸	wunr
@@ -27415,7 +27415,7 @@ Sir	soex
 狐	wux
 弧	wux
 瓳	wux
-胡	wux
+胡	wux	10%
 壷	wux
 䎁	wux
 𠴱	wux
@@ -27454,34 +27454,34 @@ Sir	soex
 吔	yaa
 廾	yaah
 卄	yaah
-廿	yaah
+廿	yaah	10%
 䑂	yaaiq
 跴	yaair
-踩	yaair
+踩	yaair	10%
 踹	yaair
-吔	yaaj
+吔	yaaj	10%
 吃	yaak
-喫	yaak
+喫	yaak	10%
 猰	yaak
 窫	yaak
 䝟	yaak
 吔	yaak
 蘸	yaamq
-𨅝	yaang
+𨅝	yaang	10%
 撐	yaang
 𨆪	yaang
 𣚕	yaap
 擪	yaap
 𡀞	yaap
-也	yaaq
+也	yaaq	9%
 釶	yaaq
-吔	yaaq
-吔	yaar
+吔	yaaq	10%
+吔	yaar	10%
 㕭	yaauj
 撓	yaauj
 𠰋	yaauj
 呦	yaauj
-吔	yaax
+吔	yaax	10%
 㛳	yaih
 泄	yaih
 洩	yaih
@@ -27516,7 +27516,7 @@ Sir	soex
 𤤙	yaih
 曳	yaij
 孬	yaiq
-曳	yaiq
+曳	yaiq	10%
 𠯋	yaiq
 荏	yam
 䜗	yam
@@ -27534,7 +27534,7 @@ Sir	soex
 鵀	yamh
 荏	yamh
 栣	yamh
-任	yamh
+任	yamh	10%
 妊	yamh
 䏕	yamh
 祍	yamh
@@ -27563,7 +27563,7 @@ Sir	soex
 鑫	yamj
 阥	yamj
 侌	yamj
-音	yamj
+音	yamj	10%
 陰	yamj
 隂	yamj
 喑	yamj
@@ -27599,7 +27599,7 @@ Sir	soex
 昑	yamr
 酓	yamr
 淾	yamr
-飲	yamr
+飲	yamr	10%
 飮	yamr
 㱃	yamr
 壬	yamx
@@ -27656,7 +27656,7 @@ Sir	soex
 舋	yan
 釁	yan
 隱	yan
-印	yan
+印	yan	10%
 茚	yan
 㥼	yan
 㒚	yan
@@ -27775,7 +27775,7 @@ Sir	soex
 戭	yanq
 縯	yanq
 粌	yanq
-引	yanq
+引	yanq	10%
 㧈	yanq
 䒡	yanq
 吲	yanq
@@ -27797,7 +27797,7 @@ Sir	soex
 赾	yanr
 㞬	yanr
 㣼	yanr
-忍	yanr
+忍	yanr	9%
 荵	yanr
 綛	yanr
 躵	yanr
@@ -27820,11 +27820,11 @@ Sir	soex
 䨸	yanr
 酳	yanr
 檼	yanr
-人	yanr
+人	yanr	10%
 亻	yanx
 儿	yanx
-人	yanx
-仁	yanx
+人	yanx	10%
+仁	yanx	9%
 忈	yanx
 朲	yanx
 芢	yanx
@@ -27845,7 +27845,7 @@ Sir	soex
 𣲚	yanx
 魞	yaph
 廿	yaph
-入	yaph
+入	yaph	10%
 扖	yaph
 鳰	yaph
 翕	yaph
@@ -27893,7 +27893,7 @@ Sir	soex
 欥	yath
 釼	yath
 釰	yath
-日	yath
+日	yath	10%
 𡆠	yath
 䒤	yath
 鈤	yath
@@ -27920,7 +27920,7 @@ Sir	soex
 鎰	yath
 齸	yath
 䫻	yath
-一	yatj
+一	yatj	10%
 弌	yatj
 辷	yatj
 壱	yatj
@@ -27949,8 +27949,8 @@ Sir	soex
 駀	yauh
 蝣	yauh
 櫾	yauh
-又	yauh
-右	yauh
+又	yauh	10%
+右	yauh	9%
 佑	yauh
 侑	yauh
 㹨	yauh
@@ -27979,7 +27979,7 @@ Sir	soex
 𠀉	yauj
 㐀	yauj
 丘	yauj
-邱	yauj
+邱	yauj	9%
 坵	yauj
 㘳	yauj
 㳋	yauj
@@ -28021,7 +28021,7 @@ Sir	soex
 麀	yauj
 憂	yauj
 鄾	yauj
-優	yauj
+優	yauj	10%
 嚘	yauj
 瀀	yauj
 懮	yauj
@@ -28046,7 +28046,7 @@ Sir	soex
 輶	yauq
 友	yauq
 㕛	yauq
-有	yauq
+有	yauq	10%
 苃	yauq
 酉	yauq
 丣	yauq
@@ -28098,8 +28098,8 @@ Sir	soex
 蚴	yaur
 釉	yaur
 鼬	yaur
-友	yaur
-油	yaur
+友	yaur	9%
+油	yaur	8%
 䗅	yaux
 醔	yaux
 囮	yaux
@@ -28150,7 +28150,7 @@ Sir	soex
 滺	yaux
 尢	yaux
 尤	yaux
-由	yaux
+由	yaux	10%
 䢊	yaux
 𦬓	yaux
 㕱	yaux
@@ -28159,7 +28159,7 @@ Sir	soex
 㚭	yaux
 𣏞	yaux
 肬	yaux
-油	yaux
+油	yaux	6%
 怞	yaux
 怣	yaux
 疣	yaux
@@ -28181,11 +28181,11 @@ Sir	soex
 䢟	yaux
 㳺	yaux
 𨔼	yaux
-猶	yaux
+猶	yaux	9%
 㾞	yaux
-遊	yaux
+遊	yaux	7%
 𣸯	yaux
-游	yaux
+游	yaux	8%
 楢	yaux
 鈾	yaux
 㫍	yaux
@@ -28216,14 +28216,14 @@ Sir	soex
 廿	yeh
 偌	yeh
 射	yeh
-夜	yeh
+夜	yeh	10%
 亱	yeh
 㖡	yeh
 鵺	yeh
 㖱	yeh
-㖿	yej
+㖿	yej	10%
 影	yengr
-贏	yengx
+贏	yengx	10%
 兌	yeoih
 鏸	yeoih
 𥈠	yeoih
@@ -28251,7 +28251,7 @@ Sir	soex
 壡	yeoih
 銴	yeoih
 𥌑	yeoih
-裔	yeoih
+裔	yeoih	10%
 㵝	yeoih
 鈗	yeoih
 梲	yeoih
@@ -28260,7 +28260,7 @@ Sir	soex
 㶙	yeoih
 㽔	yeoih
 嬃	yeoij
-錐	yeoij
+錐	yeoij	10%
 擩	yeoiq
 緌	yeoiq
 蕋	yeoiq
@@ -28286,17 +28286,17 @@ Sir	soex
 膶	yeonr
 喏	yeq
 㘃	yeq
-惹	yeq
+惹	yeq	9%
 若	yeq
 㖿	yeq
 冶	yeq
 埜	yeq
-野	yeq
+野	yeq	8%
 㙒	yeq
-嘢	yeq
+嘢	yeq	10%
 漜	yeq
 壄	yeq
-㖿	yer
+㖿	yer	10%
 夜	yer
 爺	yer
 婼	yex
@@ -28314,7 +28314,7 @@ Sir	soex
 䓉	yex
 揶	yex
 釾	yex
-爺	yex
+爺	yex	10%
 鋣	yex
 鎁	yex
 擨	yex
@@ -28328,11 +28328,11 @@ Sir	soex
 䬥	yi
 亄	yi
 䵝	yi
-意	yi
+意	yi	10%
 㱲	yi
 嫕	yi
 撎	yi
-瘞	yi
+瘞	yi	9%
 㦉	yi
 㱅	yi
 薏	yi
@@ -28357,7 +28357,7 @@ Sir	soex
 珥	yih
 毦	yih
 衈	yih
-二	yih
+二	yih	10%
 弍	yih
 弐	yih
 刵	yih
@@ -28375,7 +28375,7 @@ Sir	soex
 㼁	yih
 异	yih
 伿	yih
-易	yih
+易	yih	8%
 枻	yih
 貤	yih
 㑥	yih
@@ -28386,7 +28386,7 @@ Sir	soex
 敡	yih
 㓷	yih
 肄	yih
-義	yih
+義	yih	9%
 勩	yih
 䔬	yih
 廙	yih
@@ -28407,11 +28407,11 @@ Sir	soex
 她	yij
 𦴣	yij
 𪘲	yij
-伊	yij
-衣	yij
+伊	yij	10%
+衣	yij	6%
 医	yij
 吚	yij
-依	yij
+依	yij	7%
 䧇	yij
 䒾	yij
 咿	yij
@@ -28445,14 +28445,14 @@ Sir	soex
 䫑	yij
 檹	yij
 毉	yij
-醫	yij
+醫	yij	8%
 黟	yij
 譩	yij
 𡄵	yij
 䫯	yij
 䪰	yij
 黳	yij
-姨	yij
+姨	yij	9%
 椅	yij
 悘	yij
 翳	yij
@@ -28467,7 +28467,7 @@ Sir	soex
 睪	yikh
 薿	yikh
 屰	yikh
-逆	yikh
+逆	yikh	7%
 縌	yikh
 馹	yikh
 射	yikh
@@ -28482,7 +28482,7 @@ Sir	soex
 弋	yikh
 芅	yikh
 伇	yikh
-亦	yikh
+亦	yikh	10%
 㚤	yikh
 坄	yikh
 杙	yikh
@@ -28493,7 +28493,7 @@ Sir	soex
 炈	yikh
 䘝	yikh
 弈	yikh
-奕	yikh
+奕	yikh	9%
 帟	yikh
 疫	yikh
 𦏵	yikh
@@ -28544,7 +28544,7 @@ Sir	soex
 斁	yikh
 歝	yikh
 燡	yikh
-翼	yikh
+翼	yikh	6%
 霬	yikh
 鶂	yikh
 鶃	yikh
@@ -28552,7 +28552,7 @@ Sir	soex
 繹	yikh
 䳬	yikh
 醳	yikh
-譯	yikh
+譯	yikh	8%
 㢞	yikh
 瀷	yikh
 鷊	yikh
@@ -28574,15 +28574,15 @@ Sir	soex
 壹	yikj
 肊	yikj
 抑	yikj
-益	yikj
+益	yikj	10%
 訲	yikj
 㴁	yikj
 㜋	yikj
 膉	yikj
-億	yikj
+億	yikj	9%
 螠	yikj
 澺	yikj
-憶	yikj
+憶	yikj	8%
 檍	yikj
 貖	yikj
 臆	yikj
@@ -28596,7 +28596,7 @@ Sir	soex
 酓	yim
 㛪	yim
 猒	yim
-厭	yim
+厭	yim	10%
 䛳	yim
 嬮	yim
 饜	yim
@@ -28616,7 +28616,7 @@ Sir	soex
 醶	yimh
 爓	yimh
 灔	yimh
-驗	yimh
+驗	yimh	10%
 艷	yimh
 𪙊	yimh
 釅	yimh
@@ -28638,7 +28638,7 @@ Sir	soex
 䅧	yimj
 醃	yimj
 嶖	yimj
-閹	yimj
+閹	yimj	10%
 㦔	yimj
 懨	yimj
 奄	yimj
@@ -28788,14 +28788,14 @@ Sir	soex
 譍	ying
 軈	ying
 噟	ying
-應	ying
+應	ying	10%
 瀅	ying
 㒣	ying
 㣹	ying
 㶐	ying
 㶝	ying
 𪈠	ying
-認	yingh
+認	yingh	10%
 䱆	yingh
 㓑	yingh
 䁄	yingh
@@ -28808,7 +28808,7 @@ Sir	soex
 𩤯	yingj
 啨	yingj
 央	yingj
-英	yingj
+英	yingj	10%
 珱	yingj
 䣐	yingj
 桜	yingj
@@ -28819,7 +28819,7 @@ Sir	soex
 愥	yingj
 媖	yingj
 绬	yingj
-瑛	yingj
+瑛	yingj	9%
 朠	yingj
 煐	yingj
 䋝	yingj
@@ -28854,12 +28854,12 @@ Sir	soex
 鷹	yingj
 䨉	yingj
 鸚	yingj
-應	yingj
+應	yingj	8%
 𨰃	yingj
 㖜	yingj
 𡢞	yingj
 𪃳	yingj
-呎	cek
+呎	cek	9%
 吋	cvn
 啢	loengr
 𠺖	mauq
@@ -28880,7 +28880,7 @@ Sir	soex
 䨍	yingr
 摬	yingr
 䚆	yingr
-影	yingr
+影	yingr	10%
 䭊	yingr
 䭗	yingr
 巊	yingr
@@ -28888,7 +28888,7 @@ Sir	soex
 䭘	yingr
 廮	yingr
 癭	yingr
-映	yingr
+映	yingr	9%
 暎	yingr
 冰	yingx
 夃	yingx
@@ -28896,7 +28896,7 @@ Sir	soex
 艿	yingx
 凝	yingx
 扔	yingx
-仍	yingx
+仍	yingx	9%
 辸	yingx
 㭁	yingx
 礽	yingx
@@ -28913,12 +28913,12 @@ Sir	soex
 㓝	yingx
 刑	yingx
 邢	yingx
-形	yingx
+形	yingx	8%
 郉	yingx
 㐩	yingx
 㼛	yingx
 侀	yingx
-型	yingx
+型	yingx	10%
 䣆	yingx
 㣜	yingx
 娙	yingx
@@ -29003,7 +29003,7 @@ Sir	soex
 峴	yinh
 涀	yinh
 娊	yinh
-現	yinh
+現	yinh	10%
 䙹	yinh
 䏹	yinh
 睍	yinh
@@ -29044,7 +29044,7 @@ Sir	soex
 鄢	yinj
 傿	yinj
 㷑	yinj
-煙	yinj
+煙	yinj	10%
 漹	yinj
 嫣	yinj
 䗎	yinj
@@ -29052,7 +29052,7 @@ Sir	soex
 臙	yinj
 䑍	yinj
 咽	yinj
-燕	yinj
+燕	yinj	9%
 驠	yinj
 䍰	yinj
 殷	yinj
@@ -29125,7 +29125,7 @@ Sir	soex
 𨧻	yinx
 㹂	yinx
 肰	yinx
-然	yinx
+然	yinx	8%
 䔳	yinx
 嘫	yinx
 㜣	yinx
@@ -29170,8 +29170,8 @@ Sir	soex
 焉	yinx
 漹	yinx
 䊙	yinx
-延	yinx
-言	yinx
+延	yinx	9%
+言	yinx	10%
 妍	yinx
 郔	yinx
 㿼	yinx
@@ -29242,14 +29242,14 @@ Sir	soex
 顳	yiph
 喦	yiph
 枼	yiph
-頁	yiph
+頁	yiph	9%
 枽	yiph
 偞	yiph
-葉	yiph
+葉	yiph	10%
 䢡	yiph
 墷	yiph
 楪	yiph
-業	yiph
+業	yiph	8%
 璍	yiph
 曄	yiph
 曅	yiph
@@ -29314,8 +29314,8 @@ Sir	soex
 㕥	yiq
 𡉏	yiq
 迤	yiq
-已	yiq
-以	yiq
+已	yiq	9%
+以	yiq	10%
 㠯	yiq
 迆	yiq
 苡	yiq
@@ -29329,7 +29329,7 @@ Sir	soex
 崺	yiq
 鉯	yiq
 儗	yiq
-議	yiq
+議	yiq	8%
 阤	yiq
 厼	yiq
 旀	yiq
@@ -29344,14 +29344,14 @@ Sir	soex
 猗	yir
 銥	yir
 漪	yir
-咦	yir
+咦	yir	10%
 㕈	yir
 庡	yir
 倚	yir
 扆	yir
 偯	yir
 㫊	yir
-椅	yir
+椅	yir	8%
 旑	yir
 㰻	yir
 旖	yir
@@ -29362,7 +29362,7 @@ Sir	soex
 陭	yir
 𣺈	yir
 𤀽	yir
-意	yir
+意	yir	9%
 喝	yit
 齧	yit
 咽	yit
@@ -29401,12 +29401,12 @@ Sir	soex
 䡾	yith
 钀	yith
 蛪	yith
-熱	yith
+熱	yith	10%
 𤍠	yith
 讞	yith
 蠮	yith
 㝔	yiu
-要	yiu
+要	yiu	10%
 穾	yiu
 窔	yiu
 熎	yiu
@@ -29436,7 +29436,7 @@ Sir	soex
 幺	yiuj
 夭	yiuj
 吆	yiuj
-妖	yiuj
+妖	yiuj	10%
 枖	yiuj
 祅	yiuj
 訞	yiuj
@@ -29474,9 +29474,9 @@ Sir	soex
 騕	yiuq
 揄	yiuq
 擾	yiur
-繞	yiur
+繞	yiur	9%
 夭	yiur
-妖	yiur
+妖	yiur	10%
 殀	yiur
 祅	yiur
 㫐	yiur
@@ -29502,7 +29502,7 @@ Sir	soex
 鴢	yiur
 闄	yiur
 騕	yiur
-要	yiur
+要	yiur	8%
 窔	yiur
 鷂	yiur
 僥	yiux
@@ -29521,7 +29521,7 @@ Sir	soex
 穘	yiux
 尭	yiux
 垚	yiux
-姚	yiux
+姚	yiux	10%
 珧	yiux
 烑	yiux
 䆙	yiux
@@ -29582,10 +29582,10 @@ Sir	soex
 𦲀	yix
 眱	yix
 儿	yix
-而	yix
+而	yix	10%
 児	yix
 侕	yix
-兒	yix
+兒	yix	9%
 陑	yix
 㧫	yix
 荋	yix
@@ -29630,7 +29630,7 @@ Sir	soex
 匜	yix
 㐌	yix
 圯	yix
-夷	yix
+夷	yix	6%
 𦣞	yix
 杝	yix
 沂	yix
@@ -29647,7 +29647,7 @@ Sir	soex
 衪	yix
 䧅	yix
 柂	yix
-咦	yix
+咦	yix	8%
 峓	yix
 㹫	yix
 迻	yix
@@ -29668,7 +29668,7 @@ Sir	soex
 㺿	yix
 萓	yix
 㼢	yix
-移	yix
+移	yix	5%
 痍	yix
 椬	yix
 貽	yix
@@ -29683,7 +29683,7 @@ Sir	soex
 飴	yix
 㥴	yix
 䔟	yix
-疑	yix
+疑	yix	7%
 䬁	yix
 𣻗	yix
 䩟	yix
@@ -29735,7 +29735,7 @@ Sir	soex
 𤦌	yix
 𤪦	yix
 葯	yoek
-約	yoek
+約	yoek	10%
 箹	yoek
 瀹	yoek
 躍	yoek
@@ -29749,10 +29749,10 @@ Sir	soex
 䖋	yoekh
 䨋	yoekh
 叒	yoekh
-若	yoekh
+若	yoekh	8%
 鄀	yoekh
 偌	yoekh
-弱	yoekh
+弱	yoekh	9%
 渃	yoekh
 婼	yoekh
 楉	yoekh
@@ -29769,7 +29769,7 @@ Sir	soex
 葯	yoekh
 鈅	yoekh
 薬	yoekh
-藥	yoekh
+藥	yoekh	10%
 㿑	yoekh
 纅	yoekh
 鑰	yoekh
@@ -29812,7 +29812,7 @@ Sir	soex
 嚷	yoengh
 譲	yoengh
 懹	yoengh
-讓	yoengh
+讓	yoengh	9%
 烊	yoengh
 煬	yoengh
 養	yoengh
@@ -29823,10 +29823,10 @@ Sir	soex
 㨾	yoengh
 䬺	yoengh
 漾	yoengh
-樣	yoengh
+樣	yoengh	10%
 䭐	yoengh
 䭥	yoengh
-央	yoengj
+央	yoengj	10%
 咉	yoengj
 泱	yoengj
 姎	yoengj
@@ -29864,7 +29864,7 @@ Sir	soex
 氧	yoengq
 䍩	yoengq
 痒	yoengq
-養	yoengq
+養	yoengq	10%
 㔦	yoengq
 攁	yoengq
 瀁	yoengq
@@ -29876,7 +29876,7 @@ Sir	soex
 𡒶	yoengq
 𣞼	yoengq
 䇦	yoengr
-抰	yoengr
+抰	yoengr	8%
 姎	yoengr
 鞅	yoengr
 岟	yoengr
@@ -29887,8 +29887,8 @@ Sir	soex
 怏	yoengr
 柍	yoengr
 映	yoengr
-揚	yoengr
-樣	yoengr
+揚	yoengr	9%
+樣	yoengr	10%
 穣	yoengx
 儴	yoengx
 蘘	yoengx
@@ -29904,7 +29904,7 @@ Sir	soex
 湯	yoengx
 勷	yoengx
 詳	yoengx
-羊	yoengx
+羊	yoengx	10%
 阦	yoengx
 氜	yoengx
 佯	yoengx
@@ -29922,7 +29922,7 @@ Sir	soex
 蛘	yoengx
 崵	yoengx
 瑒	yoengx
-楊	yoengx
+楊	yoengx	9%
 㦹	yoengx
 敭	yoengx
 暘	yoengx
@@ -29956,9 +29956,9 @@ Sir	soex
 谷	yukh
 𩢤	yukh
 賣	yukh
-肉	yukh
+肉	yukh	9%
 宍	yukh
-辱	yukh
+辱	yukh	8%
 鄏	yukh
 䄾	yukh
 蓐	yukh
@@ -29971,7 +29971,7 @@ Sir	soex
 𤣩	yukh
 哊	yukh
 蘛	yukh
-玉	yukh
+玉	yukh	10%
 育	yukh
 砡	yukh
 峪	yukh
@@ -30019,19 +30019,19 @@ Sir	soex
 沃	yukj
 鋈	yukj
 頊	yukj
-旭	yukj
+旭	yukj	8%
 勖	yukj
 勗	yukj
 朂	yukj
 䛙	yukj
 㰲	yukj
-郁	yukj
+郁	yukj	9%
 育	yukj
 昱	yukj
 㤢	yukj
 栯	yukj
 彧	yukj
-喐	yukj
+喐	yukj	10%
 逳	yukj
 焴	yukj
 𨚼	yukj
@@ -30054,11 +30054,11 @@ Sir	soex
 㓇	yukj
 𣸭	yukj
 褥	yukr
-玉	yukr
+玉	yukr	10%
 雍	yung
 傛	yungh
 佣	yungh
-用	yungh
+用	yungh	10%
 㞲	yungh
 苚	yungh
 㶲	yungh
@@ -30110,7 +30110,7 @@ Sir	soex
 𨺳	yungq
 甬	yungq
 俑	yungq
-勇	yungq
+勇	yungq	10%
 勈	yungq
 悀	yungq
 㦷	yungq
@@ -30246,7 +30246,7 @@ Sir	soex
 鰅	yungx
 𦞳	yungx
 㯴	yungx
-休	yv
+休	yv	10%
 呴	yv
 酗	yv
 䣱	yv
@@ -30299,7 +30299,7 @@ Sir	soex
 媀	yvh
 愈	yvh
 䘱	yvh
-預	yvh
+預	yvh	10%
 䢩	yvh
 䨒	yvh
 瘉	yvh
@@ -30341,7 +30341,7 @@ Sir	soex
 箊	yvj
 䆰	yvj
 䩽	yvj
-于	yvj
+于	yvj	9%
 亐	yvj
 邘	yvj
 㚥	yvj
@@ -30350,7 +30350,7 @@ Sir	soex
 㪀	yvj
 扵	yvj
 杅	yvj
-於	yvj
+於	yvj	10%
 衧	yvj
 竽	yvj
 酑	yvj
@@ -30364,14 +30364,14 @@ Sir	soex
 惌	yvn
 䛄	yvn
 夗	yvn
-怨	yvn
+怨	yvn	10%
 㤪	yvn
 㥐	yvn
 䬼	yvn
 繯	yvnh
 䯘	yvnh
 県	yvnh
-縣	yvnh
+縣	yvnh	10%
 玹	yvnh
 䀏	yvnh
 怰	yvnh
@@ -30400,7 +30400,7 @@ Sir	soex
 禐	yvnh
 愿	yvnh
 䬇	yvnh
-願	yvnh
+願	yvnh	9%
 𢥧	yvnh
 𣆂	yvnh
 𤋉	yvnh
@@ -30413,7 +30413,7 @@ Sir	soex
 㠾	yvnj
 剈	yvnj
 眢	yvnj
-冤	yvnj
+冤	yvnj	10%
 渁	yvnj
 渆	yvnj
 渕	yvnj
@@ -30452,10 +30452,10 @@ Sir	soex
 鞙	yvnq
 𨍥	yvnq
 蠕	yvnq
-阮	yvnq
+阮	yvnq	8%
 耎	yvnq
 䎡	yvnq
-軟	yvnq
+軟	yvnq	9%
 㓴	yvnq
 偄	yvnq
 䓴	yvnq
@@ -30487,7 +30487,7 @@ Sir	soex
 原	yvnq
 盶	yvnq
 逺	yvnq
-遠	yvnq
+遠	yvnq	10%
 䕂	yvnq
 𦹅	yvnr
 阮	yvnr
@@ -30562,7 +30562,7 @@ Sir	soex
 㝴	yvnx
 抏	yvnx
 岏	yvnx
-完	yvnx
+完	yvnx	10%
 笂	yvnx
 紈	yvnx
 捖	yvnx
@@ -30592,7 +30592,7 @@ Sir	soex
 𨯬	yvnx
 鳶	yvnx
 䳒	yvnx
-元	yvnx
+元	yvnx	9%
 円	yvnx
 邧	yvnx
 贠	yvnx
@@ -30601,8 +30601,8 @@ Sir	soex
 杬	yvnx
 䖠	yvnx
 爰	yvnx
-袁	yvnx
-原	yvnx
+袁	yvnx	6%
+原	yvnx	5%
 蚖	yvnx
 員	yvnx
 笎	yvnx
@@ -30622,11 +30622,11 @@ Sir	soex
 園	yvnx
 㟲	yvnx
 㟶	yvnx
-圓	yvnx
+圓	yvnx	8%
 猿	yvnx
 獂	yvnx
 溒	yvnx
-源	yvnx
+源	yvnx	7%
 㥳	yvnx
 媴	yvnx
 嫄	yvnx
@@ -30691,7 +30691,7 @@ Sir	soex
 宇	yvq
 羽	yvq
 㲾	yvq
-雨	yvq
+雨	yvq	8%
 穻	yvq
 䣁	yvq
 挧	yvq
@@ -30713,12 +30713,12 @@ Sir	soex
 㝢	yvq
 瑀	yvq
 楀	yvq
-與	yvq
+與	yvq	10%
 㒁	yvq
 瘐	yvq
 寙	yvq
 𦀡	yvq
-語	yvq
+語	yvq	9%
 㒜	yvq
 鋙	yvq
 窳	yvq
@@ -30744,7 +30744,7 @@ Sir	soex
 煦	yvr
 淤	yvr
 瘀	yvr
-魚	yvr
+魚	yvr	10%
 𩺰	yvr
 偊	yvr
 傴	yvr
@@ -30801,7 +30801,7 @@ Sir	soex
 驈	yvth
 鷸	yvth
 曰	yvth
-月	yvth
+月	yvth	10%
 戉	yvth
 刖	yvth
 抈	yvth
@@ -30812,15 +30812,15 @@ Sir	soex
 軏	yvth
 蚎	yvth
 蚏	yvth
-悅	yvth
+悅	yvth	7%
 悦	yvth
 䡇	yvth
 𨊸	yvth
 跀	yvth
 䋐	yvth
-越	yvth
+越	yvth	8%
 䟠	yvth
-粵	yvth
+粵	yvth	9%
 鉞	yvth
 䤦	yvth
 閱	yvth
@@ -30840,7 +30840,7 @@ Sir	soex
 腢	yvx
 㐵	yvx
 邚	yvx
-如	yvx
+如	yvx	10%
 侞	yvx
 茹	yvx
 帤	yvx
@@ -30895,7 +30895,7 @@ Sir	soex
 㬰	yvx
 伃	yvx
 杅	yvx
-余	yvx
+余	yvx	9%
 妤	yvx
 盂	yvx
 䄨	yvx
@@ -30908,7 +30908,7 @@ Sir	soex
 䍂	yvx
 竽	yvx
 舁	yvx
-俞	yvx
+俞	yvx	8%
 兪	yvx
 䢓	yvx
 狳	yvx
@@ -30920,7 +30920,7 @@ Sir	soex
 雩	yvx
 釪	yvx
 䏸	yvx
-魚	yvx
+魚	yvx	7%
 㳛	yvx
 㥚	yvx
 隅	yvx
@@ -31027,7 +31027,7 @@ Sir	soex
 喥	zaa
 苴	zaa
 蜡	zaa
-咋	zaa
+咋	zaa	10%
 笮	zaa
 吒	zaa
 奓	zaa
@@ -31042,16 +31042,16 @@ Sir	soex
 灹	zaa
 柞	zaa
 咤	zaa
-炸	zaa
+炸	zaa	7%
 痄	zaa
 蚱	zaa
 䆛	zaa
 䖳	zaa
-詐	zaa
+詐	zaa	8%
 溠	zaa
 䄍	zaa
 搾	zaa
-榨	zaa
+榨	zaa	9%
 䃎	zaa
 鮓	zaa
 醡	zaa
@@ -31062,7 +31062,7 @@ Sir	soex
 耫	zaah
 齰	zaah
 奓	zaah
-拃	zaah
+拃	zaah	10%
 乍	zaah
 㡸	zaah
 柞	zaah
@@ -31070,12 +31070,12 @@ Sir	soex
 𧨊	zaah
 祭	zaai
 責	zaai
-債	zaai
+債	zaai	10%
 䐱	zaai
 瘵	zaai
 柴	zaaih
 砦	zaaih
-寨	zaaih
+寨	zaaih	10%
 㩟	zaaih
 豸	zaaih
 廌	zaaih
@@ -31091,7 +31091,7 @@ Sir	soex
 䬩	zaaij
 榸	zaaij
 䔝	zaaij
-齋	zaaij
+齋	zaaij	10%
 䄢	zaaij
 𩱳	zaaij
 𡄡	zaaij
@@ -31115,9 +31115,9 @@ Sir	soex
 挓	zaaj
 柤	zaaj
 奓	zaaj
-揸	zaaj
-喳	zaaj
-渣	zaaj
+揸	zaaj	10%
+喳	zaaj	9%
+渣	zaaj	8%
 楂	zaaj
 𠭯	zaaj
 䐒	zaaj
@@ -31139,7 +31139,7 @@ Sir	soex
 髽	zaaj
 簻	zaaj
 𠾵	zaaj
-磧	zaak
+磧	zaak	8%
 適	zaak
 砸	zaak
 咋	zaak
@@ -31166,9 +31166,9 @@ Sir	soex
 齰	zaak
 柞	zaak
 蚱	zaak
-窄	zaak
+窄	zaak	10%
 䍉	zaak
-矺	zaak
+矺	zaak	9%
 䂝	zaak
 虴	zaak
 籷	zaak
@@ -31197,7 +31197,7 @@ Sir	soex
 歵	zaakh
 擇	zaakh
 䕉	zaakh
-澤	zaakh
+澤	zaakh	9%
 賾	zaakh
 礋	zaakh
 襗	zaakh
@@ -31218,7 +31218,7 @@ Sir	soex
 䮰	zaakh
 讁	zaakh
 躑	zaakh
-擲	zaakh
+擲	zaakh	10%
 䞰	zaakh
 岝	zaakh
 葃	zaakh
@@ -31230,7 +31230,7 @@ Sir	soex
 湛	zaam
 㴴	zaam
 㺘	zaam
-蘸	zaam
+蘸	zaam	10%
 儳	zaamh
 瀺	zaamh
 㸥	zaamh
@@ -31241,7 +31241,7 @@ Sir	soex
 蹔	zaamh
 鏨	zaamh
 趈	zaamh
-站	zaamh
+站	zaamh	10%
 偡	zaamh
 䪌	zaamh
 𨯩	zaamj
@@ -31272,7 +31272,7 @@ Sir	soex
 𠼗	zaamr
 怎	zaamr
 眨	zaamr
-斬	zaamr
+斬	zaamr	10%
 嶃	zaamr
 嶄	zaamr
 䁪	zaamr
@@ -31293,7 +31293,7 @@ Sir	soex
 灒	zaan
 瓚	zaan
 襸	zaan
-讚	zaan
+讚	zaan	10%
 饡	zaan
 䰖	zaan
 撰	zaan
@@ -31309,7 +31309,7 @@ Sir	soex
 丁	zaangj
 𠆤	zaangj
 鯖	zaangj
-爭	zaangj
+爭	zaangj	10%
 𠲜	zaangj
 㬹	zaangj
 掙	zaangj
@@ -31347,7 +31347,7 @@ Sir	soex
 僎	zaanh
 撰	zaanh
 篹	zaanh
-賺	zaanh
+賺	zaanh	10%
 譔	zaanh
 饌	zaanh
 籑	zaanh
@@ -31362,11 +31362,11 @@ Sir	soex
 儧	zaanr
 儹	zaanr
 䟎	zaanr
-攢	zaanr
+攢	zaanr	10%
 趲	zaanr
 㜺	zaanr
 琖	zaanr
-盞	zaanr
+盞	zaanr	9%
 䩆	zaanr
 䎒	zaanr
 醆	zaanr
@@ -31407,7 +31407,7 @@ Sir	soex
 亼	zaaph
 𠓛	zaaph
 亽	zaaph
-集	zaaph
+集	zaaph	10%
 㗱	zaaph
 㠎	zaaph
 箿	zaaph
@@ -31416,7 +31416,7 @@ Sir	soex
 雧	zaaph
 卡	zaaph
 什	zaaph
-習	zaaph
+習	zaaph	9%
 㠄	zaaph
 嶍	zaaph
 漝	zaaph
@@ -31439,10 +31439,10 @@ Sir	soex
 雑	zaaph
 磼	zaaph
 襍	zaaph
-雜	zaaph
+雜	zaaph	8%
 䕹	zaaph
 雥	zaaph
-閘	zaaph
+閘	zaaph	7%
 牐	zaaph
 鍘	zaaph
 䮜	zaaph
@@ -31457,8 +31457,8 @@ Sir	soex
 褶	zaaph
 㙷	zaaph
 㱷	zaaph
-苴	zaar
-喳	zaar
+苴	zaar	9%
+喳	zaar	10%
 咋	zaar
 苲	zaar
 砟	zaar
@@ -31481,7 +31481,7 @@ Sir	soex
 㦫	zaat
 沯	zaat
 㳨	zaat
-扎	zaat
+扎	zaat	10%
 紥	zaat
 哳	zaat
 紮	zaat
@@ -31525,10 +31525,10 @@ Sir	soex
 䞴	zaauj
 窼	zaauj
 鵃	zaauj
-爪	zaaur
+爪	zaaur	9%
 爫	zaaur
 㕚	zaaur
-找	zaaur
+找	zaaur	10%
 䝖	zaaur
 瑵	zaaur
 肘	zaaur
@@ -31545,7 +31545,7 @@ Sir	soex
 済	zai
 㴉	zai
 裚	zai
-際	zai
+際	zai	8%
 䨖	zai
 漈	zai
 暩	zai
@@ -31559,14 +31559,14 @@ Sir	soex
 薺	zai
 晢	zai
 晣	zai
-制	zai
+制	zai	10%
 狾	zai
 㝂	zai
 𠶜	zai
 猘	zai
 䇽	zai
 䎺	zai
-製	zai
+製	zai	9%
 瘈	zai
 䭁	zai
 䩢	zai
@@ -31586,7 +31586,7 @@ Sir	soex
 踅	zaih
 䇧	zaih
 墆	zaih
-滯	zaih
+滯	zaih	10%
 䐭	zaih
 㿃	zaih
 眥	zaih
@@ -31607,9 +31607,9 @@ Sir	soex
 鑇	zaij
 齏	zaij
 㨈	zaij
-擠	zaij
+擠	zaij	10%
 剤	zaij
-劑	zaij
+劑	zaij	9%
 鮆	zaij
 齌	zaij
 䜞	zaij
@@ -31621,14 +31621,14 @@ Sir	soex
 䍤	zair
 濟	zair
 囝	zair
-仔	zair
+仔	zair	10%
 崽	zair
-側	zakj
+側	zakj	9%
 萴	zakj
 廁	zakj
 鯽	zakj
 稄	zakj
-則	zakj
+則	zakj	10%
 𦣱	zakj
 夨	zakj
 仄	zakj
@@ -31640,7 +31640,7 @@ Sir	soex
 崱	zakj
 鰂	zakj
 鈂	zam
-浸	zam
+浸	zam	10%
 㴆	zam
 祲	zam
 寖	zam
@@ -31654,19 +31654,19 @@ Sir	soex
 枕	zam
 揕	zam
 㓄	zam
-沉	zamh
+沉	zamh	8%
 酖	zamh
 䫈	zamh
 㼉	zamh
 栚	zamh
-朕	zamh
+朕	zamh	10%
 眹	zamh
 䧵	zamh
 㴨	zamh
 䲴	zamh
 鴆	zamh
 㯢	zamh
-𠹻	zamh
+𠹻	zamh	9%
 梣	zamj
 瑊	zamj
 鰔	zamj
@@ -31683,11 +31683,11 @@ Sir	soex
 㘰	zamj
 枮	zamj
 砧	zamj
-針	zamj
+針	zamj	10%
 酙	zamj
 㪸	zamj
 葴	zamj
-斟	zamj
+斟	zamj	9%
 碪	zamj
 箴	zamj
 鍖	zamj
@@ -31723,7 +31723,7 @@ Sir	soex
 㣀	zan
 賑	zan
 誫	zan
-震	zan
+震	zan	10%
 𨦸	zan
 鎮	zan
 鎭	zan
@@ -31751,7 +31751,7 @@ Sir	soex
 鬙	zangj
 増	zangj
 增	zangj
-憎	zangj
+憎	zangj	10%
 璔	zangj
 橧	zangj
 熷	zangj
@@ -31762,7 +31762,7 @@ Sir	soex
 譄	zangj
 鱛	zangj
 繒	zangj
-爭	zangj
+爭	zangj	9%
 埩	zangj
 掙	zangj
 崝	zangj
@@ -31787,7 +31787,7 @@ Sir	soex
 榐	zanh
 䏖	zanh
 䀕	zanh
-陣	zanh
+陣	zanh	10%
 紖	zanh
 眹	zanh
 塦	zanh
@@ -31795,10 +31795,10 @@ Sir	soex
 敶	zanh
 䨯	zanh
 嗔	zanj
-珍	zanj
+珍	zanj	9%
 珎	zanj
 胗	zanj
-真	zanj
+真	zanj	10%
 䂦	zanj
 帪	zanj
 眞	zanj
@@ -31852,9 +31852,9 @@ Sir	soex
 潗	zapj
 霵	zapj
 臢	zapj
-汁	zapj
+汁	zapj	9%
 釞	zapj
-執	zapj
+執	zapj	10%
 瓡	zapj
 馽	zapj
 慹	zapj
@@ -31886,7 +31886,7 @@ Sir	soex
 祑	zath
 桎	zath
 秷	zath
-窒	zath
+窒	zath	10%
 蛭	zath
 銍	zath
 潌	zath
@@ -31919,7 +31919,7 @@ Sir	soex
 螲	zatj
 儨	zatj
 劕	zatj
-㩫	zatj
+㩫	zatj	10%
 㜱	zatj
 瓆	zatj
 櫍	zatj
@@ -31952,12 +31952,12 @@ Sir	soex
 噣	zau
 縐	zau
 咮	zau
-祝	zau
+祝	zau	10%
 啄	zau
 㔿	zau
 奏	zau
 揍	zau
-就	zauh
+就	zauh	10%
 僦	zauh
 㠇	zauh
 殧	zauh
@@ -32008,9 +32008,9 @@ Sir	soex
 啁	zauj
 㨄	zauj
 舟	zauj
-州	zauj
+州	zauj	9%
 侜	zauj
-周	zauj
+周	zauj	10%
 㖄	zauj
 炿	zauj
 洀	zauj
@@ -32022,7 +32022,7 @@ Sir	soex
 䓟	zauj
 矪	zauj
 徟	zauj
-週	zauj
+週	zauj	8%
 淍	zauj
 婤	zauj
 喌	zauj
@@ -32057,7 +32057,7 @@ Sir	soex
 齺	zauj
 㭧	zauj
 鿐	zaur
-酒	zaur
+酒	zaur	9%
 肘	zaur
 疛	zaur
 帚	zaur
@@ -32070,19 +32070,19 @@ Sir	soex
 鯞	zaur
 赱	zaur
 㞫	zaur
-走	zaur
+走	zaur	10%
 鯐	zaur
 㷌	zaur
 䲤	zaur
 藉	ze
-借	ze
-啫	ze
+借	ze	10%
+啫	ze	9%
 徣	ze
 唶	ze
 柘	ze
 䂞	ze
 這	ze
-蔗	ze
+蔗	ze	8%
 樜	ze
 蟅	ze
 䗪	ze
@@ -32096,7 +32096,7 @@ Sir	soex
 塮	zeh
 㴬	zeh
 榭	zeh
-謝	zeh
+謝	zeh	10%
 䵦	zeh
 䤳	zeh
 蒫	zej
@@ -32110,13 +32110,13 @@ Sir	soex
 㜘	zej
 㸙	zej
 嗻	zej
-遮	zej
+遮	zej	8%
 嫬	zej
-啫	zej
+啫	zej	10%
 謶	zej
 謯	zej
 𡂪	zej
-姐	zej
+姐	zej	9%
 㾊	zek
 嵴	zek
 膌	zek
@@ -32130,32 +32130,32 @@ Sir	soex
 螪	zek
 拓	zek
 擿	zek
-隻	zek
+隻	zek	10%
 䞠	zek
 坧	zek
 跖	zek
 墌	zek
 摭	zek
 蹠	zek
-只	zek
+只	zek	9%
 炙	zek
 䏑	zek
 熫	zek
 䑾	zek
 席	zekh
 蓆	zekh
-唧	zekj
+唧	zekj	10%
 喞	zekj
 啫	zekj
 占	zemj
-正	zeng
+正	zeng	10%
 阱	zengh
 浄	zengh
-凈	zengh
+凈	zengh	10%
 淨	zengh
 鄭	zengh
 㽀	zengh
-精	zengj
+精	zengj	10%
 井	zengr
 丼	zengr
 阱	zengr
@@ -32184,13 +32184,13 @@ Sir	soex
 酔	zeoi
 㝡	zeoi
 絊	zeoi
-最	zeoi
+最	zeoi	10%
 晬	zeoi
 祽	zeoi
 䘹	zeoi
 槜	zeoi
 蕞	zeoi
-醉	zeoi
+醉	zeoi	9%
 檇	zeoi
 鋷	zeoi
 穝	zeoi
@@ -32206,7 +32206,7 @@ Sir	soex
 袓	zeoih
 埾	zeoih
 焣	zeoih
-聚	zeoih
+聚	zeoih	10%
 隧	zeoih
 㻽	zeoih
 䦽	zeoih
@@ -32278,13 +32278,13 @@ Sir	soex
 魋	zeoij
 揟	zeoij
 隹	zeoij
-追	zeoij
+追	zeoij	10%
 㚝	zeoij
 㮅	zeoij
 椎	zeoij
 㗓	zeoij
 㩾	zeoij
-錐	zeoij
+錐	zeoij	9%
 䨨	zeoij
 騅	zeoij
 鵻	zeoij
@@ -32315,7 +32315,7 @@ Sir	soex
 珇	zeoir
 㭰	zeoir
 嶊	zeoir
-嘴	zeoir
+嘴	zeoir	10%
 嶵	zeoir
 噿	zeoir
 璻	zeoir
@@ -32328,7 +32328,7 @@ Sir	soex
 枃	zeon
 晋	zeon
 晉	zeon
-進	zeon
+進	zeon	10%
 搢	zeon
 溍	zeon
 瑨	zeon
@@ -32392,7 +32392,7 @@ Sir	soex
 㶳	zeonh
 煡	zeonh
 䀆	zeonh
-盡	zeonh
+盡	zeonh	10%
 賮	zeonh
 壗	zeonh
 藎	zeonh
@@ -32440,7 +32440,7 @@ Sir	soex
 墫	zeonj
 嶟	zeonj
 遵	zeonj
-樽	zeonj
+樽	zeonj	10%
 罇	zeonj
 繜	zeonj
 鐏	zeonj
@@ -32461,7 +32461,7 @@ Sir	soex
 准	zeonr
 埻	zeonr
 凖	zeonr
-準	zeonr
+準	zeonr	10%
 綧	zeonr
 黜	zeot
 怵	zeotj
@@ -32489,25 +32489,25 @@ Sir	soex
 踤	zeotj
 䯿	zeotj
 䱣	zeotj
-捽	zeotj
+捽	zeotj	10%
 𠖎	zeotj
 㗱	zeph
-這	zeq
+這	zeq	10%
 褚	zer
 堵	zer
-姐	zer
+姐	zer	9%
 毑	zer
 媎	zer
 飷	zer
-者	zer
+者	zer	10%
 赭	zer
 鍺	zer
-這	zer
+這	zer	8%
 姊	zer
 乽	zer
 㗯	zer
 䎞	zer
-𡁻	zeuh
+𡁻	zeuh	10%
 姐	zex
 嗻	zex
 遲	zi
@@ -32521,14 +32521,14 @@ Sir	soex
 伿	zi
 知	zi
 織	zi
-至	zi
-志	zi
+至	zi	10%
+志	zi	5%
 忮	zi
 俧	zi
 洷	zi
 䓌	zi
 𦤹	zi
-致	zi
+致	zi	7%
 𢙺	zi
 娡	zi
 梽	zi
@@ -32537,12 +32537,12 @@ Sir	soex
 觗	zi
 䚳	zi
 䘭	zi
-智	zi
+智	zi	8%
 𢜔	zi
-痣	zi
+痣	zi	9%
 㨖	zi
 輊	zi
-置	zi
+置	zi	6%
 筫	zi
 㴛	zi
 滍	zi
@@ -32665,8 +32665,8 @@ Sir	soex
 䆈	zih
 鶨	zih
 芓	zih
-自	zih
-字	zih
+自	zih	9%
+字	zih	10%
 荢	zih
 茡	zih
 剚	zih
@@ -32703,17 +32703,17 @@ Sir	soex
 甾	zij
 菑	zij
 仔	zij
-之	zij
-支	zij
+之	zij	8%
+支	zij	9%
 㞢	zij
 卮	zij
 芝	zij
 吱	zij
 巵	zij
 汥	zij
-枝	zij
+枝	zij	7%
 㲍	zij
-知	zij
+知	zij	10%
 肢	zij
 泜	zij
 秓	zij
@@ -32754,7 +32754,7 @@ Sir	soex
 孖	zij
 孜	zij
 茊	zij
-茲	zij
+茲	zij	6%
 㠿	zij
 姕	zij
 咨	zij
@@ -32825,7 +32825,7 @@ Sir	soex
 蹐	zik
 䳭	zik
 鶺	zik
-脊	zik
+脊	zik	10%
 癠	zik
 蹠	zik
 炙	zik
@@ -32861,7 +32861,7 @@ Sir	soex
 𥱊	zikh
 蟄	zikh
 稙	zikh
-直	zikh
+直	zikh	10%
 值	zikh
 値	zikh
 埴	zikh
@@ -32870,7 +32870,7 @@ Sir	soex
 𡸽	zikh
 淔	zikh
 㥀	zikh
-植	zikh
+植	zikh	9%
 殖	zikh
 犆	zikh
 禃	zikh
@@ -32884,13 +32884,13 @@ Sir	soex
 捗	zikj
 堲	zikj
 蠀	zikj
-唧	zikj
+唧	zikj	6%
 䐚	zikj
 喞	zikj
 䟱	zikj
-積	zikj
+積	zikj	8%
 癪	zikj
-即	zikj
+即	zikj	10%
 皍	zikj
 卽	zikj
 楖	zikj
@@ -32928,7 +32928,7 @@ Sir	soex
 嬂	zikj
 樴	zikj
 膱	zikj
-職	zikj
+職	zikj	7%
 蟙	zikj
 軄	zikj
 枳	zikj
@@ -32937,13 +32937,13 @@ Sir	soex
 綕	zikj
 㘉	zikj
 騭	zikj
-漬	zikj
+漬	zikj	9%
 㑡	zikj
 僭	zim
 僣	zim
 臢	zim
-占	zim
-佔	zim
+占	zim	9%
+佔	zim	10%
 𨮜	zimh
 蔪	zimh
 漸	zimh
@@ -32975,7 +32975,7 @@ Sir	soex
 怗	zimj
 呫	zimj
 臢	zimj
-沾	zimj
+沾	zimj	9%
 蛅	zimj
 粘	zimj
 詀	zimj
@@ -32988,7 +32988,7 @@ Sir	soex
 瞻	zimj
 譫	zimj
 讝	zimj
-占	zimj
+占	zimj	10%
 佔	zimj
 岾	zimj
 㐃	zimj
@@ -32996,7 +32996,7 @@ Sir	soex
 䟋	zimr
 顫	zin
 洊	zin
-墊	zin
+墊	zin	10%
 湔	zin
 荐	zin
 牮	zin
@@ -33013,17 +33013,17 @@ Sir	soex
 濺	zin
 櫤	zin
 戦	zin
-戰	zin
+戰	zin	9%
 𩥇	zin
 𦭒	zing
 𤴓	zing
 鉦	zing
 癥	zing
 氶	zing
-正	zing
+正	zing	10%
 㱏	zing
 政	zing
-症	zing
+症	zing	9%
 幀	zing
 証	zing
 㡠	zing
@@ -33046,7 +33046,7 @@ Sir	soex
 𩇕	zingh
 梷	zingh
 竫	zingh
-淨	zingh
+淨	zingh	10%
 婧	zingh
 㣏	zingh
 竧	zingh
@@ -33059,7 +33059,7 @@ Sir	soex
 靚	zingh
 請	zingh
 凊	zingh
-剩	zingh
+剩	zingh	9%
 賸	zingh
 𧂮	zingh
 鄭	zingh
@@ -33070,7 +33070,7 @@ Sir	soex
 菁	zingj
 旌	zingj
 旍	zingj
-晶	zingj
+晶	zingj	10%
 睛	zingj
 聙	zingj
 精	zingj
@@ -33105,7 +33105,7 @@ Sir	soex
 揁	zingj
 䇰	zingj
 媜	zingj
-蒸	zingj
+蒸	zingj	9%
 徰	zingj
 鉦	zingj
 䕄	zingj
@@ -33117,7 +33117,7 @@ Sir	soex
 正	zingj
 𢘫	zingj
 症	zingj
-徵	zingj
+徵	zingj	8%
 㠞	zingj
 𤋺	zingj
 𤦹	zingj
@@ -33125,7 +33125,7 @@ Sir	soex
 丼	zingr
 晸	zingr
 愸	zingr
-整	zingr
+整	zingr	10%
 繵	zinh
 纏	zinh
 洊	zinh
@@ -33134,7 +33134,7 @@ Sir	soex
 袸	zinh
 臶	zinh
 賎	zinh
-賤	zinh
+賤	zinh	10%
 踐	zinh
 諓	zinh
 餞	zinh
@@ -33150,7 +33150,7 @@ Sir	soex
 湔	zinj
 椾	zinj
 碊	zinj
-煎	zinj
+煎	zinj	10%
 㷙	zinj
 䔐	zinj
 箋	zinj
@@ -33205,7 +33205,7 @@ Sir	soex
 揃	zinr
 𢶕	zinr
 帴	zinr
-剪	zinr
+剪	zinr	9%
 瑐	zinr
 㨵	zinr
 戩	zinr
@@ -33225,7 +33225,7 @@ Sir	soex
 錢	zinr
 樿	zinr
 嘽	zinr
-展	zinr
+展	zinr	10%
 㠭	zinr
 搌	zinr
 㜊	zinr
@@ -33256,7 +33256,7 @@ Sir	soex
 檝	zip
 艥	zip
 浹	zip
-接	zip
+接	zip	10%
 菨	zip
 𣶏	zip
 椄	zip
@@ -33275,12 +33275,12 @@ Sir	soex
 懾	zip
 䎲	zip
 霅	zip
-折	zip
+折	zip	9%
 㡇	zip
 㭯	zip
 㢎	zip
 䐑	zip
-摺	zip
+摺	zip	8%
 輒	zip
 輙	zip
 銸	zip
@@ -33316,14 +33316,14 @@ Sir	soex
 衹	zir
 祗	zir
 夂	zir
-止	zir
-只	zir
+止	zir	8%
+只	zir	9%
 㕄	zir
 㫑	zir
 劧	zir
-旨	zir
+旨	zir	4%
 阯	zir
-址	zir
+址	zir	5%
 坁	zir
 扺	zir
 芷	zir
@@ -33337,7 +33337,7 @@ Sir	soex
 㡶	zir
 𣲵	zir
 祉	zir
-指	zir
+指	zir	10%
 枳	zir
 砋	zir
 洔	zir
@@ -33346,7 +33346,7 @@ Sir	soex
 䇛	zir
 疻	zir
 淽	zir
-紙	zir
+紙	zir	7%
 趾	zir
 訨	zir
 軹	zir
@@ -33364,7 +33364,7 @@ Sir	soex
 畤	zir
 訿	zir
 䰵	zir
-子	zir
+子	zir	6%
 𠂔	zir
 䦻	zir
 吇	zir
@@ -33459,13 +33459,13 @@ Sir	soex
 啑	zith
 梜	zith
 疌	zith
-捷	zith
+捷	zith	10%
 掶	zith
 崨	zith
 㨗	zith
 㨩	zith
 睫	zith
-截	zith
+截	zith	9%
 蓵	zith
 踕	zith
 誱	zith
@@ -33506,35 +33506,35 @@ Sir	soex
 炤	ziu
 詔	ziu
 㷖	ziu
-照	ziu
+照	ziu	10%
 曌	ziu
 燳	ziu
 瞾	ziu
 灂	ziu
 摷	ziuh
-噍	ziuh
+噍	ziuh	8%
 皭	ziuh
 嚼	ziuh
 𧵓	ziuh
 譙	ziuh
 誚	ziuh
-召	ziuh
+召	ziuh	9%
 垗	ziuh
 狣	ziuh
 㡽	ziuh
 肁	ziuh
 詔	ziuh
-趙	ziuh
+趙	ziuh	10%
 鮡	ziuh
 㐒	ziuh
 𡁻	ziuh
-朝	ziuj
+朝	ziuj	8%
 鼂	ziuj
 茮	ziuj
-椒	ziuj
+椒	ziuj	7%
 焦	ziuj
 僬	ziuj
-蕉	ziuj
+蕉	ziuj	9%
 㲬	ziuj
 膲	ziuj
 燋	ziuj
@@ -33547,7 +33547,7 @@ Sir	soex
 鷦	ziuj
 噍	ziuj
 嫶	ziuj
-招	ziuj
+招	ziuj	10%
 妱	ziuj
 昭	ziuj
 釗	ziuj
@@ -33582,7 +33582,7 @@ Sir	soex
 謯	zo
 佐	zo
 袏	zo
-脧	zoej
+脧	zoej	10%
 啫	zoej
 朘	zoej
 㹱	zoek
@@ -33610,7 +33610,7 @@ Sir	soex
 芍	zoek
 妁	zoek
 棹	zoek
-着	zoek
+着	zoek	10%
 著	zoek
 桌	zoek
 倬	zoek
@@ -33653,19 +33653,19 @@ Sir	soex
 皭	zoekh
 嚼	zoekh
 爝	zoekh
-着	zoekh
+着	zoekh	10%
 著	zoekh
 鐯	zoekh
 𤏲	zoekh
-雀	zoekr
+雀	zoekr	10%
 悵	zoeng
-將	zoeng
+將	zoeng	10%
 弶	zoeng
 醤	zoeng
 醬	zoeng
-張	zoeng
-漲	zoeng
-仗	zoeng
+張	zoeng	7%
+漲	zoeng	9%
+仗	zoeng	8%
 帳	zoeng
 脹	zoeng
 痮	zoeng
@@ -33684,7 +33684,7 @@ Sir	soex
 匠	zoengh
 䞪	zoengh
 象	zoengh
-像	zoengh
+像	zoengh	10%
 勨	zoengh
 嶑	zoengh
 橡	zoengh
@@ -33699,7 +33699,7 @@ Sir	soex
 杖	zoengh
 㽴	zoengh
 粀	zoengh
-將	zoengj
+將	zoengj	10%
 摪	zoengj
 漿	zoengj
 螿	zoengj
@@ -33710,8 +33710,8 @@ Sir	soex
 糨	zoengj
 𥪮	zoengj
 𥕞	zoengj
-章	zoengj
-張	zoengj
+章	zoengj	8%
+張	zoengj	9%
 傽	zoengj
 鄣	zoengj
 蔁	zoengj
@@ -33736,39 +33736,39 @@ Sir	soex
 墇	zoengj
 㯑	zoengj
 𪋟	zoengj
-長	zoengr
+長	zoengr	7%
 𣛟	zoengr
 鐣	zoengr
 奨	zoengr
-蔣	zoengr
+蔣	zoengr	8%
 㢡	zoengr
 奬	zoengr
 㯍	zoengr
 槳	zoengr
-獎	zoengr
+獎	zoengr	10%
 膙	zoengr
 䉃	zoengr
 䒂	zoengr
 仉	zoengr
 涱	zoengr
-掌	zoengr
+掌	zoengr	9%
 漲	zoengr
 幥	zoengr
 鞝	zoengr
 礃	zoengr
 𠻘	zoeth
 𠻘	zoetr
-助	zoh
+助	zoh	10%
 莇	zoh
 䝒	zoh
 坐	zoh
 㘴	zoh
 侳	zoh
 唑	zoh
-座	zoh
+座	zoh	9%
 蓙	zoh
-載	zoi
-再	zoi
+載	zoi	9%
+再	zoi	10%
 洅	zoi
 𨚵	zoi
 𩛥	zoi
@@ -33777,7 +33777,7 @@ Sir	soex
 䵧	zoi
 載	zoih
 扗	zoih
-在	zoih
+在	zoih	10%
 酨	zoih
 𡿧	zoij
 𢦏	zoij
@@ -33812,7 +33812,7 @@ Sir	soex
 䞢	zok
 筰	zok
 㑅	zok
-作	zok
+作	zok	10%
 岝	zok
 㤰	zok
 飵	zok
@@ -33877,10 +33877,10 @@ Sir	soex
 臓	zongh
 臟	zongh
 壯	zongh
-狀	zongh
-撞	zongh
+狀	zongh	9%
+撞	zongh	10%
 𡘾	zongh
-𥊙	zongj
+𥊙	zongj	10%
 匨	zongj
 藏	zongj
 𥅾	zongj
@@ -33900,7 +33900,7 @@ Sir	soex
 奘	zongj
 庄	zongj
 庒	zongj
-妝	zongj
+妝	zongj	8%
 㽵	zongj
 荘	zongj
 莊	zongj
@@ -33908,7 +33908,7 @@ Sir	soex
 梉	zongj
 粧	zongj
 䊋	zongj
-裝	zongj
+裝	zongj	9%
 樁	zongj
 糚	zongj
 壯	zongj
@@ -33919,17 +33919,17 @@ Sir	soex
 撞	zongr
 𣳇	zor
 柤	zor
-阻	zor
+阻	zor	9%
 俎	zor
 爼	zor
 唨	zor
 詛	zor
 𠂇	zor
-左	zor
+左	zor	8%
 佐	zor
 㝾	zor
 座	zor
-咗	zor
+咗	zor	10%
 灶	zou
 竈	zou
 𨘥	zouh
@@ -33937,7 +33937,7 @@ Sir	soex
 皁	zouh
 唕	zouh
 唣	zouh
-造	zouh
+造	zouh	9%
 梍	zouh
 艁	zouh
 慥	zouh
@@ -33946,7 +33946,7 @@ Sir	soex
 阼	zouh
 胙	zouh
 祚	zouh
-做	zouh
+做	zouh	10%
 葄	zouh
 䔘	zouh
 𡠻	zouh
@@ -33961,10 +33961,10 @@ Sir	soex
 醩	zouj
 蹧	zouj
 䜊	zouj
-租	zouj
+租	zouj	10%
 蒩	zouj
 駔	zour
-早	zour
+早	zour	10%
 栆	zour
 蚤	zour
 䖣	zour
@@ -33980,7 +33980,7 @@ Sir	soex
 蒩	zour
 珇	zour
 祖	zour
-組	zour
+組	zour	9%
 䔃	zour
 䖕	zour
 靻	zour
@@ -33999,13 +33999,13 @@ Sir	soex
 𦼯	zukh
 続	zukh
 藚	zukh
-續	zukh
+續	zukh	10%
 柚	zukh
 妯	zukh
 㛩	zukh
 軸	zukh
 碡	zukh
-逐	zukh
+逐	zukh	8%
 舳	zukh
 蓫	zukh
 瘃	zukh
@@ -34021,7 +34021,7 @@ Sir	soex
 濁	zukh
 鐲	zukh
 㞺	zukh
-族	zukh
+族	zukh	9%
 㵀	zukh
 鏃	zukh
 拀	zukj
@@ -34046,8 +34046,8 @@ Sir	soex
 鸀	zukj
 鬻	zukj
 喌	zukj
-粥	zukj
-竹	zukj
+粥	zukj	7%
+竹	zukj	6%
 竺	zukj
 茿	zukj
 笁	zukj
@@ -34069,11 +34069,11 @@ Sir	soex
 囑	zukj
 矚	zukj
 柷	zukj
-祝	zukj
+祝	zukj	9%
 筑	zukj
 築	zukj
 篫	zukj
-捉	zukj
+捉	zukj	10%
 穛	zukj
 穱	zukj
 浞	zukj
@@ -34082,7 +34082,7 @@ Sir	soex
 䕴	zukj
 鐲	zukj
 鷟	zukj
-足	zukj
+足	zukj	8%
 哫	zukj
 踿	zukj
 鏃	zukj
@@ -34091,7 +34091,7 @@ Sir	soex
 糭	zung
 穜	zung
 𠂝	zung
-中	zung
+中	zung	10%
 种	zung
 種	zung
 妕	zung
@@ -34099,7 +34099,7 @@ Sir	soex
 眾	zung
 偅	zung
 堹	zung
-衆	zung
+衆	zung	9%
 諥	zung
 綜	zung
 傯	zung
@@ -34120,11 +34120,11 @@ Sir	soex
 䛦	zungh
 誦	zungh
 尰	zungh
-仲	zungh
+仲	zungh	10%
 狆	zungh
 祌	zungh
 茽	zungh
-重	zungh
+重	zungh	9%
 衶	zungh
 蚛	zungh
 筗	zungh
@@ -34134,7 +34134,7 @@ Sir	soex
 㣡	zungh
 𨨩	zungj
 㫪	zungj
-舂	zungj
+舂	zungj	5%
 摏	zungj
 憃	zungj
 憧	zungj
@@ -34152,24 +34152,24 @@ Sir	soex
 忪	zungj
 銿	zungj
 夂	zungj
-中	zungj
+中	zungj	10%
 伀	zungj
 汷	zungj
 𦬕	zungj
 彸	zungj
 妐	zungj
 刣	zungj
-忠	zungj
+忠	zungj	4%
 㹣	zungj
 炂	zungj
 泈	zungj
 柊	zungj
-盅	zungj
+盅	zungj	7%
 衳	zungj
 䇗	zungj
 舯	zungj
 衷	zungj
-終	zungj
+終	zungj	6%
 鈡	zungj
 䘴	zungj
 䙂	zungj
@@ -34179,7 +34179,7 @@ Sir	soex
 鴤	zungj
 螤	zungj
 䈺	zungj
-鍾	zungj
+鍾	zungj	9%
 螽	zungj
 鼨	zungj
 蹱	zungj
@@ -34189,7 +34189,7 @@ Sir	soex
 籦	zungj
 狆	zungj
 眾	zungj
-宗	zungj
+宗	zungj	8%
 㚇	zungj
 倧	zungj
 㨑	zungj
@@ -34226,7 +34226,7 @@ Sir	soex
 騌	zungj
 䡮	zungj
 豵	zungj
-蹤	zungj
+蹤	zungj	3%
 鬉	zungj
 騣	zungj
 鬷	zungj
@@ -34253,11 +34253,11 @@ Sir	soex
 糭	zungr
 愡	zungr
 穜	zungr
-种	zungr
+种	zungr	10%
 尰	zungr
 㣫	zungr
 歱	zungr
-腫	zungr
+腫	zungr	8%
 煄	zungr
 種	zungr
 瘇	zungr
@@ -34276,7 +34276,7 @@ Sir	soex
 縂	zungr
 燪	zungr
 䙕	zungr
-總	zungr
+總	zungr	9%
 䰌	zungr
 粽	zungr
 糉	zungr
@@ -34291,7 +34291,7 @@ Sir	soex
 注	zv
 壴	zv
 殶	zv
-炷	zv
+炷	zv	9%
 疰	zv
 祩	zv
 著	zv
@@ -34301,14 +34301,14 @@ Sir	soex
 䎷	zv
 軴	zv
 䝬	zv
-註	zv
+註	zv	10%
 馵	zv
 鉒	zv
 墸	zv
 翥	zv
 箸	zv
 䪒	zv
-駐	zv
+駐	zv	8%
 鋳	zv
 㫂	zv
 霔	zv
@@ -34322,7 +34322,7 @@ Sir	soex
 乼	zv
 㗟	zv
 除	zvh
-住	zvh
+住	zvh	10%
 筯	zvh
 箸	zvh
 㾻	zvh
@@ -34330,13 +34330,13 @@ Sir	soex
 朝	zvj
 趎	zvj
 姝	zvj
-朱	zvj
+朱	zvj	10%
 邾	zvj
 侏	zvj
 㧣	zvj
 茱	zvj
 洙	zvj
-珠	zvj
+珠	zvj	8%
 株	zvj
 㦵	zvj
 硃	zvj
@@ -34353,7 +34353,7 @@ Sir	soex
 蝫	zvj
 銖	zvj
 䡤	zvj
-豬	zvj
+豬	zvj	9%
 諸	zvj
 駯	zvj
 鴸	zvj
@@ -34372,7 +34372,7 @@ Sir	soex
 傳	zvn
 鉆	zvn
 縳	zvn
-轉	zvn
+轉	zvn	10%
 囀	zvn
 㸇	zvn
 鑚	zvn
@@ -34401,7 +34401,7 @@ Sir	soex
 攢	zvnj
 叀	zvnj
 専	zvnj
-專	zvnj
+專	zvnj	10%
 剸	zvnj
 鄟	zvnj
 塼	zvnj
@@ -34427,7 +34427,7 @@ Sir	soex
 遵	zvnj
 鱒	zvnj
 𥖁	zvnj
-傳	zvnr
+傳	zvnr	10%
 𥴠	zvnr
 臇	zvnr
 湍	zvnr
@@ -34439,7 +34439,7 @@ Sir	soex
 竱	zvnr
 䡱	zvnr
 篹	zvnr
-轉	zvnr
+轉	zvnr	9%
 囀	zvnr
 繤	zvnr
 纂	zvnr
@@ -34458,7 +34458,7 @@ Sir	soex
 枓	zvr
 劯	zvr
 𪐴	zvr
-主	zvr
+主	zvr	9%
 拄	zvr
 𠰍	zvr
 宔	zvr
@@ -34467,7 +34467,7 @@ Sir	soex
 䍆	zvr
 渚	zvr
 煑	zvr
-煮	zvr
+煮	zvr	10%
 㵭	zvr
 濐	zvr
 麈	zvr
@@ -34480,7 +34480,7 @@ Sir	soex
 絀	zvt
 琡	zvt
 黜	zvt
-啜	zvt
+啜	zvt	10%
 涰	zvt
 惙	zvt
 輟	zvt
@@ -34535,7 +34535,7 @@ Sir	soex
 㯜	zvth
 撅	zvth
 絶	zvth
-絕	zvth
+絕	zvth	10%
 㔃	zvth
 乴	zvth
 㿱	zvth
@@ -34549,7 +34549,7 @@ Sir	soex
 䚝	zvth
 枠	zvth
 捽	zvth
-啜	zvtj
+啜	zvtj	10%
 絕	zvtr
 月	yvtr
 紅	hungr
@@ -34559,20 +34559,20 @@ Sir	soex
 樣	yoengj
 off	okj
 喳	zaah
-喳	zaax
+喳	zaax	10%
 鳳	fungr
 𡃓	boh
 行	hongr
-讕	laanr
+讕	laanr	10%
 煨	wuj
 叟	sau
-胡	wur
+胡	wur	9%
 吠	fai
-局	gukr
-架	gaar
+局	gukr	10%
+架	gaar	8%
 擢	cok
 聽	teng
-啱	aamj
+啱	aamj	10%
 壞	waair
 祟	svr
 彭	paangr
@@ -34582,72 +34582,72 @@ check	cekj
 out	auj
 夾	gipr
 帖	tipr
-葉	yipr
+葉	yipr	10%
 嘣	baangj
 年	ninr
 band	benj
-船	svnr
+船	svnr	9%
 feel	fiuj
 造	zou
 㷫	hingr
 踲	tanx
 豚	tanx
-嘔	ngaur
+嘔	ngaur	10%
 搓	caaij
 包	baauh
-嚟	lair
+嚟	lair	10%
 毆	ngau
-常	soengr
+常	soengr	7%
 屙	ngoj
 餓	oh
 而	yij
 地	dih
 擬	yih
-哦	oj
-帶	daair
-裂	lit
+哦	oj	10%
+帶	daair	9%
+裂	lit	10%
 着	zoekr
 枚	muir
-唏	heir
+唏	heir	9%
 呅	man
-嘎	gaax
+嘎	gaax	10%
 卜	bukr
-卜	bukh
-牌	paair
-糊	wur
+卜	bukh	9%
+牌	paair	10%
+糊	wur	10%
 下	haar
 霎	saaph
 盧	lour
 母	mour
 褂	gwaar
 岔	caar
-舌	sith
+舌	sith	10%
 插	caapr
 矮	ngair
 喇	laar
-由	yaur
+由	yaur	10%
 械	haaiq
 處	svr
 樣	yoengj
 壓	ngaat
 鑿	zokr
 目	mukr
-零	lengx
+零	lengx	10%
 個	gor
 狀	zongr
 庵	ngamj
 腰	iuj
-嗨	haaiq
+嗨	haaiq	10%
 啄	doekj
 𠾍	hex
-懟	deoir
+懟	deoir	7%
 安	ngonj
 鶯	ngangj
-對	deoir
+對	deoir	8%
 丫	ngaaj
-嘅	gej
+嘅	gej	10%
 嗨	haair
-唏	heix
+唏	heix	10%
 外	ngoir
 利	leir
 貍	leir
@@ -34655,49 +34655,49 @@ feel	fiuj
 里	leir
 扠	caa
 哥	gox
-吐	tvj
+吐	tvj	10%
 弟	dair
 堂	tongr
 二	yir
-翻	faanr
+翻	faanr	8%
 驗	yimr
 嚨	lungr
 日	zatr
-侄	zatr
+侄	zatr	10%
 狀	zongr
 棚	paangq
 棋	keir
 罌	ngaangj
 正	zengr
 河	hor
-撩	liur
+撩	liur	10%
 鉗	kimr
 領	lengr
 零	lengr
-挑	tiur
-𠾍	heiq
+挑	tiur	10%
+𠾍	heiq	9%
 纊	kwang
-生	sengj
-囉	lox
+生	sengj	9%
+囉	lox	10%
 揞	ngamr
 兮	haaiq
 媾	kauj
-嘻	hir
+嘻	hir	10%
 嘻	heir
 黅	kamx
 梁	loengr
-橋	kiur
+橋	kiur	8%
 透	taur
-排	paair
-撻	daat
+排	paair	9%
+撻	daat	10%
 躂	daat
-王	wongr
+王	wongr	10%
 黃	wongr
-人	yanj
+人	yanj	10%
 哋	dih
 嗲	dej
 弟	dir
-呢	ner
+呢	ner	10%
 唓	cer
 按	ngon
 押	ngaat
@@ -177920,3 +177920,5 @@ File	faaij lour
 奢華	cej waax
 嚦咕嚦咕	likj guj likj guh
 自來雀	zih loix zoekr
+古尼	gur neix
+佐治	zo zih
