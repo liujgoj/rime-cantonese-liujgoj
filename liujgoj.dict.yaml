@@ -74,7 +74,6 @@ import_tables:
 𥮳	aa
 𦩒	aa
 㢌	aa
-啊	aa	10%
 啊	ah	10%
 啊	aah	10%
 伌	aai
@@ -4367,7 +4366,6 @@ import_tables:
 𡟟	cungj
 𤧚	cungj
 聡	cungj
-葱	cungj
 蓯	cungj
 䢨	cungj
 漗	cungj
@@ -12638,7 +12636,6 @@ import_tables:
 䉺	hongr	10%
 慷	hongr
 䡉	hongr
-慷	hongr
 䐟	hongr
 䁰	hongr
 𣚺	hongr
@@ -14188,7 +14185,6 @@ call	koj
 䯑	kongj
 慷	kongr
 㢜	kongr
-慷	kongr
 儣	kongr
 抂	kongx
 狂	kongx
@@ -15108,7 +15104,6 @@ call	koj
 蠡	laix
 廲	laix
 䄵	laix
-啦	laaj	10%
 𥵚	lakh
 㔹	lakh
 仂	lakh
@@ -28328,7 +28323,6 @@ Sir	soex
 䬥	yi
 亄	yi
 䵝	yi
-意	yi	10%
 㱲	yi
 嫕	yi
 撎	yi
@@ -28859,10 +28853,6 @@ Sir	soex
 㖜	yingj
 𡢞	yingj
 𪃳	yingj
-呎	cek	9%
-吋	cvn
-啢	loengr
-𠺖	mauq
 郢	yingq
 矨	yingq
 㹵	yingq
@@ -34605,12 +34595,10 @@ feel	fiuj
 擬	yih
 哦	oj	10%
 帶	daair	9%
-裂	lit	10%
 着	zoekr
 枚	muir
 唏	heir	9%
 呅	man
-嘎	gaax	10%
 卜	bukr
 卜	bukh	9%
 牌	paair	10%
@@ -34621,14 +34609,12 @@ feel	fiuj
 母	mour
 褂	gwaar
 岔	caar
-舌	sith	10%
 插	caapr
 矮	ngair
 喇	laar
 由	yaur	10%
 械	haaiq
 處	svr
-樣	yoengj
 壓	ngaat
 鑿	zokr
 目	mukr
@@ -34654,7 +34640,6 @@ feel	fiuj
 梨	leir
 里	leir
 扠	caa
-哥	gox
 吐	tvj	10%
 弟	dair
 堂	tongr
@@ -34664,7 +34649,6 @@ feel	fiuj
 嚨	lungr
 日	zatr
 侄	zatr	10%
-狀	zongr
 棚	paangq
 棋	keir
 罌	ngaangj
@@ -35492,7 +35476,6 @@ feel	fiuj
 押柜	aat gwair
 壓克力	aat hakj likh
 胺馠馠	aat hamj hamj
-押後	aat hauh
 壓氣	aat hei
 押號	aat houh
 阿婷	aa tingx
@@ -35769,13 +35752,9 @@ feel	fiuj
 翳熱	ai yith
 翳滯	ai zaih
 齷齪	akj cukj
-扼殺	akj saat
-扼守	akj saur
 渥太華	akj taai waax
-扼腕	akj wunr
 呃逆	akj yikh
 啞然失笑	akj yinx satj siu
-扼要	akj yiu
 齷濁	akj zukh
 暗啞	am aar
 暗啞底	am aar dair
@@ -36370,7 +36349,6 @@ feel	fiuj
 巴黎聖母院	baaj laix sing mouq yvnr
 巴黎鐵塔	baaj laix tit taap
 巴勒莫	baaj lakh mokh
-巴勒斯坦	baaj lakh sij taanr
 巴勒斯坦解放組織	baaj lakh sij taanr gaair fong zour zikj
 巴勒斯坦民族權力機構	baaj lakh sij taanr manx zukh kvnx likh geij kau
 巴林	baaj lamx
@@ -36855,7 +36833,6 @@ feel	fiuj
 白蘭花	baakh laanx faaj
 白蘭	baakh laanx
 白蘭地	baakh laanx deih
-白蘭花	baakh laanx faaj
 白蘭瓜	baakh laanx gwaaj
 白臘	baakh laaph
 白蠟	baakh laaph
@@ -38585,7 +38562,6 @@ feel	fiuj
 嬪妃	ban feij
 繃巴吊拷	bangj baaj diu haauj
 繃扒吊拷	bangj baat diu haauj
-蹦蹦跳跳	bangj bangj tiu tiu
 蹦蹦兒車	bangj bangj yix cej
 崩摧	bangj ceoij
 蹦出來	bangj ceotj loix
@@ -38596,7 +38572,6 @@ feel	fiuj
 蹦達	bangj daath
 蹦迪	bangj dikh
 崩倒	bangj dour
-繃緊	bangj ganr
 蹦極	bangj gikh
 蹦高	bangj gouj
 蹦高兒	bangj gouj yix
@@ -40706,7 +40681,6 @@ feel	fiuj
 逼巴士	bikj baaj sih
 逼巴士	bikj baaj sir
 逼爆	bikj baau
-迫不得已	bikj batj dakj yiq
 迫不及待	bikj batj kaph doih
 碧波	bikj boj
 壁報	bikj bou
@@ -40714,7 +40688,6 @@ feel	fiuj
 迫車	bikj cej
 壁櫥	bikj ceoix
 逼遷	bikj cinj
-迫切	bikj cit
 迫切性	bikj cit sing
 逼肖	bikj ciu
 碧池	bikj cix
@@ -40735,7 +40708,6 @@ feel	fiuj
 壁架	bikj gaar
 逼近	bikj ganh
 碧根鮑華	bikj ganj baauj waax
-迫擊炮	bikj gikj paau
 逼狹	bikj giph
 迫降	bikj gong
 逼供	bikj gungj
@@ -40807,8 +40779,6 @@ feel	fiuj
 壁紙	bikj zir
 逼將	bikj zoengj
 壁助	bikj zoh
-迫在眉睫	bikj zoih meix zit
-迫在眉睫	bikj zoih meix zith
 逼住	bikj zvh
 變壓	bin aat
 變壓器	bin aat hei
@@ -41001,7 +40971,6 @@ feel	fiuj
 冰皮	bingj peir
 冰皮月餅	bingj peix yvth bengr
 冰片	bingj pin
-冰片糖	bingj pin tongx
 冰沙	bingj saaj
 冰山	bingj saanj
 冰山一角	bingj saanj yatj gok
@@ -41656,8 +41625,6 @@ feel	fiuj
 標號	biuj houh
 標楷	biuj kaair
 標楷體	biuj kaair tair
-標奇立異	biuj keix laaph yih
-標奇立異	biuj keix laph yih
 標繪	biuj kuir
 飆冷汗	biuj laangq honh
 錶鏈	biuj linr
@@ -43052,7 +43019,6 @@ BB仔	bix bij zair
 褓姆車	bour mouq cej
 褓姆	bour mouq
 鴇母	bour mouq
-褓姆車	bour mouq cej
 保母	bour mour
 保媒	bour muix
 補滿	bour munq
@@ -43078,7 +43044,6 @@ BB仔	bix bij zair
 寶安中心站	bour onj zungj samj zaamh
 寶瓶	bour pingx
 保平安	bour pingx onj
-寶瓶座	bour pingx zoh
 補偏救弊	bour pinj gau baih
 補票	bour piu
 補票處	bour piu cv
@@ -43508,7 +43473,6 @@ BB仔	bix bij zair
 僕歐	bukh auj
 瀑布	bukh bou
 卜卜跳	bukh bukh tiu
-卜卜跳	bukh bukr tiu
 僕從	bukh cungx
 伏低	bukh daij
 曝光	bukh gwongj
@@ -43621,7 +43585,6 @@ BB仔	bix bij zair
 叛黨	bunh dongr
 胖嘟嘟	bunh dvtj dvtj
 絆倒	bunh dour
-胖嘟嘟	bunh dvtj dvtj
 拌飯	bunh faanh
 叛匪	bunh feir
 胖乎乎	bunh fuj fuj
@@ -43937,7 +43900,6 @@ BB仔	bix bij zair
 半條人命	bun tiux yanx mengh
 半托	bun tok
 半堂	bun tongx
-半唐番	bun tongx faanj
 半糖夫妻	bun tongx fuj caij
 半途	bun toux
 半途出家	bun toux ceotj gaaj
@@ -45468,7 +45430,6 @@ BB仔	bix bij zair
 侵侵	camj camj
 參差	camj cij
 參差不齊	camj cij batj caix
-參賽	caamj coi
 侵奪	camj dvth
 侵犯	camj faanh
 侵犯版權	camj faanh baanr kvnx
@@ -45484,7 +45445,6 @@ BB仔	bix bij zair
 侵略戰爭	camj loekh zin zangj
 摻埋你玩	camj maaix neiq waanr
 摻埋玩	camj maaix waanr
-參謀	caamj maux
 侵晨	camj sanx
 浸水	camj seoir
 侵蝕	camj sikh
@@ -49442,7 +49402,6 @@ BB仔	bix bij zair
 纏絡	cinx lok
 前浪	cinx longh
 前廊	cinx longx
-前浪	cinx longh
 前路	cinx louh
 前晚	cinx maanj
 前晚	cinx maanq
@@ -52014,7 +51973,6 @@ BB仔	bix bij zair
 牀技	congx geih
 藏鏡人	congx geng yanx
 藏經洞	congx gingj dungh
-牀下底	congx haah dair
 牀下底吹喇叭	congx haah dair ceoij laa baaj
 牀下底破柴	congx haah dair po caaix
 牀下底破柴：撞板	congx haah dair po caaix zongh baanr
@@ -52055,8 +52013,6 @@ BB仔	bix bij zair
 牀友	congx yaur
 藏掖	congx yikh
 牀簷	congx yimx
-牀褥	congx yukh
-牀褥	congx yukr
 牀沿	congx yvnx
 牀仔	congx zair
 牀側	congx zakj
@@ -52540,7 +52496,6 @@ BB仔	bix bij zair
 挫折	co zit
 挫折感	co zit gamr
 錯咗	co zor
-錯綜複雜	co zungj fukj zaaph
 觸壓	cukj aat
 束縛	cukj bok
 畜產	cukj caanr
@@ -52698,7 +52653,6 @@ BB仔	bix bij zair
 充大班	cungj daaih baanj
 充大頭鬼	cungj daaih taux gwair
 充大檯	cungj daaih toir
-充大頭鬼	cungj daaih taux gwair
 衝打	cungj daar
 充抵	cungj dair
 衝燈	cungj dangj
@@ -52708,7 +52662,6 @@ BB仔	bix bij zair
 充電器	cungj dinh hei
 沖掉	cungj diuh
 充當	cungj dongj
-葱度	cungj dour
 葱度	cungj dour
 衝動	cungj dungh
 衝斷層	cungj dvnh cangx
@@ -54103,7 +54056,6 @@ BB仔	bix bij zair
 猝然	cvt yinx
 撮要	cvt yiu
 茁壯	cvt zong
-櫥窗	cvx coengj
 廚房	cvx fongr
 廚房階磚	cvx fongr gaaij zvnj
 廚房佬	cvx fongr lour
@@ -54111,7 +54063,6 @@ BB仔	bix bij zair
 廚工	cvx gungj
 廚柜	cvx gwaih
 廚藝	cvx ngaih
-廚師	cvx sij
 廚師腸	cvx sij coengr
 廚師長	cvx sij zoengr
 廚衞	cvx waih
@@ -54341,7 +54292,6 @@ BB仔	bix bij zair
 大大力	daaih daaih likh
 大大聲	daaih daaih sengj
 大大小小	daaih daaih siur siur
-大大話話	daaih daaih waah waah
 大啖大啖	daaih daamh daaih daamh
 大啖一番	daaih daamh yatj faanj
 大膽	daaih daamr
@@ -54502,12 +54452,10 @@ BB仔	bix bij zair
 大家	daaih gaaj
 大家都噉話	daaih gaaj douj gamr waah
 大家噉話	daaih gaaj gamr waah
-大家閨秀	daaih gaaj gwaij sau
 大家好	daaih gaaj hour
 大家好做	daaih gaaj hour zouh
 大家樂	daaih gaaj lokh
 大加那利島	daaih gaaj naaq leih dour
-大家心照	daaih gaaj samj ziu
 大家庭	daaih gaaj tingx
 大家姐	daaih gaaj zej
 大革命	daaih gaak mingh
@@ -54530,7 +54478,6 @@ BB仔	bix bij zair
 大根蘭	daaih ganj laanx
 大吉	daaih gatj
 大吉大利	daaih gatj daaih leih
-大吉利市	daaih gatj leih sih
 大吉利市講句	daaih gatj leih sih gongr geoi
 大吉嶺	daaih gatj lingq
 大嚿	daaih gauh
@@ -54542,15 +54489,12 @@ BB仔	bix bij zair
 大紀元時報	daaih geir yvnx six bou
 大驚	daaih gengj
 大驚失色	daaih gengj satj sikj
-大驚小怪	daaih gengj siur gwaai
-大頸泡	daaih gengr paauj
 大擧	daaih geoir
 大擧進攻	daaih geoir zeon gungj
 大戟	daaih gikj
 大戟科	daaih gikj foj
 大建	daaih gin
 大驚失色	daaih gingj satj sikj
-大驚小怪	daaih gingj siur gwaai
 大件	daaih ginh
 大件抵食	daaih ginh dair sikh
 大鍵琴	daaih ginh kamx
@@ -54561,7 +54505,6 @@ BB仔	bix bij zair
 大腳	daaih goek
 大腳八	daaih goek baat
 大腳清	daaih goek cingj
-大腳解圍	daaih goek gaair waix
 大腳勾銷	daaih goek ngauj siuj
 大腳色	daaih goek sikj
 大腳友	daaih goek yaur
@@ -54635,7 +54578,6 @@ BB仔	bix bij zair
 大限臨頭	daaih haanh lamx taux
 大俠	daaih haaph
 大峽谷	daaih haaph gukj
-戴孝	daaih haau
 大考	daaih haaur
 大係	daaih haih
 大亨	daaih hangj
@@ -55002,7 +54944,6 @@ BB仔	bix bij zair
 大粒嘢	daaih napj yeq
 大女	daaih neoir
 大額	daaih ngaakr
-大雁	daaih ngaanh
 大雁	daaih ngaanh
 大雁塔	daaih ngaanh taap
 大眼瞪小眼	daaih ngaanq dangh siur ngaanq
@@ -55558,7 +55499,6 @@ BB仔	bix bij zair
 大酒店	daaih zaur dim
 大姐	daaih zej
 大姐大	daaih zej daaih
-大姐大	daaih zej daaih
 大姐仔	daaih zej zair
 大隻	daaih zek
 大隻啲	daaih zek dij
@@ -55624,7 +55564,6 @@ BB仔	bix bij zair
 大作	daaih zok
 大狀	daaih zongh
 大藏經	daaih zongh gingj
-大牀	daaih congx
 大咗	daaih zor
 大咗肚	daaih zor touq
 大灶	daaih zou
@@ -55670,7 +55609,6 @@ BB仔	bix bij zair
 大絕滅	daaih zvth mith
 帶給	daai kapj
 帶菌	daai kwanr
-大菌食細菌	daaih kwanr sikh sai kwanr
 帶菌者	daai kwanr zer
 帶領	daai lengq
 帶累	daai leoih
@@ -55682,7 +55620,6 @@ BB仔	bix bij zair
 帶囉	daai loj
 帶路	daai louh
 帶路人	daai louh yanx
-大路元帥	daaih louh yvnx seoi
 戴綠帽	daai lukh mouh
 戴綠帽	daai lukh mour
 戴綠帽子	daai lukh mour zir
@@ -55714,15 +55651,12 @@ BB仔	bix bij zair
 帶薪休假	daai sanj yauj gaa
 帶手信	daai saur seon
 戴四方帽	daai sei fongj mour
-大聲夾惡	daaih sengj gaap ok
 帶水	daai seoir
 帶水佬	daai seoir lour
-大信封	daaih seon fungj
 戴勝	daai sing
 戴上	daai soengh
 戴上	daai soengq
 帶梳蕉	daai soj ziuj
-大歎特歎	daaih taan dakh taan
 帶頭	daai taux
 戴頭盔	daai taux kwaij
 戴套	daai tou
@@ -55735,7 +55669,6 @@ BB仔	bix bij zair
 帶旺	daai wongh
 大皇	daaih wongx
 帶回	daai wuix
-大搖大擺	daaih yiux daaih baair
 帶入	daai yaph
 帶有	daai yauq
 戴有色眼鏡	daai yauq sikj ngaanq gengr
@@ -55746,11 +55679,7 @@ BB仔	bix bij zair
 戴月披星	daai yvth peij singj
 帶走	daai zaur
 帶遮	daai zej
-大隻講	daaih zek gongr
-大隻廣	daaih zek gwongr
-大隻𡚗𡚗	daaih zek leoix leoix
 戴罪立功	daai zeoih laaph gungj
-大展拳腳	daaih zinr kvnx goek
 帶子	daai zir
 帶狀皰疹	daai zongh paau canr
 帶咗	daai zor
@@ -56408,8 +56337,6 @@ BB仔	bix bij zair
 踏板車	daaph baanr cej
 疊崩	daaph bangj
 沓崩	daaph bangj
-搭膊	daap bok
-搭膊頭	daap bok taux
 踏步	daaph bouh
 踏步不前	daaph bouh batj cinx
 踏查	daaph caax
@@ -57622,7 +57549,6 @@ BB仔	bix bij zair
 抵抗	dair kong
 抵抗力	dair kong likh
 底夸克	dair kwaaj hakj
-底裙	dair kwanx
 抵賴	dair laaih
 抵冷	dair laangq
 抵冷貪瀟湘	dair laangq taamj siuj soengj
@@ -58993,9 +58919,6 @@ BB仔	bix bij zair
 地毯式	deih taanr sikj
 地毯式轟炸	deih taanr sikj gwangj zaa
 地攤	deih taanj
-地毯	deih taanr
-地毯式	deih taanr sikj
-地毯式轟炸	deih taanr sikj gwangj zaa
 地毯拖鞋	deih taanr toj haair
 地壇	deih taanx
 地頭	deih taux
@@ -59280,7 +59203,6 @@ BB仔	bix bij zair
 對口相聲	deoi haur soeng singj
 對口型	deoi haur yingx
 隊部	deoih bouh
-兌付	deoi fuh
 隊服	deoih fukh
 隊旗	deoih keix
 隊列	deoih lith
@@ -59412,7 +59334,6 @@ BB仔	bix bij zair
 對胃口	deoi waih haur
 對位	deoi wair
 兌匯	deoi wuih
-兌換	deoi wunh
 兌換率	deoi wunh leotr
 對人有嘢	deoi yanx yauq yeq
 對日	deoi yath
@@ -59422,7 +59343,6 @@ BB仔	bix bij zair
 對映體	deoi yingr tair
 對映異構	deoi yingr yih kau
 對映異構體	deoi yingr yih kau tair
-兌現	deoi yinh
 對於	deoi yvj
 對乙酰氨基酚	deoi yvt sinj onj geij fanj
 對則	deoi zakj
@@ -60193,7 +60113,6 @@ BB仔	bix bij zair
 頂牛兒	dingr ngaux yix
 頂我	dingr ngoq
 頂心杉	dingr samj caam
-頂心頂肺	dingr samj dingr fai
 鼎新	dingr sanj
 頂手	dingr saur
 頂手貨	dingr saur fo
@@ -60779,7 +60698,6 @@ BB仔	bix bij zair
 碘酒	dinr zaur
 典籍	dinr zikh
 典章	dinr zoengj
-墊支	dinh zij
 電子磅	dinh zir bongr
 電子消費券	dinh zir siuj fai gvn
 諜報	diph bou
@@ -62027,7 +61945,6 @@ BB仔	bix bij zair
 到步	dou bouh
 到埗	dou bouh
 到埠	dou bouh
-到埗	dou bouh
 到齊	dou caix
 到七彩	dou catj coir
 倒抽一口涼氣	dou cauj yatj haur loengx hei
@@ -63112,7 +63029,6 @@ BB仔	bix bij zair
 動向	dungh hoeng
 洞開	dungh hoij
 洞孔	dungh hungr
-戙企	dungh keiq
 戙企水魚	dungh keiq seoir yvr
 戙旗	dungh keix
 侗劇	dungh kekh
@@ -64373,8 +64289,6 @@ faakhfaakr聲	faakh faakr sengj
 飯館	faanh gunr
 飯館兒	faanh gunr yix
 飯盒	faanh hapr
-飯盒	faanh haph
-飯盒	faanh hapr
 飯後百步走，活到九十九	faanh hauh baak bouh zaur wuth dou gaur saph gaur
 飯後服用	faanh hauh fukh yungh
 飯後一支菸，賽過活神仙	faanh hauh yatj zij yinj coi gwo wuth sanx sinj
@@ -64660,8 +64574,6 @@ faakhfaakr聲	faakh faakr sengj
 販賣部	faan maaih bouh
 販賣機	faan maaih geij
 販賣人口	faan maaih yanx haur
-泛民	faanh manx
-泛民主派	faanh manx zvr paai
 反敗爲勝	faanr baaih waix sing
 反白	faanr baakh
 反比	faanr beir
@@ -65545,7 +65457,6 @@ faakhfaakr聲	faakh faakr sengj
 發圍	faat waix
 發運	faat wanh
 發瘟	faat wanj
-發瘟雞	faat wanj gaij
 發暈	faat wanx
 法王	faat wongx
 法會	faat wuir
@@ -66932,7 +66843,6 @@ faakhfaakr聲	faakh faakr sengj
 飛鴻雪爪	feij hungx svt zaaur
 飛禽	feij kamx
 飛擒大咬	feij kamx daaih ngaauq
-飛擒大咬	feij kamx daaih ngaauq
 飛禽走獸	feij kamx zaur sau
 非吸菸	feij kapj yinj
 非規整	feij kwaij zingr
@@ -67221,7 +67131,6 @@ faakhfaakr聲	faakh faakr sengj
 肥𥹉	feix naph
 肥膩	feix neih
 腓尼基	feix neix geij
-肥婆	feix pox
 肥婆肥佬	feix pox feix lour
 肥西	feix saij
 肥西縣	feix saij yvnh
@@ -68938,7 +68847,6 @@ faakhfaakr聲	faakh faakr sengj
 呼嚕	fuj louj
 呼嚕嚕	fuj louj louj
 俘虜	fuj louq
-骷髏骨	fuj laux gwatj
 骷髏頭	fuj laux taux
 呼瑪	fuj maaq
 呼瑪縣	fuj maaq yvnh
@@ -69767,7 +69675,6 @@ faakhfaakr聲	faakh faakr sengj
 豐南	fungj naamx
 豐南區	fungj naamx keoij
 風赧	fungj naan
-風赧	fungj naan
 封泥	fungj naix
 風能	fungj nangx
 風眼	fungj ngaanq
@@ -69950,7 +69857,6 @@ faakhfaakr聲	faakh faakr sengj
 豐澤區	fungj zaakh keoij
 豐鎮	fungj zan
 風箏	fungj zangj
-風疹	fungj canr
 豐鎮市	fungj zan siq
 蜂聚	fungj zeoih
 封嘴	fungj zeoir
@@ -71255,7 +71161,6 @@ faakhfaakr聲	faakh faakr sengj
 嘉黎縣	gaaj laix yvnh
 加勒比	gaaj lakh beir
 加勒比國家聯盟	gaaj lakh beir gwok gaaj lvnx mangx
-加勒比海	gaaj lakh beir hoir
 加利福尼亞	gaaj leih fukj neix aa
 加利福尼亞大學	gaaj leih fukj neix aa daaih hokh
 加利福尼亞大學洛杉磯分校	gaaj leih fukj neix aa daaih hokh lokh caam geij fanj haauh
@@ -71334,7 +71239,6 @@ faakhfaakr聲	faakh faakr sengj
 加拿大人	gaaj naax daaih yanx
 加拿大元	gaaj naax daaih yvnx
 加拿大最高法院	gaaj naax daaih zeoi gouj faat yvnr
-加納	gaaj naaph
 嘉年華	gaaj ninx waax
 嘉年華會	gaaj ninx waax wuir
 家娘	gaaj noengx
@@ -71751,7 +71655,6 @@ faakhfaakr聲	faakh faakr sengj
 隔絕	gaak zvth
 㗎喇噃	gaa laa bo
 㗎啦	gaa laaj
-㗎嘞	gaa laak
 㗎嘞咩	gaa laak mej
 㗎啦	gaa laax
 㗎啦噃	gaa laax bo
@@ -72268,7 +72171,6 @@ faakhfaakr聲	faakh faakr sengj
 夾尾巴	gaap meiq baaj
 革命	gaap mingh
 莢膜組織胞漿菌	gaap mokr zour zikj baauj zoengj kwanr
-夾衲	gaap naaph
 蛤乸	gaap naar
 蛤乸衣	gaap naar yij
 敆啱	gaap ngaamj
@@ -72593,7 +72495,6 @@ faakhfaakr聲	faakh faakr sengj
 交馳	gaauj cix
 交錯	gaauj co
 郊菜	gaauj coi
-交錯	gaauj co
 交帶	gaauj daai
 交大	gaauj daaih
 膠帶	gaauj daair
@@ -73386,7 +73287,6 @@ faakhfaakr聲	faakh faakr sengj
 計我話	gai ngoq waah
 計票	gai piu
 繼配	gai pui
-雞膆咁多	gaij seoi gam doj
 計數	gair sou
 計條數	gair tiux sou
 偈油	gair yaur
@@ -73490,7 +73390,6 @@ faakhfaakr聲	faakh faakr sengj
 咁多嘢	gam doj yeq
 禁賭	gam dour
 禁毒	gam dukh
-㗎咩	gaa mej
 咁快	gam faai
 咁快脆	gam faai ceoi
 禁伐	gam fath
@@ -74671,7 +74570,6 @@ faakhfaakr聲	faakh faakr sengj
 緊絀	ganr zvt
 敆錢	gap cinr
 敆錢送禮	gap cinr sung laiq
-夾帶私逃	gaap daai sij toux
 敆檔	gap dong
 敆份送禮	gap fanh sung laiq
 敆份	gap fanr
@@ -75515,10 +75413,6 @@ faakhfaakr聲	faakh faakr sengj
 夠鐘	gau zungj
 夠鐘數	gau zungj sou
 救主	gau zvr
-㗎喎	gaa wo
-㗎咋	gaa zaa
-㗎咋	gaa zaa
-㗎啫	gaa zej
 嘅歌	ge goj
 嘅係	ge haih
 記不住	gei batj zvh
@@ -79280,7 +79174,6 @@ faakhfaakr聲	faakh faakr sengj
 乾嚎	gonj houx
 乾骾	gonj kangr
 乾啃	gonj hangr
-乾骾骾	gonj kangr kangr
 肝吸蟲	gonj kapj cungx
 乾咳	gonj katj
 乾涸	gonj kok
@@ -79662,7 +79555,6 @@ faakhfaakr聲	faakh faakr sengj
 高度	gouj douh
 高度評價	gouj douh pingx gaa
 高度自治	gouj douh zih zih
-高戙戙	gouj dungh dungh
 高端	gouj dvnj
 高發	gouj faat
 高分子	gouj fanh zir
@@ -80223,7 +80115,6 @@ faakhfaakr聲	faakh faakr sengj
 孤老	guj louq
 姑姥姥	guj louq louq
 咕咾肉	guj louq yukh
-軲轆	guj lukj
 孤鸞年	guj lvnx ninx
 姑媽	guj maaj
 姑嫲	guj maax
@@ -80244,8 +80135,6 @@ faakhfaakr聲	faakh faakr sengj
 姑娘仔	guj noengx zair
 咕噥	guj nungx
 孤僻	guj pikj
-姑婆	guj por
-姑婆	guj pox
 姑婆屋	guj pox ukj
 沽盤	guj punr
 孤沙錐	guj saaj zeoij
@@ -82738,7 +82627,6 @@ faakhfaakr聲	faakh faakr sengj
 歸寧	gwaij ningx
 歸案	gwaij on
 硅片	gwaij pinr
-龜婆	gwaij por
 龜培	gwaij puix
 硅沙	gwaij saaj
 龜山	gwaij saanj
@@ -82923,8 +82811,6 @@ faakhfaakr聲	faakh faakr sengj
 鬼拍後尾枕	gwair paak hauh meiq zamr
 鬼怕惡人	gwair paa ok yanx
 鬼片	gwair pinr
-鬼婆	gwair por
-鬼婆	gwair pox
 鬼殺咁嘈	gwair saat gam coux
 鬼殺噉聲	gwair saat gamr sengj
 鬼神	gwair sanx
@@ -84336,7 +84222,6 @@ faakhfaakr聲	faakh faakr sengj
 廣東醫學院	gwongr dungj yij hokh yvnr
 廣東藥學院	gwongr dungj yoekh hokh yvnr
 廣泛	gwongr faanh
-廣泛	gwongr faanh
 廣泛性焦慮症	gwongr faanh sing ziuj leoih zing
 廣泛影響	gwongr faanh yingr hoengr
 廣分	gwongr fanj
@@ -84489,7 +84374,6 @@ faakhfaakr聲	faakh faakr sengj
 果糖	gwor tongx
 果陀	gwor tox
 果核	gwor wath
-果仁	gwor yanx
 果仁兒	gwor yanx yix
 果焰糕點	gwor yimh gouj dimr
 果蠅	gwor yingx
@@ -84529,7 +84413,6 @@ faakhfaakr聲	faakh faakr sengj
 過膝	gwo satj
 過失殺人	gwo satj saat yanx
 過失致死罪	gwo satj zi seir zeoih
-過手	gwo saur
 過手寶	gwo saur bour
 過水	gwo seoir
 過水濕腳	gwo seoir sapj goek
@@ -84860,7 +84743,6 @@ faakhfaakr聲	faakh faakr sengj
 夏威夷火山國家公園	haah waij yix for saanj gwok gaaj gungj yvnr
 夏威夷恤	haah waij yix seotj
 夏威夷州	haah waij yix zauj
-下滑	haah waath
 夏王朝	haah wongx ciux
 夏黃公	haah wongx gungj
 下回	haah wuix
@@ -85886,7 +85768,6 @@ faakhfaakr聲	faakh faakr sengj
 狎妓	haap geih
 呷乾醋	haap gonj cou
 峽谷	haaph gukj
-狹隘	haaph aai
 呷呷	haap haap
 匣槍	haaph coengj
 狹長	haaph coengx
@@ -85896,7 +85777,6 @@ faakhfaakr聲	faakh faakr sengj
 狹徑	haaph ging
 峽江	haaph gongj
 峽江縣	haaph gongj yvnh
-峽谷	haaph gukj
 俠客	haaph haak
 篋篋	haaph haaph
 俠氣	haaph hei
@@ -85904,7 +85784,6 @@ faakhfaakr聲	faakh faakr sengj
 狹路相逢	haaph louh soengj fungx
 狎弄	haaph lungh
 狎侮	haaph mouq
-狹隘	haaph ngaai
 狎昵	haaph nikj
 陜西	haaph saij
 狹小	haaph siur
@@ -85917,16 +85796,12 @@ faakhfaakr聲	faakh faakr sengj
 狹窄	haaph zaak
 篋笥	haaph zih
 匣子	haaph zir
-狹路相逢	haaph louh soengj fungx
 狹路相逢勇者勝	haaph louh soengj fungx yungq zer sing
 掐死	haap seir
-狹小	haaph siur
 掐算	haap svn
 掐斷	haap tvnq
 頰窩	haap woj
-狹義	haaph yih
 嗑藥	haap yoekh
-狹窄	haaph zaak
 掐着指頭	haap zoekh zir taux
 掐住	haap zvh
 下下	haaq haaq
@@ -85949,7 +85824,6 @@ faakhfaakr聲	faakh faakr sengj
 校巴站	haauh baaj zaamh
 校車	haauh cej
 校場	haauh coengx
-校草	haauh cour
 校地	haauh deih
 校董	haauh dungr
 校花	haauh faaj
@@ -86180,7 +86054,6 @@ faakhfaakr聲	faakh faakr sengj
 姣到出汁	haaux dou ceotj zapj
 姣氣	haaux hei
 姣味	haaux meih
-姣婆	haaux pox
 姣婆藍	haaux pox laamx
 姣婆守唔到寡	haaux pox saur mx dou gwaar
 姣婆守唔到寡	haaux pox saur mx dour gwaar
@@ -86261,7 +86134,6 @@ faakhfaakr聲	faakh faakr sengj
 係喇	haih laa
 係啦	haih laaj
 係嘞	haih laak
-係啦	haih laax
 系列	haih lith
 系列放大器	haih lith fong daaih hei
 系列片	haih lith pinr
@@ -87048,7 +86920,6 @@ faakhfaakr聲	faakh faakr sengj
 幸運兒	hangh wanh yix
 杏黃	hangh wongx
 幸會	hangh wuih
-杏仁	hangh yanx
 杏仁餅	hangh yanx bengr
 杏仁茶	hangh yanx caax
 杏仁豆腐	hangh yanx dauh fuh
@@ -87100,7 +86971,6 @@ faakhfaakr聲	faakh faakr sengj
 肯尼迪	hangr neix dikh
 肯尼迪角	hangr neix dikh gok
 肯尼迪航天中心	hangr neix dikh hongx tinj zungj samj
-肯雅	hangr ngaaq
 啃咬	hangr ngaauq
 肯普索恩	hangr pour sok yanj
 啃噬	hangr saih
@@ -87488,11 +87358,9 @@ faakhfaakr聲	faakh faakr sengj
 合共	haph gungh
 合股	haph gur
 合股綫	haph gur sin
-俠客	haaph haak
 磕磕	haph haph
 磕磕巴巴	haph haph baaj baaj
 磕磕絆絆	haph haph bunh bunh
-俠氣	haaph hei
 合氣道	haph hei douh
 合吃族	haph hek zukh
 合憲性	haph hin sing
@@ -87579,7 +87447,6 @@ faakhfaakr聲	faakh faakr sengj
 合爲	haph waix
 合一	haph yatj
 合意	haph yi
-俠義	haaph yih
 合義複詞	haph yih fukj cix
 合影	haph yingr
 合營	haph yingx
@@ -89014,7 +88881,6 @@ faakhfaakr聲	faakh faakr sengj
 汽水	hei seoir
 戲水	hei seoir
 汽水車	hei seoir cej
-氣順	hei seonh
 氣色	hei sikj
 氣息	hei sikj
 憩息處	hei sikj cv
@@ -91796,7 +91662,6 @@ faakhfaakr聲	faakh faakr sengj
 看高	hon gouj
 漢高祖	hon gouj zour
 漢高祖劉邦	hon gouj zour laux bongj
-行貨	hongr fo
 慷慨	hongr koi
 慷慨陳詞	hongr koi canx cix
 慷慨赴義	hongr koi fuh yih
@@ -93020,7 +92885,6 @@ faakhfaakr聲	faakh faakr sengj
 好事之徒	hou sih zij toux
 好色	hou sikj
 好食懶飛	hou sikh laanq feij
-好色	hou sikj
 好色之徒	hou sikj zij toux
 好勝	hou sing
 耗時	hou six
@@ -93429,7 +93293,6 @@ faakhfaakr聲	faakh faakr sengj
 空洞	hungj dungh
 空洞無物	hungj dungh moux math
 胸花	hungj faaj
-空泛	hungj faanh
 空泛	hungj faanh
 兇犯	hungj faanh
 空翻	hungj faanj
@@ -93845,7 +93708,6 @@ faakhfaakr聲	faakh faakr sengj
 紅豆杉醇	hungx daur caam seonx
 紅豆沙	hungx daur saaj
 紅地毯	hungx deih taanr
-紅地毯	hungx deih taanr
 紅頂綠鳩	hungx dengr lukh kauj
 紅頂鶥	hungx dengr meix
 紅的	hungx dikj
@@ -94126,7 +93988,6 @@ faakhfaakr聲	faakh faakr sengj
 紅色	hungx sikj
 紅色高棉	hungx sikj gouj minx
 紅色孃子軍	hungx sikj noengx zir gwanj
-紅色炸彈	hungx sikj zaa daanr
 紅綫	hungx sin
 雄性	hungx sing
 雄性不育	hungx sing batj yukh
@@ -94334,7 +94195,6 @@ faakhfaakr聲	faakh faakr sengj
 烜赫一時	hvnr haakj yatj six
 犬女	hvnr neoiq
 犬牙	hvnr ngaax
-犬牙交錯	hvnr ngaax gaauj co
 犬牙交錯	hvnr ngaax gaauj co
 犬夜叉	hvnr yeh caaj
 犬兒	hvnr yix
@@ -94822,7 +94682,6 @@ faakhfaakr聲	faakh faakr sengj
 妗婆	kamq pox
 妗母	kamq mouq
 妗母	kamq mour
-妗婆	kamq pox
 妗有	kamq yauq
 妗子	kamq zir
 𢫏波	kamr boj
@@ -95316,7 +95175,6 @@ faakhfaakr聲	faakh faakr sengj
 球員	kaux yvnx
 求雨	kaux yvq
 犰狳	kaux yvx
-求診	kaux canr
 求知	kaux zij
 求之不得	kaux zij batj dakj
 求知慾	kaux zij yukh
@@ -96559,7 +96417,6 @@ case	keij sir
 抗癌藥	kong ngaamx yoekh
 抗耐甲氧西林金葡菌	kong noih gaap yoengq saij lamx gamj poux kwanr
 擴編	kwong pinj
-慷慨	hongr koi
 擴散	kwong saan
 擴散周知	kwong saan zauj zij
 抗生素	kong sangj sou
@@ -96767,7 +96624,6 @@ case	keij sir
 邛崍山	kungx loix saanj
 邛崍山脈	kungx loix saanj makh
 邛崍市	kungx loix siq
-穹廬	kungx loux
 穹窿	kungx lungx
 窮民	kungx manx
 窮忙族	kungx mongx zukh
@@ -96977,7 +96833,6 @@ case	keij sir
 跨鶴西遊	kwaaj hokh saij yaux
 跨鶴揚州	kwaaj hokh yoengx zauj
 跨河	kwaaj hox
-跨步	kwaaj bouh
 誇稱	kwaaj cingj
 誇大	kwaaj daaih
 誇大其詞	kwaaj daaih keix cix
@@ -97001,7 +96856,6 @@ case	keij sir
 誇讚	kwaaj zaan
 誇張	kwaaj zoengj
 誇獎	kwaaj zoengr
-跨欄	kwaaj laanx
 跨欄比賽	kwaaj laanx beir coi
 跨文化	kwaaj manx faa
 跨網	kwaaj mongq
@@ -97013,13 +96867,11 @@ case	keij sir
 框子	kwaangj zir
 逛逛	gwaangh gwaangh
 跨年	kwaaj ninx
-跨年度	kwaaj ninx douh
 跨平台	kwaaj pingx toix
 侉子	kwaar zir
 跨綫橋	kwaaj sin kiux
 跨躍	kwaaj yoekh
 跨語言	kwaaj yvq yinx
-跨越	kwaaj yvth
 跨越式	kwaaj yvth sikj
 跨洲	kwaaj zauj
 跨接器	kwaaj zip hei
@@ -97145,7 +96997,6 @@ case	keij sir
 困乏	kwan fath
 窘況	kwan fong
 困苦	kwan fur
-睏覺	kwan gaau
 窘急	kwan gapj
 纊嚫	kwang canj
 纊跌	kwang dit
@@ -97241,15 +97092,10 @@ case	keij sir
 羣架	kwanx gaa
 羣居	kwanx geoij
 羣件	kwanx ginh
-裙腳妹	kwanx goek muih
-裙腳妹	kwanx goek muij
-裙腳仔	kwanx goek zair
-裙褂	kwanx gwaa
 羣猴猴族	kwanx haux haux zukh
 羣起而攻之	kwanx heir yix gungj zij
 羣雄	kwanx hungx
 羣雄逐鹿	kwanx hungx zukh lukr
-裙褂	kwanx kwaar
 裙拉褲甩	kwanx laaij fu latj
 裙甩褲甩	kwanx latj fu latj
 羣裏	kwanx leoiq
@@ -97319,10 +97165,8 @@ case	keij sir
 礦場	kwong coengx
 礦藏	kwong congx
 礦牀	kwong congx
-擴充	kwong cungj
 礦泉	kwong cvnx
 礦泉水	kwong cvnx seoir
-擴大	kwong daaih
 擴大化	kwong daaih faa
 擴大再生產	kwong daaih zoi sangj caanr
 曠達	kwong daath
@@ -97333,7 +97177,6 @@ case	keij sir
 曠課	kwong fo
 曠夫	kwong fuj
 擴闊	kwong fut
-擴建	kwong gin
 曠工	kwong gungj
 礦工	kwong gungj
 曠古	kwong gur
@@ -97341,7 +97184,6 @@ case	keij sir
 曠古未聞	kwong gur meih manx
 曠古未有	kwong gur meih yauq
 曠古爍今	kwong gur soek gamj
-擴軍	kwong gwanj
 礦坑	kwong haangj
 擴胸器	kwong hungj hei
 擴孔	kwong hungr
@@ -97355,10 +97197,7 @@ case	keij sir
 曠渺	kwong miuq
 礦務局	kwong mouh gukh
 礦難	kwong naanh
-擴編	kwong pinj
-擴散	kwong saan
 礦山	kwong saanj
-擴散周知	kwong saan zauj zij
 曠世	kwong sai
 礦石	kwong sekh
 礦水	kwong seoir
@@ -97413,7 +97252,6 @@ case	keij sir
 狂熱	kwongx yith
 狂恣	kwongx zi
 狂戰士	kwongx zin sih
-擴音	kwong yamj
 擴音機	kwong yamj geij
 擴音器	kwong yamj hei
 擴音喇叭	kwong yamj laa baaj
@@ -97429,9 +97267,6 @@ case	keij sir
 礦井	kwong zengr
 礦脂	kwong zij
 曠職	kwong zikj
-擴展	kwong zinr
-擴展塢	kwong zinr wuj
-擴張	kwong zoengj
 礦主	kwong zvr
 喇叭	laa baaj
 喇叭花	laa baaj faaj
@@ -98036,7 +97871,6 @@ case	keij sir
 冷靜	laangq zingh
 冷靜期	laangq zingh keix
 冷戰以後	laangq zin yiq hauh
-冷天	laangq tinj
 爛湴	laanh baanh
 爛茶渣	laanh caax zaaj
 爛菜園	laanh coi yvnx
@@ -98271,7 +98105,6 @@ case	keij sir
 闌遺	laanx waix
 蘭因絮果	laanx yanj seoiq gwor
 闌入	laanx yaph
-𢦂有寶	laanr yauq bour
 蘭若	laanx yeq
 蘭言	laanx yinx
 攔腰	laanx yiuj
@@ -98283,10 +98116,8 @@ case	keij sir
 蘭州市	laanx zauj siq
 蘭鄭長管道	laanx zengh coengx gunr douh
 蘭鄭長成品油管道	laanx zengh coengx singx banr yaux gunr douh
-𢦂正經	laanr zing gingj
 攔截	laanx zith
 蘭章	laanx zoengj
-𢦂在行	laanr zoih hongx
 攔阻	laanx zor
 攔住	laanx zvh
 攔住我	laanx zvh ngoq
@@ -98814,21 +98645,16 @@ case	keij sir
 勒緊	lakh ganr
 勒緊褲帶	lakh ganr fu daai
 勒緊褲帶	lakh ganr fu daair
-勒緊褲頭	lakh ganr fu taux
-肋骨	laakh gwatj
 勒哈費爾	lakh haaj fai yiq
 勒勒車	lakh lakh cej
-勒令	lakh lingh
 勒馬	lakh maaq
 勒龐	lakh pongx
 叻沙	lakh saaj
-勒索	lakh saak
 勒殺	lakh saat
 勒實褲頭帶	lakh sath fu taux daair
 勒死	lakh seir
 勒斯波斯	lakh sij boj sij
 勒斯波斯島	lakh sij boj sij dour
-勒索	lakh sok
 勒索罪	lakh sok zeoih
 勒贖	lakh sukh
 勒威耶	lakh waij yex
@@ -99353,8 +99179,6 @@ case	keij sir
 褸裙	lauj kwanx
 褸口褸面	lauj haur lauj minh
 嬲好定笑好	lauj hour dingh siu hour
-褸裙	lauj kwanr
-褸裙	lauj kwanx
 褸尾	lauj meij
 褸𩬎妹	lauj yamj muir
 褸丘	lauj yauj
@@ -102444,7 +102268,6 @@ case	keij sir
 兩個中國	loengq go zungj gwok
 兩公婆	loengq gungj por
 兩公婆見鬼唔係你就係我	loengq gungj por ging wair mx haih neiq zauh haih ngoq
-兩公婆	loengq gungj pox
 兩公婆見鬼	loengq gungj pox ging wair
 兩公孫	loengq gungj svnj
 兩國	loengq gwok
@@ -104967,10 +104790,6 @@ case	keij sir
 碌杉	lukj caam
 碌𨳍	lukj cath
 轆大眼	lukj daaih ngaanq
-轆地	lukj deih
-轆地沙	lukj deih saaj
-轆地	lukj deir
-轆地沙	lukj deir saaj
 碌碡	lukj dukh
 碌架牀	lukj gaar congx
 碌結	lukj gith
@@ -105373,7 +105192,6 @@ case	keij sir
 亂碼	lvnh maaq
 亂麻	lvnh maax
 亂民	lvnh manx
-亂諗嘢	lvnh namr yeq
 亂噏	lvnh ngapj
 亂噏嘢	lvnh ngapj yeq
 亂跑	lvnh paaur
@@ -105546,7 +105364,6 @@ case	keij sir
 聯航	lvnx hongx
 聯號	lvnx houh
 灤河	lvnx hox
-聯羣結隊	lvnx kwanx git deoih
 聯立方程	lvnx laaph fongj cingx
 聯絡	lvnx lok
 聯絡簿	lvnx lok bour
@@ -105619,7 +105436,6 @@ case	keij sir
 劣績斑斑	lvth zikj baanj baanj
 劣勢	lvth sai
 劣性	lvth sing
-劣質	lvth zatj
 捋袖子	lvt zauh zir
 劣跡	lvth zikj
 劣跡斑斑	lvth zikj baanj baanj
@@ -106975,8 +106791,6 @@ case	keij sir
 抹身	maat sanj
 抹手	maat saur
 抹檯	maat toir
-抹檯布	maat toir bou
-抹檯布	maat toix bou
 抹一額汗	maat yatj ngaakh honh
 抹油	maat yaux
 抹咗一額汗	maat zor yatj ngaakh honh
@@ -107196,7 +107010,6 @@ case	keij sir
 麻陽	maax yoengx
 麻陽苗族自治縣	maax yoengx miux zukh zih zih yvnh
 麻陽縣	maax yoengx yvnh
-麻疹	maax canr
 麻州	maax zauj
 麻醉	maax zeoi
 麻醉學	maax zeoi hokh
@@ -107417,7 +107230,6 @@ case	keij sir
 麥德蒙	makh dakj mungx
 麥兜	makh dauj
 麥兜菠蘿油王子	makh dauj boj lox yaux wongx zir
-麥豆	makh daur
 墨斗	makh daur
 驀地	makh deih
 驀地裏	makh deih leoiq
@@ -109411,7 +109223,6 @@ case	keij sir
 冥鏹	mingq koengq
 銘文	mingq manx
 冥冥	mingq mingq
-冥冥之中	mingq mingq zij zungj
 冥冥中	mingq mingq zungj
 溟溟	mingq mingx
 溟漭	mingq mongq
@@ -109445,7 +109256,6 @@ case	keij sir
 名不正言不順	mingx batj zing yinx batj seonh
 名不正則言不順	mingx batj zing zakj yinx batj seonh
 明辨	mingx binh
-明辨是非	mingx binh sih feij
 名錶	mingx biuj
 明報	mingx bou
 名冊	mingx caak
@@ -112147,7 +111957,6 @@ case	keij sir
 模態	moux taai
 無他	moux taaj
 毛毯	moux taanr
-毛毯	moux taanr
 無睇	moux tair
 無題	moux taix
 無頭東宮	moux taux dungj gungj
@@ -112913,12 +112722,10 @@ case	keij sir
 懵佬	mungr lour
 懵懵閉	mungr mungr bai
 懵懵地	mungr mungr deir
-懵撚	mungr lanr
 懵䒏䒏	mungr sangx sangx
 懵神三星	mungr sanx saamj singj
 懵盛盛	mungr singh singh
 懵上心口	mungr soengq samj haur
-懵然	mungr yinx
 懵仔	mungr zair
 懵仔簿	mungr zair bour
 懵仔丸	mungr zair yvnr
@@ -113284,7 +113091,6 @@ case	keij sir
 門源	munx yvnx
 門源回族自治縣	munx yvnx wuix zukh zih zih yvnh
 門源縣	munx yvnx yvnh
-門診	munx canr
 門墊	munx zin
 門子	munx zir
 門捷列夫	munx zith lith fuj
@@ -114026,7 +113832,6 @@ case	keij sir
 唔鍾意	mx zungj yi
 唔中用	mx zungj yungh
 唔轉	mx zvnr
-唔知米價	mx zij maiq gaa
 奶奶	naaij naaij
 奶爸	naaiq baaj
 奶品	naaiq banr
@@ -115050,16 +114855,13 @@ case	keij sir
 𣲷黐黐	naph cij cij
 𣲷稱稱	naph cing cing
 𣲷口	naph haur
-納米比亞	naaph maiq beir aa
 𣲷𣲷炩	naph naph ling
 𣲷懦	naph noh
 𣲷懦懦	naph noh noh
 𣲷手𣲷腳	naph saur naph goek
-粒白細胞	napj baakh sai baauj
 凹版	napj baanr
 凹槽	napj coux
 凹處	napj cv
-凹凸	napj dath
 凹凸不平	napj dath batj pingx
 凹凸鏡	napj dath geng
 凹凸印	napj dath yan
@@ -115073,38 +114875,25 @@ case	keij sir
 凹洞	napj dungh
 粒花	napj faaj
 凹鏡	napj geng
-粒徑	napj ging
 凹陷	napj haamh
 凹坑	napj haangj
 凹陷	napj hamh
 凹痕	napj hanx
 凹紋	napj manx
 凹面鏡	napj minh geng
-粒粒	napj napj
 凹凹凸凸	napj napj dath dath
 粒粒皆辛苦	napj napj gaaij sanj fur
 凹岸	napj ngonh
 凹朴皮	napj pok peix
-粒細胞	napj sai baauj
 粒臣	napj sanr
 粒神	napj sanx
-粒聲唔出	napj sengj mx ceotj
 凹綫	napj sin
-粒聲都唔出	napj singj douj mx ceotj
 凹透鏡	napj tau geng
 凹位	napj wair
 凹入	napj yaph
 凹形	napj yingx
 凹進	napj zeon
-粒子	napj zir
-粒子束	napj zir cukj
-粒子加速器	napj zir gaaj cukj hei
-粒子流	napj zir laux
-粒子物理	napj zir math leiq
-粒子物理學	napj zir math leiq hokh
-粒狀	napj zongh
 凹咗	napj zor
-粒鐘	napj zungj
 腬喉	nauh haux
 腬市	nauh siq
 嬲霸霸	nauj baa baa
@@ -116160,7 +115949,6 @@ case	keij sir
 眼矋矋	ngaanq laih laih
 眼利	ngaanq leih
 眼淚	ngaanq leoih
-眼淚水	ngaanq leoih seoir
 眼淚橫流	ngaanq leoih waangx laux
 眼淚汪汪	ngaanq leoih wongj wongj
 眼裏	ngaanq leoiq
@@ -116420,8 +116208,6 @@ case	keij sir
 扤牙	ngaath ngaax
 毆幾多棍	aau geir doj gwan
 毆幾多碌	aau geir doj lukj
-詏頸	aau gengr
-詏撬	aau giuh
 𢯎講	ngaauj gongr
 𢯎痕	ngaauj hanx
 𢯎撈	ngaauj louj
@@ -116798,7 +116584,6 @@ case	keij sir
 䟴䟴板	ngan ngan baanr
 䟴䟴腳	ngan ngan goek
 䟴䟴下	ngan ngan haaq
-眼肚	ngaanq touq
 銀包	nganr baauj
 銀仙	nganr sinj
 銀仔	nganr zair
@@ -117054,7 +116839,6 @@ case	keij sir
 牛軛	ngaux aak
 牛軛	ngaux aakj
 牛白腩	ngaux baakh naamq
-牛百葉	ngaux baak yiph
 牛板筋	ngaux baanr ganj
 牛鼻子	ngaux beih zir
 牛屄	ngaux beij
@@ -118659,7 +118443,6 @@ case	keij sir
 捻乾	ninr gonj
 捻軍	ninr gwanj
 捻爛咗	ninr laanh zor
-撚手小菜	nanr saur siur coi
 捻死	ninr seir
 年班	ninx baanj
 年表	ninx biur
@@ -121032,7 +120815,6 @@ party	paaj tix
 扳子	paanj zir
 扳指兒	paanj zir yix
 攀折	paanj zit
-頒獎	baanj zoengr
 盼睞	paan loih
 盼望	paan mongh
 盼星星盼月亮	paan singj singj paan yvth loengh
@@ -122548,7 +122330,6 @@ party	paaj tix
 片時	pin six
 遍體	pin tair
 遍體鱗傷	pin tair leonx soengj
-片糖	pin tongx
 騙徒	pin toux
 駢肩	pinx ginj
 骿骨	pinx gwatj
@@ -122857,7 +122638,6 @@ party	paaj tix
 旁聽	pongx tengj
 旁聽	pongx ting
 旁聽	pongx tingj
-滂沱	pongx tox
 徬徨	pongx wongx
 旁人	pongx yanx
 龐然	pongx yinx
@@ -122968,7 +122748,6 @@ party	paaj tix
 泡泡紗	pouq pouq saaj
 泡泡糖	pouq pouq tongr
 抱抱團	pouq pouq tvnx
-泡泡浴	pouq pouq yukh
 泡泡浴露	pouq pouq yukh louh
 抱抱裝	pouq pouq zongj
 抱薪救火	pouq sanj gau for
@@ -123636,14 +123415,8 @@ party	paaj tix
 拚䠋	pun peq
 拚䠋嚟	pun peq laix
 判賠	pun puix
-拚爛	pun laanh
-拚爛	pun laanr
-拚命	pun mengh
-拚命	pun mingh
-拚䠋	pun peq
 拚死	pun seir
 拚死無大害	pun seir moux daaih hoih
-拚死	pun seir
 判死刑	pun seir yingx
 判死罪	pun seir zeoih
 泮水	bunh seoir
@@ -123960,7 +123733,6 @@ party	paaj tix
 沙門菌	saaj munx kwanr
 沙門氏菌	saaj munx sih kwanr
 沙那	saaj naaq
-沙粒	saaj napj
 沙彌	saaj neix
 砂巖	saaj ngaamx
 沙眼	saaj ngaanq
@@ -124273,7 +124045,6 @@ party	paaj tix
 三角巾	saamj gok ganj
 三角肌	saamj gok geij
 三角關係	saamj gok gwaanj haih
-三角函數	saamj gok haamx sou
 三角學	saamj gok hokh
 三角恐龍	saamj gok hungr lungx
 三角旗	saamj gok keix
@@ -124631,7 +124402,6 @@ party	paaj tix
 三足烏	saamj zukj wuj
 三中全會	saamj zungj cvnx wuir
 三思	saamj sij
-三思而行	saamj sij yix hangx
 三思而後行	saamj sij yix hauh hangx
 傘兵	saan bingj
 散播	saan bo
@@ -126769,7 +126539,6 @@ party	paaj tix
 心胸	samj hungj
 心胸狹隘	samj hungj haaph aai
 心胸狹窄	samj hungj haaph zaak
-心胸狹窄	samj hungj haaph zaak
 心胸開闊	samj hungj hoij fut
 心孔	samj hungr
 深紅	samj hungx
@@ -127767,7 +127536,6 @@ party	paaj tix
 新區	sanj keoij
 身強力壯	sanj koengx likh zong
 申曲	sanj kukj
-新𡃈𡃈	sanj kwaakj kwaakj
 伸懶腰	sanj laanq yiuj
 辛辣	sanj laath
 新嚟	sanj laix
@@ -128211,7 +127979,6 @@ party	paaj tix
 神經病學	sanx gingj bengh hokh
 神經纖維	sanx gingj cimj waix
 神經纖維瘤	sanx gingj cimj waix laux
-神經錯亂	sanx gingj co lvnh
 神經錯亂	sanx gingj co lvnh
 神經大條	sanx gingj daaih tiux
 神經突	sanx gingj dath
@@ -129724,7 +129491,6 @@ party	paaj tix
 手電筒	saur dinh tungr
 手多	saur doj
 手袋	saur doir
-手多	saur doj
 手多多	saur doj doj
 首當其衝	saur dongj keix cungj
 首度	saur douh
@@ -129853,7 +129619,6 @@ party	paaj tix
 手襪	saur math
 手紋	saur manx
 手民之誤	saur manx zij ngh
-手襪	saur math
 手尾長	saur meij coengx
 手尾	saur meiq
 首尾	saur meiq
@@ -130789,7 +130554,6 @@ party	paaj tix
 石壆	sekh bok
 石砌	sekh cai
 石沉大海	sekh camx daaih hoir
-石春	sekh ceonj
 石青	sekh cingj
 石阡	sekh cinj
 石阡縣	sekh cinj yvnh
@@ -131335,7 +131099,6 @@ party	paaj tix
 睢寧縣	seoij ningx yvnh
 綏寧縣	seoij ningx yvnh
 衰牌	seoij paair
-衰婆	seoij por
 衰晒	seoij saai
 衰神	seoij sanx
 衰十一	seoij saph yatj
@@ -132571,8 +132334,6 @@ party	paaj tix
 蛇蠍心腸	sex kit samj coengx
 闍黎	sex laix
 蛇喱眼	sex leij ngaanq
-蛇喱眼	sex leij ngaanq
-蛇喱眼	sex leir ngaanq
 闍梨	sex leix
 蛇佬	sex lour
 蛇綠巖	sex lukh ngaamx
@@ -134548,7 +134309,6 @@ party	paaj tix
 聲明	singj mingx
 聲名大噪	singj mingx daaih cou
 聲名大震	singj mingx daaih zan
-聲名大噪	singj mingx daaih cou
 聲名狼藉	singj mingx longx zikh
 聲明書	singj mingx svj
 聲名遠播	singj mingx yvnq bo
@@ -137600,7 +137360,6 @@ party	paaj tix
 雙辮八色鶇	soengj binj baat sikj dungj
 雙邊貿易	soengj binj mauh yikh
 雙邊會談	soengj binj wuih taamx
-雙邊會談	soengj binj wuih taamx
 傷別	soengj bith
 相別	soengj bith
 相別多年	soengj bith doj ninx
@@ -139647,12 +139406,10 @@ party	paaj tix
 縮小模型	sukj siur moux yingx
 縮時攝影	sukj six sip yingr
 鷫鸘	sukj soengj
-縮數	sukj sou
 叔叔	sukj sukj
 肅貪	sukj taamj
 宿題	sukj taix
 縮頭	sukj taux
-縮頭龜	sukj taux gwaij
 縮頭縮尾	sukj taux sukj meiq
 縮頭縮腦	sukj taux sukj nouq
 縮頭烏龜	sukj taux wuj gwaij
@@ -140791,7 +140548,6 @@ party	paaj tix
 説話算數	svt waah svn sou
 説話算話	svt waah svn waah
 説話要算數	svt waah yiu svn sou
-𠽌𠽌聲	svth svtr sengj
 雪人	svt yanx
 説一不二	svt yatj batj yih
 雪油	svt yaur
@@ -141102,7 +140858,6 @@ party	paaj tix
 太陽花	taai yoengx faaj
 太陽輻射	taai yoengx fukj seh
 太陽風	taai yoengx fungj
-太陽鏡	taai yoengx geng
 太陽谷	taai yoengx gukj
 太陽公司	taai yoengx gungj sij
 太陽光	taai yoengx gwongj
@@ -141867,7 +141622,6 @@ party	paaj tix
 睇埋	tair maaix
 睇脈	tair makh
 體貌	tair maauh
-睇脈	tair makh
 體味	tair meih
 睇咩	tair mej
 睇明	tair mingx
@@ -142508,7 +142262,6 @@ party	paaj tix
 頭大	taux daaih
 頭大冇腦	taux daaih mouq nouq
 頭戴式耳機	taux daai sikj yiq geij
-頭大冇腦	taux daaih mouq nouq
 頭啖湯	taux daamh tongj
 投彈	taux daanr
 投遞	taux daih
@@ -143223,7 +142976,6 @@ party	paaj tix
 甜酒	timx zaur
 甜酒釀	timx zaur yoengh
 甜津津	timx zeonj zeonj
-恬靜	timx zingh
 甜椒	timx ziuj
 甜粥	timx zukj
 聽取	ting ceoir
@@ -144766,7 +144518,6 @@ party	paaj tix
 托柒唔識轉膊	tok cath mx sikj zvn bok
 托辭	tok cix
 托大腳	tok daaih goek
-托大腳	tok daaih goek
 托特	tok dakh
 拓荒	tok fongj
 拓荒者	tok fongj zer
@@ -144976,12 +144727,9 @@ party	paaj tix
 糖冬瓜	tongx dungj gwaaj
 堂費	tongx fai
 糖粉	tongx fanr
-堂課	tongx fo
 堂房	tongx fongx
 唐家山	tongx gaaj saanj
 唐家璇	tongx gaaj svnx
-堂家姐	tongx gaaj zej
-堂家姐	tongx gaaj zer
 糖膠樹	tongx gaauj svh
 糖苷	tongx gamj
 堂吉訶德	tongx gatj hoj dakj
@@ -145020,8 +144768,6 @@ party	paaj tix
 唐河縣	tongx hox yvnh
 唐卡	tongx kaaj
 唐芹	tongx kanr
-唐樓	tongx laur
-唐樓	tongx laux
 棠梨	tongx leix
 糖類	tongx leoih
 糖寮	tongx liux
@@ -145131,7 +144877,6 @@ party	paaj tix
 唐招提寺	tongx ziuj taix zih
 糖漿	tongx zoengj
 堂座	tongx zoh
-唐裝	tongx zongj
 唐裝衫	tongx zongj saamj
 唐中宗	tongx zungj zungj
 燙衣	tong yij
@@ -146168,7 +145913,6 @@ party	paaj tix
 統購	tungr kau
 統購派購	tungr kau paai kau
 統購統銷	tungr kau tungr siuj
-筒裙	tungr kwanx
 𧚔裙	tungr kwanx
 統攬	tungr laamq
 捅婁子	tungr laux zir
@@ -146627,7 +146371,6 @@ party	paaj tix
 斷綫風箏	tvnq sin fungj zangj
 斷市	tvnq siq
 斷斷續續	tvnq tvnq zukh zukh
-斷魂	tvnq wanx
 斷癮	tvnq yanq
 斷正	tvnq zeng
 斷掌	tvnq zoengr
@@ -146985,7 +146728,6 @@ party	paaj tix
 壞份子	waaih fanh zir
 壞家伙	waaih gaaj for
 壞結局	waaih git gukh
-壞鬼	waaih gwair
 壞骨	waaih gwatj
 壞過凱婷	waaih gwo hoir tingx
 壞血病	waaih hvt bengh
@@ -147175,7 +146917,6 @@ party	paaj tix
 畫虎類犬	waakh fur leoih hvnr
 劃價	waakh gaa
 畫公仔	waakh gungj zair
-畫公仔唔使畫出腸	waakh gungj zair mx sair waakh ceotj coengr
 畫公仔唔使畫出腸	waakh gungj zair mx sair waakh ceotj coengr
 畫公仔畫出腸	waakh gungj zair waakh ceotj coengr
 畫公仔畫出腸	waakh gungj zair waakh ceotj coengx
@@ -147507,7 +147248,6 @@ party	paaj tix
 玩馬騮	waanr maaq laux
 玩麻雀	waanr maax zoekr
 玩命	waanr mengh
-玩唔起	waanr mx heir
 玩唔起	waanr mx heir
 玩唔玩	waanr mx waanr
 玩泥沙	waanr naix saaj
@@ -149140,7 +148880,6 @@ party	paaj tix
 搵鬼幫手	wanr gwair bongj saur
 搵鬼買	wanr gwair maaiq
 蘊涵	wanr haamx
-蘊含	wanr hamx
 穩拫	wanr hangx
 穩拫態	wanr hangx taai
 穩厚	wanr hauq
@@ -149397,7 +149136,6 @@ party	paaj tix
 雲雀	wanx zoek
 雲珠	wanx zvj
 韞入黑房	wan yaph hakj fongr
-醖釀	wanq yoengh
 韞住	wan zvh
 鶻突	wath dath
 屈㞘	wath dokj
@@ -149821,7 +149559,6 @@ warrant	woj lanr
 旺市	wongh siq
 旺月	wongh yvth
 旺月	wongh yvtr
-旺場	wongh coengx
 旺鐘	wongh zungj
 汪清	wongj cingj
 汪清縣	wongj cingj yvnh
@@ -149859,7 +149596,6 @@ warrant	woj lanr
 往事如風	wongq sih yvx fungj
 往昔	wongq sikj
 往時	wongq sir
-往時	wongq six
 往常	wongq soengx
 往灣洲	wongq waanj zauj
 往還	wongq waanx
@@ -150883,8 +150619,6 @@ warrant	woj lanr
 會仔	wuir zair
 會籍	wuir zikh
 會眾	wuir zung
-會彈唔會唱	wuiq taanx mx wuiq coeng
-會同	wuih tungx
 會同縣	wuih tungx yvnh
 回拜	wuix baai
 回稟	wuix banr
@@ -151519,7 +151253,6 @@ warrant	woj lanr
 活版	wuth baanr
 活版印刷	wuth baanr yan caat
 活靶子	wuth baar zir
-活蹦亂跳	wuth bangj lvnh tiu
 活不下去	wuth batj haah heoi
 活便	wuth binh
 活報劇	wuth bou kekh
@@ -152713,7 +152446,6 @@ warrant	woj lanr
 隱名	yanr mingx
 隱名埋姓	yanr mingx maaix sing
 隱滅	yanr mith
-忍無可忍	yanr moux hor yanr
 隱瞞	yanr munx
 隱沒	yanr muth
 忍唔到	yanr mx dour
@@ -152729,7 +152461,6 @@ warrant	woj lanr
 隱身草	yanr sanj cour
 隱身草兒	yanr sanj cour yix
 隱身術	yanr sanj seoth
-忍受	yanr sauh
 隱修	yanr sauj
 隱修士	yanr sauj sih
 隱修院	yanr sauj yvnr
@@ -153333,7 +153064,6 @@ warrant	woj lanr
 入秋	yaph cauj
 入情入理	yaph cingx yaph leiq
 入錢	yaph cinr
-入錢	yaph cinx
 入廁所	yaph ci sor
 入場	yaph coengx
 入場費	yaph coengx fai
@@ -153466,7 +153196,6 @@ warrant	woj lanr
 入籍	yaph zikh
 入席	yaph zikh
 入則	yaph zikj
-入錢	yaph cinr
 入紙	yaph zir
 入座	yaph zoh
 入咗	yaph zor
@@ -153477,7 +153206,6 @@ warrant	woj lanr
 翕動	yapj dungh
 泣諫	yapj gaan
 挹掬	yapj gukj
-翕眼	yapj ngaanq
 翕眼	yapj ngaanq
 翕手	yapj saur
 熠爍	yapj soek
@@ -154277,8 +154005,6 @@ warrant	woj lanr
 一勞永逸	yatj loux wingq yath
 一籮筐	yatj lox hongj
 一籮籮	yatj lox lox
-一碌杉	yatj lukh caam
-一碌杉	yatj lukj caam
 一碌鳩	yatj lukj gauj
 一碌木	yatj lukj mukh
 一碌木噉	yatj lukj mukh gamr
@@ -154446,7 +154172,6 @@ warrant	woj lanr
 一審	yatj samr
 一生	yatj sangj
 一生受用不盡	yatj sangj sauh yungh batj zeonh
-一生人	yatj sangj yanx
 一生一世	yatj sangj yatj sai
 一身	yatj sanj
 一身汗	yatj sanj honh
@@ -154611,7 +154336,6 @@ warrant	woj lanr
 一鑊泡	yatj wokh pouq
 一鑊熟	yatj wokh sukh
 一鑊粥	yatj wokh zukj
-一鑊泡	yatj wokh pouq
 一往	yatj wongq
 一往情深	yatj wongq cingx samj
 一往無前	yatj wongq moux cinx
@@ -155751,7 +155475,6 @@ warrant	woj lanr
 有選擧權	yauq svnr geoir kvnx
 有説有笑	yauq svt yauq siu
 有彈有讚	yauq taanx yauq zaan
-有睇頭	yauq tair taux
 有蹄動物	yauq taix dungh math
 有頭髮邊個想做鬎鬁	yauq taux faat binj go soengr zouh laat leij
 有頭冇尾	yauq taux mouq meiq
@@ -156680,7 +156403,6 @@ warrant	woj lanr
 野營	yeq yingx
 野營隊	yeq yingx deoih
 冶容	yeq yungx
-野仔	yeq zair
 惹爭議	yeq zangj yiq
 野戰	yeq zin
 野戰部隊	yeq zin bouh deoih
@@ -159901,7 +159623,6 @@ warrant	woj lanr
 倚仗	yir zoengh
 倚重	yir zungh
 意思	yi si
-意思	yi sij
 意識	yi sikj
 意識到	yi sikj dour
 意識流	yi sikj laux
@@ -163064,7 +162785,6 @@ warrant	woj lanr
 懸崖	yvnx ngaaix
 懸崖峭壁	yvnx ngaaix ciu bikj
 懸崖勒馬	yvnx ngaaix lakh maaq
-懸崖勒馬	yvnx ngaaix lakh maaq
 懸崖絕壁	yvnx ngaaix zvth bikj
 懸巖	yvnx ngaamx
 圓眼	yvnx ngaanq
@@ -164471,7 +164191,6 @@ warrant	woj lanr
 齋期	zaaij keix
 齋滷味	zaaij louq meih
 齋滷味	zaaij louq meir
-齋噏	zaaij ngapj
 齋婆	zaaij por
 齋鋪	zaaij pou
 齋色	zaaij sikj
@@ -166315,7 +166034,6 @@ warrant	woj lanr
 鬒髮	zanr faat
 軫方	canr fongj
 軫宿	canr sau
-診所	canr sor
 軫宿	canr sukj
 軫懷	canr waaix
 鎮山	zan saanj
@@ -167366,7 +167084,6 @@ warrant	woj lanr
 遮陽板	zej yoengx baanr
 遮陽傘	zej yoengx saan
 嗟怨	zej yvn
-車仔麪	cej zair minh
 遮仔會	zej zair wuih
 嗻嗻聲	zej zej sengj
 遮遮掩掩	zej zej yimr yimr
@@ -167687,7 +167404,6 @@ warrant	woj lanr
 罪性	zeoih sing
 罪成	zeoih singx
 聚酰亞胺	zeoih sinj aa onj
-聚酰亞胺	zeoih sinj aa onj
 聚酰胺	zeoih sinj onj
 序數	zeoih sou
 敍説	zeoih svt
@@ -167788,7 +167504,6 @@ warrant	woj lanr
 追趕	zeoij gonr
 椎骨	zeoij gwatj
 追光燈	zeoij gwongj dangj
-錐鞋	zeoij haaix
 追客	zeoij haak
 菹醢	zeoij hoir
 追購	zeoij kau
@@ -167838,16 +167553,13 @@ warrant	woj lanr
 追認	zeoij yingh
 錐形	zeoij yingx
 錐形瓶	zeoij yingx pingx
-錐耳	zeoij yiq
 追月	zeoij yvth
 追月	zeoij yvtr
 追債	zeoij zaai
-錐仔	zeoij zair
 追贈	zeoij zangh
 追敍	zeoij zeoih
 錐尖	zeoij zimj
 追荐	zeoij zin
-錐子	zeoij zir
 追截	zeoij zith
 追剿	zeoij ziur
 追贓	zeoij zongj
@@ -169522,7 +169234,6 @@ warrant	woj lanr
 直情徑行	zikh cingx ging hangx
 值情唔記得咗	zikh cingx mx gei dakj zor
 值錢	zikh cinr
-藉此	zikh cir
 藉詞	zikh cix
 直腸	zikh coengr
 直腸	zikh coengx
@@ -171717,7 +171428,6 @@ warrant	woj lanr
 只能	zir nangx
 子粒	zir napj
 子女	zir neoiq
-指壓	zir aat
 紫外	zir ngoih
 紫外光	zir ngoih gwongj
 紫外射綫	zir ngoih seh sin
@@ -173042,7 +172752,6 @@ warrant	woj lanr
 掌燈	zoengr dangj
 長點心眼	zoengr dimr samj ngaanq
 長房	zoengr fongx
-搶火	coengr for
 蔣介石	zoengr gaai sekh
 獎金	zoengr gamj
 長機	zoengr geij
@@ -173135,7 +172844,6 @@ warrant	woj lanr
 漲停板	zoeng tingx baanr
 帳戶	zoeng wuh
 賬戶	zoeng wuh
-長痛不如短痛	coengx tung batj yvx dvnr tung
 醬油	zoeng yaux
 仗義	zoeng yih
 悵然若失	zoeng yinx yoekh satj
@@ -173447,7 +173155,6 @@ warrant	woj lanr
 宰制	zoir zai
 崽子	zoir zir
 再三	zoi saamj
-再三	zoi saamj
 再三再四	zoi saamj zoi sei
 再世	zoi sai
 再審	zoi samr
@@ -173474,7 +173181,6 @@ warrant	woj lanr
 載運	zoi wanh
 再會	zoi wuih
 再活化假説	zoi wuth faa gaar svt
-財雄勢大	coix hungx sai daaih
 再也	zoi yaaq
 載人	zoi yanx
 載人軌道空間站	zoi yanx gwair douh hungj gaanj zaamh
@@ -173729,7 +173435,6 @@ warrant	woj lanr
 撞騙	zongh pin
 撞破	zongh po
 撞衫	zongh saamj
-撞手神	zongh saur sanx
 撞死	zongh seir
 撞死馬	zongh seir maaq
 撞死馬噉	zongh seir maaq gamr
@@ -174378,7 +174083,6 @@ warrant	woj lanr
 遭受	zouj sauh
 租稅	zouj seoi
 租船	zouj svnx
-糟蹋	zouj taap
 糟透	zouj tau
 遭瘟	zouj wanj
 租戶	zouj wuh
@@ -174732,7 +174436,6 @@ warrant	woj lanr
 築牆	zukj coengx
 粥廠	zukj congr
 捉錯用神	zukj co yungh sanx
-捉蟲	zukj cungx
 捉蟲入屎窟	zukj cungx yaph sir fatj
 觸處	zukj cv
 足大指	zukj daaih zir
@@ -174746,8 +174449,6 @@ warrant	woj lanr
 竹刀	zukj douj
 竹島	zukj dour
 捉到	zukj dour
-捉到鹿唔識脫角	zukj dour lukh mx sikj tvt gok
-捉到鹿唔識脫角	zukj dour lukr mx sikj tvt gok
 觸動	zukj dungh
 竹東	zukj dungj
 竹東鎮	zukj dungj zan
@@ -174763,7 +174464,6 @@ warrant	woj lanr
 祝福	zukj fukj
 祝福語	zukj fukj yvq
 屬格	zukj gaak
-捉姦	zukj gaanj
 捉姦在牀	zukj gaanj zoih congx
 竹簡	zukj gaanr
 燭架	zukj gaar
@@ -177661,21 +177361,16 @@ win	winj
 春光乍洩	ceonj gwongj zaa sit
 溜歌	liuj goj
 上莊	soengh zongj
-下莊	haah zongj
 golf	goj fur
 天昏地暗	tinj fanj deih ngam
 陣時	zanh six
 攀山	paanj saanj
 聽衰	teng seoij
 壞壞地	waaih waair deir
-意思	yi si
 風滿樓	fungj munq laux
 File	faaij lour
 海陸丰	hoir lukh fungj
 嗰陣時	go zanr sir
-緊要	ganr yiu
-兩公婆	loengq gungj por
-重要	zungh yiu
 尾關	meiq gwaanj
 獎池	zoengr cix
 投注額	taux zv ngaakr
@@ -177691,10 +177386,8 @@ File	faaij lour
 警惡懲奸	gingr ok cingx gaanj
 頸脊	gengr zek
 牛頸脊	ngaux gengr zek
-牛歡喜	ngaux funj heir
 牛閪	ngaux haij
 當造	dongj zou
-鹹酸菜	haamx svnj coi
 㷫㷫地	hing hingr deir
 港燦	gongr caanr
 返搓	faanj caaij
@@ -177702,28 +177395,17 @@ File	faaij lour
 阿Sir	aa soex
 屙屎	ngoj sir
 而家	yij gaaj
-指擬	zir yih
-而家	yij gaaj
-菲傭	feij yungx
-指擬	zir yih
-意識	yi sikj
 分裂	fanj lit
 乾淨	gonj zingh
 哎吔	air yaaq
 舞女	mouq neoiq
-往時	wongq sir
-意義	yi yih
-卜卜跳	bukh bukr tiu
 無字花	moux zih faaj
-需要	seoij yiu
 不枉	batj wongq
 家下	gaaj haar
 生兒育女	saangj yix yukh neoir
 油錢	yaur cir
-霎時間	saap six gaanj
 間歇性	gaan kit sing
 黃馬褂	wongx maaq gwaar
-陰毒	yamj dukh
 犯婦人	faanh fuq yanx
 巡按	ceonx ngon
 八府巡按	baat fur ceonx ngon
@@ -177734,19 +177416,16 @@ File	faaij lour
 坎坷	hamj hoj
 賣菜仔	maaih coi zair
 麗晶	laih zingj
-鍾意	zungj yi
 健牌	ginh paaix
 滅聲器	mith sengj hei
 塵世間	canx sai gaanj
 愛情	ngoi cingx
-介意	gaai yi
 愛河	ngoi hox
 後尾	hauj meij
 衣錦還鄉	yij gamr waanx hoengj
 署名	sv mengr
 卡啦OK	kaa laaj ouj keij
 聯絡	lvnx lokh
-浪得虛名	longh dakj heoij mingx
 移形換影	yix yingx wunh yingr
 鑄劍	zv gim
 寒鐵	honx tit
@@ -177755,7 +177434,6 @@ File	faaij lour
 簽字	cimj zir
 行刑	haangx yingx
 格殺勿論	gaak saat math leonx
-意思	yi sij
 經已	gingj yir
 安危	ngonj ngaix
 毒誓	dukh saih
@@ -177765,7 +177443,6 @@ File	faaij lour
 雀頭	zoekr taux
 愁眉苦面	saux meix fur minh
 伯虎	baak fur
-同牀異夢	tungx congx yih mungh
 賢良淑德	yinx loengx sukh dakj
 持家有度	cix gaaj yauq douh
 知書識禮	zij svj sikj laiq
@@ -177779,16 +177456,13 @@ File	faaij lour
 暗戀	ngam lvnr
 淫賊	yamx caakr
 腰間	iuj gaanj
-願意	yvnh yi
 丫鬟	ngaaj waanx
 恩重如山	yanj zungh yvx saanj
 嘅嘛	gej maa
 義無反悔	yih moux faanr fui
 十五胡	saph ngq wur
-花燈	faaj dangj
 字蝨	zih satj
 依家	yij gaaj
-響度	hoengr douh
 員外	yvnx ngoir
 茂利	mauh leir
 扠𢰸	caa woq
@@ -177817,7 +177491,6 @@ File	faaij lour
 委婉	wair wunr
 爛鮓	laanh zaar
 濟癲	zai dinj
-高僧	gouj zangj
 和聯勝	wox lvnx sing
 方唐镜	fongj tongx geng
 神秘感	sanx bei gamr
@@ -177855,11 +177528,9 @@ File	faaij lour
 盤絲洞	punx sij dungr
 修緣	sauj yvnx
 收完	sauj yvnx
-囉噃	lo bo
 土地	tour deir
 袋住	doih zvh
 加底	gaaj dair
-公婆	gungj por
 武狀元	mouq zongh yvnx
 兵器譜	bingj hei pour
 大D	daaih dir
@@ -177868,12 +177539,7 @@ File	faaij lour
 細種	sai zungr
 昆西	kwanj saij
 囉喎	lo wo
-加底	gaaj dair
-公婆	gungj por
-武狀元	mouq zongh yvnx
 殿試	dinh si
-誠意	singx yi
-新精武門	sanj zingj mouq munx
 掌法	zoengr faat
 朘朘	zoex zoej
 恃住	ciq zvh
@@ -177882,15 +177548,12 @@ File	faaij lour
 嫁咗	gaa zor
 警槍	gingr coengj
 荷里活	hox leiq wuth
-留意	laux yi
 囉𡁜	lo woq
 無酸紙	moux svnj zir
 唔嫁	mx gaa
 唔阻	mx zor
-唔只	mx zir
 唔止	mx zir
 喐得	yukj dakj
-唔喐得	mx yukj dakj
 手震	saur zan
 受咗	sauh zor
 死剷	seir caanr
@@ -177899,7 +177562,6 @@ File	faaij lour
 怡香院	yix hoengj yvnr
 至喎	zi wo
 捉咗	zukj zor
-兄弟姊妹	hingj daih zir muih
 叉住	caaj zvh
 插咗	caap zor
 光弼	gwongj bath
@@ -177915,9 +177577,7 @@ File	faaij lour
 發耳䂻	faat yiq zaangh
 耳䂻	yiq zaangh
 石峁	sekh maauq
-係啦	haih laaj
 構式	kau sikj
-奢華	cej waax
 嚦咕嚦咕	likj guj likj guh
 自來雀	zih loix zoekr
 古尼	gur neix
